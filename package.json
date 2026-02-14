@@ -1,0 +1,11 @@
+{
+  "name": "daily-ai-newsletter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "daily": "node scripts/run-daily.mjs",
+    "build": "node scripts/run-daily.mjs --no-push",
+    "validate": "node scripts/validate-output.mjs"
+  }
+}
