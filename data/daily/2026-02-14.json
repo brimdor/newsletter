@@ -1,12 +1,12 @@
 {
   "date": "2026-02-14",
-  "generatedAt": "2026-02-14T12:11:12.988Z",
+  "generatedAt": "2026-02-14T17:46:23.233Z",
   "timezone": "America/Chicago",
   "newsletterTitle": "Daily AI Newsletter",
   "run": {
     "workflow": "daily-newsletter",
-    "runId": "22017101689",
-    "commitSha": "ca5e4123cf657f057bda55c7d442f58449d07016"
+    "runId": "local",
+    "commitSha": "local"
   },
   "summary": {
     "top5Count": 5,
@@ -433,7 +433,7 @@
       "type": "rss",
       "status": "ok",
       "fetchedCount": 10,
-      "acceptedCount": 6
+      "acceptedCount": 7
     }
   ],
   "failures": []

@@ -26,12 +26,24 @@ export function renderHtml(model) {
       --line-strong:#cbd5e1;
       --accent:#1d4ed8;
       --accent-soft:#dbeafe;
+      --shadow:0 1px 2px rgba(17,24,39,.03);
       --radius:14px;
       --space-1:.5rem;
       --space-2:.75rem;
       --space-3:1rem;
       --space-4:1.25rem;
       --space-5:1.75rem;
+    }
+    :root[data-theme="dark"]{
+      --bg:#0b1220;
+      --surface:#101a2b;
+      --text:#e5e7eb;
+      --muted:#9ca3af;
+      --line:#334155;
+      --line-strong:#475569;
+      --accent:#93c5fd;
+      --accent-soft:#1e3a8a;
+      --shadow:0 1px 2px rgba(0,0,0,.45);
     }
     *{box-sizing:border-box}
     html,body{margin:0;padding:0}
@@ -61,6 +73,7 @@ export function renderHtml(model) {
       padding:var(--space-4);
       margin-bottom:var(--space-4);
     }
+    .header-row{display:flex;justify-content:space-between;gap:var(--space-3);align-items:flex-start;flex-wrap:wrap}
     h1{
       margin:0 0 var(--space-1);
       line-height:1.2;
@@ -68,6 +81,17 @@ export function renderHtml(model) {
       letter-spacing:-0.01em;
     }
     .stamp{margin:0;color:var(--muted);font-size:.95rem}
+    .theme-toggle{
+      border:1px solid var(--line-strong);
+      background:var(--surface);
+      color:var(--text);
+      border-radius:999px;
+      padding:.45rem .75rem;
+      font-size:.88rem;
+      cursor:pointer;
+      white-space:nowrap;
+    }
+    .theme-toggle:hover{border-color:var(--accent)}
     section{
       margin:var(--space-5) 0;
       scroll-margin-top:1rem;
@@ -78,58 +102,40 @@ export function renderHtml(model) {
       font-size:clamp(1.2rem,2.6vw,1.45rem);
       letter-spacing:-0.01em;
     }
-    .cards{
-      list-style:none;
-      margin:0;
-      padding:0;
-      display:grid;
-      gap:var(--space-3);
-    }
+    .cards{list-style:none;margin:0;padding:0;display:grid;gap:var(--space-3)}
     .card{
       background:var(--surface);
       padding:var(--space-3);
       border:1px solid var(--line);
       border-radius:var(--radius);
-      box-shadow:0 1px 2px rgba(17,24,39,.03);
+      box-shadow:var(--shadow);
     }
-    .card-link{
-      color:inherit;
-      text-decoration:none;
-    }
-    .card-link h3{
-      margin:.1rem 0 .55rem;
-      font-size:1.05rem;
-      line-height:1.35;
-      text-wrap:balance;
-    }
+    .card-link{color:inherit;text-decoration:none}
+    .card-link h3{margin:.1rem 0 .55rem;font-size:1.05rem;line-height:1.35;text-wrap:balance}
     .card-link:hover h3,
-    .card-link:focus-visible h3{
-      color:var(--accent);
-      text-decoration:underline;
-      text-underline-offset:2px;
-    }
-    .meta{
-      margin:0 0 var(--space-2);
-      color:var(--muted);
-      font-size:.88rem;
-    }
+    .card-link:focus-visible h3{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+    .meta{margin:0 0 var(--space-2);color:var(--muted);font-size:.88rem}
     .source{font-weight:600}
     .empty{color:var(--muted);font-style:italic;margin:0}
-    .sources-wrap{
-      background:var(--surface);
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      overflow:auto;
-    }
+    .sources-wrap{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:auto}
     table{width:100%;border-collapse:collapse;min-width:560px}
     th,td{padding:.65rem .7rem;border-bottom:1px solid var(--line);text-align:left;font-size:.92rem;vertical-align:top}
-    th{background:#f8fafc;font-weight:600}
+    th{background:color-mix(in oklab, var(--surface) 88%, var(--text));font-weight:600}
     tr:last-child td{border-bottom:0}
     a{color:var(--accent)}
-    a:focus-visible{
-      outline:3px solid var(--accent-soft);
-      outline-offset:2px;
-      border-radius:6px;
+    a:focus-visible, .theme-toggle:focus-visible{outline:3px solid var(--accent-soft);outline-offset:2px;border-radius:6px}
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]){
+        --bg:#0b1220;
+        --surface:#101a2b;
+        --text:#e5e7eb;
+        --muted:#9ca3af;
+        --line:#334155;
+        --line-strong:#475569;
+        --accent:#93c5fd;
+        --accent-soft:#1e3a8a;
+        --shadow:0 1px 2px rgba(0,0,0,.45);
+      }
     }
     @media (min-width:760px){
       main{padding:var(--space-5)}
@@ -141,8 +147,13 @@ export function renderHtml(model) {
   <a href="#content" class="skip-link">Skip to content</a>
   <main id="content">
     <header>
-      <h1>Daily AI Newsletter</h1>
-      <p class="stamp">Generated <time datetime="${escapeHtml(model.generatedAt)}">${escapeHtml(localDisplay(new Date(model.generatedAt), model.timezone))}</time> (${escapeHtml(model.timezone)})</p>
+      <div class="header-row">
+        <div>
+          <h1>Daily AI Newsletter</h1>
+          <p class="stamp">Generated <time datetime="${escapeHtml(model.generatedAt)}">${escapeHtml(localDisplay(new Date(model.generatedAt), model.timezone))}</time> (${escapeHtml(model.timezone)})</p>
+        </div>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light and dark theme" aria-pressed="false">Toggle theme</button>
+      </div>
     </header>
 
     <section aria-labelledby="top5-heading">
@@ -178,6 +189,40 @@ export function renderHtml(model) {
       </div>
     </section>
   </main>
+  <script>
+    (() => {
+      const root = document.documentElement;
+      const btn = document.getElementById('theme-toggle');
+      const key = 'newsletter-theme';
+
+      const setTheme = (theme, persist = true) => {
+        if (theme === 'light') root.setAttribute('data-theme', 'light');
+        else if (theme === 'dark') root.setAttribute('data-theme', 'dark');
+        else root.removeAttribute('data-theme');
+        if (persist) {
+          if (theme === 'system') localStorage.removeItem(key);
+          else localStorage.setItem(key, theme);
+        }
+        const active = theme === 'system' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme;
+        btn.setAttribute('aria-pressed', String(active === 'dark'));
+        btn.textContent = active === 'dark' ? 'Theme: Dark' : 'Theme: Light';
+      };
+
+      const saved = localStorage.getItem(key);
+      setTheme(saved === 'light' || saved === 'dark' ? saved : 'system', false);
+
+      btn.addEventListener('click', () => {
+        const current = root.getAttribute('data-theme') || 'system';
+        const next = current === 'dark' ? 'light' : 'dark';
+        setTheme(next, true);
+      });
+
+      const media = window.matchMedia('(prefers-color-scheme: dark)');
+      media.addEventListener?.('change', () => {
+        if (!localStorage.getItem(key)) setTheme('system', false);
+      });
+    })();
+  </script>
 </body>
 </html>`;
 }
