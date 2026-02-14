@@ -1,12 +1,12 @@
 {
   "date": "2026-02-14",
-  "generatedAt": "2026-02-14T06:08:29.901Z",
+  "generatedAt": "2026-02-14T12:11:12.988Z",
   "timezone": "America/Chicago",
   "newsletterTitle": "Daily AI Newsletter",
   "run": {
     "workflow": "daily-newsletter",
-    "runId": "local",
-    "commitSha": "local"
+    "runId": "22017101689",
+    "commitSha": "ca5e4123cf657f057bda55c7d442f58449d07016"
   },
   "summary": {
     "top5Count": 5,
@@ -119,7 +119,7 @@
         "description": "introducing gpt 5 3 codex spark our first real time coding model 15x faster generation 128k context now in research preview for chatgpt pro users",
         "credibility": 0.95,
         "typeHint": "news",
-        "score": 39,
+        "score": 38,
         "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
         "tags": [
           "ai",
