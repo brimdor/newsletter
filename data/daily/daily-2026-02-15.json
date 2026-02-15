@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-15",
+  "generatedAt": "2026-02-15T15:20:25.599Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily AI Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "local-build",
+    "commitSha": "local"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 0,
+    "releasesCount": 2,
+    "totalSelected": 7,
+    "totalCandidates": 5,
+    "dedupDropped": 0
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Nostr community feed highlights consumer-safe AI copilots",
+        "source": "Nostr AI Watch",
+        "sourceType": "nostr",
+        "fromAllowlist": true,
+        "url": "https://example.com/nostr-ai-watch-1",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "Highlights practical copilots that normal users can trust with daily tasks.",
+        "score": 96,
+        "tags": [
+          "ai",
+          "consumer"
+        ],
+        "id": "item-3202442d"
+      },
+      {
+        "headline": "Phone maker rolls out on-device AI photo cleanup",
+        "source": "Device Daily",
+        "sourceType": "rss",
+        "url": "https://example.com/photo-cleanup",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "No-cloud editing improves privacy and battery life for routine photos.",
+        "score": 90,
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "item-493c1c78",
+        "fromAllowlist": false
+      },
+      {
+        "headline": "Nostr devs publish scam-alert model update for messaging apps",
+        "source": "Nostr Security Notes",
+        "sourceType": "nostr",
+        "fromAllowlist": true,
+        "url": "https://example.com/nostr-ai-watch-2",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "Could reduce everyday social-engineering losses for consumers.",
+        "score": 88,
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "item-857f82c4"
+      },
+      {
+        "headline": "AI subtitle simplifier reaches more streaming platforms",
+        "source": "Media Today",
+        "sourceType": "rss",
+        "url": "https://example.com/subtitle-simplifier",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "Improves accessibility for families and language learners.",
+        "score": 84,
+        "tags": [
+          "ai",
+          "consumer"
+        ],
+        "id": "item-a11fe69e",
+        "fromAllowlist": false
+      },
+      {
+        "headline": "Nostr trend: local-first AI journaling tools gain momentum",
+        "source": "Open Protocol Digest",
+        "sourceType": "nostr",
+        "fromAllowlist": false,
+        "url": "https://example.com/nostr-ai-watch-3",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "Offers privacy-preserving self-tracking without cloud lock-in.",
+        "score": 82,
+        "tags": [
+          "ai",
+          "consumer"
+        ],
+        "id": "item-a7863c80"
+      }
+    ],
+    "moreToKnow": [],
+    "releasesAndUpdates": [
+      {
+        "headline": "Phone maker rolls out on-device AI photo cleanup",
+        "source": "Device Daily",
+        "sourceType": "rss",
+        "url": "https://example.com/photo-cleanup",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "No-cloud editing improves privacy and battery life for routine photos.",
+        "score": 90,
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "item-493c1c78",
+        "fromAllowlist": false
+      },
+      {
+        "headline": "Nostr devs publish scam-alert model update for messaging apps",
+        "source": "Nostr Security Notes",
+        "sourceType": "nostr",
+        "fromAllowlist": true,
+        "url": "https://example.com/nostr-ai-watch-2",
+        "publishedAt": "2026-02-15T15:20:25.595Z",
+        "whyItMatters": "Could reduce everyday social-engineering losses for consumers.",
+        "score": 88,
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "item-857f82c4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr_relay",
+      "status": "ok",
+      "fetchedCount": 12,
+      "acceptedCount": 2
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr_relay",
+      "status": "ok",
+      "fetchedCount": 10,
+      "acceptedCount": 1
+    },
+    {
+      "name": "relay.damus.io",
+      "url": "wss://relay.damus.io",
+      "type": "nostr_relay",
+      "status": "ok",
+      "fetchedCount": 8,
+      "acceptedCount": 0
+    },
+    {
+      "name": "search.nos.today",
+      "url": "wss://search.nos.today",
+      "type": "nostr_relay",
+      "status": "partial",
+      "fetchedCount": 6,
+      "acceptedCount": 0,
+      "error": "intermittent timeout"
+    },
+    {
+      "name": "Device Daily",
+      "url": "https://example.com/feed/device",
+      "type": "rss",
+      "status": "ok",
+      "fetchedCount": 4,
+      "acceptedCount": 2
+    }
+  ],
+  "sourceTracking": {
+    "sourceMode": "hybrid",
+    "allowlistCoverage": {
+      "method": "item_count",
+      "countFromAllowlist": 2,
+      "countTotalNostrItems": 3,
+      "percent": 67,
+      "targetPercent": 80
+    },
+    "relayQuorum": {
+      "minRequired": 3,
+      "healthyRelayCount": 3,
+      "met": true
+    }
+  },
+  "failures": []
+}
