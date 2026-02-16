@@ -1,11 +1,11 @@
 {
-  "name": "daily-ai-newsletter",
+  "name": "proj-20260216-001-newsletter-overlay",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "daily": "node scripts/run-daily.mjs",
-    "build": "node scripts/run-daily.mjs --no-push",
-    "validate": "node scripts/validate-output.mjs"
+    "start": "node src/server.js",
+    "test": "node --test",
+    "showcase:check": "node qa/showcase-visual-check.mjs"
   }
 }

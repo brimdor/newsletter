@@ -1,0 +1,29 @@
+[
+  {
+    "id": "item-001",
+    "headline": "AI model compression techniques improve edge deployment",
+    "summary": "New quantization workflows reduce inference latency on ARM devices.",
+    "sourceTitle": "Edge AI Compression Report",
+    "sourceUrl": "https://example.org/research/edge-ai-compression-report",
+    "sourceContentStatus": "ready",
+    "content": "# Edge AI Compression Report\n\nResearchers published practical quantization and pruning pipelines for embedded devices.\n\nKey findings:\n- Integer-aware fine tuning can preserve quality while lowering model size.\n- Distillation + quantization offers balanced memory and accuracy gains.\n- Tooling maturity is improving for ARM64 edge deployments."
+  },
+  {
+    "id": "item-002",
+    "headline": "Open source observability stack adds low-overhead tracing",
+    "summary": "The project shipped tracing controls tuned for constrained workloads.",
+    "sourceTitle": "Project Release Notes",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "sourceContentStatus": "unavailable",
+    "content": ""
+  },
+  {
+    "id": "item-003",
+    "headline": "Security baseline checklist for small infrastructure teams",
+    "summary": "A practical hardening sequence for SSH, patching, and firewall policy.",
+    "sourceTitle": "Infrastructure Security Checklist",
+    "sourceUrl": "https://owasp.org/www-project-top-ten/",
+    "sourceContentStatus": "ready",
+    "content": "## Security baseline checklist\n\n1. Enforce SSH key authentication and disable password login where possible.\n2. Keep OS and package updates current on a regular cadence.\n3. Apply firewall defaults-deny policy with explicit service allowlist.\n4. Centralize logs and monitor critical auth/system events."
+  }
+]

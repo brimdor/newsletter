@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily AI Newsletter</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Daily AI Newsletter</h1>
+      <p>Select a story to view source details.</p>
+      <section id="items" aria-label="Newsletter items"></section>
+    </main>
+
+    <div id="overlay" class="overlay hidden" aria-hidden="true">
+      <div id="backdrop" class="overlay-backdrop"></div>
+      <section
+        class="overlay-panel"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="overlay-title"
+      >
+        <button id="close" class="close" aria-label="Close source details">×</button>
+        <h2 id="overlay-title">Source details</h2>
+        <a id="source-link" target="_blank" rel="noopener noreferrer"></a>
+        <pre id="source-content"></pre>
+      </section>
+    </div>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

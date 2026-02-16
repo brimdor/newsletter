@@ -1,0 +1,42 @@
+name: Showcase Validation
+
+on:
+  push:
+    branches: ["**"]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run unit/integration tests
+        run: npm test
+
+      - name: Start app
+        run: |
+          npm start &
+          echo $! > /tmp/newsletter.pid
+          sleep 2
+
+      - name: Run showcase visual/contract checks
+        run: node qa/showcase-visual-check.mjs
+
+      - name: Stop app
+        if: always()
+        run: |
+          if [ -f /tmp/newsletter.pid ]; then
+            kill $(cat /tmp/newsletter.pid) || true
+          fi

@@ -1,0 +1,9 @@
+{
+  "projectId": "proj-20260216-001",
+  "type": "web_app_local_site",
+  "url": "http://localhost:3000",
+  "entryPoint": "ui/index.html",
+  "servedPath": "/local-site-artifact.json",
+  "checkedAt": "2026-02-16T17:10:30Z",
+  "status": "ready"
+}

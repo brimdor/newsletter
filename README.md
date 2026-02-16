@@ -1,45 +1,43 @@
-# Daily AI Newsletter
+# Daily AI Newsletter Valid Site Links
 
-Automated consumer-focused AI newsletter generator.
-
-## Outputs
-- `site/index.html` — published single responsive page
-- `data/daily/YYYY-MM-DD.json` — auditable daily data artifact
-
-## Pipeline
-- `scripts/collector.mjs` — source collection with per-source timeout/failure capture
-- `scripts/ranker.mjs` — consumer relevance heuristics + scoring
-- `scripts/deduper.mjs` — canonical URL and headline similarity dedupe
-- `scripts/composer.mjs` — section assignment (`Top 5`, `More to Know`, `Releases & Updates`)
-- `scripts/renderer.mjs` — HTML render
-- `scripts/publisher.mjs` — write artifacts and optional git publish
-- `scripts/run-daily.mjs` — orchestration + graceful failure recording
-
-## Local reproducibility
-Prereqs: Node.js 22+
+## Run
 
 ```bash
-npm run build       # generate artifacts locally without push
-npm run validate    # validate JSON + required HTML sections
+npm start
 ```
 
-This writes:
-- `site/index.html`
-- `data/daily/<today in America/Chicago>.json`
-- `artifacts/run-<date>.json`
+Open `http://localhost:3000`.
 
-## GitHub Actions schedule
-Workflow: `.github/workflows/daily-newsletter.yml`
+## API contract (on-demand detail model)
 
-- UTC cron entries:
-  - `0 12 * * *` (CST 6:00 AM)
-  - `0 11 * * *` (CDT 6:00 AM)
-- Local-hour guard ensures generation runs only when `TZ=America/Chicago` hour is `06`.
-- Supports manual trigger via `workflow_dispatch`.
+- `GET /api/newsletter/items`
+  - Returns list of newsletter items with `sourceTitle`, `sourceUrl`, and `sourceContentStatus`.
+- `GET /api/newsletter/items/:id/source`
+  - Returns:
 
-## Graceful failure behavior
-- Source fetch failures are recorded in:
-  - `sources[].status/error`
-  - `failures[]`
-- Pipeline continues publishing with available content when possible.
-- Underfilled `Top 5` is recorded as recoverable failure metadata.
+```json
+{
+  "itemId": "string",
+  "sourceTitle": "string",
+  "sourceUrl": "https://...",
+  "content": "string",
+  "contentType": "text/markdown",
+  "status": "ready|unavailable"
+}
+```
+
+## Notes
+
+- Placeholder hosts (`example.com`, `localhost`) are treated as invalid and never returned as working source links.
+- Source content is HTML-escaped before rendering in the overlay.
+- Fallback messaging is returned when full source content is unavailable.
+
+## CI/Showcase validation
+
+- GitHub Actions workflow: `.github/workflows/showcase-validation.yml`
+- Local parity command: `npm run showcase:check` (requires app running at `http://127.0.0.1:3000`)
+- Workflow validates:
+  - test suite pass
+  - local site artifact availability (`/local-site-artifact.json`)
+  - overlay shell present in UI
+  - source URL/title/content contract for newsletter items
