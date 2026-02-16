@@ -1,211 +1,82 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Daily AI Newsletter</title>
   <style>
-    :root{
-      --bg:#f5f7fb;
-      --surface:#ffffff;
-      --text:#111827;
-      --muted:#4b5563;
-      --line:#e5e7eb;
-      --line-strong:#cbd5e1;
-      --accent:#1d4ed8;
-      --accent-soft:#dbeafe;
-      --shadow:0 1px 2px rgba(17,24,39,.03);
-      --radius:14px;
-      --space-1:.5rem;
-      --space-2:.75rem;
-      --space-3:1rem;
-      --space-4:1.25rem;
-      --space-5:1.75rem;
-    }
-    :root[data-theme="dark"]{
-      --bg:#0b1220;
-      --surface:#101a2b;
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --line:#334155;
-      --line-strong:#475569;
-      --accent:#93c5fd;
-      --accent-soft:#1e3a8a;
-      --shadow:0 1px 2px rgba(0,0,0,.45);
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0}
-    body{
-      font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-      background:var(--bg);
-      color:var(--text);
-      line-height:1.55;
-      font-size:16px;
-    }
-    .skip-link{
-      position:absolute;
-      left:-9999px;
-      top:0;
-      background:#111;
-      color:#fff;
-      padding:var(--space-2) var(--space-3);
-      border-radius:0 0 10px 0;
-      z-index:100;
-    }
-    .skip-link:focus{left:0;outline:3px solid var(--accent-soft)}
-    main{max-width:960px;margin:0 auto;padding:var(--space-4)}
-    header{
-      background:var(--surface);
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      padding:var(--space-4);
-      margin-bottom:var(--space-4);
-    }
-    .header-row{display:flex;justify-content:space-between;gap:var(--space-3);align-items:flex-start;flex-wrap:wrap}
-    h1{
-      margin:0 0 var(--space-1);
-      line-height:1.2;
-      font-size:clamp(1.55rem,4vw,2rem);
-      letter-spacing:-0.01em;
-    }
-    .stamp{margin:0;color:var(--muted);font-size:.95rem}
-    .theme-toggle{
-      border:1px solid var(--line-strong);
-      background:var(--surface);
-      color:var(--text);
-      border-radius:999px;
-      padding:.45rem .75rem;
-      font-size:.88rem;
-      cursor:pointer;
-      white-space:nowrap;
-    }
-    .theme-toggle:hover{border-color:var(--accent)}
-    section{
-      margin:var(--space-5) 0;
-      scroll-margin-top:1rem;
-    }
-    h2{
-      margin:0 0 var(--space-3);
-      line-height:1.25;
-      font-size:clamp(1.2rem,2.6vw,1.45rem);
-      letter-spacing:-0.01em;
-    }
-    .cards{list-style:none;margin:0;padding:0;display:grid;gap:var(--space-3)}
-    .card{
-      background:var(--surface);
-      padding:var(--space-3);
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      box-shadow:var(--shadow);
-    }
-    .card-link{color:inherit;text-decoration:none}
-    .card-link h3{margin:.1rem 0 .55rem;font-size:1.05rem;line-height:1.35;text-wrap:balance}
-    .card-link:hover h3,
-    .card-link:focus-visible h3{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
-    .meta{margin:0 0 var(--space-2);color:var(--muted);font-size:.88rem}
-    .source{font-weight:600}
-    .empty{color:var(--muted);font-style:italic;margin:0}
-    .sources-wrap{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:auto}
-    table{width:100%;border-collapse:collapse;min-width:560px}
-    th,td{padding:.65rem .7rem;border-bottom:1px solid var(--line);text-align:left;font-size:.92rem;vertical-align:top}
-    th{background:color-mix(in oklab, var(--surface) 88%, var(--text));font-weight:600}
-    tr:last-child td{border-bottom:0}
-    a{color:var(--accent)}
-    a:focus-visible, .theme-toggle:focus-visible{outline:3px solid var(--accent-soft);outline-offset:2px;border-radius:6px}
-    @media (prefers-color-scheme: dark) {
-      :root:not([data-theme="light"]){
-        --bg:#0b1220;
-        --surface:#101a2b;
-        --text:#e5e7eb;
-        --muted:#9ca3af;
-        --line:#334155;
-        --line-strong:#475569;
-        --accent:#93c5fd;
-        --accent-soft:#1e3a8a;
-        --shadow:0 1px 2px rgba(0,0,0,.45);
-      }
-    }
-    @media (min-width:760px){
-      main{padding:var(--space-5)}
-      .cards{grid-template-columns:repeat(2,minmax(0,1fr))}
-    }
+    body { font-family: Inter, system-ui, sans-serif; margin: 0; background:#f6f7fb; color:#111; }
+    main { max-width: 900px; margin: 0 auto; padding: 24px; }
+    .item { display:block; width:100%; text-align:left; background:#fff; border:1px solid #dfe3ee; border-radius:12px; padding:14px; margin:12px 0; cursor:pointer; }
+    .item h3 { margin:.1rem 0 .5rem; }
+    .meta { color:#566; font-size:.9rem; }
+    .overlay.hidden { display:none; }
+    .overlay { position:fixed; inset:0; z-index:999; }
+    .backdrop { position:absolute; inset:0; background:rgba(0,0,0,.45); }
+    .panel { position:relative; margin:5vh auto; width:min(860px,92vw); max-height:90vh; overflow:auto; background:#fff; border-radius:12px; padding:18px; }
+    .close { float:right; border:1px solid #ccd; background:#fff; border-radius:8px; padding:.25rem .6rem; cursor:pointer; }
+    pre { white-space:pre-wrap; line-height:1.45; background:#fafbff; border:1px solid #e7eaf6; border-radius:8px; padding:12px; }
+    a { color:#0b57d0; }
   </style>
 </head>
 <body>
-  <a href="#content" class="skip-link">Skip to content</a>
-  <main id="content">
-    <header>
-      <div class="header-row">
-        <div>
-          <h1>Daily AI Newsletter</h1>
-          <p class="stamp">Generated <time datetime="2026-02-16T12:18:15.284Z">Monday, February 16, 2026 at 6:18 AM</time> (America/Chicago)</p>
-        </div>
-        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light and dark theme" aria-pressed="false">Toggle theme</button>
-      </div>
-    </header>
-
-    <section aria-labelledby="top5-heading">
-      <h2 id="top5-heading">Top 5</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/evaluating-fairness-in-chatgpt" target="_blank" rel="noopener"><h3>Evaluating fairness in ChatGPT</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-10-15T10:00:00.000Z">10/15/2024, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement" target="_blank" rel="noopener"><h3>After spooking Hollywood, ByteDance will tweak safeguards on new AI model</h3></a><p class="meta"><span class="source">The Verge AI</span><span aria-hidden="true"> · </span><time datetime="2026-02-16T11:29:24.000Z">2/16/2026, 11:29:24 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2" target="_blank" rel="noopener"><h3>Update to GPT-5 System Card: GPT-5.2</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-11T00:00:00.000Z">12/11/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/dall-e-2-update" target="_blank" rel="noopener"><h3>DALL·E 2 research preview update</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2022-05-18T07:00:00.000Z">5/18/2022, 7:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/scout24" target="_blank" rel="noopener"><h3>How Scout24 is building the next generation of real-estate search with AI</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-09T16:00:00.000Z">12/9/2025, 4:00:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li></ul>
-    </section>
-
-    <section aria-labelledby="more-heading">
-      <h2 id="more-heading">More to Know</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research" target="_blank" rel="noopener"><h3>Expanding on how Voice Engine works and our safety research</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-06-07T17:45:00.000Z">6/7/2024, 5:45:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/introducing-gpt-5-3-codex-spark" target="_blank" rel="noopener"><h3>Introducing GPT-5.3-Codex-Spark</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-02-12T10:00:00.000Z">2/12/2026, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/emea-youth-and-wellbeing-grant" target="_blank" rel="noopener"><h3>EMEA Youth &amp; Wellbeing Grant</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-01-28T01:00:00.000Z">1/28/2026, 1:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/higgsfield" target="_blank" rel="noopener"><h3>How Higgsfield turns simple ideas into cinematic social videos</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-01-21T10:00:00.000Z">1/21/2026, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/shipping-sora-for-android-with-codex" target="_blank" rel="noopener"><h3>How We Used Codex to Ship Sora for Android in 28 Days</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-12T00:00:00.000Z">12/12/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/ai-mental-health-research-grants" target="_blank" rel="noopener"><h3>Funding grants for new research into AI and mental health</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-01T12:00:00.000Z">12/1/2025, 12:00:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/chatgpt-shopping-research" target="_blank" rel="noopener"><h3>Introducing shopping research in ChatGPT</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-24T00:00:00.000Z">11/24/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/chatgpt-for-teachers" target="_blank" rel="noopener"><h3>A free version of ChatGPT built for teachers</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-19T00:00:00.000Z">11/19/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/prompt-injections" target="_blank" rel="noopener"><h3>Understanding prompt injections: a frontier security challenge</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-07T11:30:00.000Z">11/7/2025, 11:30:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/consensus" target="_blank" rel="noopener"><h3>Consensus accelerates research with GPT-5 and Responses API</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-10-23T09:00:00.000Z">10/23/2025, 9:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li></ul>
-    </section>
-
-    <section aria-labelledby="releases-heading">
-      <h2 id="releases-heading">Releases & Updates</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2" target="_blank" rel="noopener"><h3>Update to GPT-5 System Card: GPT-5.2</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-11T00:00:00.000Z">12/11/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/dall-e-2-update" target="_blank" rel="noopener"><h3>DALL·E 2 research preview update</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2022-05-18T07:00:00.000Z">5/18/2022, 7:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/launching-sora-responsibly" target="_blank" rel="noopener"><h3>Launching Sora responsibly</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-09-30T00:00:00.000Z">9/30/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together" target="_blank" rel="noopener"><h3>OpenAI and Los Alamos National Laboratory announce research partnership</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-07-10T06:30:00.000Z">7/10/2024, 6:30:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/global-affairs/learning-accelerator" target="_blank" rel="noopener"><h3>Announcing the OpenAI Learning Accelerator</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-08-25T06:00:00.000Z">8/25/2025, 6:00:00 AM</time></p><p>This could affect everyday users through a consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/leadership-updates-march-2025" target="_blank" rel="noopener"><h3>Leadership updates</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-03-24T10:00:00.000Z">3/24/2025, 10:00:00 AM</time></p><p>This could affect everyday users through a consumer-facing changes in AI tools.</p></li></ul>
-    </section>
-
-    <section aria-labelledby="sources-heading">
-      <h2 id="sources-heading">Sources</h2>
-      <div class="sources-wrap">
-        <table>
-          <thead>
-            <tr><th>Source</th><th>Status</th><th>Fetched</th><th>Accepted</th><th>Error</th></tr>
-          </thead>
-          <tbody>
-            <tr><td><a href="https://openai.com/news/rss.xml">OpenAI</a></td><td>ok</td><td>846</td><td>668</td><td></td></tr><tr><td><a href="https://blog.google/technology/ai/rss/">Google AI Blog</a></td><td>ok</td><td>20</td><td>18</td><td></td></tr><tr><td><a href="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review AI</a></td><td>ok</td><td>10</td><td>10</td><td></td></tr><tr><td><a href="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</a></td><td>ok</td><td>10</td><td>8</td><td></td></tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
+  <main>
+    <h1>Daily AI Newsletter</h1>
+    <p>Click a story title to open source details in an overlay.</p>
+    <section id="items"></section>
   </main>
+
+  <div id="overlay" class="overlay hidden" aria-hidden="true">
+    <div id="backdrop" class="backdrop"></div>
+    <section class="panel" role="dialog" aria-modal="true" aria-labelledby="ov-title">
+      <button id="close" class="close" aria-label="Close">✕</button>
+      <h2 id="ov-title">Source details</h2>
+      <p><strong>Source link:</strong> <a id="ov-link" target="_blank" rel="noopener noreferrer"></a></p>
+      <pre id="ov-content">Loading...</pre>
+    </section>
+  </div>
+
   <script>
-    (() => {
-      const root = document.documentElement;
-      const btn = document.getElementById('theme-toggle');
-      const key = 'newsletter-theme';
+    const items = [{"id": "item-001", "headline": "AI model compression techniques improve edge deployment", "summary": "New quantization workflows reduce inference latency on ARM devices.", "sourceTitle": "Edge AI Compression Report", "sourceUrl": "https://example.org/research/edge-ai-compression-report", "sourceContentStatus": "ready", "content": "# Edge AI Compression Report\n\nResearchers published practical quantization and pruning pipelines for embedded devices.\n\nKey findings:\n- Integer-aware fine tuning can preserve quality while lowering model size.\n- Distillation + quantization offers balanced memory and accuracy gains.\n- Tooling maturity is improving for ARM64 edge deployments."}, {"id": "item-002", "headline": "Open source observability stack adds low-overhead tracing", "summary": "The project shipped tracing controls tuned for constrained workloads.", "sourceTitle": "Project Release Notes", "sourceUrl": "https://news.ycombinator.com/", "sourceContentStatus": "unavailable", "content": ""}, {"id": "item-003", "headline": "Security baseline checklist for small infrastructure teams", "summary": "A practical hardening sequence for SSH, patching, and firewall policy.", "sourceTitle": "Infrastructure Security Checklist", "sourceUrl": "https://owasp.org/www-project-top-ten/", "sourceContentStatus": "ready", "content": "## Security baseline checklist\n\n1. Enforce SSH key authentication and disable password login where possible.\n2. Keep OS and package updates current on a regular cadence.\n3. Apply firewall defaults-deny policy with explicit service allowlist.\n4. Centralize logs and monitor critical auth/system events."}];
+    const root = document.getElementById('items');
+    const ov = document.getElementById('overlay');
+    const ovTitle = document.getElementById('ov-title');
+    const ovLink = document.getElementById('ov-link');
+    const ovContent = document.getElementById('ov-content');
+    const closeBtn = document.getElementById('close');
+    const backdrop = document.getElementById('backdrop');
 
-      const setTheme = (theme, persist = true) => {
-        if (theme === 'light') root.setAttribute('data-theme', 'light');
-        else if (theme === 'dark') root.setAttribute('data-theme', 'dark');
-        else root.removeAttribute('data-theme');
-        if (persist) {
-          if (theme === 'system') localStorage.removeItem(key);
-          else localStorage.setItem(key, theme);
-        }
-        const active = theme === 'system' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme;
-        btn.setAttribute('aria-pressed', String(active === 'dark'));
-        btn.textContent = active === 'dark' ? 'Theme: Dark' : 'Theme: Light';
-      };
+    function openOverlay(item) {
+      ov.classList.remove('hidden');
+      ov.setAttribute('aria-hidden','false');
+      ovTitle.textContent = item.sourceTitle || item.headline || 'Source details';
+      if (item.sourceUrl) {
+        ovLink.textContent = item.sourceUrl;
+        ovLink.href = item.sourceUrl;
+      } else {
+        ovLink.textContent = 'Source link unavailable';
+        ovLink.removeAttribute('href');
+      }
+      ovContent.textContent = item.content && item.content.trim() ? item.content : 'Full source content is unavailable.';
+    }
 
-      const saved = localStorage.getItem(key);
-      setTheme(saved === 'light' || saved === 'dark' ? saved : 'system', false);
+    function closeOverlay() {
+      ov.classList.add('hidden');
+      ov.setAttribute('aria-hidden','true');
+    }
 
-      btn.addEventListener('click', () => {
-        const current = root.getAttribute('data-theme') || 'system';
-        const next = current === 'dark' ? 'light' : 'dark';
-        setTheme(next, true);
-      });
+    items.forEach(item => {
+      const btn = document.createElement('button');
+      btn.className='item';
+      btn.type='button';
+      btn.innerHTML = `<h3>${item.headline}</h3><div class="meta">${item.summary||''}</div>`;
+      btn.addEventListener('click', () => openOverlay(item));
+      root.appendChild(btn);
+    });
 
-      const media = window.matchMedia('(prefers-color-scheme: dark)');
-      media.addEventListener?.('change', () => {
-        if (!localStorage.getItem(key)) setTheme('system', false);
-      });
-    })();
+    closeBtn.addEventListener('click', closeOverlay);
+    backdrop.addEventListener('click', closeOverlay);
+    document.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeOverlay(); });
   </script>
 </body>
 </html>
