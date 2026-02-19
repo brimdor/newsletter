@@ -1,0 +1,440 @@
+{
+  "date": "2026-02-19",
+  "generatedAt": "2026-02-19T12:18:40.650Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily AI Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22181467709",
+    "commitSha": "8307564381cda082b553266daa11b79342d06721"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 887,
+    "dedupDropped": 16
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Evaluating fairness in ChatGPT",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/evaluating-fairness-in-chatgpt",
+        "publishedAt": "2024-10-15T10:00:00.000Z",
+        "description": "we ve analyzed how chatgpt responds to users based on their name using ai research assistants to protect privacy",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 51,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "35471ebc6894"
+      },
+      {
+        "headline": "Update to GPT-5 System Card: GPT-5.2",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+        "publishedAt": "2025-12-11T00:00:00.000Z",
+        "description": "gpt 5 2 is the latest model family in the gpt 5 series the comprehensive safety mitigation approach for these models is largely the same as that described in the gpt 5 system card and gpt 5 1 system card like openai s other models the gpt 5 2 models were trained on diverse datasets including information that is publicly available on the internet information that we partner with third parties to access and information that our users or human trainers and researchers provide or generate",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 48,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "18ba0c6ad33e"
+      },
+      {
+        "headline": "DALL·E 2 research preview update",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/dall-e-2-update",
+        "publishedAt": "2022-05-18T07:00:00.000Z",
+        "description": "early users have created over 3 million images to date and helped us improve our safety processes we re excited to begin adding up to 1 000 new users from our waitlist each week",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 48,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "0df61418b28f"
+      },
+      {
+        "headline": "Google’s AI music maker is coming to the Gemini app",
+        "source": "The Verge AI",
+        "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta",
+        "publishedAt": "2026-02-18T16:00:00.000Z",
+        "description": "google has given gemini the ability to spit out ai generated music courtesy of deepmind s latest audio model beta access to lyria 3 is rolling out in the gemini app enabling users to generate 30 second tracks based on text images and videos without having to leave the chatbot window the new music making tool is available globally 8230",
+        "credibility": 0.75,
+        "typeHint": "news",
+        "score": 46,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "42cc045e33ef"
+      },
+      {
+        "headline": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+        "source": "The Verge AI",
+        "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+        "publishedAt": "2026-02-18T11:02:22.000Z",
+        "description": "ai search startup perplexity is distancing itself from ads amid fears users won t trust chatbots with an agenda to upsell the move highlights an emerging crossroads for the ai industry as the sector s biggest players hunt for stable sources of income to bankroll massive spending with giants like openai leaning into ads and others like 8230",
+        "credibility": 0.75,
+        "typeHint": "news",
+        "score": 45,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "486dc935f293"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "How Scout24 is building the next generation of real-estate search with AI",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/scout24",
+        "publishedAt": "2025-12-09T16:00:00.000Z",
+        "description": "scout24 has created a gpt 5 powered conversational assistant that reimagines real estate search guiding users with clarifying questions summaries and tailored listing recommendations",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 43,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "083ba9e3ddea"
+      },
+      {
+        "headline": "Expanding on how Voice Engine works and our safety research",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research",
+        "publishedAt": "2024-06-07T17:45:00.000Z",
+        "description": "exploring the technology behind our text to speech model",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 43,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "931159437ec9"
+      },
+      {
+        "headline": "Introducing GPT-5.3-Codex-Spark",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+        "publishedAt": "2026-02-12T10:00:00.000Z",
+        "description": "introducing gpt 5 3 codex spark our first real time coding model 15x faster generation 128k context now in research preview for chatgpt pro users",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "4a841ea7ec7c"
+      },
+      {
+        "headline": "EMEA Youth & Wellbeing Grant",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+        "publishedAt": "2026-01-28T01:00:00.000Z",
+        "description": "apply for the emea youth wellbeing grant a 500 000 program funding ngos and researchers advancing youth safety and wellbeing in the age of ai",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "b06606b88a53"
+      },
+      {
+        "headline": "How Higgsfield turns simple ideas into cinematic social videos",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/higgsfield",
+        "publishedAt": "2026-01-21T10:00:00.000Z",
+        "description": "discover how higgsfield gives creators cinematic social first video output from simple inputs using openai gpt 4 1 gpt 5 and sora 2",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "aae21d8eeec5"
+      },
+      {
+        "headline": "How We Used Codex to Ship Sora for Android in 28 Days",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+        "publishedAt": "2025-12-12T00:00:00.000Z",
+        "description": "openai shipped sora for android in 28 days using codex ai assisted planning translation and parallel coding workflows helped a nimble team deliver rapid reliable development",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "eafd28afa8a6"
+      },
+      {
+        "headline": "Funding grants for new research into AI and mental health",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/ai-mental-health-research-grants",
+        "publishedAt": "2025-12-01T12:00:00.000Z",
+        "description": "openai is awarding up to 2 million in grants for research at the intersection of ai and mental health the program supports projects that study real world risks benefits and applications to improve safety and well being",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "cd2c685fc846"
+      },
+      {
+        "headline": "Introducing shopping research in ChatGPT",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/chatgpt-shopping-research",
+        "publishedAt": "2025-11-24T00:00:00.000Z",
+        "description": "shopping research in chatgpt helps you explore compare and discover products with personalized buyer s guides that simplify decision making",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "8d601fb98b9e"
+      },
+      {
+        "headline": "A free version of ChatGPT built for teachers",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/chatgpt-for-teachers",
+        "publishedAt": "2025-11-19T00:00:00.000Z",
+        "description": "chatgpt for teachers is a secure workspace with education grade privacy and admin controls free for verified u s k 12 educators through june 2027",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "b68785e0ad8b"
+      },
+      {
+        "headline": "Understanding prompt injections: a frontier security challenge",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/prompt-injections",
+        "publishedAt": "2025-11-07T11:30:00.000Z",
+        "description": "prompt injections are a frontier security challenge for ai systems learn how these attacks work and how openai is advancing research training models and building safeguards for users",
+        "credibility": 0.95,
+        "typeHint": "news",
+        "score": 35,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "news"
+        ],
+        "id": "8cd903898ffd"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Update to GPT-5 System Card: GPT-5.2",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+        "publishedAt": "2025-12-11T00:00:00.000Z",
+        "description": "gpt 5 2 is the latest model family in the gpt 5 series the comprehensive safety mitigation approach for these models is largely the same as that described in the gpt 5 system card and gpt 5 1 system card like openai s other models the gpt 5 2 models were trained on diverse datasets including information that is publicly available on the internet information that we partner with third parties to access and information that our users or human trainers and researchers provide or generate",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 48,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "18ba0c6ad33e"
+      },
+      {
+        "headline": "DALL·E 2 research preview update",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/dall-e-2-update",
+        "publishedAt": "2022-05-18T07:00:00.000Z",
+        "description": "early users have created over 3 million images to date and helped us improve our safety processes we re excited to begin adding up to 1 000 new users from our waitlist each week",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 48,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "0df61418b28f"
+      },
+      {
+        "headline": "Launching Sora responsibly",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/launching-sora-responsibly",
+        "publishedAt": "2025-09-30T00:00:00.000Z",
+        "description": "to address the novel safety challenges posed by a state of the art video model as well as a new social creation platform we ve built sora 2 and the sora app with safety at the foundation our approach is anchored in concrete protections",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 40,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "c658f25dfd91"
+      },
+      {
+        "headline": "OpenAI and Los Alamos National Laboratory announce research partnership",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
+        "publishedAt": "2024-07-10T06:30:00.000Z",
+        "description": "openai and los alamos national laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 40,
+        "whyItMatters": "This could affect everyday users through multiple consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "4fb73cf59fb2"
+      },
+      {
+        "headline": "Announcing the OpenAI Learning Accelerator",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/global-affairs/learning-accelerator",
+        "publishedAt": "2025-08-25T06:00:00.000Z",
+        "description": "openai announces the launch of openai learning accelerator an initiative that aims to bring advanced ai to india s educators and millions of learners nationwide through accelerated ai research training and deployment",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 32,
+        "whyItMatters": "This could affect everyday users through a consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "6a6496468556"
+      },
+      {
+        "headline": "Leadership updates",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/news/rss.xml",
+        "url": "https://openai.com/index/leadership-updates-march-2025",
+        "publishedAt": "2025-03-24T10:00:00.000Z",
+        "description": "openai has grown a lot we remain focused on the same core pursuing frontier ai research that accelerates human progress but we now also deliver products used by hundreds of millions of people",
+        "credibility": 0.95,
+        "typeHint": "release",
+        "score": 32,
+        "whyItMatters": "This could affect everyday users through a consumer-facing changes in AI tools.",
+        "tags": [
+          "ai",
+          "consumer",
+          "release"
+        ],
+        "id": "b04845c2b7ea"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "rss",
+      "status": "ok",
+      "fetchedCount": 847,
+      "acceptedCount": 668
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "rss",
+      "status": "ok",
+      "fetchedCount": 20,
+      "acceptedCount": 18
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "type": "rss",
+      "status": "ok",
+      "fetchedCount": 10,
+      "acceptedCount": 9
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "type": "rss",
+      "status": "ok",
+      "fetchedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "failures": []
+}
