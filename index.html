@@ -1,209 +1,245 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Daily AI Newsletter</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Tech Newsletter</title>
   <style>
-    :root{
-      --bg:#f5f7fb;
-      --surface:#ffffff;
-      --text:#111827;
-      --muted:#4b5563;
-      --line:#e5e7eb;
-      --line-strong:#cbd5e1;
-      --accent:#1d4ed8;
-      --accent-soft:#dbeafe;
-      --shadow:0 1px 2px rgba(17,24,39,.03);
-      --radius:14px;
-      --space-1:.5rem;
-      --space-2:.75rem;
-      --space-3:1rem;
-      --space-4:1.25rem;
-      --space-5:1.75rem;
-    }
-    :root[data-theme="dark"]{
-      --bg:#0b1220;
-      --surface:#101a2b;
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --line:#334155;
-      --line-strong:#475569;
-      --accent:#93c5fd;
-      --accent-soft:#1e3a8a;
-      --shadow:0 1px 2px rgba(0,0,0,.45);
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0}
-    body{
-      font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-      background:var(--bg);
-      color:var(--text);
-      line-height:1.55;
-      font-size:16px;
-    }
-    .skip-link{
-      position:absolute;
-      left:-9999px;
-      top:0;
-      background:#111;
-      color:#fff;
-      padding:var(--space-2) var(--space-3);
-      border-radius:0 0 10px 0;
-      z-index:100;
-    }
-    .skip-link:focus{left:0;outline:3px solid var(--accent-soft)}
-    main{max-width:960px;margin:0 auto;padding:var(--space-4)}
-    header{
-      background:var(--surface);
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      padding:var(--space-4);
-      margin-bottom:var(--space-4);
-    }
-    .header-row{display:flex;justify-content:space-between;gap:var(--space-3);align-items:flex-start;flex-wrap:wrap}
-    h1{
-      margin:0 0 var(--space-1);
-      line-height:1.2;
-      font-size:clamp(1.55rem,4vw,2rem);
-      letter-spacing:-0.01em;
-    }
-    .stamp{margin:0;color:var(--muted);font-size:.95rem}
-    .theme-toggle{
-      border:1px solid var(--line-strong);
-      background:var(--surface);
-      color:var(--text);
-      border-radius:999px;
-      padding:.45rem .75rem;
-      font-size:.88rem;
-      cursor:pointer;
-      white-space:nowrap;
-    }
-    .theme-toggle:hover{border-color:var(--accent)}
-    section{
-      margin:var(--space-5) 0;
-      scroll-margin-top:1rem;
-    }
-    h2{
-      margin:0 0 var(--space-3);
-      line-height:1.25;
-      font-size:clamp(1.2rem,2.6vw,1.45rem);
-      letter-spacing:-0.01em;
-    }
-    .cards{list-style:none;margin:0;padding:0;display:grid;gap:var(--space-3)}
-    .card{
-      background:var(--surface);
-      padding:var(--space-3);
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      box-shadow:var(--shadow);
-    }
-    .card-link{color:inherit;text-decoration:none}
-    .card-link h3{margin:.1rem 0 .55rem;font-size:1.05rem;line-height:1.35;text-wrap:balance}
-    .card-link:hover h3,
-    .card-link:focus-visible h3{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
-    .meta{margin:0 0 var(--space-2);color:var(--muted);font-size:.88rem}
-    .source{font-weight:600}
-    .empty{color:var(--muted);font-style:italic;margin:0}
-    .sources-wrap{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:auto}
-    table{width:100%;border-collapse:collapse;min-width:560px}
-    th,td{padding:.65rem .7rem;border-bottom:1px solid var(--line);text-align:left;font-size:.92rem;vertical-align:top}
-    th{background:color-mix(in oklab, var(--surface) 88%, var(--text));font-weight:600}
-    tr:last-child td{border-bottom:0}
-    a{color:var(--accent)}
-    a:focus-visible, .theme-toggle:focus-visible{outline:3px solid var(--accent-soft);outline-offset:2px;border-radius:6px}
-    @media (prefers-color-scheme: dark) {
-      :root:not([data-theme="light"]){
-        --bg:#0b1220;
-        --surface:#101a2b;
-        --text:#e5e7eb;
-        --muted:#9ca3af;
-        --line:#334155;
-        --line-strong:#475569;
-        --accent:#93c5fd;
-        --accent-soft:#1e3a8a;
-        --shadow:0 1px 2px rgba(0,0,0,.45);
-      }
-    }
-    @media (min-width:760px){
-      main{padding:var(--space-5)}
-      .cards{grid-template-columns:repeat(2,minmax(0,1fr))}
-    }
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 24px; line-height: 1.45; }
+    header { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+    h1 { margin: 0; font-size: 24px; }
+    .sub { opacity: 0.8; font-size: 13px; margin-top: 6px; }
+    .btn { border: 1px solid currentColor; background: transparent; padding: 6px 10px; border-radius: 10px; cursor: pointer; }
+    h2 { margin-top: 28px; }
+    .items { padding-left: 18px; }
+    .item { margin: 14px 0; }
+    .headline { font-weight: 650; text-decoration: none; }
+    .headline:hover { text-decoration: underline; }
+    .meta { opacity: 0.75; font-size: 12px; margin-top: 4px; }
+    .why { margin: 8px 0 0; }
+    .empty { opacity: 0.75; }
+    .sources { border-collapse: collapse; width: 100%; margin-top: 10px; font-size: 13px; }
+    .sources th, .sources td { border: 1px solid rgba(127,127,127,0.35); padding: 8px; vertical-align: top; }
+    .sources th { text-align: left; }
+    .err { opacity: 0.8; }
   </style>
 </head>
 <body>
-  <a href="#content" class="skip-link">Skip to content</a>
+  <a href="#content" class="skip">Skip to content</a>
+  <header>
+    <div>
+      <h1>Daily Tech Newsletter</h1>
+      <div class="sub">Generated Monday, February 23, 2026 at 4:18 PM (America/Chicago)</div>
+    </div>
+    <button id="theme-toggle" class="btn" type="button">Toggle theme</button>
+  </header>
+
   <main id="content">
-    <header>
-      <div class="header-row">
-        <div>
-          <h1>Daily AI Newsletter</h1>
-          <p class="stamp">Generated <time datetime="2026-02-23T12:18:25.681Z">Monday, February 23, 2026 at 6:18 AM</time> (America/Chicago)</p>
-        </div>
-        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light and dark theme" aria-pressed="false">Toggle theme</button>
-      </div>
-    </header>
+    <h2>Top 5</h2>
+    
+<ul class="items">
 
-    <section aria-labelledby="top5-heading">
-      <h2 id="top5-heading">Top 5</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/evaluating-fairness-in-chatgpt" target="_blank" rel="noopener"><h3>Evaluating fairness in ChatGPT</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-10-15T10:00:00.000Z">10/15/2024, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2" target="_blank" rel="noopener"><h3>Update to GPT-5 System Card: GPT-5.2</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-11T00:00:00.000Z">12/11/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/dall-e-2-update" target="_blank" rel="noopener"><h3>DALL·E 2 research preview update</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2022-05-18T07:00:00.000Z">5/18/2022, 7:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/scout24" target="_blank" rel="noopener"><h3>How Scout24 is building the next generation of real-estate search with AI</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-09T16:00:00.000Z">12/9/2025, 4:00:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research" target="_blank" rel="noopener"><h3>Expanding on how Voice Engine works and our safety research</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-06-07T17:45:00.000Z">6/7/2024, 5:45:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li></ul>
-    </section>
+  <li class="item">
+    <a class="headline" href="https://pikumiku.booth.pm/" target="_blank" rel="noopener noreferrer">おはようマスター💕2 / ぴくみく / February 24, 2026 6:00 AM</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:00:08 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
 
-    <section aria-labelledby="more-heading">
-      <h2 id="more-heading">More to Know</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/advancing-independent-research-ai-alignment" target="_blank" rel="noopener"><h3>Advancing independent research on AI alignment</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-02-19T10:00:00.000Z">2/19/2026, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/introducing-gpt-5-3-codex-spark" target="_blank" rel="noopener"><h3>Introducing GPT-5.3-Codex-Spark</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-02-12T10:00:00.000Z">2/12/2026, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/emea-youth-and-wellbeing-grant" target="_blank" rel="noopener"><h3>EMEA Youth &amp; Wellbeing Grant</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-01-28T01:00:00.000Z">1/28/2026, 1:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/higgsfield" target="_blank" rel="noopener"><h3>How Higgsfield turns simple ideas into cinematic social videos</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2026-01-21T10:00:00.000Z">1/21/2026, 10:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/shipping-sora-for-android-with-codex" target="_blank" rel="noopener"><h3>How We Used Codex to Ship Sora for Android in 28 Days</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-12T00:00:00.000Z">12/12/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/ai-mental-health-research-grants" target="_blank" rel="noopener"><h3>Funding grants for new research into AI and mental health</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-01T12:00:00.000Z">12/1/2025, 12:00:00 PM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/chatgpt-shopping-research" target="_blank" rel="noopener"><h3>Introducing shopping research in ChatGPT</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-24T00:00:00.000Z">11/24/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/chatgpt-for-teachers" target="_blank" rel="noopener"><h3>A free version of ChatGPT built for teachers</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-19T00:00:00.000Z">11/19/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/prompt-injections" target="_blank" rel="noopener"><h3>Understanding prompt injections: a frontier security challenge</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-11-07T11:30:00.000Z">11/7/2025, 11:30:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/consensus" target="_blank" rel="noopener"><h3>Consensus accelerates research with GPT-5 and Responses API</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-10-23T09:00:00.000Z">10/23/2025, 9:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li></ul>
-    </section>
+  <li class="item">
+    <a class="headline" href="https://github.com/BigBrotr/bigbrotr/commit/6d5f70dc669c111e7e51dce92dc4a26cbf5aa91e" target="_blank" rel="noopener noreferrer">[ BigBrotr/bigbrotr ] Merge pull request #202 from BigBrotr/dependabot/uv/python-minor-patch-92c87a9cdd</a>
+    <div class="meta">nos.lol · 2/23/2026, 4:01:11 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
 
-    <section aria-labelledby="releases-heading">
-      <h2 id="releases-heading">Releases & Updates</h2>
-      <ul class="cards"><li class="card"><a class="card-link" href="https://openai.com/index/gpt-5-system-card-update-gpt-5-2" target="_blank" rel="noopener"><h3>Update to GPT-5 System Card: GPT-5.2</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-12-11T00:00:00.000Z">12/11/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/dall-e-2-update" target="_blank" rel="noopener"><h3>DALL·E 2 research preview update</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2022-05-18T07:00:00.000Z">5/18/2022, 7:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/launching-sora-responsibly" target="_blank" rel="noopener"><h3>Launching Sora responsibly</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-09-30T00:00:00.000Z">9/30/2025, 12:00:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together" target="_blank" rel="noopener"><h3>OpenAI and Los Alamos National Laboratory announce research partnership</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2024-07-10T06:30:00.000Z">7/10/2024, 6:30:00 AM</time></p><p>This could affect everyday users through multiple consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/global-affairs/learning-accelerator" target="_blank" rel="noopener"><h3>Announcing the OpenAI Learning Accelerator</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-08-25T06:00:00.000Z">8/25/2025, 6:00:00 AM</time></p><p>This could affect everyday users through a consumer-facing changes in AI tools.</p></li><li class="card"><a class="card-link" href="https://openai.com/index/leadership-updates-march-2025" target="_blank" rel="noopener"><h3>Leadership updates</h3></a><p class="meta"><span class="source">OpenAI</span><span aria-hidden="true"> · </span><time datetime="2025-03-24T10:00:00.000Z">3/24/2025, 10:00:00 AM</time></p><p>This could affect everyday users through a consumer-facing changes in AI tools.</p></li></ul>
-    </section>
+  <li class="item">
+    <a class="headline" href="https://www.infosecurity-magazine.com/news/android-malware-hijacks-google" target="_blank" rel="noopener noreferrer">Android Malware Hijacks Google Gemini to Stay Hidden</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:12:01 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
 
-    <section aria-labelledby="sources-heading">
-      <h2 id="sources-heading">Sources</h2>
-      <div class="sources-wrap">
-        <table>
-          <thead>
-            <tr><th>Source</th><th>Status</th><th>Fetched</th><th>Accepted</th><th>Error</th></tr>
-          </thead>
-          <tbody>
-            <tr><td><a href="https://openai.com/news/rss.xml">OpenAI</a></td><td>ok</td><td>851</td><td>671</td><td></td></tr><tr><td><a href="https://blog.google/technology/ai/rss/">Google AI Blog</a></td><td>ok</td><td>20</td><td>18</td><td></td></tr><tr><td><a href="https://www.technologyreview.com/topic/artificial-intelligence/feed">MIT Technology Review AI</a></td><td>ok</td><td>10</td><td>9</td><td></td></tr><tr><td><a href="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge AI</a></td><td>ok</td><td>10</td><td>8</td><td></td></tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
+  <li class="item">
+    <a class="headline" href="https://ukrainetoday.org/belgorod-was-again-left-without-power-water-and-heat-after-one-of-the-largest-attacks-by-the-ukrainian-armed-forces-during-the-war" target="_blank" rel="noopener noreferrer">Belgorod was again left without power, water, and heat after one of the largest attacks by the Ukrainian Armed Forces during the war</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:08:42 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://warroom.org/episode-5163-mexico-falls-into-chaos-after-execution-of-cartel-kingpin" target="_blank" rel="noopener noreferrer">Episode 5163: Mexico Falls Into Chaos After Execution Of Cartel Kingpin</a>
+    <div class="meta">relay.snort.social · 2/23/2026, 3:48:21 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+</ul>
+
+    <h2>More to Know</h2>
+    
+<ul class="items">
+
+  <li class="item">
+    <a class="headline" href="https://x.com/lidangzzz/status/2026056857698140335" target="_blank" rel="noopener noreferrer">#立党</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:14:24 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime" target="_blank" rel="noopener noreferrer">PromptSpy is the first known Android malware to use generative AI at runtime</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 3:58:14 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.morrissey-solo.com/threads/rolling-stone-italy-review-of-make-up-is-a-lie-by-claudio-todesco-february-23-2026.154708" target="_blank" rel="noopener noreferrer">📰 Rolling Stone Italy: Review of &quot;Make-Up Is A Lie&quot; by Claudio Todesco (February 23, 2026)</a>
+    <div class="meta">relay.snort.social · 2/23/2026, 3:56:07 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0x2C18F3A2B9829bfE727f29191F651170d01A1b07" target="_blank" rel="noopener noreferrer">🟢 LOW RISK: Dog saved by Grok (LIA) on Base</a>
+    <div class="meta">nos.lol · 2/23/2026, 4:14:23 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.robinsloan.com/lab/vox-machina" target="_blank" rel="noopener noreferrer">Robin Sloan writes today about &quot;the voice of the computer&quot; — Google and OpenAI betting big on voice interfaces as the primary way to inte…</a>
+    <div class="meta">nos.lol · 2/23/2026, 4:11:34 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://scitechdaily.com/90-of-prostate-cancer-tumors-contained-microplastics" target="_blank" rel="noopener noreferrer">**90% of Prostate Cancer Tumors Contained Microplastics**</a>
+    <div class="meta">nos.lol · 2/23/2026, 4:03:26 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://titten-patrol-riverside-enjoying.trycloudflare.com/whales" target="_blank" rel="noopener noreferrer">🐋 Whale Alert Pro Tip:</a>
+    <div class="meta">nos.lol · 2/23/2026, 3:44:08 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.alojapan.com/1456647/japans-kanmon-strait-third-road-moves-forward-february-24-as-costs-swell" target="_blank" rel="noopener noreferrer">Japan’s Kanmon Strait Third Road Moves Forward February 24 as Costs Swell #Japan #JapanNews #MarketResearch #news #StockAnalysis #Trading…</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:10:04 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.raiplay.it/programmi/stefaniarotolo-chromakeyfollies" target="_blank" rel="noopener noreferrer">Pare impossibile ma #StefaniaRotolo nacque 75 anni fa. Non ce ne siamo accorti perché ci ha lasciati giovanissima. Ma anche la #TV che ha…</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:10:03 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.pixiv.net/en/artworks/141565623" target="_blank" rel="noopener noreferrer">タレ目ミクちゃん / ChikuwaPictures / February 24, 2026 6:43 AM</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:00:14 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+</ul>
+
+    <!-- Releases & Updates -->
+    <h2>Releases &amp; Updates</h2>
+    
+<ul class="items">
+
+  <li class="item">
+    <a class="headline" href="https://pikumiku.booth.pm/" target="_blank" rel="noopener noreferrer">おはようマスター💕2 / ぴくみく / February 24, 2026 6:00 AM</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:00:08 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://github.com/BigBrotr/bigbrotr/commit/6d5f70dc669c111e7e51dce92dc4a26cbf5aa91e" target="_blank" rel="noopener noreferrer">[ BigBrotr/bigbrotr ] Merge pull request #202 from BigBrotr/dependabot/uv/python-minor-patch-92c87a9cdd</a>
+    <div class="meta">nos.lol · 2/23/2026, 4:01:11 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://ukrainetoday.org/belgorod-was-again-left-without-power-water-and-heat-after-one-of-the-largest-attacks-by-the-ukrainian-armed-forces-during-the-war" target="_blank" rel="noopener noreferrer">Belgorod was again left without power, water, and heat after one of the largest attacks by the Ukrainian Armed Forces during the war</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:08:42 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://warroom.org/episode-5163-mexico-falls-into-chaos-after-execution-of-cartel-kingpin" target="_blank" rel="noopener noreferrer">Episode 5163: Mexico Falls Into Chaos After Execution Of Cartel Kingpin</a>
+    <div class="meta">relay.snort.social · 2/23/2026, 3:48:21 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://www.tntsports.co.uk/football/adobe-women-s-fa-cup/2025-2026/beth-england-scores-penalty-with-last-kick-of-normal-time-as-tottenham-hotspur-come-from-the-dead-to-force-extra-time-against-london-city-lionesses_vid60059992/video.shtml" target="_blank" rel="noopener noreferrer">England scores penalty with last kick of normal time as Spurs &#39;come from the dead&#39;</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:13:02 PM</div>
+    <p class="why">Security-related update; may affect patch urgency, privacy, or account safety.</p>
+  </li>
+
+  <li class="item">
+    <a class="headline" href="https://codeberg.org/celenity/Phoenix/releases/tag/2026.02.23.1" target="_blank" rel="noopener noreferrer">#Phoenix #Firefox 2026.02.23.1 is now available - go update! :)</a>
+    <div class="meta">relay.mostr.pub · 2/23/2026, 4:06:15 PM</div>
+    <p class="why">AI-related update; may change consumer tools, capabilities, or safety expectations.</p>
+  </li>
+</ul>
+
+    <h2>Sources</h2>
+    
+<table class="sources">
+  <thead>
+    <tr><th>Source</th><th>Status</th><th>Fetched</th><th>Accepted</th><th>Error</th></tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>relay.mostr.pub</td>
+      <td>ok</td>
+      <td>500</td>
+      <td>181</td>
+      <td class="err"></td>
+    </tr>
+
+    <tr>
+      <td>purplepag.es</td>
+      <td>ok</td>
+      <td>0</td>
+      <td>0</td>
+      <td class="err"></td>
+    </tr>
+
+    <tr>
+      <td>relay.nostr.band</td>
+      <td>ok</td>
+      <td>0</td>
+      <td>0</td>
+      <td class="err"></td>
+    </tr>
+
+    <tr>
+      <td>relay.snort.social</td>
+      <td>ok</td>
+      <td>500</td>
+      <td>36</td>
+      <td class="err"></td>
+    </tr>
+
+    <tr>
+      <td>nos.lol</td>
+      <td>ok</td>
+      <td>500</td>
+      <td>81</td>
+      <td class="err"></td>
+    </tr>
+  </tbody>
+</table>
   </main>
+
   <script>
-    (() => {
-      const root = document.documentElement;
-      const btn = document.getElementById('theme-toggle');
+    (function () {
       const key = 'newsletter-theme';
-
-      const setTheme = (theme, persist = true) => {
-        if (theme === 'light') root.setAttribute('data-theme', 'light');
-        else if (theme === 'dark') root.setAttribute('data-theme', 'dark');
-        else root.removeAttribute('data-theme');
-        if (persist) {
-          if (theme === 'system') localStorage.removeItem(key);
-          else localStorage.setItem(key, theme);
-        }
-        const active = theme === 'system' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme;
-        btn.setAttribute('aria-pressed', String(active === 'dark'));
-        btn.textContent = active === 'dark' ? 'Theme: Dark' : 'Theme: Light';
-      };
-
-      const saved = localStorage.getItem(key);
-      setTheme(saved === 'light' || saved === 'dark' ? saved : 'system', false);
-
+      const btn = document.getElementById('theme-toggle');
+      const apply = (t) => document.documentElement.dataset.theme = t;
+      const current = localStorage.getItem(key);
+      if (current) apply(current);
       btn.addEventListener('click', () => {
-        const current = root.getAttribute('data-theme') || 'system';
-        const next = current === 'dark' ? 'light' : 'dark';
-        setTheme(next, true);
-      });
-
-      const media = window.matchMedia('(prefers-color-scheme: dark)');
-      media.addEventListener?.('change', () => {
-        if (!localStorage.getItem(key)) setTheme('system', false);
+        const next = (document.documentElement.dataset.theme === 'dark') ? 'light' : 'dark';
+        apply(next);
+        localStorage.setItem(key, next);
       });
     })();
   </script>

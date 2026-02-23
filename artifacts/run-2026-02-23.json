@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "generatedAt": "2026-02-23T12:18:25.681Z",
+  "generatedAt": "2026-02-23T22:18:33.791Z",
   "noPush": true,
   "publish": {
     "committed": false,
@@ -17,8 +17,8 @@
     "moreToKnowCount": 10,
     "releasesCount": 6,
     "totalSelected": 21,
-    "totalCandidates": 891,
-    "dedupDropped": 16
+    "totalCandidates": 389,
+    "dedupDropped": 91
   },
   "failures": []
 }

@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+
 import { collect } from './collector.mjs';
 import { rank } from './ranker.mjs';
 import { dedupe } from './deduper.mjs';
@@ -10,11 +11,14 @@ import { maybeCommitAndPush, writeArtifacts } from './publisher.mjs';
 const noPush = process.argv.includes('--no-push');
 const failures = [];
 
+const NEWSLETTER_TITLE = process.env.NEWSLETTER_TITLE || 'Daily Tech Newsletter';
+
 async function main() {
   const date = localDateString(new Date(), TZ);
   const generatedAt = isoNow();
 
   const { candidates, sourceStats } = await collect({ failures });
+
   let ranked = [];
   try {
     ranked = rank(candidates, failures);
@@ -37,7 +41,7 @@ async function main() {
     date,
     generatedAt,
     timezone: TZ,
-    newsletterTitle: 'Daily AI Newsletter',
+    newsletterTitle: NEWSLETTER_TITLE,
     run: {
       workflow: process.env.GITHUB_WORKFLOW || 'daily-newsletter',
       runId: process.env.GITHUB_RUN_ID || 'local',
@@ -62,18 +66,10 @@ async function main() {
   const publish = maybeCommitAndPush({ date, noPush });
 
   await fs.mkdir('artifacts', { recursive: true });
-  const runLog = {
-    date,
-    generatedAt,
-    noPush,
-    publish,
-    outputs: paths,
-    summary: data.summary,
-    failures
-  };
+  const runLog = { date, generatedAt, noPush, publish, outputs: paths, summary: data.summary, failures };
   const runLogPath = `artifacts/run-${date}.json`;
-  await fs.writeFile(runLogPath, JSON.stringify(runLog, null, 2));
 
+  await fs.writeFile(runLogPath, JSON.stringify(runLog, null, 2));
   console.log(JSON.stringify({ ok: true, ...paths, runLogPath }, null, 2));
 }
 
