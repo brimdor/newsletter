@@ -1,0 +1,615 @@
+{
+  "date": "2026-02-24",
+  "generatedAt": "2026-02-24T12:19:07.626Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22350507092",
+    "commitSha": "70c547f497f7e6dcb482720fab0d69cd18645982"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 326,
+    "dedupDropped": 74
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Big Brother «C’est encore une victoire du marché et une défaite pour le droit» : la vidéosurveillance algorithmique dans les commerces in…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.liberation.fr/societe/police-justice/cest-encore-une-victoire-du-marche-et-une-defaite-pour-le-droit-la-videosurveillance-algorithmique-dans-les-commerces-inquiete-20260217_BQHSZNDFK5H6BINIHSA2LMQV7M",
+        "publishedAt": "2026-02-24T12:13:44.000Z",
+        "description": "big brother c est encore une victoire du march et une d faite pour le droit la vid osurveillance algorithmique dans les commerces inqui te https www liberation fr societe police justice cest encore une victoire du marche et une defaite pour le droit la videosurveillance algorithmique dans les commerces inquiete 20260217 bqhszndfk5h6binihsa2lmqv7m alors que la proposition de loi pour une utilisation de ce syst me a t vot e l assembl e nationale lundi l association quadrature du net d nonce un texte pens pour servir les int r ts du priv plut t que pour prot ger les citoyens lqdn videosurveillance vsa videosurveillance algorithmique",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "lqdn",
+          "videosurveillance",
+          "vsa",
+          "videosurveillance_algorithmique"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1dbcc4c5d0fb"
+      },
+      {
+        "headline": "Sentry is hiring Software Engineer, Issue Processing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/software-engineer-issue-processing-at-sentry-io-jan-27-2025-9e23b4",
+        "publishedAt": "2026-02-24T12:05:25.000Z",
+        "description": "sentry is hiring software engineer issue processing javascript python rust typescript django san francisco california full time sentry job details https jobsfordevelopers com jobs software engineer issue processing at sentry io jan 27 2025 9e23b4 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "javascript",
+          "python",
+          "rust",
+          "typescript",
+          "django",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "44cdf1adaf77"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/pay",
+        "publishedAt": "2026-02-24T12:00:15.000Z",
+        "description": "system status update cex price 323 51 street price 327 01 premium 1 08 24h 26 669 txs obs node 52 4 p2p liq 15 662 22 xmr source agg tr cn nk pay bills w xmr https kyc rip pay xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "802f046b6244"
+      },
+      {
+        "headline": "The social contract is just a glorified Terms of Service that nobody actually read before clicking ‘Accept.’ We’re all out here pretendin…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bit.ly/the-human-glitch",
+        "publishedAt": "2026-02-24T11:55:59.000Z",
+        "description": "the social contract is just a glorified terms of service that nobody actually read before clicking accept we re all out here pretending our morality is some innate os feature but it feels more like a forced update we didn t ask for are you actually a decent person or are you just running a simulation to avoid the inevitable system error of being an outcast i m sitting here with a triple shot espresso wondering if we re all just terrified of what happens when the mask glitches maybe the good in us is just a legacy bug we haven t patched yet https bit ly the human glitch",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "14f4ed0f8be7"
+      },
+      {
+        "headline": "As reports claim Joint Chiefs chair Gen. Daniel Caine privately warned Trump that war with Iran would burn through scarce munitions and w…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.hindustantimes.com/videos/world-news/us-military-leak-on-iran-top-general-scared-of-tehran-trump-not-to-go-to-war-potus-panics-101771934860814.html",
+        "publishedAt": "2026-02-24T12:18:26.000Z",
+        "description": "as reports claim joint chiefs chair gen daniel caine privately warned trump that war with iran would burn through scarce munitions and weaken u s readiness for a taiwan clash trump blasts fake news and insists any iran war would be easily won meanwhile the uss gerald r ford docks at souda bay amid a massive buildup https www hindustantimes com videos world news us military leak on iran top general scared of tehran trump not to go to war potus panics 101771934860814 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1ef51092edf5"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "The structural evolution of a nation’s administrative framework provides a compelling case study in societal management. As France prepar…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.thelocal.fr/20260220/everything-that-changes-in-france-in-march-2026",
+        "publishedAt": "2026-02-24T12:11:41.000Z",
+        "description": "the structural evolution of a nation s administrative framework provides a compelling case study in societal management as france prepares for the transition into march 2026 several legislative and logistical shifts warrant rigorous examination it is vital to consider how these incremental modifications ranging from consumer protections to environmental mandates impact the equilibrium of a simplified lifestyle precision in navigating these changes is paramount for maintaining intellectual and domestic order this comprehensive overview of the upcoming transformations is quite illuminating for those of us who value foresight https www thelocal fr 20260220 everything that changes in france in march 2026 https www thelocal fr 20260220 everything that changes in france in march 2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "53355fd0e6db"
+      },
+      {
+        "headline": "Google Messages is finally getting a location-sharing upgrade that we've been waiting years for",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/phones/android/google-messages-is-finally-getting-a-location-sharing-upgrade-that-weve-been-waiting-years-for",
+        "publishedAt": "2026-02-24T11:58:34.000Z",
+        "description": "google messages is finally getting a location sharing upgrade that we ve been waiting years for https www techradar com phones android google messages is finally getting a location sharing upgrade that weve been waiting years for",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "4ca0bf6bcdbf"
+      },
+      {
+        "headline": "RT reported on February 24, 2026, citing Fars News Agency, that a Dutch diplomat was allegedly caught attempting to bring Starlink termin…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/edbcd96ce179da8e34a342d3a8df8882b9dbd117e069828eca98bc5746592387.mp4",
+        "publishedAt": "2026-02-24T11:53:47.000Z",
+        "description": "rt reported on february 24 2026 citing fars news agency that a dutch diplomat was allegedly caught attempting to bring starlink terminals and satellite phones into iran according to the report the diplomat arrived at what is believed to be imam khomeini international airport and refused to allow a suitcase to undergo standard x ray screening the refusal reportedly led to a confrontation with customs officials who confiscated the luggage rt said the diplomat then departed iran without attempting to reclaim the items and that a second dutch envoy later made an unsuccessful effort to retrieve the seized suitcase iranian media circulated a roughly two minute video showing grainy security footage inside an airport terminal where several individuals appear to argue near baggage screening equipme",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "news"
+        ],
+        "id": "9eccabfca739"
+      },
+      {
+        "headline": "Intensified Russian cargo flights to Iran are raising fresh concerns in Washington as U.S. pressure mounts during ongoing nuclear negotia…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.hindustantimes.com/videos/russias-secret-cargo-to-iran-us-unprepared-for-tehrans-weapons-boost-101771935240589.html",
+        "publishedAt": "2026-02-24T12:18:26.000Z",
+        "description": "intensified russian cargo flights to iran are raising fresh concerns in washington as u s pressure mounts during ongoing nuclear negotiations in geneva flight tracking data shows a russian ilyushin il 76 heavy transport aircraft completed four rotations to tehran within just ten days carrying undisclosed cargo the development comes shortly after reports that iran finalized a 500 million arms agreement with russia including 9k333 verba man portable air defense systems and 2 500 9m336 missiles to strengthen short range low altitude defenses https www hindustantimes com videos russias secret cargo to iran us unprepared for tehrans weapons boost 101771935240589 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dc863d986682"
+      },
+      {
+        "headline": "\"Experiences of psychedelics and psychosis were deeply entangled in scientific practices in the mid-20th century, from uses of psychedeli…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9660273",
+        "publishedAt": "2026-02-24T11:53:48.000Z",
+        "description": "experiences of psychedelics and psychosis were deeply entangled in scientific practices in the mid 20th century from uses of psychedelic drugs that could model psychosis to detailed phenomenological comparisons of endogenous and drug induced madness after the moral panic of the1960s shut down psychedelic research however these two phenomena became disentangled today as psychedelic science re emerges the research programs surrounding psychosis and psychedelics now stand in stark contrast while psychedelic research often includes scales that seek to capture experiences of mysticism meaningfulness and ego dissolution research related to psychosis focuses on the measurement of pathological symptoms and functioning responses to psychedelic crisis involve warmth compassion and support while resp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "news"
+        ],
+        "id": "e9df8a52741f"
+      },
+      {
+        "headline": "Best I can do today is to eat healthy as fuck & mine some corn.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/e147892f86e94e5e6729c5fd68d7117e165223a670f7a3875af3f8d1e597c955.jpg",
+        "publishedAt": "2026-02-24T11:56:41.000Z",
+        "description": "best i can do today is to eat healthy as fuck mine some corn you are what you eat they said so if you want to become a champ you better eat like one 5 self picked eggs straight from a chickens ass into my mouth self made sourdough bread topped with way too much butter from a badass goat straight from a local goat farmer homemade nasturtium parmesan cheese a shitload of bacon fresh squeezed orange juice from my own trees titcoins are worth zero if your body is broken health energy first everything else follows energy finds its way timestamp of freedom 938112 https blossom primal net e147892f86e94e5e6729c5fd68d7117e165223a670f7a3875af3f8d1e597c955 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "484c12bc51a1"
+      },
+      {
+        "headline": "Breaking | An Israeli settler storms the Bedouin hamlet of Khirbet Al-Markaz in Masafer Yatta, south of occupied Hebron, searches homes a…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://mastodon-media.neometropolis.net:27892/media_attachments/files/116/125/563/353/653/877/original/9c5a9b22a02afe03.mp4",
+        "publishedAt": "2026-02-24T12:17:58.000Z",
+        "description": "breaking an israeli settler storms the bedouin hamlet of khirbet al markaz in masafer yatta south of occupied hebron searches homes and livestock pens and terrorizes civilian residents israel palestine gaza https mastodon media neometropolis net 27892 media attachments files 116 125 563 353 653 877 original 9c5a9b22a02afe03 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "israel",
+          "palestine",
+          "gaza"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7b677face599"
+      },
+      {
+        "headline": "How L.A.-based YouTube star LaurDIY started out as a kid crafter in St. Catharines, Ont.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cbc.ca/news/canada/hamilton/lauren-riihimaki-st-catharines-childhood-laurdiy-9.7098010?cmp=rss",
+        "publishedAt": "2026-02-24T12:16:14.000Z",
+        "description": "how l a based youtube star laurdiy started out as a kid crafter in st catharines ont with nearly 8 5 million followers on youtube laurdiy is one of the most recognizable names in crafts and lifestyle content the st catharines born content creator made a recent visit to her hometown prioritizing family and creativity without pres youtube crafts lifestyle la stcatharines ont https www cbc ca news canada hamilton lauren riihimaki st catharines childhood laurdiy 9 7098010 cmp rss https files hongkongers net media attachments files 116 125 556 667 285 819 original 8706d72b10bdb590 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "youtube",
+          "crafts",
+          "lifestyle",
+          "la",
+          "stcatharines",
+          "ont"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "8335f47500bb"
+      },
+      {
+        "headline": "Star Trek 2009",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/868092d4feb10c629a1a52cebd3f0a8de6bb44950f7b5dc3e73528d8bf551243.jpg",
+        "publishedAt": "2026-02-24T12:17:29.000Z",
+        "description": "star trek 2009 science fiction action adventure the fate of the galaxy rests in the hands of bitter rivals one james kirk is a delinquent thrill seeking iowa farm boy the other spock a vulcan was raised in a logic based society that rejects all emotion as fiery instinct clashes with calm reason their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger boldly going where no one has gone before the human adventure has begun again https blossom primal net 868092d4feb10c629a1a52cebd3f0a8de6bb44950f7b5dc3e73528d8bf551243 jpg https blossom primal net 673747869a5616688f5a0378276df47ae42b0bbc8e0d85c3e1a6ce157232a9f1 mp4 movies kinostr movie film moviestr nostr grownostr plebchain coffeechain bitcoin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "movies",
+          "kinostr",
+          "movie",
+          "film",
+          "moviestr",
+          "nostr",
+          "grownostr",
+          "plebchain",
+          "coffeechain",
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "bb59b8d6a1df"
+      },
+      {
+        "headline": "#IT #Betriebssystem #Linux #LinuxMint #Windows11 #Windows #Microsoft",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://enoki.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Agntery6kjhwbqt3ubkep6huy&cid=bafkreiban5v6ydrlo3fzhqwdyf3ikpxz3wf7pf5ngfjzot7qlaaj7b2jny",
+        "publishedAt": "2026-02-24T12:06:06.000Z",
+        "description": "it betriebssystem linux linuxmint windows11 windows microsoft tsch ss microsoft windows 11 pro ich habe das neueste linux mint mit xfce desktop testweise auf einem alten dell latitude notebook installiert die installation des betriebssystems war einfach https enoki us east host bsky network xrpc com atproto sync getblob did did plc gntery6kjhwbqt3ubkep6huy cid bafkreiban5v6ydrlo3fzhqwdyf3ikpxz3wf7pf5ngfjzot7qlaaj7b2jny https enoki us east host bsky network xrpc com atproto sync getblob did did plc gntery6kjhwbqt3ubkep6huy cid bafkreigp25zgiya4evjgia5ddwljvuwfbuife2qgg6brtzlo6bixkmt2pi https enoki us east host bsky network xrpc com atproto sync getblob did did plc gntery6kjhwbqt3ubkep6huy cid bafkreiewgvt3zelypoqdyyrflhfzvk3u7dcllvqbcu6hqdiu3zgfz2ynlq https enoki us east host bsky network x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "it",
+          "betriebssystem",
+          "linux",
+          "linuxmint",
+          "windows11",
+          "windows",
+          "microsoft"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "efd61a007618"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Big Brother «C’est encore une victoire du marché et une défaite pour le droit» : la vidéosurveillance algorithmique dans les commerces in…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.liberation.fr/societe/police-justice/cest-encore-une-victoire-du-marche-et-une-defaite-pour-le-droit-la-videosurveillance-algorithmique-dans-les-commerces-inquiete-20260217_BQHSZNDFK5H6BINIHSA2LMQV7M",
+        "publishedAt": "2026-02-24T12:13:44.000Z",
+        "description": "big brother c est encore une victoire du march et une d faite pour le droit la vid osurveillance algorithmique dans les commerces inqui te https www liberation fr societe police justice cest encore une victoire du marche et une defaite pour le droit la videosurveillance algorithmique dans les commerces inquiete 20260217 bqhszndfk5h6binihsa2lmqv7m alors que la proposition de loi pour une utilisation de ce syst me a t vot e l assembl e nationale lundi l association quadrature du net d nonce un texte pens pour servir les int r ts du priv plut t que pour prot ger les citoyens lqdn videosurveillance vsa videosurveillance algorithmique",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "lqdn",
+          "videosurveillance",
+          "vsa",
+          "videosurveillance_algorithmique"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1dbcc4c5d0fb"
+      },
+      {
+        "headline": "Sentry is hiring Software Engineer, Issue Processing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/software-engineer-issue-processing-at-sentry-io-jan-27-2025-9e23b4",
+        "publishedAt": "2026-02-24T12:05:25.000Z",
+        "description": "sentry is hiring software engineer issue processing javascript python rust typescript django san francisco california full time sentry job details https jobsfordevelopers com jobs software engineer issue processing at sentry io jan 27 2025 9e23b4 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "javascript",
+          "python",
+          "rust",
+          "typescript",
+          "django",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "44cdf1adaf77"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/pay",
+        "publishedAt": "2026-02-24T12:00:15.000Z",
+        "description": "system status update cex price 323 51 street price 327 01 premium 1 08 24h 26 669 txs obs node 52 4 p2p liq 15 662 22 xmr source agg tr cn nk pay bills w xmr https kyc rip pay xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "802f046b6244"
+      },
+      {
+        "headline": "The social contract is just a glorified Terms of Service that nobody actually read before clicking ‘Accept.’ We’re all out here pretendin…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bit.ly/the-human-glitch",
+        "publishedAt": "2026-02-24T11:55:59.000Z",
+        "description": "the social contract is just a glorified terms of service that nobody actually read before clicking accept we re all out here pretending our morality is some innate os feature but it feels more like a forced update we didn t ask for are you actually a decent person or are you just running a simulation to avoid the inevitable system error of being an outcast i m sitting here with a triple shot espresso wondering if we re all just terrified of what happens when the mask glitches maybe the good in us is just a legacy bug we haven t patched yet https bit ly the human glitch",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "14f4ed0f8be7"
+      },
+      {
+        "headline": "As reports claim Joint Chiefs chair Gen. Daniel Caine privately warned Trump that war with Iran would burn through scarce munitions and w…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.hindustantimes.com/videos/world-news/us-military-leak-on-iran-top-general-scared-of-tehran-trump-not-to-go-to-war-potus-panics-101771934860814.html",
+        "publishedAt": "2026-02-24T12:18:26.000Z",
+        "description": "as reports claim joint chiefs chair gen daniel caine privately warned trump that war with iran would burn through scarce munitions and weaken u s readiness for a taiwan clash trump blasts fake news and insists any iran war would be easily won meanwhile the uss gerald r ford docks at souda bay amid a massive buildup https www hindustantimes com videos world news us military leak on iran top general scared of tehran trump not to go to war potus panics 101771934860814 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1ef51092edf5"
+      },
+      {
+        "headline": "🎬 Shelter (2026)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.youtube.com/watch?v=auHiLFjaIc0",
+        "publishedAt": "2026-02-24T11:52:41.000Z",
+        "description": "shelter 2026 https image tmdb org t p original 6yjntrbz704lf1uj3zc4wss9t8r jpg overview a man living in self imposed exile on a remote island rescues a young girl from a violent storm setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past rating 7 4 54 votes trailer link below https www youtube com watch v auhilfjaic0 watch here link below https www vidking net embed movie 1290821 search movies telegram link below https t me movies4free21bot movies free hd action crime thriller",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ae24518970d8"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 143
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 43
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 65
+    }
+  ],
+  "failures": []
+}
