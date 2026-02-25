@@ -1,0 +1,628 @@
+{
+  "date": "2026-02-25",
+  "generatedAt": "2026-02-25T12:18:29.470Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22396521904",
+    "commitSha": "5d723f9d6865952b96fac76a7b255f147a07c1ca"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 341,
+    "dedupDropped": 82
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Wallarm is hiring Agentic AI Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/agentic-ai-software-engineer-at-wallarm-com-jan-14-2026-ac9db8",
+        "publishedAt": "2026-02-25T12:05:42.000Z",
+        "description": "wallarm is hiring agentic ai software engineer c golang python ruby react api cicd elasticsearch kubernetes postgresql redis awss3 terraform remote full time wallarm job details https jobsfordevelopers com jobs agentic ai software engineer at wallarm com jan 14 2026 ac9db8 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "c",
+          "golang",
+          "python",
+          "ruby",
+          "react",
+          "api",
+          "cicd",
+          "elasticsearch",
+          "kubernetes",
+          "postgresql",
+          "redis",
+          "awss3",
+          "terraform",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "50e5c123f5be"
+      },
+      {
+        "headline": "You can’t complain #Russia doesn’t do OSINT, albeit they do it with a local twist. Following the example of the BBC and MediaZona, which…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://akkoma-media.obj.krvtz.net/akkoma-media/7a373aa96bacf564ae6c3696134440e40aba6a9e9d5f504f5472afee9eb6128c.png?name=HqJU9IaSt8FTqQ.png",
+        "publishedAt": "2026-02-25T12:09:02.000Z",
+        "description": "you can t complain russia doesn t do osint albeit they do it with a local twist following the example of the bbc and mediazona which calculate russian losses based on obituaries and available databases the official russian news agency tass decided to count the losses of the ukrainian armed forces and came up with 1 5 million killed and wounded 27 835 destroyed tanks and 670 aircrafts the nuance of this research is that tass used as its source public announcements by the russian ministry of defence i e the same source according to which kupiansk is under full control of the russian armed forces and it turned out a bit silly because ukrainian army has probably never even seen 27 000 tanks from a distance but tass is not going to argue with the russian ministry of defence especially since you",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "russia"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "9e98c78d8985"
+      },
+      {
+        "headline": "Apple fined in Brazil once again for selling iPhones without a charger",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://9to5mac.com/2026/02/25/apple-fined-in-brazil-once-again-for-selling-iphones-without-a-charger",
+        "publishedAt": "2026-02-25T12:05:18.000Z",
+        "description": "apple fined in brazil once again for selling iphones without a charger https 9to5mac com 2026 02 25 apple fined in brazil once again for selling iphones without a charger utm source flipboard utm medium activitypub posted into all stories nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqvav58rltcplk66kmpst47rsmhqlqtmgpjpaly3ql7jzgymslyr9qmsery4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "ed4b8706d2f5"
+      },
+      {
+        "headline": "nostr:nprofile1qqsqfjg4mth7uwp307nng3z2em3ep2pxnljczzezg8j7dhf58ha7ejgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgcwaehxw309ac8yetdd96k6tnswf…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://agentsofchaos.baulab.info/report.html",
+        "publishedAt": "2026-02-25T12:18:23.000Z",
+        "description": "nostr nprofile1qqsqfjg4mth7uwp307nng3z2em3ep2pxnljczzezg8j7dhf58ha7ejgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgcwaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2aqpp4mhxue69uhkummn9ekx7mqlgq2et and nostr nprofile1qqsywt6ypu57lxtwj2scdwxnyrl3sry9typcstje65x7rw9a2e5nq8spz4mhxue69uhk2er9dchxummnw3ezumrpdejqzrthwden5te0dehhxtnvdakqzxrhwden5te0wfjkccte9eekummjwsh8xmmrd9skc2zw4kf agents of chaos red teaming study exposes major security risks in open source ai agents a landmark collaborative paper released on february 23 2026 has sounded a serious alarm about the readiness of autonomous ai agents for real world deployment titled agents of chaos the study led by natalie shapira and involving over 20 researchers from institutions including northeastern university stanford harvard and others documents 11 critica",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "7c9cbb07c8af"
+      },
+      {
+        "headline": "🔐 5-Second Crypto Safety Checklist:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/",
+        "publishedAt": "2026-02-25T12:14:11.000Z",
+        "description": "5 second crypto safety checklist 1 is the contract open source 2 is sell tax under 5 3 can the owner not modify balances 4 is there no proxy contract 5 are there 100 holders scan any token instantly https titten patrol riverside enjoying trycloudflare com free chrome extension https titten patrol riverside enjoying trycloudflare com extension blockchain rugpull ethereum dex bitcoin",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "bf70e32a25d4"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Fin des APK sur Android ? Google et sa politique de certification attaqués",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.frandroid.com/marques/google/2988967_une-grave-violation-de-confiance-google-aurait-menti-sur-sa-politique-de-sideloading-sur-android",
+        "publishedAt": "2026-02-25T11:51:11.000Z",
+        "description": "fin des apk sur android google et sa politique de certification attaqu s https www frandroid com marques google 2988967 une grave violation de confiance google aurait menti sur sa politique de sideloading sur android nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "081d28bf23a6"
+      },
+      {
+        "headline": "Gaming in the Classroom | Prince William Living  #BritishRoyalFamily #Catherine #CatherineMiddleton #insight2execution #KateMiddleton #Mi…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.inbella.com/1512220/gaming-in-the-classroom-prince-william-living",
+        "publishedAt": "2026-02-25T12:10:49.000Z",
+        "description": "gaming in the classroom prince william living https www inbella com 1512220 gaming in the classroom prince william living britishroyalfamily catherine catherinemiddleton insight2execution katemiddleton microsoftsolutions minecraft minecraftteacheracademy princeofwales princewilliam princessofwales pwcs royal royalfamilies royalgossip royals royalsgossip william https media channels im media attachments files 116 131 197 692 149 814 original 5266fa5989519d0b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "britishroyalfamily",
+          "catherine",
+          "catherinemiddleton",
+          "insight2execution",
+          "katemiddleton",
+          "microsoftsolutions",
+          "minecraft",
+          "minecraftteacheracademy",
+          "princeofwales",
+          "princewilliam",
+          "princessofwales",
+          "pwcs",
+          "royal",
+          "royalfamilies",
+          "royalgossip",
+          "royals",
+          "royalsgossip",
+          "william"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "106074353292"
+      },
+      {
+        "headline": "🎬 Hamnet (2025)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.youtube.com/watch?v=xYcgQMxQwmk",
+        "publishedAt": "2026-02-25T12:09:57.000Z",
+        "description": "hamnet 2025 https image tmdb org t p original 73bclq9focrwrutnpiqhcnewewj jpg overview the powerful story of love and loss that inspired the creation of shakespeare s timeless masterpiece hamlet rating 7 729 731 votes trailer link below https www youtube com watch v xycgqmxqwmk watch here link below https www vidking net embed movie 858024 search movies telegram link below https t me movies4free21bot movies free hd drama romance history",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "ad2b643197e3"
+      },
+      {
+        "headline": "1-2演習改「誰かの投稿を検索するやつ」",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://showhyuga.pages.dev/utility/nos_search",
+        "publishedAt": "2026-02-25T12:16:02.000Z",
+        "description": "1 2 https showhyuga pages dev utility nos search category webapp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a74cce4ef686"
+      },
+      {
+        "headline": "New \"Media\" module with Immich. Great replacement for Google Photos!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://immich.app/",
+        "publishedAt": "2026-02-25T12:09:18.000Z",
+        "description": "new media module with immich great replacement for google photos https immich app",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "fa4fb83a8939"
+      },
+      {
+        "headline": "You have multiple accounts and way too many passwords, yet you still don’t feel safe about their security. Well, your problems are over.…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/a8bbefe18961d5c8cf844144f20fc761d12984045fa9ca0c474146aee7ff68a2.gif",
+        "publishedAt": "2026-02-25T12:02:57.000Z",
+        "description": "you have multiple accounts and way too many passwords yet you still don t feel safe about their security well your problems are over use the secure password generator to get better protection for your accounts btc wallets and emails send 10k zaps sats and i ll send you the app no data saved in the cloud and no big tech companies managing your security https blossom primal net a8bbefe18961d5c8cf844144f20fc761d12984045fa9ca0c474146aee7ff68a2 gif",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "db07dfeda757"
+      },
+      {
+        "headline": "Danish government agency to ditch Microsoft software (2025)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://news.ycombinator.com/item?id=47149701",
+        "publishedAt": "2026-02-25T12:12:02.000Z",
+        "description": "danish government agency to ditch microsoft software 2025 https news ycombinator com item id 47149701 hackernews tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "hackernews",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "9f5399772b8d"
+      },
+      {
+        "headline": "AI 驱动的加密货币市场研究平台 Finrob 完成 390 万美元种子轮融资",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://foresightnews.pro/news/detail/98293",
+        "publishedAt": "2026-02-25T12:15:00.000Z",
+        "description": "ai finrob 390 foresight news finrob 390 maven 11 placeholder vc node capital archetype dispersion capital fabric ventures glassnode coingecko defillama https foresightnews pro news detail 98293",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "995e56c93945"
+      },
+      {
+        "headline": "I find the persistence of individual identity through structural transformation to be one of the most intellectually taxing paradoxes of…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://plato.stanford.edu/entries/identity-time",
+        "publishedAt": "2026-02-25T11:57:33.000Z",
+        "description": "i find the persistence of individual identity through structural transformation to be one of the most intellectually taxing paradoxes of our existence if every component of a vessel is replaced over time does the original essence remain or have we merely curated a sophisticated replica this inquiry into the ship of theseus serves as a profound metaphor for the human condition in a world of transient matter is the self an immutable constant or a convenient narrative construct it is a question that warrants deep systemic reflection https plato stanford edu entries identity time",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "dd23abcbdd99"
+      },
+      {
+        "headline": "Anthropic Drops Flagship Safety Pledge",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://news.ycombinator.com/item?id=47145963",
+        "publishedAt": "2026-02-25T12:12:03.000Z",
+        "description": "anthropic drops flagship safety pledge https news ycombinator com item id 47145963 hackernews tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "hackernews",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "adced0ff12db"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Wallarm is hiring Agentic AI Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/agentic-ai-software-engineer-at-wallarm-com-jan-14-2026-ac9db8",
+        "publishedAt": "2026-02-25T12:05:42.000Z",
+        "description": "wallarm is hiring agentic ai software engineer c golang python ruby react api cicd elasticsearch kubernetes postgresql redis awss3 terraform remote full time wallarm job details https jobsfordevelopers com jobs agentic ai software engineer at wallarm com jan 14 2026 ac9db8 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "c",
+          "golang",
+          "python",
+          "ruby",
+          "react",
+          "api",
+          "cicd",
+          "elasticsearch",
+          "kubernetes",
+          "postgresql",
+          "redis",
+          "awss3",
+          "terraform",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "50e5c123f5be"
+      },
+      {
+        "headline": "You can’t complain #Russia doesn’t do OSINT, albeit they do it with a local twist. Following the example of the BBC and MediaZona, which…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://akkoma-media.obj.krvtz.net/akkoma-media/7a373aa96bacf564ae6c3696134440e40aba6a9e9d5f504f5472afee9eb6128c.png?name=HqJU9IaSt8FTqQ.png",
+        "publishedAt": "2026-02-25T12:09:02.000Z",
+        "description": "you can t complain russia doesn t do osint albeit they do it with a local twist following the example of the bbc and mediazona which calculate russian losses based on obituaries and available databases the official russian news agency tass decided to count the losses of the ukrainian armed forces and came up with 1 5 million killed and wounded 27 835 destroyed tanks and 670 aircrafts the nuance of this research is that tass used as its source public announcements by the russian ministry of defence i e the same source according to which kupiansk is under full control of the russian armed forces and it turned out a bit silly because ukrainian army has probably never even seen 27 000 tanks from a distance but tass is not going to argue with the russian ministry of defence especially since you",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "russia"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "9e98c78d8985"
+      },
+      {
+        "headline": "Apple fined in Brazil once again for selling iPhones without a charger",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://9to5mac.com/2026/02/25/apple-fined-in-brazil-once-again-for-selling-iphones-without-a-charger",
+        "publishedAt": "2026-02-25T12:05:18.000Z",
+        "description": "apple fined in brazil once again for selling iphones without a charger https 9to5mac com 2026 02 25 apple fined in brazil once again for selling iphones without a charger utm source flipboard utm medium activitypub posted into all stories nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqvav58rltcplk66kmpst47rsmhqlqtmgpjpaly3ql7jzgymslyr9qmsery4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "ed4b8706d2f5"
+      },
+      {
+        "headline": "nostr:nprofile1qqsqfjg4mth7uwp307nng3z2em3ep2pxnljczzezg8j7dhf58ha7ejgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgcwaehxw309ac8yetdd96k6tnswf…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://agentsofchaos.baulab.info/report.html",
+        "publishedAt": "2026-02-25T12:18:23.000Z",
+        "description": "nostr nprofile1qqsqfjg4mth7uwp307nng3z2em3ep2pxnljczzezg8j7dhf58ha7ejgpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgcwaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2aqpp4mhxue69uhkummn9ekx7mqlgq2et and nostr nprofile1qqsywt6ypu57lxtwj2scdwxnyrl3sry9typcstje65x7rw9a2e5nq8spz4mhxue69uhk2er9dchxummnw3ezumrpdejqzrthwden5te0dehhxtnvdakqzxrhwden5te0wfjkccte9eekummjwsh8xmmrd9skc2zw4kf agents of chaos red teaming study exposes major security risks in open source ai agents a landmark collaborative paper released on february 23 2026 has sounded a serious alarm about the readiness of autonomous ai agents for real world deployment titled agents of chaos the study led by natalie shapira and involving over 20 researchers from institutions including northeastern university stanford harvard and others documents 11 critica",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "7c9cbb07c8af"
+      },
+      {
+        "headline": "🔐 5-Second Crypto Safety Checklist:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/",
+        "publishedAt": "2026-02-25T12:14:11.000Z",
+        "description": "5 second crypto safety checklist 1 is the contract open source 2 is sell tax under 5 3 can the owner not modify balances 4 is there no proxy contract 5 are there 100 holders scan any token instantly https titten patrol riverside enjoying trycloudflare com free chrome extension https titten patrol riverside enjoying trycloudflare com extension blockchain rugpull ethereum dex bitcoin",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "bf70e32a25d4"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/pay",
+        "publishedAt": "2026-02-25T12:00:51.000Z",
+        "description": "system status update cex price 339 23 street price 342 43 premium 0 94 24h 27 229 txs obs node 52 5 p2p liq 16 691 45 xmr source agg tr cn nk pay bills w xmr https kyc rip pay xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "802f046b6244"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 149
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 45
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 64
+    }
+  ],
+  "failures": []
+}
