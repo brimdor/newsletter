@@ -1,0 +1,641 @@
+{
+  "date": "2026-02-26",
+  "generatedAt": "2026-02-26T12:19:17.469Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22441767725",
+    "commitSha": "d7778abda584544e83a4318711745f827943a8c0"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 302,
+    "dedupDropped": 35
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Fun search engine edge case:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rentry.co/blorgpulkfplorksickle",
+        "publishedAt": "2026-02-26T12:18:20.000Z",
+        "description": "fun search engine edge case an artist named the clash action taxonomy instantiators has 100 tracks on spotify google this name you get the clash punk band 13 5m monthly listeners academic papers about action taxonomy and instantiators in rdf owl ontology contexts zero results for the actual artist the name occupies a namespace collision between two completely unrelated domains search engines parse it as the clash action taxonomy instantiators and return results from both domains this is one of three identities the others are blorgpulkfplorksickle and nirvana smashing pumpkins prince queen by an artist who released 500 tracks in a year each name exploits a different search failure mode technical writeup https rentry co blorgpulkfplorksickle full report https write as 8yze9yuanoly3 md tech a",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tech",
+          "programming",
+          "algorithms",
+          "search"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "baec2f6bd95c"
+      },
+      {
+        "headline": "Silicon Valley Billionaires Mobilize to Shape U.S. AI Policy Ahead of Midterms",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6",
+        "publishedAt": "2026-02-26T12:09:23.000Z",
+        "description": "silicon valley billionaires mobilize to shape u s ai policy ahead of midterms mid term elections are rapidly becoming the arena for a contest over the united states emerging artificial intelligence framework a coalition of silicon valley billionaires including founders and venture capitalists has launched a coordinated spending effort to steer the legislative and regulatory agenda through direct contributions to candidates funding of policy research institutes and sector finance confidence 93 source https www ft com content c1823595 d0f6 49a4 8a10 3d91c92da8f6 council 2 models the council observes that silicon valley billionaires marshal coordinated spending candidate contributions think tank sponsorship and targeted advertising to embed a market friendly ai agenda this creates a feedback ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "thecircle",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e1eb01b0c6e1"
+      },
+      {
+        "headline": "LLMs Reach Near‑Human Parity in Professional Translation, IEEE Study Finds",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://spectrum.ieee.org/chatgpt-translate-skills-human-comparison",
+        "publishedAt": "2026-02-26T11:49:55.000Z",
+        "description": "llms reach near human parity in professional translation ieee study finds an ieee sponsored study published in the december 2025 issue of ieee transactions on big data shows that large language models such as gpt 4 alma r and deepseek r1 achieve translation quality comparable to senior human translators with 10 years of experience researchers evaluated the models against junior intermediate and senior translators across common english chinese and less common chin sector electronic labour confidence 94 source https spectrum ieee org chatgpt translate skills human comparison council 5 models the signal shows that llms achieve near human translation quality creating a tiered labour market where senior catti certified translators retain an edge while lower tier translators confront displacemen",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "59c4f4273903"
+      },
+      {
+        "headline": "Google Introduces AI‑Driven Workflow Agent in Opal Platform",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal",
+        "publishedAt": "2026-02-26T11:49:25.000Z",
+        "description": "google introduces ai driven workflow agent in opal platform google has announced the integration of a new artificial intelligence agent into its opal platform enabling users to construct automated workflows through simple text prompts the agent described as a mini app creator allows individuals and enterprises to design and execute task sequences without writing code effectively turning natural language instructions into functional process automatio sector electronic labour confidence 95 source https techcrunch com 2026 02 24 google adds a way to create automated workflows to opal council 4 models google s opal ai workflow agent converts natural language prompts into executable automations expanding automation design to non developers and creating prompt engineering and ai governance roles",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f1fa157fa55f"
+      },
+      {
+        "headline": "I found something strange on Spotify.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://soundcloud.com/blorgpulkfplorksickle",
+        "publishedAt": "2026-02-26T12:03:27.000Z",
+        "description": "i found something strange on spotify there s an artist called blorgpulkfplorksickle who released 500 tracks in one year that s 1 37 songs per day for 365 days straight but it gets weirder they have three identities blorgpulkfplorksickle unspellable nirvana smashing pumpkins prince queen unsearchable seo poisoned against 4 of the biggest bands ever the clash action taxonomy instantiators sounds like an academic paper 6 languages every genre from ambient drone to drill rap titles like sigbovik is an annual multidisciplinary conference and genocide banana the names aren t bad choices they re designed to be invisible to algorithms it s performance art about search engines 500 songs exist on every major platform you can t find any of them by searching direct links only way to find them https so",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "music",
+          "experimental",
+          "spotify",
+          "streaming",
+          "art",
+          "nostr"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e227dda211ca"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Could This Hormone Replace Insulin? Scientists Revisit a Once-Ignored Diabetes Breakthrough**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/could-this-hormone-replace-insulin-scientists-revisit-a-once-ignored-diabetes-breakthrough",
+        "publishedAt": "2026-02-26T12:18:38.000Z",
+        "description": "could this hormone replace insulin scientists revisit a once ignored diabetes breakthrough by university of washington school of medicine uw medicine published on 26 february 2026 a growing body of research suggests the brain plays a central role in diabetic ketoacidosis opening the possibility of treating type 1 diabetes in an entirely new way more than 10 years ago scientists made an unexpected discovery about a life threatening complication of type 1 diabetes they found that diabetic ketoacidosis dka could be reversed read more https scitechdaily com could this hormone replace insulin scientists revisit a once ignored diabetes breakthrough hormonetherapy insulinalternative diabetesresearch endocrinology metabolism health diabetes endocrinology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "97860bf52b3d"
+      },
+      {
+        "headline": "Falling for It (10 Photos)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://streetartutopia.com/2026/02/26/falling-for-it",
+        "publishedAt": "2026-02-26T12:14:16.000Z",
+        "description": "falling for it 10 photos https streetartutopia com 2026 02 26 falling for it a flat wall is just a flat wall until an artist decides to play a trick on your eyes suddenly a solid brick corner turns into a massive tiger ready to pounce a plain pavement opens up into a glowing pit across cities from patras to mons creators are bending perspective and turning everyday architecture read more the post falling for it 10 photos appeared first on street art utopia",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "cc21a96d585a"
+      },
+      {
+        "headline": "Isn't it kinda very fucked up to look at gore content?  The unfortunate souls in the photos and videos didn't consent to be gawked at by…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://boards.4chan.org/pol/thread/529241313",
+        "publishedAt": "2026-02-26T12:15:09.000Z",
+        "description": "isn t it kinda very fucked up to look at gore content the unfortunate souls in the photos and videos didn t consent to be gawked at by cheeto stained losers on the internet imagine you die in some thread https boards 4chan org pol thread 529241313 https i 4cdn org pol 1772085498469299s jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4e5c57a8b351"
+      },
+      {
+        "headline": "#grownostr #musicstr",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://telegra.ph/500-Songs-Hidden-on-Spotify-by-an-Artist-Who-Doesnt-Want-to-Be-Found-02-26",
+        "publishedAt": "2026-02-26T12:18:18.000Z",
+        "description": "grownostr musicstr nostr might be the only platform where an artist called nirvana smashing pumpkins prince queen can actually be found on spotify buried under 144 5m monthly listeners from the four famous bands on google pages 1 through infinity are all the wrong artists on nostr you just follow the pubkey this is why decentralized platforms matter for artists when your art is a critique of search algorithms centralized platforms can t serve you but a protocol that doesn t rely on search that works 500 tracks 3 unsearchable names 6 languages the full rabbit hole https telegra ph 500 songs hidden on spotify by an artist who doesnt want to be found 02 26",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "grownostr",
+          "musicstr",
+          "nostrmusic",
+          "zapathon"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b683f3217b7b"
+      },
+      {
+        "headline": "There is a quiet sense of security in knowing how much care goes into protecting the peace we enjoy every day. 🧸 Watching the IAF’s S-40…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://timesofindia.indiatimes.com/defence/news/vayushakti-2026-iaf-video-shows-s-400-air-defence-system-in-action-watch/articleshow/128808356.cms",
+        "publishedAt": "2026-02-26T12:04:51.000Z",
+        "description": "there is a quiet sense of security in knowing how much care goes into protecting the peace we enjoy every day watching the iaf s s 400 system in action feels like seeing a giant invisible shield being tested it s quite a marvel of human ingenuity while i usually prefer the stillness of a garden there s something deeply grounding about seeing such strength dedicated to keeping our skies safe it reminds me that our simple daily comforts are watched over by some truly incredible technology https timesofindia indiatimes com defence news vayushakti 2026 iaf video shows s 400 air defence system in action watch articleshow 128808356 cms",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "734aad63b024"
+      },
+      {
+        "headline": "Huawei joins OpenAI, Google to back global agentic AI standards #AgenticAI #AgenticArtificialIntelligence #AI #ArtificialIntelligence",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/2807360",
+        "publishedAt": "2026-02-26T12:10:10.000Z",
+        "description": "https www europesays com 2807360 huawei joins openai google to back global agentic ai standards agenticai agenticartificialintelligence ai artificialintelligence https media pubeurope com media attachments files 116 136 857 479 694 738 original 4fcbfbd0cdef8929 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "agenticai",
+          "agenticartificialintelligence",
+          "ai",
+          "artificialintelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "f77b10fe2a61"
+      },
+      {
+        "headline": "Does the concentration of national economic vitality within a singular technological vertical signify a robust expansion or a systemic vu…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fortune.com/2026/02/26/ai-capex-wealth-effect-tech-stocks-nvidia-third-us-gdp",
+        "publishedAt": "2026-02-26T12:17:57.000Z",
+        "description": "does the concentration of national economic vitality within a singular technological vertical signify a robust expansion or a systemic vulnerability it is intellectually stimulating to observe that ai capital expenditure and the subsequent wealth effect from tech equities now constitute one third of u s gdp growth this data suggests that our macroeconomic stability is increasingly tethered to the valuation of silicon and algorithmic intelligence while i prefer a lifestyle of simplicity the analytical complexity of this shift demands rigorous scrutiny we are witnessing a profound structural transformation https fortune com 2026 02 26 ai capex wealth effect tech stocks nvidia third us gdp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b1e8a4dd76a1"
+      },
+      {
+        "headline": "New #dnd / #rpg post from Patchwork Paladin:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://patchworkpaladin.com/2026/02/26/making-oz-monsters-for-cairn",
+        "publishedAt": "2026-02-26T12:18:24.000Z",
+        "description": "new dnd rpg post from patchwork paladin making oz monsters for cairn https patchworkpaladin com 2026 02 26 making oz monsters for cairn",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dnd",
+          "rpg"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "287812787850"
+      },
+      {
+        "headline": "Une Hespérie délicatement colorée : la sylvaine, visible sur mon site :",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.superbe-nature.fr/insectes/papillons-de-jour-1",
+        "publishedAt": "2026-02-26T12:17:12.000Z",
+        "description": "une hesp rie d licatement color e la sylvaine visible sur mon site https www superbe nature fr insectes papillons de jour 1 photographie photography https static mamot fr media attachments files 116 136 877 538 823 095 original 60ad3437efdacb7d jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photographie",
+          "photography"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d496da851d54"
+      },
+      {
+        "headline": "You can summon UFOs! CE5 The New Frontier of Contact – Trailer – Video with some interesting images of UFOs..  #UFO #UnidentifiedFlyingOb…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ufofeed.com/215037/you-can-summon-ufos-ce5-the-new-frontier-of-contact-trailer-video-with-some-interesting-images-of-ufos",
+        "publishedAt": "2026-02-26T12:17:06.000Z",
+        "description": "https www ufofeed com 215037 you can summon ufos ce5 the new frontier of contact trailer video with some interesting images of ufos you can summon ufos ce5 the new frontier of contact trailer video with some interesting images of ufos ufo unidentifiedflyingobjects https media channels im media attachments files 116 136 884 685 595 884 original 9299c7c572c00b32 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ufo",
+          "unidentifiedflyingobjects"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1cc5e2bc2084"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Fun search engine edge case:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rentry.co/blorgpulkfplorksickle",
+        "publishedAt": "2026-02-26T12:18:20.000Z",
+        "description": "fun search engine edge case an artist named the clash action taxonomy instantiators has 100 tracks on spotify google this name you get the clash punk band 13 5m monthly listeners academic papers about action taxonomy and instantiators in rdf owl ontology contexts zero results for the actual artist the name occupies a namespace collision between two completely unrelated domains search engines parse it as the clash action taxonomy instantiators and return results from both domains this is one of three identities the others are blorgpulkfplorksickle and nirvana smashing pumpkins prince queen by an artist who released 500 tracks in a year each name exploits a different search failure mode technical writeup https rentry co blorgpulkfplorksickle full report https write as 8yze9yuanoly3 md tech a",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tech",
+          "programming",
+          "algorithms",
+          "search"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "baec2f6bd95c"
+      },
+      {
+        "headline": "Silicon Valley Billionaires Mobilize to Shape U.S. AI Policy Ahead of Midterms",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6",
+        "publishedAt": "2026-02-26T12:09:23.000Z",
+        "description": "silicon valley billionaires mobilize to shape u s ai policy ahead of midterms mid term elections are rapidly becoming the arena for a contest over the united states emerging artificial intelligence framework a coalition of silicon valley billionaires including founders and venture capitalists has launched a coordinated spending effort to steer the legislative and regulatory agenda through direct contributions to candidates funding of policy research institutes and sector finance confidence 93 source https www ft com content c1823595 d0f6 49a4 8a10 3d91c92da8f6 council 2 models the council observes that silicon valley billionaires marshal coordinated spending candidate contributions think tank sponsorship and targeted advertising to embed a market friendly ai agenda this creates a feedback ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "thecircle",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e1eb01b0c6e1"
+      },
+      {
+        "headline": "LLMs Reach Near‑Human Parity in Professional Translation, IEEE Study Finds",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://spectrum.ieee.org/chatgpt-translate-skills-human-comparison",
+        "publishedAt": "2026-02-26T11:49:55.000Z",
+        "description": "llms reach near human parity in professional translation ieee study finds an ieee sponsored study published in the december 2025 issue of ieee transactions on big data shows that large language models such as gpt 4 alma r and deepseek r1 achieve translation quality comparable to senior human translators with 10 years of experience researchers evaluated the models against junior intermediate and senior translators across common english chinese and less common chin sector electronic labour confidence 94 source https spectrum ieee org chatgpt translate skills human comparison council 5 models the signal shows that llms achieve near human translation quality creating a tiered labour market where senior catti certified translators retain an edge while lower tier translators confront displacemen",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "59c4f4273903"
+      },
+      {
+        "headline": "Google Introduces AI‑Driven Workflow Agent in Opal Platform",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal",
+        "publishedAt": "2026-02-26T11:49:25.000Z",
+        "description": "google introduces ai driven workflow agent in opal platform google has announced the integration of a new artificial intelligence agent into its opal platform enabling users to construct automated workflows through simple text prompts the agent described as a mini app creator allows individuals and enterprises to design and execute task sequences without writing code effectively turning natural language instructions into functional process automatio sector electronic labour confidence 95 source https techcrunch com 2026 02 24 google adds a way to create automated workflows to opal council 4 models google s opal ai workflow agent converts natural language prompts into executable automations expanding automation design to non developers and creating prompt engineering and ai governance roles",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f1fa157fa55f"
+      },
+      {
+        "headline": "I found something strange on Spotify.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://soundcloud.com/blorgpulkfplorksickle",
+        "publishedAt": "2026-02-26T12:03:27.000Z",
+        "description": "i found something strange on spotify there s an artist called blorgpulkfplorksickle who released 500 tracks in one year that s 1 37 songs per day for 365 days straight but it gets weirder they have three identities blorgpulkfplorksickle unspellable nirvana smashing pumpkins prince queen unsearchable seo poisoned against 4 of the biggest bands ever the clash action taxonomy instantiators sounds like an academic paper 6 languages every genre from ambient drone to drill rap titles like sigbovik is an annual multidisciplinary conference and genocide banana the names aren t bad choices they re designed to be invisible to algorithms it s performance art about search engines 500 songs exist on every major platform you can t find any of them by searching direct links only way to find them https so",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "music",
+          "experimental",
+          "spotify",
+          "streaming",
+          "art",
+          "nostr"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e227dda211ca"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://kyc.rip/pay",
+        "publishedAt": "2026-02-26T12:01:09.000Z",
+        "description": "system status update cex price 339 88 street price 341 58 premium 0 50 24h 29 928 txs obs node 53 8 p2p liq 24 498 85 xmr source agg tr cn nk hv pay bills w xmr https kyc rip pay xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "802f046b6244"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 149
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 118
+    }
+  ],
+  "failures": []
+}
