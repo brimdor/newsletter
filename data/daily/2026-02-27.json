@@ -1,0 +1,618 @@
+{
+  "date": "2026-02-27",
+  "generatedAt": "2026-02-27T12:15:22.866Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22485817060",
+    "commitSha": "acce0d14570046771420590835fd560a4fea1a1e"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 362,
+    "dedupDropped": 68
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Google Invokes First Amendment to Shield Gmail Users from Piracy Subpoena",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/sharing-7-movies-on-bittorrent-1-5-million-damages-121201",
+        "publishedAt": "2026-02-27T12:13:36.000Z",
+        "description": "google invokes first amendment to shield gmail users from piracy subpoena google flava works is an illinois based adult entertainment company specializing in content featuring black and latino men the company has pursued copyright infringers aggressively for years including a 1 5 million damages award 1 against a defendant who shared its films on bittorrent and a high profile clash 2 with an unnamed television executive that was eventually settled last march flava together with blatino media filed a new lawsuit targeting an alleged canadian leaker of its videos alongside 47 john doe defendants the rightsholders claim the maximum of 150 000 in statutory damages from each defendant bringing the total damages claim to over 8 million this case stands out from the typical torrent lawsuits as th",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "74856a090e4c"
+      },
+      {
+        "headline": "Perplexity Realigns Monetization Strategy Amidst AI Search Evolution",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.wired.com/story/perplexity-ads-shift-search-google",
+        "publishedAt": "2026-02-27T11:46:25.000Z",
+        "description": "perplexity realigns monetization strategy amidst ai search evolution perplexity a leading ai search startup has announced a significant strategic re alignment pivoting away from its previously anticipated ad based monetization model the company which once projected advertising as a massive revenue stream is now shifting its focus towards cultivating a smaller more valuable audience this strategic pivot signals a broader re evaluation of sustainable busines sector electronic labour confidence 98 source https www wired com story perplexity ads shift search google fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2c45472cfe9b"
+      },
+      {
+        "headline": "Gympass is hiring Senior Frontend Software Engineer | Partners",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-frontend-software-engineer-partners-at-gympass-com-feb-3-2026-8e960f",
+        "publishedAt": "2026-02-27T12:05:22.000Z",
+        "description": "gympass is hiring senior frontend software engineer partners typescript node seniorengineer remote brazil full time gympass job details https jobsfordevelopers com jobs senior frontend software engineer partners at gympass com feb 3 2026 8e960f utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "typescript",
+          "node",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9dd6a0bdcfc6"
+      },
+      {
+        "headline": "Citrini AI Report Sparks Market Volatility, Prompts Debate on Bitcoin's Future",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.dlnews.com/articles/markets/citrini-ai-report-could-be-a-boon-for-the-price-of-bitcoin",
+        "publishedAt": "2026-02-27T11:45:35.000Z",
+        "description": "citrini ai report sparks market volatility prompts debate on bitcoin s future a recent report co authored by alap shah of lotus technology management and citrini research has sent ripples through global financial markets triggering a significant selloff across various sectors including technology payments and cryptocurrencies the report which envisions a future where artificial intelligence ai extensively displaces white collar workers leading to a substantial decl sector finance confidence 95 source https www dlnews com articles markets citrini ai report could be a boon for the price of bitcoin fire circle finance",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6d66331f2d3d"
+      },
+      {
+        "headline": "Clicks Communicator: QWERTZ-Tastatur für das Smartphone mit Hardware-Keyboard",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Clicks-Communicator-QWERTZ-Tastatur-fuer-das-Smartphone-mit-Hardware-Keyboard-11193000.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-02-27T12:06:00.000Z",
+        "description": "clicks communicator qwertz tastatur f r das smartphone mit hardware keyboard das im zuge der ces angek ndigte clicks smartphone mit physischer tastatur kann nun auch mit qwertz tastatur gekauft werden https www heise de news clicks communicator qwertz tastatur fuer das smartphone mit hardware keyboard 11193000 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon android blackberry mwc mobiles smartphone updates news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "blackberry",
+          "mwc",
+          "mobiles",
+          "smartphone",
+          "updates",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "ceca2c404506"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Jim Carrey Goes Public with Girlfriend Minzi After Years Together, Thanks Her at Cesar Awards | Jim Carrey, Minzi | Celebrity News and Go…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.inbella.com/1514248/jim-carrey-goes-public-with-girlfriend-minzi-after-years-together-thanks-her-at-cesar-awards-jim-carrey-minzi-celebrity-news-and-gossip-entertainment-photos-and-videos",
+        "publishedAt": "2026-02-27T12:08:02.000Z",
+        "description": "jim carrey goes public with girlfriend minzi after years together thanks her at cesar awards jim carrey minzi celebrity news and gossip entertainment photos and videos https www inbella com 1514248 jim carrey goes public with girlfriend minzi after years together thanks her at cesar awards jim carrey minzi celebrity news and gossip entertainment photos and videos celebritiestopics https media channels im media attachments files 116 142 511 375 368 252 original 0b6791c33bec4b96 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "celebritiestopics"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c1d236626a8d"
+      },
+      {
+        "headline": "मांग में सिंदूर, हाथों में लाल चूड़ा, शादी के बाद पति विजय का हाथ थामे दिखीं रश्मिका मंदाना",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.abplive.com/photo-gallery/entertainment/bollywood-rashmika-mandanna-and-vijay-deverakonda-first-time-after-wedding-photos-viral-actress-look-gorgeous-3095236",
+        "publishedAt": "2026-02-27T12:13:31.000Z",
+        "description": "https www abplive com photo gallery entertainment bollywood rashmika mandanna and vijay deverakonda first time after wedding photos viral actress look gorgeous 3095236",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f3b304de57b1"
+      },
+      {
+        "headline": "Le vulcain (verso), magnifique papillon,",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.superbe-nature.fr/insectes/papillons-de-jour-2",
+        "publishedAt": "2026-02-27T12:09:05.000Z",
+        "description": "le vulcain verso magnifique papillon photographie photography d autres photos visibles sur mon site https www superbe nature fr insectes papillons de jour 2 https static mamot fr media attachments files 116 142 515 092 605 291 original 6859f270ebfb7adf jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photographie",
+          "photography"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fb948644e8a4"
+      },
+      {
+        "headline": "Research library strategy for imagined futures: the ARL/CNI Futurescape AI experience",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rluk.ac.uk/dsf",
+        "publishedAt": "2026-02-27T12:01:49.000Z",
+        "description": "research library strategy for imagined futures the arl cni futurescape ai experience wednesday 4 march 14 00 15 00 gmt https www rluk ac uk dsf",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "9fc8e875abf5"
+      },
+      {
+        "headline": "Good morning nostr, and happy friday.  Today we'll be visiting the resale shop, then i'll be watering trees and cutting back some winter…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/51ca35a76dca0ee97b90edae7de300487c654da80e183671ebb641ad2e801513.jpg",
+        "publishedAt": "2026-02-27T12:10:33.000Z",
+        "description": "good morning nostr and happy friday today we ll be visiting the resale shop then i ll be watering trees and cutting back some winter stuff i still have a backlog of office stuff but made some progress this week anyway yall have a great friday enjoy your coffee and remember that today is a gift coffeechain homesteading https image nostr build 51ca35a76dca0ee97b90edae7de300487c654da80e183671ebb641ad2e801513 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "5073ed1df364"
+      },
+      {
+        "headline": "Why Tehran’s Two-Tiered Internet Is So Dangerous",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
+        "publishedAt": "2026-02-27T12:14:15.000Z",
+        "description": "why tehran s two tiered internet is so dangerous https www schneier com blog archives 2026 02 why tehrans two tiered internet is so dangerous html iran is slowly emerging from the most severe communications blackout in its history and one of the longest in the world triggered as part of january s government crackdown against citizen protests nationwide the regime implemented an internet shutdown that transcends the standard definition of internet censorship this was not merely blocking",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "279df10f1f2b"
+      },
+      {
+        "headline": "China Rejects US Nuclear Talks Demand as Unfair & Unfeasible  BEIJING (Sputnik) - Demanding that China join negotiations on nuclear disar…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260227/us-push-for-chinas-nuclear-talks-involvement-is-unfair-and-unfeasible---foreign-ministry-1123701610.html",
+        "publishedAt": "2026-02-27T12:13:17.000Z",
+        "description": "china rejects us nuclear talks demand as unfair unfeasible https sputnikglobe com 20260227 us push for chinas nuclear talks involvement is unfair and unfeasible foreign ministry 1123701610 html beijing sputnik demanding that china join negotiations on nuclear disarmament is unfair it is not feasible at this stage chinese foreign ministry spokeswoman mao ning said on friday news press",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "press",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6166fa115680"
+      },
+      {
+        "headline": "Speaking for the Government, Baroness Smith of Malvern confirmed that she and the Secretary of State for Education, Bridget Phillipson, “…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thecritic.co.uk/academic-freedom-is-stuck-in-legal-limbo",
+        "publishedAt": "2026-02-27T12:05:12.000Z",
+        "description": "https thecritic co uk academic freedom is stuck in legal limbo speaking for the government baroness smith of malvern confirmed that she and the secretary of state for education bridget phillipson have considered the letter and the concerns raised in it and that she had met many of the signatories although she could not comment on the future legislative programme peers could rest assured that the government was considering options this has unfortunately been the government line since at least january 2025 so it was entirely understandable that skidelsky pressed her on the point noting that the department for education s june 2025 policy paper promised to seek a legislative vehicle at the earliest opportunity if that was indeed the case did the government have any timetable for legislation t",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "accb8ae492d2"
+      },
+      {
+        "headline": "Daily marmot 🦫",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://files.catbox.moe/4jt8gu.png",
+        "publishedAt": "2026-02-27T12:00:22.000Z",
+        "description": "daily marmot today s marmot is digging a burrow with tiny paws marmotstr https files catbox moe 4jt8gu png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "33ef6751f481"
+      },
+      {
+        "headline": "Peace and security initiatives are permanently enhanced only when all seven million Jews of Palestine are exterminated.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/Resistancetoast/156077",
+        "publishedAt": "2026-02-27T11:57:13.000Z",
+        "description": "peace and security initiatives are permanently enhanced only when all seven million jews of palestine are exterminated now over to los angeles paris london philadelphia and buenos aires iranian foreign ministry we condemn the ongoing israeli violations of lebanon s national sovereignty and territorial integrity and we call on the security council to take urgent action to fulfill its responsibilities in maintaining international peace and security https t me resistancetoast 156077",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1be454a9d325"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Google Invokes First Amendment to Shield Gmail Users from Piracy Subpoena",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/sharing-7-movies-on-bittorrent-1-5-million-damages-121201",
+        "publishedAt": "2026-02-27T12:13:36.000Z",
+        "description": "google invokes first amendment to shield gmail users from piracy subpoena google flava works is an illinois based adult entertainment company specializing in content featuring black and latino men the company has pursued copyright infringers aggressively for years including a 1 5 million damages award 1 against a defendant who shared its films on bittorrent and a high profile clash 2 with an unnamed television executive that was eventually settled last march flava together with blatino media filed a new lawsuit targeting an alleged canadian leaker of its videos alongside 47 john doe defendants the rightsholders claim the maximum of 150 000 in statutory damages from each defendant bringing the total damages claim to over 8 million this case stands out from the typical torrent lawsuits as th",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "74856a090e4c"
+      },
+      {
+        "headline": "Perplexity Realigns Monetization Strategy Amidst AI Search Evolution",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.wired.com/story/perplexity-ads-shift-search-google",
+        "publishedAt": "2026-02-27T11:46:25.000Z",
+        "description": "perplexity realigns monetization strategy amidst ai search evolution perplexity a leading ai search startup has announced a significant strategic re alignment pivoting away from its previously anticipated ad based monetization model the company which once projected advertising as a massive revenue stream is now shifting its focus towards cultivating a smaller more valuable audience this strategic pivot signals a broader re evaluation of sustainable busines sector electronic labour confidence 98 source https www wired com story perplexity ads shift search google fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2c45472cfe9b"
+      },
+      {
+        "headline": "Gympass is hiring Senior Frontend Software Engineer | Partners",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-frontend-software-engineer-partners-at-gympass-com-feb-3-2026-8e960f",
+        "publishedAt": "2026-02-27T12:05:22.000Z",
+        "description": "gympass is hiring senior frontend software engineer partners typescript node seniorengineer remote brazil full time gympass job details https jobsfordevelopers com jobs senior frontend software engineer partners at gympass com feb 3 2026 8e960f utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "typescript",
+          "node",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9dd6a0bdcfc6"
+      },
+      {
+        "headline": "Citrini AI Report Sparks Market Volatility, Prompts Debate on Bitcoin's Future",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.dlnews.com/articles/markets/citrini-ai-report-could-be-a-boon-for-the-price-of-bitcoin",
+        "publishedAt": "2026-02-27T11:45:35.000Z",
+        "description": "citrini ai report sparks market volatility prompts debate on bitcoin s future a recent report co authored by alap shah of lotus technology management and citrini research has sent ripples through global financial markets triggering a significant selloff across various sectors including technology payments and cryptocurrencies the report which envisions a future where artificial intelligence ai extensively displaces white collar workers leading to a substantial decl sector finance confidence 95 source https www dlnews com articles markets citrini ai report could be a boon for the price of bitcoin fire circle finance",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6d66331f2d3d"
+      },
+      {
+        "headline": "Clicks Communicator: QWERTZ-Tastatur für das Smartphone mit Hardware-Keyboard",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Clicks-Communicator-QWERTZ-Tastatur-fuer-das-Smartphone-mit-Hardware-Keyboard-11193000.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-02-27T12:06:00.000Z",
+        "description": "clicks communicator qwertz tastatur f r das smartphone mit hardware keyboard das im zuge der ces angek ndigte clicks smartphone mit physischer tastatur kann nun auch mit qwertz tastatur gekauft werden https www heise de news clicks communicator qwertz tastatur fuer das smartphone mit hardware keyboard 11193000 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon android blackberry mwc mobiles smartphone updates news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "blackberry",
+          "mwc",
+          "mobiles",
+          "smartphone",
+          "updates",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "ceca2c404506"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/",
+        "publishedAt": "2026-02-27T12:00:41.000Z",
+        "description": "system status update cex price 343 21 street price 345 68 premium 0 72 24h 31 457 txs obs node 55 0 p2p liq 20 605 11 xmr source agg tr cn nk hv dark builder kit https kyc rip xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "76888b640728"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 155
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 74
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 65
+    }
+  ],
+  "failures": []
+}
