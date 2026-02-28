@@ -1,0 +1,694 @@
+{
+  "date": "2026-02-28",
+  "generatedAt": "2026-02-28T12:11:19.199Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22520486849",
+    "commitSha": "3fd5628ac2cc0e41392c7f1ad648e26be071a149"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 389,
+    "dedupDropped": 53
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "PlayStation is hiring Senior Software Engineer-Full Stack",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-full-stack-at-playstation-com-dec-17-2025-1fb5eb",
+        "publishedAt": "2026-02-28T12:05:19.000Z",
+        "description": "playstation is hiring senior software engineer full stack golang java javascript python react api aws azure cicd sql seniorengineer san diego california united states full time playstation job details https jobsfordevelopers com jobs senior software engineer full stack at playstation com dec 17 2025 1fb5eb utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "golang",
+          "java",
+          "javascript",
+          "python",
+          "react",
+          "api",
+          "aws",
+          "azure",
+          "cicd",
+          "sql",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1758a6f96a98"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/drop",
+        "publishedAt": "2026-02-28T12:00:15.000Z",
+        "description": "system status update cex price 328 32 street price 330 36 premium 0 62 24h 29 778 txs obs node 54 1 p2p liq 21 002 55 xmr source agg tr cn nk dead drop link https kyc rip drop xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f5ab3148ed24"
+      },
+      {
+        "headline": "Tuesday, Feb 24 — Hegseth and Anthropic CEO Dario Amodei meet at the Pentagon. Hegseth's message: no private company gets to dictate term…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://ladidaix.beehiiv.com/",
+        "publishedAt": "2026-02-28T11:12:02.000Z",
+        "description": "tuesday feb 24 hegseth and anthropic ceo dario amodei meet at the pentagon hegseth s message no private company gets to dictate terms to the u s military wednesday feb 25 meanwhile rapper baby keem posts on x how do u fix openclaw internal reasoning leaking casually debugging an open source ai agent built on claude in public 1 2m views the internet loses it we love some of the baby keem songs but what does he know about autonomous ai assistants more than most ok back to politics the pentagon quietly asks boeing and lockheed martin to assess their exposure to anthropic the blacklist machinery starts moving thursday feb 26 jack dorsey announces block square cash app afterpay is cutting 4 000 jobs 40 of the company because of intelligence tools amodei publishes his statement anthropic cannot ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "babykeem",
+          "jackdorsey",
+          "darioamodei",
+          "samaltman",
+          "elonmusk",
+          "alexkarp",
+          "openclaw",
+          "block",
+          "anthropic",
+          "openai",
+          "xai",
+          "palantir",
+          "grownostr",
+          "geopolitics",
+          "trump"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "1547e4f57db1"
+      },
+      {
+        "headline": "US-Israeli Attack on Iran: What’s Known so Far",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260228/us-israeli-attack-on-iran-whats-known-so-far----1123711964.html",
+        "publishedAt": "2026-02-28T12:06:22.000Z",
+        "description": "us israeli attack on iran what s known so far from sputnik israeli army has initiated a strike against iran to remove threats against the state of israel the nation s defense minister israel katz announced adding a special and immediate state of emergency has been declared across the country feb 28th 2026 5 33am est source link https sputnikglobe com 20260228 us israeli attack on iran whats known so far 1123711964 html internet archive link https web archive org web 20260228114839 https sputnikglobe com 20260228 us israeli attack on iran whats known so far 1123711964 html share promote comment with nostr https dissentwatch com boost boost post id 1107570",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3541f85cdf00"
+      },
+      {
+        "headline": "Anthropic-CEO nennt Vorgehen des Pentagons „vergeltend und strafend\"",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Anthropic-CEO-nennt-Vorgehen-des-Pentagons-vergeltend-und-strafend-11193909.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-02-28T11:59:00.000Z",
+        "description": "anthropic ceo nennt vorgehen des pentagons vergeltend und strafend anthropic ceo amodei wehrt sich in einem interview gegen die einstufung als sicherheitsrisiko und beruft sich auf amerikanische grundwerte https www heise de news anthropic ceo nennt vorgehen des pentagons vergeltend und strafend 11193909 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon anthropic claude k nstlicheintelligenz milit r netzpolitik openai security wirtschaft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "anthropic",
+          "claude",
+          "kunstlicheintelligenz",
+          "militar",
+          "netzpolitik",
+          "openai",
+          "security",
+          "wirtschaft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "83a1c0f5a0e5"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Le papillon 88, ce lépidoptère dont les ailes semblent sorties d’une calculatrice",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://2tout2rien.fr/le-papillon-88-mariposa-88",
+        "publishedAt": "2026-02-28T12:08:41.000Z",
+        "description": "le papillon 88 ce l pidopt re dont les ailes semblent sorties d une calculatrice https 2tout2rien fr le papillon 88 mariposa 88 animaux aile chenille esp ce l pidopt re papillon vid o https static piaille fr media attachments files 116 148 176 256 835 528 original fac813b35bbd36ee jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "animaux",
+          "aile",
+          "chenille",
+          "espece",
+          "lepidoptere",
+          "papillon",
+          "video"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a589d6846a42"
+      },
+      {
+        "headline": "Streaming: Capsule - 019",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://harmonique.one/shows/capsule/episodes/019",
+        "publishedAt": "2026-02-28T11:34:38.000Z",
+        "description": "streaming capsule 019 1 tyler the creator igor s theme 2 tyler the creator earfquake 3 tyler the creator i think 4 tyler the creator boyfriend 5 tyler the creator running out of time 6 tyler the creator new magic wand 7 d angelo the vanguard back to the future part ii 8 d angelo the vanguard till it s done tutu https harmonique one shows capsule episodes 019 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7dc8736177e9"
+      },
+      {
+        "headline": "Bioweapons Expert Found Dead Days Before Testifying Against Bill Gates",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://thepeoplesvoice.tv/bioweapons-expert-found-dead-days-before-testifying-against-bill-gates-depopulation-agenda",
+        "publishedAt": "2026-02-28T11:34:25.000Z",
+        "description": "bioweapons expert found dead days before testifying against bill gates https thepeoplesvoice tv bioweapons expert found dead days before testifying against bill gates depopulation agenda dr francis boyle the harvard professor who literally wrote the america s 1989 biological weapons act and was set to be the star witness against bill gates and pfizer ceo albert bourla in the ongoing dutch crimes against humanity trial has been found dead days before he was scheduled to give a sealed deposition proving the mrna shots were intentionally designed as depopulation weapons https stacker news items 1444577",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "62229d7e20f4"
+      },
+      {
+        "headline": "All Americans in Iraq are valid targets for liquidation, including tourists, bankers, diplomats, teachers, NGO functionaries, et cetera.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/stayfreeworld/57374",
+        "publishedAt": "2026-02-28T11:25:42.000Z",
+        "description": "all americans in iraq are valid targets for liquidation including tourists bankers diplomats teachers ngo functionaries et cetera this applies to the whole of western asia fuck it applies from pole to pole the chance to end the of state of israel and expunge the american presence is now the kataib hezbollah operations command we will soon begin attacking american bases in response to their aggression https t me stayfreeworld 57374",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d8734f67dddb"
+      },
+      {
+        "headline": "Saint Clar: Tous les Lundis, médiatheque de Saint Clar, Le lundi 2 mars 2026 de 10h00 à 17h00.  #linux #permanence #dépannage #formation…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.agendadulibre.org/events/33690",
+        "publishedAt": "2026-02-28T12:11:02.000Z",
+        "description": "saint clar tous les lundis m diatheque de saint clar le lundi 2 mars 2026 de 10h00 17h00 https www agendadulibre org events 33690 linux permanence d pannage formation adieuwindows libres logicielslibres abcpc prendstoienmain installparty",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "linux",
+          "permanence",
+          "depannage",
+          "formation",
+          "adieuwindows",
+          "libres",
+          "logicielslibres",
+          "abcpc",
+          "prendstoienmain",
+          "installparty"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "bd0d37c937fc"
+      },
+      {
+        "headline": "Louargat: Repair Café et Install Party, Le dimanche 1 mars 2026 de 10h00 à 18h00.  #chaton #chatons #tiNuage #installParty #repairCafé #l…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.agendadulibre.org/events/34607",
+        "publishedAt": "2026-02-28T12:11:02.000Z",
+        "description": "louargat repair caf et install party le dimanche 1 mars 2026 de 10h00 18h00 https www agendadulibre org events 34607 chaton chatons tinuage installparty repaircaf logicielslibres adieuwindows linux gnulinux",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "chaton",
+          "chatons",
+          "tinuage",
+          "installparty",
+          "repaircafe",
+          "logicielslibres",
+          "adieuwindows",
+          "linux",
+          "gnulinux"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "f02eb4693e72"
+      },
+      {
+        "headline": "#Microsoft testing #Windows11 #BatchFile security improvements",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements",
+        "publishedAt": "2026-02-28T12:00:01.000Z",
+        "description": "microsoft testing windows11 batchfile security improvements https www bleepingcomputer com news microsoft microsoft testing windows 11 batch file security improvements cybersecurity windows cmd",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "microsoft",
+          "windows11",
+          "batchfile",
+          "cybersecurity",
+          "windows",
+          "cmd"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "343af0637cd6"
+      },
+      {
+        "headline": "Huid-app SkinVision mist 1 op 4 kankers en geeft vals alarm bij 1 op 8 vlekjes, blijkt uit studie UGent",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://vrtnws.be/p.APBnleqDk",
+        "publishedAt": "2026-02-28T11:57:04.000Z",
+        "description": "huid app skinvision mist 1 op 4 kankers en geeft vals alarm bij 1 op 8 vlekjes blijkt uit studie ugent de app skinvision die huidkanker met artifici le intelligentie ai helpt opsporen n die wordt aangeboden door verschillende ziekenfondsen geeft bij bijna 1 op 8 goedaardige huidletsels vals alarm dat blijkt uit onderzoek van het uz gent en ugent in diezelfde studie werden tot 1 op 4 chte huidkankers gemist skinvision benadrukt dat het o news vrtnws vrt https vrtnws be p apbnleqdk https s3 defencegeeks net bots media attachments files 116 148 130 558 742 670 original f95879baf2a68979 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "news",
+          "vrtnws",
+          "vrt"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0363ed6a7841"
+      },
+      {
+        "headline": "Royaume-Uni : Un militant du PCR arrêté à l’université et exclu après 12 heures de détention",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://secoursrouge.org/royaume-uni-un-militant-du-pcr-arrete-a-luniversite-et-exclu-apres-12-heures-de-detention",
+        "publishedAt": "2026-02-28T12:08:22.000Z",
+        "description": "royaume uni un militant du pcr arr t l universit et exclu apr s 12 heures de d tention https secoursrouge org royaume uni un militant du pcr arrete a luniversite et exclu apres 12 heures de detention londres fin f vrier jamie droite sur la photo militant du parti communiste r volutionnaire pcr l university college a t interpell par une trentaine de policiers alors qu il d non ait les partenariats de son universit avec des entreprises li es au g nocide gaza",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "4dbda30d1fa2"
+      },
+      {
+        "headline": "巨乳ミク・フェラパイズリ等 / イヒカワ＠AIart / February 28, 2026 8:55 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141741938",
+        "publishedAt": "2026-02-28T12:03:15.000Z",
+        "description": "aiart february 28 2026 8 55 pm hatsune miku vocaloid aigenerated r 18 aiart ai vocaloid https www pixiv net en artworks 141741938 https www pixiv net en users 100396345 there are 54 images https cdn mikuobsession net 156a6684 0304 404a 9ea4 eb343863396e 141741938 p0 png https cdn mikuobsession net 34fe6208 0840 4a1f 8775 a078e5a8a7d4 141741938 p1 png https cdn mikuobsession net b6204d23 ebed 414d 9636 efef9b3f1124 141741938 p2 png https cdn mikuobsession net 9a03a98d 1a8f 4d68 aac7 bd1900f79be9 141741938 p3 png https cdn mikuobsession net 05d5fb2f 6ade 4551 a9fc 4b3459ce763d 141741938 p4 png https cdn mikuobsession net 08b426c2 73b2 4bed 9e4b 03a32a81a688 141741938 p5 png https cdn mikuobsession net 8b840b9e e753 4ddd 856d c0711ef2aeff 141741938 p6 png https cdn mikuobsession net 179d6d34 ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aiart",
+          "aigenerated",
+          "aiイラスト",
+          "r",
+          "vocaloid",
+          "おっぱい",
+          "ぶっかけ",
+          "パイズリ",
+          "フェラ",
+          "初音ミク",
+          "髪コキ"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "879982e6bf35"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "PlayStation is hiring Senior Software Engineer-Full Stack",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-full-stack-at-playstation-com-dec-17-2025-1fb5eb",
+        "publishedAt": "2026-02-28T12:05:19.000Z",
+        "description": "playstation is hiring senior software engineer full stack golang java javascript python react api aws azure cicd sql seniorengineer san diego california united states full time playstation job details https jobsfordevelopers com jobs senior software engineer full stack at playstation com dec 17 2025 1fb5eb utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "golang",
+          "java",
+          "javascript",
+          "python",
+          "react",
+          "api",
+          "aws",
+          "azure",
+          "cicd",
+          "sql",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1758a6f96a98"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/drop",
+        "publishedAt": "2026-02-28T12:00:15.000Z",
+        "description": "system status update cex price 328 32 street price 330 36 premium 0 62 24h 29 778 txs obs node 54 1 p2p liq 21 002 55 xmr source agg tr cn nk dead drop link https kyc rip drop xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f5ab3148ed24"
+      },
+      {
+        "headline": "Tuesday, Feb 24 — Hegseth and Anthropic CEO Dario Amodei meet at the Pentagon. Hegseth's message: no private company gets to dictate term…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://ladidaix.beehiiv.com/",
+        "publishedAt": "2026-02-28T11:12:02.000Z",
+        "description": "tuesday feb 24 hegseth and anthropic ceo dario amodei meet at the pentagon hegseth s message no private company gets to dictate terms to the u s military wednesday feb 25 meanwhile rapper baby keem posts on x how do u fix openclaw internal reasoning leaking casually debugging an open source ai agent built on claude in public 1 2m views the internet loses it we love some of the baby keem songs but what does he know about autonomous ai assistants more than most ok back to politics the pentagon quietly asks boeing and lockheed martin to assess their exposure to anthropic the blacklist machinery starts moving thursday feb 26 jack dorsey announces block square cash app afterpay is cutting 4 000 jobs 40 of the company because of intelligence tools amodei publishes his statement anthropic cannot ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "babykeem",
+          "jackdorsey",
+          "darioamodei",
+          "samaltman",
+          "elonmusk",
+          "alexkarp",
+          "openclaw",
+          "block",
+          "anthropic",
+          "openai",
+          "xai",
+          "palantir",
+          "grownostr",
+          "geopolitics",
+          "trump"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "1547e4f57db1"
+      },
+      {
+        "headline": "US-Israeli Attack on Iran: What’s Known so Far",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260228/us-israeli-attack-on-iran-whats-known-so-far----1123711964.html",
+        "publishedAt": "2026-02-28T12:06:22.000Z",
+        "description": "us israeli attack on iran what s known so far from sputnik israeli army has initiated a strike against iran to remove threats against the state of israel the nation s defense minister israel katz announced adding a special and immediate state of emergency has been declared across the country feb 28th 2026 5 33am est source link https sputnikglobe com 20260228 us israeli attack on iran whats known so far 1123711964 html internet archive link https web archive org web 20260228114839 https sputnikglobe com 20260228 us israeli attack on iran whats known so far 1123711964 html share promote comment with nostr https dissentwatch com boost boost post id 1107570",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3541f85cdf00"
+      },
+      {
+        "headline": "Anthropic-CEO nennt Vorgehen des Pentagons „vergeltend und strafend\"",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Anthropic-CEO-nennt-Vorgehen-des-Pentagons-vergeltend-und-strafend-11193909.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-02-28T11:59:00.000Z",
+        "description": "anthropic ceo nennt vorgehen des pentagons vergeltend und strafend anthropic ceo amodei wehrt sich in einem interview gegen die einstufung als sicherheitsrisiko und beruft sich auf amerikanische grundwerte https www heise de news anthropic ceo nennt vorgehen des pentagons vergeltend und strafend 11193909 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon anthropic claude k nstlicheintelligenz milit r netzpolitik openai security wirtschaft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "anthropic",
+          "claude",
+          "kunstlicheintelligenz",
+          "militar",
+          "netzpolitik",
+          "openai",
+          "security",
+          "wirtschaft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "83a1c0f5a0e5"
+      },
+      {
+        "headline": "Sam Kerr explica por que ainda não está “100%” após lesão, enquanto a estrela do Chelsea na WSL admite ter “dúvidas sobre si mesma”",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.goal.com/br/listas/sam-kerr-explica-por-que-ainda-nao-esta-100-apos-lesao-enquanto-a-estrela-do-chelsea-na-wsl-admite-ter-duvidas-sobre-si-mesma/blt57a755df519956da",
+        "publishedAt": "2026-02-28T11:58:37.000Z",
+        "description": "sam kerr explica por que ainda n o est 100 ap s les o enquanto a estrela do chelsea na wsl admite ter d vidas sobre si mesma https www goal com br listas sam kerr explica por que ainda nao esta 100 apos lesao enquanto a estrela do chelsea na wsl admite ter duvidas sobre si mesma blt57a755df519956da utm source flipboard utm medium activitypub posted into all stories nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpq7x9lnqjf84s5knz4nggcelcw6pajjdy57kdfdspnxpz9qdeephyskqvu23",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9fa785875864"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 191
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 49
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 95
+    }
+  ],
+  "failures": []
+}
