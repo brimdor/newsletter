@@ -1,0 +1,636 @@
+{
+  "date": "2026-03-01",
+  "generatedAt": "2026-03-01T12:11:45.396Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22543148042",
+    "commitSha": "ddc5282f01367ef8c559fddadef3d4367a9ce8b1"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 337,
+    "dedupDropped": 75
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/invoice",
+        "publishedAt": "2026-03-01T12:00:16.000Z",
+        "description": "system status update cex price 343 03 street price 346 20 premium 0 93 24h 26 522 txs obs node 54 5 p2p liq 21 430 89 xmr source agg tr cn nk anonymous invoicing generate private payment links and invoices receive xmr or convert public crypto instantly https kyc rip invoice xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5a4dc794d98e"
+      },
+      {
+        "headline": "With the Pixel 11, Google needs to admit it has a hardware problem",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.androidauthority.com/google-pixel-hardware-problem-3643891",
+        "publishedAt": "2026-03-01T12:00:18.000Z",
+        "description": "with the pixel 11 google needs to admit it has a hardware problem https www androidauthority com google pixel hardware problem 3643891 utm source flipboard utm medium activitypub posted into features nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqqzc6amh5atzjs7357pnd2vxzngpm0zjcr9zlda57lf06wnn20s7q3k0ctm",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "27e5fd53d472"
+      },
+      {
+        "headline": "Zynga is hiring Senior Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-at-zynga-com-aug-28-2024-868a36",
+        "publishedAt": "2026-03-01T12:05:08.000Z",
+        "description": "zynga is hiring senior software engineer seniorengineer turkey full time zynga job details https jobsfordevelopers com jobs senior software engineer at zynga com aug 28 2024 868a36 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "7141b3a14783"
+      },
+      {
+        "headline": "【AWS】Strands Labs ー フォーマット変換・型変換・カラム名修正を全部ai-functionsに丸投げする",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qiita.com/yakumo_09/items/58e733b16e96b255dfec",
+        "publishedAt": "2026-03-01T12:04:00.000Z",
+        "description": "aws strands labs ai functions https qiita com yakumo 09 items 58e733b16e96b255dfec utm campaign popular items utm medium feed utm source popular items qiita python aws ai ai strandsagents",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qiita",
+          "python",
+          "aws",
+          "ai",
+          "aiエージェント",
+          "strandsagents"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d05b0e897334"
+      },
+      {
+        "headline": "Arsenal de armas proibidas apreendido em Coruche",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/arsenal-de-armas-proibidas-apreendido-em-coruche-69a4261f664d678552454cc8",
+        "publishedAt": "2026-03-01T11:56:39.000Z",
+        "description": "arsenal de armas proibidas apreendido em coruche https sapo pt artigo arsenal de armas proibidas apreendido em coruche 69a4261f664d678552454cc8 utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8c83a4e17ac2"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "racerloid!! / Potibuu / March 1, 2026 8:27 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141786701",
+        "publishedAt": "2026-03-01T12:01:14.000Z",
+        "description": "racerloid potibuu march 1 2026 8 27 pm was really fun drawing this trying not to draw every detail just enough to show what it is it was harder than i imagined loll 3 next one will be more or less in the end of the next month too reference photo senna and mclaren at monaco 1993 vocaloid utau animegirl f1 https www pixiv net en artworks 141786701 https www pixiv net en users 112744464 https cdn mikuobsession net 5e62046c e40d 4714 830c 33c58af1185f 141786701 bdfeeaa1fe0e151ac4e80747843ece5b p0 jpg https cdn mikuobsession net c49fdbf8 8bd2 40e9 9cc1 270037ba5b6b 141786701 bdfeeaa1fe0e151ac4e80747843ece5b p1 jpg https cdn mikuobsession net 1de98afc 82a7 43c4 9457 50e0e0ba3fd7 141786701 bdfeeaa1fe0e151ac4e80747843ece5b p2 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "f1",
+          "utau",
+          "vocaloid",
+          "animegirl",
+          "ボカロ",
+          "ボーカロイド",
+          "亞北ネル",
+          "初音ミク",
+          "自動車",
+          "重音テト"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7c0094577aeb"
+      },
+      {
+        "headline": "**Groundbreaking Trial Reveals Unexpected Benefit of Metformin in Type 1 Diabetes**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/groundbreaking-trial-reveals-unexpected-benefit-of-metformin-in-type-1-diabetes",
+        "publishedAt": "2026-03-01T11:55:34.000Z",
+        "description": "groundbreaking trial reveals unexpected benefit of metformin in type 1 diabetes by garvan institute of medical research published on 01 march 2026 a clinical trial has found that a widely used and affordable type 2 diabetes medication can lower insulin requirements in people with type 1 diabetes potentially improving how the condition is managed for many years doctors have prescribed metformin a long established and widely used medication for type 2 diabetes to people with type 1 diabetes read more https scitechdaily com groundbreaking trial reveals unexpected benefit of metformin in type 1 diabetes metformin type1diabetes clinicaltrial diabetesresearch pharmacology health autoimmunedisorders diabetes",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "53b376bf57d1"
+      },
+      {
+        "headline": "Good morning nostr, after church today i plan to hang out in the yard and do some cleanup and watering.  I have lots to do indoors, but t…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/5a3b0ab8118e013f48fd6b04589a490c658f84c669f08dc77ddc9a4d3e9e901d.jpg",
+        "publishedAt": "2026-03-01T11:52:19.000Z",
+        "description": "good morning nostr after church today i plan to hang out in the yard and do some cleanup and watering i have lots to do indoors but that s no fun except i do need to make time to dig out an old laptop and install linux on it yall have a great sunday enjoy your coffee and remember that today is a gift coffeechain homesteading https image nostr build 5a3b0ab8118e013f48fd6b04589a490c658f84c669f08dc77ddc9a4d3e9e901d jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "3fefe8611420"
+      },
+      {
+        "headline": "This Google TV projector is the nighstand accessory I didn’t know I needed",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/benq-gv32-review-3644032",
+        "publishedAt": "2026-03-01T11:30:54.000Z",
+        "description": "this google tv projector is the nighstand accessory i didn t know i needed https www androidauthority com benq gv32 review 3644032",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "eaddfd71bcb4"
+      },
+      {
+        "headline": "アイラブユーをこの声で! / あじさい / March 1, 2026 8:25 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/53Wn-4y7fxY",
+        "publishedAt": "2026-03-01T12:01:03.000Z",
+        "description": "march 1 2026 8 25 pm yt https youtu be 53wn 4y7fxy nc https www nicovideo jp watch sm45977224 ref garage share other vocaloid hatsunemiku https www pixiv net en artworks 141786608 https www pixiv net en users 32874334 there are 6 images https cdn mikuobsession net 68979dd5 8d8b 48e8 816c 5d34cbdc6a7c 141786608 p0 png https cdn mikuobsession net 620fc35f 53cf 4bbc bca8 25cb12ff6f27 141786608 p1 png https cdn mikuobsession net 969aec33 e0d5 4685 9980 1268f050b6f6 141786608 p2 png https cdn mikuobsession net 0f403828 4a8c 46e7 a8ae afea28f19308 141786608 p3 png https cdn mikuobsession net 07adef10 4098 41e5 8b39 b6f358e37ec9 141786608 p4 png https cdn mikuobsession net 3731ab6e c68c 4dc9 ad65 30809ade094f 141786608 p5 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "hatsunemiku",
+          "vocaloid",
+          "ボカロ",
+          "ボーカロイド",
+          "ミク",
+          "初音ミク",
+          "初音未来"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "1a37543139f6"
+      },
+      {
+        "headline": "A local homeschool co-op is using nostr:nprofile1qqs2u3wtnudsvg7nmepnmff79etfvux7k6udtvnw306wk243qvj9ntspramhxue69uhhyetvv9ujuerhv9j856t9…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/a536861ee3f59e720f3326f65808ba465db4dc689da90d02233b2914a7dc4c93.jpg",
+        "publishedAt": "2026-03-01T11:56:58.000Z",
+        "description": "a local homeschool co op is using nostr nprofile1qqs2u3wtnudsvg7nmepnmff79etfvux7k6udtvnw306wk243qvj9ntspramhxue69uhhyetvv9ujuerhv9j856t9wd3kjct2v4jx2m3wwpkqz9nhwden5te0wfjkccte9ehx7um5wghxyctwvselp8hn for a spring science unit so excited to see the sprouts growing and their students can t wait to see what s popping up out of the soil order yours at www mysterysprouts com start your gardening with your curious learners homeschool https blossom primal net a536861ee3f59e720f3326f65808ba465db4dc689da90d02233b2914a7dc4c93 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "homeschool"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "d0928b4deaff"
+      },
+      {
+        "headline": "📬 Kommen neue Motorola-Smartphones auf Basis von GrapheneOS?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sc.tarnkappe.info/5f82d9",
+        "publishedAt": "2026-03-01T12:10:32.000Z",
+        "description": "kommen neue motorola smartphones auf basis von grapheneos itsicherheit smartphones bootimplementierung googlepixel grapheneos motorola mwc2026 piunikaweb titanmchip https sc tarnkappe info 5f82d9",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "itsicherheit",
+          "smartphones",
+          "bootimplementierung",
+          "googlepixel",
+          "grapheneos",
+          "motorola",
+          "mwc2026",
+          "piunikaweb",
+          "titanmchip"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "7d3f48747dd3"
+      },
+      {
+        "headline": "Gardener with knee pain praises ‘godsend’ weed tool reduced to £25 that’s ‘easy to use’  #garden #gardening #shopping",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.allforgardening.com/1632655/gardener-with-knee-pain-praises-godsend-weed-tool-reduced-to-25-thats-easy-to-use",
+        "publishedAt": "2026-03-01T12:09:03.000Z",
+        "description": "gardener with knee pain praises godsend weed tool reduced to 25 that s easy to use https www allforgardening com 1632655 gardener with knee pain praises godsend weed tool reduced to 25 thats easy to use garden gardening shopping https media vive im media attachments files 116 153 839 984 831 155 original 5be428f060f31dd4 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "garden",
+          "gardening",
+          "shopping"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "78378b382136"
+      },
+      {
+        "headline": "最近の描き溜めカイミクさん+手直しカイミクさん / ひつまぶし / March 1, 2026 8:35 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141787149",
+        "publishedAt": "2026-03-01T12:01:36.000Z",
+        "description": "march 1 2026 8 35 pm vocaloid kaito r15 https www pixiv net en artworks 141787149 https www pixiv net en users 114759101 there are 7 images https cdn mikuobsession net 2a53c338 35cd 41ca a022 7ba5498a61ce 141787149 p0 png https cdn mikuobsession net 3871ac32 15f4 4e8e a231 bc3ce3d740ce 141787149 p1 png https cdn mikuobsession net fbb6ffea 4e99 49aa a981 42860d6df677 141787149 p2 png https cdn mikuobsession net 6a2e2b6c 807f 4bba 8b54 c722837513a1 141787149 p3 png https cdn mikuobsession net 918f34fe 016b 43fb 9fc5 3d7290757a3a 141787149 p4 png https cdn mikuobsession net 81820f57 85d6 4fdd 9827 828c87a36c22 141787149 p5 png https cdn mikuobsession net d9f68557 2a89 4752 9ba8 528e1a9eb5c1 141787149 p6 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kaito",
+          "r15",
+          "vocaloid",
+          "初音ミク",
+          "血液表現"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "89ee6fd2f028"
+      },
+      {
+        "headline": "メスガ騎乗位(ゆめかわミクVer.) / mocha茶@AIイラスト / March 1, 2026 8:34 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141787098",
+        "publishedAt": "2026-03-01T12:01:30.000Z",
+        "description": "ver mocha ai march 1 2026 8 34 pm 1 ver aigenerated r 18 vocaloid ai hatsunemiku https www pixiv net en artworks 141787098 https www pixiv net en users 124080386 https cdn mikuobsession net 32385c3f c1c9 4792 bf7e 2a9d42d8a051 141787098 p0 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "aiイラスト",
+          "hatsunemiku",
+          "r",
+          "vocaloid",
+          "セックス",
+          "ボカロ",
+          "中出し",
+          "初音ミク",
+          "騎乗位"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8312444642bf"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/invoice",
+        "publishedAt": "2026-03-01T12:00:16.000Z",
+        "description": "system status update cex price 343 03 street price 346 20 premium 0 93 24h 26 522 txs obs node 54 5 p2p liq 21 430 89 xmr source agg tr cn nk anonymous invoicing generate private payment links and invoices receive xmr or convert public crypto instantly https kyc rip invoice xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5a4dc794d98e"
+      },
+      {
+        "headline": "With the Pixel 11, Google needs to admit it has a hardware problem",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.androidauthority.com/google-pixel-hardware-problem-3643891",
+        "publishedAt": "2026-03-01T12:00:18.000Z",
+        "description": "with the pixel 11 google needs to admit it has a hardware problem https www androidauthority com google pixel hardware problem 3643891 utm source flipboard utm medium activitypub posted into features nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqqzc6amh5atzjs7357pnd2vxzngpm0zjcr9zlda57lf06wnn20s7q3k0ctm",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "27e5fd53d472"
+      },
+      {
+        "headline": "Zynga is hiring Senior Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-at-zynga-com-aug-28-2024-868a36",
+        "publishedAt": "2026-03-01T12:05:08.000Z",
+        "description": "zynga is hiring senior software engineer seniorengineer turkey full time zynga job details https jobsfordevelopers com jobs senior software engineer at zynga com aug 28 2024 868a36 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "7141b3a14783"
+      },
+      {
+        "headline": "【AWS】Strands Labs ー フォーマット変換・型変換・カラム名修正を全部ai-functionsに丸投げする",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qiita.com/yakumo_09/items/58e733b16e96b255dfec",
+        "publishedAt": "2026-03-01T12:04:00.000Z",
+        "description": "aws strands labs ai functions https qiita com yakumo 09 items 58e733b16e96b255dfec utm campaign popular items utm medium feed utm source popular items qiita python aws ai ai strandsagents",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qiita",
+          "python",
+          "aws",
+          "ai",
+          "aiエージェント",
+          "strandsagents"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d05b0e897334"
+      },
+      {
+        "headline": "Arsenal de armas proibidas apreendido em Coruche",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/arsenal-de-armas-proibidas-apreendido-em-coruche-69a4261f664d678552454cc8",
+        "publishedAt": "2026-03-01T11:56:39.000Z",
+        "description": "arsenal de armas proibidas apreendido em coruche https sapo pt artigo arsenal de armas proibidas apreendido em coruche 69a4261f664d678552454cc8 utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8c83a4e17ac2"
+      },
+      {
+        "headline": "🛠️ Free crypto volume anomaly API for devs — no auth, no keys, no bullshit.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://frog03-20494.wykr.es/api/signals",
+        "publishedAt": "2026-03-01T11:23:49.000Z",
+        "description": "free crypto volume anomaly api for devs no auth no keys no bullshit get https frog03 20494 wykr es api signals returns json array of tokens with unusual volume market cap ratios updated every 5 min via coingecko right now quq showing 139x vol mcap ratio 2 5 24h use it for trading bots alert systems market dashboards anomaly detection if it saves you api work zap cryptovolumescanner coinos io dev nostr lightning bitcoin buildinpublic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b2df95c88772"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 158
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 48
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 56
+    }
+  ],
+  "failures": []
+}
