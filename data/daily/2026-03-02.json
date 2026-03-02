@@ -1,0 +1,643 @@
+{
+  "date": "2026-03-02",
+  "generatedAt": "2026-03-02T12:16:19.149Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22575583497",
+    "commitSha": "6f516f72cb4e4de1fd47f51e6f74f976b30bb47f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 341,
+    "dedupDropped": 83
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Zoominfo is hiring Senior Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-at-zoominfo-com-nov-12-2025-e18c02",
+        "publishedAt": "2026-03-02T12:05:11.000Z",
+        "description": "zoominfo is hiring senior software engineer typescript angular node express api graphql rest cicd css docker gcp html kafka mongodb redis terraform seniorengineer bethesda maryland full time zoominfo job details https jobsfordevelopers com jobs senior software engineer at zoominfo com nov 12 2025 e18c02 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "typescript",
+          "angular",
+          "node",
+          "express",
+          "api",
+          "graphql",
+          "rest",
+          "cicd",
+          "css",
+          "docker",
+          "gcp",
+          "html",
+          "kafka",
+          "mongodb",
+          "redis",
+          "terraform",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ff6c6911f023"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/ghost",
+        "publishedAt": "2026-03-02T12:00:30.000Z",
+        "description": "system status update cex price 348 36 street price 351 36 premium 0 86 24h 30 233 txs obs node 55 0 p2p liq 22 972 01 xmr source agg tr cn nk ghost protocol break on chain links with advanced hopping and mixing disconnect your identity from your funds https kyc rip ghost xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "57595a21c511"
+      },
+      {
+        "headline": "Android XR: Googles smarte Brille mit integriertem Display kurz ausprobiert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Android-XR-Googles-smarte-Brille-mit-integriertem-Display-kurz-ausprobiert-11195134.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-02T12:08:00.000Z",
+        "description": "android xr googles smarte brille mit integriertem display kurz ausprobiert smarte brillen mit googles android xr und integriertem display stehen kurz vor der einf hrung wir hatten die m glichkeit sie auf dem mwc kurz auszuprobieren https www heise de news android xr googles smarte brille mit integriertem display kurz ausprobiert 11195134 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon android it mobiles mwc samsung wearables news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "it",
+          "mobiles",
+          "mwc",
+          "samsung",
+          "wearables",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e664c62d3595"
+      },
+      {
+        "headline": "【OCI】10分でかんたん構築！すぐ試せるマルチモーダルAI資料検索アプリを動かしてみよう",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qiita.com/yushibats/items/70bcc09733ae1c674e8c",
+        "publishedAt": "2026-03-02T12:04:42.000Z",
+        "description": "oci 10 ai https qiita com yushibats items 70bcc09733ae1c674e8c utm campaign popular items utm medium feed utm source popular items qiita ai oci rag ai vectorsearch",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qiita",
+          "ai",
+          "oci",
+          "rag",
+          "生成ai",
+          "vectorsearch"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8e08055237b5"
+      },
+      {
+        "headline": "📻 JTA concerned that shelterees remain at some schools months after Hurricane Melissa",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://iriefm.net/jta-concerned-that-shelterees-remain-at-some-schools-months-after-hurricane-melissa",
+        "publishedAt": "2026-03-02T11:50:41.000Z",
+        "description": "jta concerned that shelterees remain at some schools months after hurricane melissa president of the jamaica teachers association jta mark malabver has raised concern about the situation at schools which are still being used to house shelt source iriefm https iriefm net jta concerned that shelterees remain at some schools months after hurricane melissa jamaica news https iriefm wp upload nyc3 digitaloceanspaces com uploads malaber 1 march 1 26 mp3",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "jamaica",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ba129c05bcfd"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "LLM-Assisted Deanonymization",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html",
+        "publishedAt": "2026-03-02T12:10:14.000Z",
+        "description": "llm assisted deanonymization https www schneier com blog archives 2026 03 llm assisted deanonymization html turns out that llms are good at de anonymization we show that llm agents can figure out who you are from your anonymous online posts across hacker news reddit linkedin and anonymized interview transcripts our method identifies users with high precision and scales to tens of thousands of candidates while it has been known that individuals can be uniquely identified by",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8dd910fe7375"
+      },
+      {
+        "headline": "Big Pharma Influence: RFK Jr. on NEJM and Lancet",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/big-pharma-influence-nejm-lancet",
+        "publishedAt": "2026-03-02T12:10:50.000Z",
+        "description": "big pharma influence rfk jr on nejm and lancet rfk jr alleges big pharma influence over medical journals like nejm lancet explore the claims conflicts of interest and impact on research integrity read https theboard world articles big pharma influence nejm lancet https theboard world static og big pharma influence nejm lancet png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "news",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "8bb6ddf72a73"
+      },
+      {
+        "headline": "[ hzrd149/backyard-explorer ] Add Blossom proxy badge, nostr mention rendering, clickable contacts, and search UX fixes",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/hzrd149/backyard-explorer/commit/48eb361e75f00454a4e5081ae6daee0d0893beda",
+        "publishedAt": "2026-03-02T12:05:38.000Z",
+        "description": "hzrd149 backyard explorer add blossom proxy badge nostr mention rendering clickable contacts and search ux fixes show a green check badge on images videos served via the local blossom proxy add min w 48 to gallery images so loading placeholders are visible render npub nprofile mentions inline as clickable username components fix by search tokens replacing instead of appending on username click simplify contactlistcard to use userprofile rows clickable via username https github com hzrd149 backyard explorer commit 48eb361e75f00454a4e5081ae6daee0d0893beda",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "33275163b91f"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/offlineapps/bitchat-android/pull/2",
+        "publishedAt": "2026-03-02T11:57:14.000Z",
+        "description": "https video nostr build c2de728ae582dc14c80bacdbe9371ead00c69af2c5238f1766531d9eae38f189 mp4 https github com offlineapps bitchat android pull 2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "d99be6d08de3"
+      },
+      {
+        "headline": "Good morning 🌞",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://i.nostr.build/LtJYTnYrxWUBlph6.gif",
+        "publishedAt": "2026-03-02T12:08:56.000Z",
+        "description": "good morning i am moving most of my stuff into my storage unit today so it s going to be a very physical day i look forward to the day things are less temporary for me when i pull the stuff out of the storage unit and set it up again when i can actually rest and relax and feel like i m home my life has been full of fantastic adventures but no matter how grand adventures can be everything eventually gets old i m excited by the idea of having roots in a place planting a garden that i will harvest and leaving the nomadic hustler life https i nostr build ltjytnyrxwublph6 gif",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b8cf9ff69f8a"
+      },
+      {
+        "headline": "**Jupiter’s Moons May Have Been Born With Life’s Building Blocks**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/jupiters-moons-may-have-been-born-with-lifes-building-blocks",
+        "publishedAt": "2026-03-02T12:14:42.000Z",
+        "description": "jupiter s moons may have been born with life s building blocks by southwest research institute published on 02 march 2026 jupiter s moons may have been born with the chemistry needed for life an international collaboration that included southwest research institute has shown how complex organic molecules coms widely considered essential precursors to life may have been built into jupiter s galilean moons as they formed the findings are detailed in companion papers published in the planetary read more https scitechdaily com jupiters moons may have been born with lifes building blocks jupiter galileanmoons astrobiology organicchemistry exoplanetresearch space astrobiology europa",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "fbba47aac7be"
+      },
+      {
+        "headline": "Sunday run",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cdn.nostrcheck.me/b13530598c2f3769b65065205993aa4af2540a4d6965fbe8ab9e1a176e6bb83e/a495382412305b9d9105c15777d1884dd4204ea562923acab42dbf252d8de33f.webp",
+        "publishedAt": "2026-03-02T12:15:52.000Z",
+        "description": "sunday run nationaal park hoge kempen marathon running trail trailrunning mobilephotography runningphotographer https cdn nostrcheck me b13530598c2f3769b65065205993aa4af2540a4d6965fbe8ab9e1a176e6bb83e a495382412305b9d9105c15777d1884dd4204ea562923acab42dbf252d8de33f webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "30c90caa300c"
+      },
+      {
+        "headline": "[ formstr-hq/nostr-polls ] Search & notifications (#159)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/formstr-hq/nostr-polls/commit/1d2b8eefa6ad74bbf79d7fee06f90f8da632b367",
+        "publishedAt": "2026-03-02T12:03:05.000Z",
+        "description": "formstr hq nostr polls search notifications 159 add search nip 19 nip 05 nip 50 159 search icon in header ctrl k cmd k global shortcut priority chain nip 19 with without nostr prefix nip 05 hashtag nip 50 free text nip 50 runs two parallel queries profiles separate from notes polls so popular profiles are not crowded out by content results profile search uses relay primal net search nos today relay noswhere com note poll results show clickable author avatar and name see more toggle per section horizontal overflow fixed https github com formstr hq nostr polls commit 1d2b8eefa6ad74bbf79d7fee06f90f8da632b367",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "53333189a9c3"
+      },
+      {
+        "headline": "Good morning nostr, today i have a volunteer shift at the church kitchen, then just the usual work around here.  My husband was given a p…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/43e52ba27bb9cddd38828e28d6b9e0ca6f2c6d64e0b95dd6ff9ca44280993256.jpg",
+        "publishedAt": "2026-03-02T12:02:57.000Z",
+        "description": "good morning nostr today i have a volunteer shift at the church kitchen then just the usual work around here my husband was given a pair of rex rabbits a few months ago i think thats what they re called and those rabbits have some amazing fur they just had a litter of babies just the curest things all the other critters are doing well too anyway yall have a great monday enjoy your coffee and do your work with a happy heart coffeechain homesteading https image nostr build 43e52ba27bb9cddd38828e28d6b9e0ca6f2c6d64e0b95dd6ff9ca44280993256 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "bdaa9bf4b1f8"
+      },
+      {
+        "headline": "Wie Google die Totalüberwachung als Feature einführte Wie siehst Du das, nutzt Du GMail? Oder was nutzt Du lieber?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://assets.chaos.social/media_attachments/files/116/159/518/873/565/618/original/a6ad0c8d74e904e5.mp4",
+        "publishedAt": "2026-03-02T12:13:26.000Z",
+        "description": "wie google die total berwachung als feature einf hrte wie siehst du das nutzt du gmail oder was nutzt du lieber aus der zdf doku die gef hrlichsten unternehmen der welt https assets chaos social media attachments files 116 159 518 873 565 618 original a6ad0c8d74e904e5 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "d03e0778debc"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Zoominfo is hiring Senior Software Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-software-engineer-at-zoominfo-com-nov-12-2025-e18c02",
+        "publishedAt": "2026-03-02T12:05:11.000Z",
+        "description": "zoominfo is hiring senior software engineer typescript angular node express api graphql rest cicd css docker gcp html kafka mongodb redis terraform seniorengineer bethesda maryland full time zoominfo job details https jobsfordevelopers com jobs senior software engineer at zoominfo com nov 12 2025 e18c02 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "typescript",
+          "angular",
+          "node",
+          "express",
+          "api",
+          "graphql",
+          "rest",
+          "cicd",
+          "css",
+          "docker",
+          "gcp",
+          "html",
+          "kafka",
+          "mongodb",
+          "redis",
+          "terraform",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ff6c6911f023"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/ghost",
+        "publishedAt": "2026-03-02T12:00:30.000Z",
+        "description": "system status update cex price 348 36 street price 351 36 premium 0 86 24h 30 233 txs obs node 55 0 p2p liq 22 972 01 xmr source agg tr cn nk ghost protocol break on chain links with advanced hopping and mixing disconnect your identity from your funds https kyc rip ghost xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "57595a21c511"
+      },
+      {
+        "headline": "Android XR: Googles smarte Brille mit integriertem Display kurz ausprobiert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Android-XR-Googles-smarte-Brille-mit-integriertem-Display-kurz-ausprobiert-11195134.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-02T12:08:00.000Z",
+        "description": "android xr googles smarte brille mit integriertem display kurz ausprobiert smarte brillen mit googles android xr und integriertem display stehen kurz vor der einf hrung wir hatten die m glichkeit sie auf dem mwc kurz auszuprobieren https www heise de news android xr googles smarte brille mit integriertem display kurz ausprobiert 11195134 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon android it mobiles mwc samsung wearables news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "it",
+          "mobiles",
+          "mwc",
+          "samsung",
+          "wearables",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e664c62d3595"
+      },
+      {
+        "headline": "【OCI】10分でかんたん構築！すぐ試せるマルチモーダルAI資料検索アプリを動かしてみよう",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qiita.com/yushibats/items/70bcc09733ae1c674e8c",
+        "publishedAt": "2026-03-02T12:04:42.000Z",
+        "description": "oci 10 ai https qiita com yushibats items 70bcc09733ae1c674e8c utm campaign popular items utm medium feed utm source popular items qiita ai oci rag ai vectorsearch",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qiita",
+          "ai",
+          "oci",
+          "rag",
+          "生成ai",
+          "vectorsearch"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8e08055237b5"
+      },
+      {
+        "headline": "📻 JTA concerned that shelterees remain at some schools months after Hurricane Melissa",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://iriefm.net/jta-concerned-that-shelterees-remain-at-some-schools-months-after-hurricane-melissa",
+        "publishedAt": "2026-03-02T11:50:41.000Z",
+        "description": "jta concerned that shelterees remain at some schools months after hurricane melissa president of the jamaica teachers association jta mark malabver has raised concern about the situation at schools which are still being used to house shelt source iriefm https iriefm net jta concerned that shelterees remain at some schools months after hurricane melissa jamaica news https iriefm wp upload nyc3 digitaloceanspaces com uploads malaber 1 march 1 26 mp3",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "jamaica",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ba129c05bcfd"
+      },
+      {
+        "headline": "📊 How to read a CryptoScan safety score:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/",
+        "publishedAt": "2026-03-02T11:52:09.000Z",
+        "description": "how to read a cryptoscan safety score 90 100 safe well audited open source no flags 60 89 caution some minor concerns 30 59 risky multiple red flags detected 0 29 danger likely scam or honeypot always dyor but start here https titten patrol riverside enjoying trycloudflare com security bitcoin memecoin blockchain trading",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "bf70e32a25d4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 153
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 46
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 59
+    }
+  ],
+  "failures": []
+}
