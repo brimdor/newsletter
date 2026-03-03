@@ -1,0 +1,597 @@
+{
+  "date": "2026-03-03",
+  "generatedAt": "2026-03-03T12:15:58.445Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22622557514",
+    "commitSha": "b5c5202163dbaa25d6a06a93b748dfc0e1fce9d1"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 456,
+    "dedupDropped": 96
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "A North Korean hacking group \"systematically compromised cryptocurrency organisations: exploiting web application vulnerabilities, pillag…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://ctrlaltintel.com/threat%20research/DPRK-Crypto-Heist",
+        "publishedAt": "2026-03-03T12:03:27.000Z",
+        "description": "a north korean hacking group systematically compromised cryptocurrency organisations exploiting web application vulnerabilities pillaging aws tenants with valid credentials and exfiltrating proprietary exchange software containing hardcoded secrets https ctrlaltintel com threat 20research dprk crypto heist https files mastodon social media attachments files 116 165 142 493 795 821 original 4c108c4f2ae17358 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "9610a04dac35"
+      },
+      {
+        "headline": "Meta starts testing its AI shopping assistant",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.engadget.com/ai/meta-starts-testing-its-ai-shopping-assistant-120148124.html?src=rss",
+        "publishedAt": "2026-03-03T12:01:48.000Z",
+        "description": "meta starts testing its ai shopping assistant https www engadget com ai meta starts testing its ai shopping assistant 120148124 html src rss utm source flipboard utm medium activitypub posted into tech news nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqd073u588tgmmukfsa0yzjkwnpprm8yk2nt8zfg4rcmthxna6x8esjvx8l4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "c3a649e4d526"
+      },
+      {
+        "headline": "Dow futures drop 800 points as oil surges again, fears rise Iran conflict will drag on",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cnbc.com/2026/03/02/stock-market-today-live-updates.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+        "publishedAt": "2026-03-03T12:08:36.000Z",
+        "description": "dow futures drop 800 points as oil surges again fears rise iran conflict will drag on https www cnbc com 2026 03 02 stock market today live updates html source iosappshare 7ccom apple uikit activity copytopasteboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "97e86b82339d"
+      },
+      {
+        "headline": "Zoox is hiring Senior Machine Learning Engineer - 3D Segmentation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-machine-learning-engineer-3-d-segmentation-at-zoox-com-feb-5-2026-c5885d",
+        "publishedAt": "2026-03-03T12:05:54.000Z",
+        "description": "zoox is hiring senior machine learning engineer 3d segmentation cplusplus python machinelearning seniorengineer foster city california full time zoox job details https jobsfordevelopers com jobs senior machine learning engineer 3 d segmentation at zoox com feb 5 2026 c5885d utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cplusplus",
+          "python",
+          "machinelearning",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "64768d528829"
+      },
+      {
+        "headline": "Anthropic Improves Feature to Switch From Competitors as Users Call for ChatGPT Boycott",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://gizmodo.com/anthropic-improves-feature-to-switch-from-competitors-as-users-call-for-chatgpt-boycott-2000728352",
+        "publishedAt": "2026-03-03T12:01:18.000Z",
+        "description": "anthropic improves feature to switch from competitors as users call for chatgpt boycott the updated feature makes importing preferences and context from other llms easier as claude climbs the app charts https gizmodo com anthropic improves feature to switch from competitors as users call for chatgpt boycott 2000728352 artificial intelligence https faithcollapsing com system media attachments files 116 165 134 132 851 563 original 21e7f05f5238d2b0 jpeg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "be4dc865a3ee"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "『umaIKU0』MIKU+🐴 / HACHIKAA / March 3, 2026 8:46 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://beasthachikaa.fanbox.cc/posts/11418482",
+        "publishedAt": "2026-03-03T12:01:10.000Z",
+        "description": "umaiku0 miku hachikaa march 3 2026 8 46 pm 1080p voice 8 characters https beasthachikaa fanbox cc posts 11418482 r 18 vocaloid https www pixiv net en artworks 141865822 https www pixiv net en users 109855192 https cdn mikuobsession net 0c9cc1ad 802b 45a2 a5d4 01b5ffa81183 141865822 ugoira1920x1080 zip webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "r",
+          "vocaloid",
+          "うごイラ",
+          "アヘ顔",
+          "初音ミク",
+          "潮吹き",
+          "腹ボコ",
+          "逆レイプ",
+          "馬"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "5b391c0ce38e"
+      },
+      {
+        "headline": "Google Home and IKEA are suffering from Matter’s disastrous implementation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/google-home-ikea-suffering-matter-disaster-3645760",
+        "publishedAt": "2026-03-03T12:00:42.000Z",
+        "description": "google home and ikea are suffering from matter s disastrous implementation https www androidauthority com google home ikea suffering matter disaster 3645760",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "34083da4b7f1"
+      },
+      {
+        "headline": "🟢 LOW RISK: BasedPepe (PEPE) on Base",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0x52b492a33E447Cdb854c7FC19F1e57E8BfA1777D",
+        "publishedAt": "2026-03-03T11:57:37.000Z",
+        "description": "low risk basedpepe pepe on base safety score 100 100 buy tax 0 0 sell tax 0 0 holders 5077044 full scan https titten patrol riverside enjoying trycloudflare com scan 0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension blockchain rugpull scam token memecoin defi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "af95e799cf2d"
+      },
+      {
+        "headline": "🟢 LOW RISK: Ice Open Network (ION) on BSC",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0xE1ab61f7b093435204dF32F5b3A405de55445Ea8",
+        "publishedAt": "2026-03-03T11:57:24.000Z",
+        "description": "low risk ice open network ion on bsc safety score 90 100 risk flags mintable buy tax 0 0 sell tax 0 0 holders 13897 full scan https titten patrol riverside enjoying trycloudflare com scan 0xe1ab61f7b093435204df32f5b3a405de55445ea8 free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension memecoin altcoin blockchain honeypot defi rugpull",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aceb3a46bd16"
+      },
+      {
+        "headline": "Tardigrades, the toughest animals in the Universe, failed to survive in simulated Martian soil.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/shortterm-survival-of-tardigrades-ramazzottius-cf-varieornatus-and-hypsibius-exemplaris-in-martian-regolith-simulants-mgs1-and-oucm1/8A91986096FB533FB264DD056F549DF2",
+        "publishedAt": "2026-03-03T12:09:36.000Z",
+        "description": "tardigrades the toughest animals in the universe failed to survive in simulated martian soil researchers tested tardigrades with exposure to martian regolith simulants their health and activity declined substantially over 4 days curiously they did much better when the regolith was washed leaching away some of the salts and other chemical compounds testing on plants animals and humans tbd https www cambridge org core journals international journal of astrobiology article shortterm survival of tardigrades ramazzottius cf varieornatus and hypsibius exemplaris in martian regolith simulants mgs1 and oucm1 8a91986096fb533fb264dd056f549df2 article 1 n https cdn fosstodon org media attachments files 116 165 124 627 247 504 original 2ba1c09e5e65c80e png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2eddc6ee1d6b"
+      },
+      {
+        "headline": "Check the age of Internet users? It’s dangerous and ineffective, according to these researchers  #France",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.byteseu.com/1843752",
+        "publishedAt": "2026-03-03T12:01:48.000Z",
+        "description": "check the age of internet users it s dangerous and ineffective according to these researchers https www byteseu com 1843752 france https media pubeurope com media attachments files 116 165 136 124 500 715 original fcef6288ef98497d jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "france"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7565e691ffc9"
+      },
+      {
+        "headline": "Home Bargains sells ‘magical’ £30 water feature for ‘cosy’ and ‘relaxing’ garden  #garden #gardening #HomeBargains #shopping",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.allforgardening.com/1636062/home-bargains-sells-magical-30-water-feature-for-cosy-and-relaxing-garden",
+        "publishedAt": "2026-03-03T12:01:03.000Z",
+        "description": "home bargains sells magical 30 water feature for cosy and relaxing garden https www allforgardening com 1636062 home bargains sells magical 30 water feature for cosy and relaxing garden garden gardening homebargains shopping https media vive im media attachments files 116 165 133 154 109 010 original 492027e6e82823ea jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "garden",
+          "gardening",
+          "homebargains",
+          "shopping"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "8bd4d2c28069"
+      },
+      {
+        "headline": "from 26 Feb 2026",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.ukcolumn.org/video/exposing-queer-fest-and-the-attack-on-our-childrens-minds-with-protect-and-teach",
+        "publishedAt": "2026-03-03T11:27:26.000Z",
+        "description": "from 26 feb 2026 exposing queer fest and the attack on our children s minds with protect and teach from ukcolumn news cathy mudge gilli blick and jenny dingsdale of protect and teach spoke with professor diane rasmussen about the 2025 child focused queer fest event at exeter library and the safeguarding concerns surrounding it key hashtags britain children greatbritain lgbqti libraries safeguarding sexualization queerfest uk note please an emotive subject obviously and i err to say yes view as an adult and adult minded and also children with their safety is a paramount concern recommended viewing https www ukcolumn org video exposing queer fest and the attack on our childrens minds with protect and teach video 50min",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "britain",
+          "children",
+          "greatbritain",
+          "lgbqti",
+          "libraries",
+          "safeguarding",
+          "sexualization",
+          "queerfest",
+          "uk"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "bc5d526300c3"
+      },
+      {
+        "headline": "Young Sherlock vs Young Sheldon? Yes, the new Prime Video show does get confused for Big Bang Theory spinoff, according to its creator —…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/streaming/amazon-prime-video/young-sherlock-or-young-sheldon-new-prime-video-show-has-already-been-confused-for-big-bang-theory-spinoff-according-to-creator",
+        "publishedAt": "2026-03-03T12:00:00.000Z",
+        "description": "young sherlock vs young sheldon yes the new prime video show does get confused for big bang theory spinoff according to its creator i can tell you a funny story about that https www techradar com streaming amazon prime video young sherlock or young sheldon new prime video show has already been confused for big bang theory spinoff according to creator",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b233cfc35fcf"
+      },
+      {
+        "headline": "my most useful vibe coded tool is the first one I ever made & the one i use every other day",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostr-video-downloader.shakespeare.wtf/",
+        "publishedAt": "2026-03-03T11:54:37.000Z",
+        "description": "my most useful vibe coded tool is the first one i ever made the one i use every other day https nostr video downloader shakespeare wtf android folks don t have a need for it but if you re on ios it s useful asf",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "0b33f2501644"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "A North Korean hacking group \"systematically compromised cryptocurrency organisations: exploiting web application vulnerabilities, pillag…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://ctrlaltintel.com/threat%20research/DPRK-Crypto-Heist",
+        "publishedAt": "2026-03-03T12:03:27.000Z",
+        "description": "a north korean hacking group systematically compromised cryptocurrency organisations exploiting web application vulnerabilities pillaging aws tenants with valid credentials and exfiltrating proprietary exchange software containing hardcoded secrets https ctrlaltintel com threat 20research dprk crypto heist https files mastodon social media attachments files 116 165 142 493 795 821 original 4c108c4f2ae17358 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "9610a04dac35"
+      },
+      {
+        "headline": "Meta starts testing its AI shopping assistant",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.engadget.com/ai/meta-starts-testing-its-ai-shopping-assistant-120148124.html?src=rss",
+        "publishedAt": "2026-03-03T12:01:48.000Z",
+        "description": "meta starts testing its ai shopping assistant https www engadget com ai meta starts testing its ai shopping assistant 120148124 html src rss utm source flipboard utm medium activitypub posted into tech news nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqd073u588tgmmukfsa0yzjkwnpprm8yk2nt8zfg4rcmthxna6x8esjvx8l4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "c3a649e4d526"
+      },
+      {
+        "headline": "Dow futures drop 800 points as oil surges again, fears rise Iran conflict will drag on",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cnbc.com/2026/03/02/stock-market-today-live-updates.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+        "publishedAt": "2026-03-03T12:08:36.000Z",
+        "description": "dow futures drop 800 points as oil surges again fears rise iran conflict will drag on https www cnbc com 2026 03 02 stock market today live updates html source iosappshare 7ccom apple uikit activity copytopasteboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "97e86b82339d"
+      },
+      {
+        "headline": "Zoox is hiring Senior Machine Learning Engineer - 3D Segmentation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/senior-machine-learning-engineer-3-d-segmentation-at-zoox-com-feb-5-2026-c5885d",
+        "publishedAt": "2026-03-03T12:05:54.000Z",
+        "description": "zoox is hiring senior machine learning engineer 3d segmentation cplusplus python machinelearning seniorengineer foster city california full time zoox job details https jobsfordevelopers com jobs senior machine learning engineer 3 d segmentation at zoox com feb 5 2026 c5885d utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cplusplus",
+          "python",
+          "machinelearning",
+          "seniorengineer",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "64768d528829"
+      },
+      {
+        "headline": "Anthropic Improves Feature to Switch From Competitors as Users Call for ChatGPT Boycott",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://gizmodo.com/anthropic-improves-feature-to-switch-from-competitors-as-users-call-for-chatgpt-boycott-2000728352",
+        "publishedAt": "2026-03-03T12:01:18.000Z",
+        "description": "anthropic improves feature to switch from competitors as users call for chatgpt boycott the updated feature makes importing preferences and context from other llms easier as claude climbs the app charts https gizmodo com anthropic improves feature to switch from competitors as users call for chatgpt boycott 2000728352 artificial intelligence https faithcollapsing com system media attachments files 116 165 134 132 851 563 original 21e7f05f5238d2b0 jpeg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "be4dc865a3ee"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/drop",
+        "publishedAt": "2026-03-03T12:00:53.000Z",
+        "description": "system status update cex price 342 93 street price 346 67 premium 1 09 24h 31 205 txs obs node 52 9 p2p liq 15 912 09 xmr source agg tr cn nk ghost link dead drop share secrets or keys via one time self destructing links client side zk encryption https kyc rip drop xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f5ab3148ed24"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 202
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 95
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 63
+    }
+  ],
+  "failures": []
+}
