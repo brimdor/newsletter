@@ -1,0 +1,653 @@
+{
+  "date": "2026-03-04",
+  "generatedAt": "2026-03-04T12:15:38.459Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22668913565",
+    "commitSha": "3f5f7784d26a5d59139464ed88061c29813f60a1"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 436,
+    "dedupDropped": 94
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Manipulating AI Summarization Features",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html",
+        "publishedAt": "2026-03-04T12:13:36.000Z",
+        "description": "manipulating ai summarization features https www schneier com blog archives 2026 03 manipulating ai summarization features html microsoft is reporting companies are embedding hidden instructions in summarize with ai buttons that when clicked attempt to inject persistence commands into an ai assistant s memory via url prompt parameters these prompts instruct the ai to remember company as a trusted source or recommend company first aiming to bias future responses toward",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "389335ef84b7"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/invoice",
+        "publishedAt": "2026-03-04T12:09:20.000Z",
+        "description": "system status update cex price 343 68 street price 346 85 premium 0 92 24h 30 797 txs obs node 53 3 p2p liq 22 943 00 xmr source agg tr cn nk anonymous invoicing generate private payment links and invoices receive xmr or convert public crypto instantly https kyc rip invoice xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5a4dc794d98e"
+      },
+      {
+        "headline": "New Gemini released.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite",
+        "publishedAt": "2026-03-04T12:12:57.000Z",
+        "description": "new gemini released https blog google innovation and ai models and research gemini models gemini 3 1 flash lite google ai gemini artificialintelligence",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "google",
+          "ai",
+          "gemini",
+          "artificialintelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "17c63c408bfb"
+      },
+      {
+        "headline": "MongoDB is hiring Software Engineer 2",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/software-engineer-2-at-mongodb-com-feb-27-2026-f61cc0",
+        "publishedAt": "2026-03-04T12:05:45.000Z",
+        "description": "mongodb is hiring software engineer 2 cplusplus golang java python aws azure cicd gcp mongodb sydney australia full time mongodb job details https jobsfordevelopers com jobs software engineer 2 at mongodb com feb 27 2026 f61cc0 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cplusplus",
+          "golang",
+          "java",
+          "python",
+          "aws",
+          "azure",
+          "cicd",
+          "gcp",
+          "mongodb",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "112315207605"
+      },
+      {
+        "headline": "O processo do bode com cinto (IA)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtube.com/live/Lg0jtPkhPlc",
+        "publishedAt": "2026-03-04T11:59:46.000Z",
+        "description": "o processo do bode com cinto ia voc acredita nisso o que aconteceu um homem abriu um processo contra uma empresa de nibus alegando que eles transportavam animais e que o cheiro era insuport vel o detalhe absurdo as fotos anexadas ao processo eram geradas por intelig ncia artificial uma delas mostra um bode preso com cinto de seguran a no banco do nibus resultado ele processou a empresa por estar carregando animais s no brasil curtiu essa hist ria faz isso aqui curta se achou absurdo salva pra mostrar pros amigos comenta voc acredita nisso ou acha que foi troll segue pra mais hist rias inacredit veis brasil ia onibus not cia humor source https youtube com live lg0jtpkhplc brasil ia onibus not cia humor morningcrypto https postiz eddieoz com uploads 2026 03 04 094c9a95ec632aa0e155c1085a1a8ab",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7238ee442111"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "🟢 LOW RISK: BasedPepe (PEPE) on Base",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0x52b492a33E447Cdb854c7FC19F1e57E8BfA1777D",
+        "publishedAt": "2026-03-04T12:09:28.000Z",
+        "description": "low risk basedpepe pepe on base safety score 100 100 buy tax 0 0 sell tax 0 0 holders 5077050 full scan https titten patrol riverside enjoying trycloudflare com scan 0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension memecoin security rugpull dex defi ethereum",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "af95e799cf2d"
+      },
+      {
+        "headline": "🟢 LOW RISK: Aleister (Aleister) on Base",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0xacB4543F479ea44e6DF4Fa01e483BB5b78361bA3",
+        "publishedAt": "2026-03-04T12:09:06.000Z",
+        "description": "low risk aleister aleister on base safety score 100 100 buy tax 0 0 sell tax 0 0 holders 98 full scan https titten patrol riverside enjoying trycloudflare com scan 0xacb4543f479ea44e6df4fa01e483bb5b78361ba3 free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension ethereum rugpull dex scam web3 blockchain",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7ceba9414fa8"
+      },
+      {
+        "headline": "\"If we prepare students to see openness not as an obligation but as part of their academic identity and duty, the credibility revolution…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.timeshighereducation.com/opinion/if-progress-not-falter-students-must-be-trained-open-research",
+        "publishedAt": "2026-03-04T12:01:26.000Z",
+        "description": "if we prepare students to see openness not as an obligation but as part of their academic identity and duty the credibility revolution will become the new normal in research and education alike https www timeshighereducation com opinion if progress not falter students must be trained open research",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "a0ef4419fdcb"
+      },
+      {
+        "headline": "The Bitcoin Learning Center is beginning a major initiative to architect our organization around sovereign AI infrastructure.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/70df02df50e4b12658878425275031515660874cfa7664dadfeeeb122657faef.png",
+        "publishedAt": "2026-03-04T11:46:35.000Z",
+        "description": "the bitcoin learning center is beginning a major initiative to architect our organization around sovereign ai infrastructure by building a privacy first self hosted system that automates workflows and internal operations we believe a small team can operate with the capabilities of a much larger organization our long term goal is to develop a framework that other teams and bitcoin communities can learn from and eventually adopt https blossom primal net 70df02df50e4b12658878425275031515660874cfa7664dadfeeeb122657faef png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8f12a16c6cb4"
+      },
+      {
+        "headline": "Lower Engadine, Vulpera, general view, Grisons, Switzerland between ca. 1890 and ca. 1900. Views of Switzerland",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.loc.gov/pictures/item/2001703012",
+        "publishedAt": "2026-03-04T12:14:49.000Z",
+        "description": "lower engadine vulpera general view grisons switzerland between ca 1890 and ca 1900 views of switzerland lowerengadine vulpera grisons switzerland viewsof germany austria hungary slovakia russia france easterneurope photography historicalphotos photochrom https www loc gov pictures item 2001703012 https mastodon ozioso online system media attachments files 116 170 849 554 213 677 original f3fe2f85332e4c40 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "lowerengadine",
+          "vulpera",
+          "grisons",
+          "switzerland",
+          "viewsof",
+          "germany",
+          "austria",
+          "slovakia",
+          "russia",
+          "france",
+          "easterneurope",
+          "photography",
+          "historicalphotos",
+          "photochrom"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7f8c7bbc0b52"
+      },
+      {
+        "headline": "The Finnish company Jolla is back with the #Linux-powered Jolla Phone.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.wired.com/story/jolla-phone-2026",
+        "publishedAt": "2026-03-04T12:06:47.000Z",
+        "description": "the finnish company jolla is back with the linux powered jolla phone it s being positioned as an antidote to the us dominated smartphone status quo of android and ios https www wired com story jolla phone 2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "linux"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "e24e4e03a044"
+      },
+      {
+        "headline": "Aldi wines: Best seasonal buys",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.diningandcooking.com/2539899/aldi-wines-best-seasonal-buys-2",
+        "publishedAt": "2026-03-04T12:05:11.000Z",
+        "description": "aldi wines best seasonal buys the last time decanter covered an aldi tasting in march this year tina gellie gave voice to a persistent problem that she and many of the other attendees this taster included had at the event put simply too many of the 94 wines on show contained far too much sugar it s o dining cooking diet food frenchwine frenchwine mediterraneanwine francais france french frenchwine wine https www diningandcooking com 2539899 aldi wines best seasonal buys 2 https media vive im media attachments files 116 170 811 723 389 108 original 18d08e198a011048 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dining",
+          "cooking",
+          "diet",
+          "food",
+          "frenchwine",
+          "mediterraneanwine",
+          "francais",
+          "france",
+          "french",
+          "wine"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "55181769b0a1"
+      },
+      {
+        "headline": "Polar bears aren't hunting people, they're just out of ice: Scientists",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cbc.ca/news/canada/saskatchewan/polar-bears-churchill-research-9.7113255?cmp=rss",
+        "publishedAt": "2026-03-04T12:03:08.000Z",
+        "description": "polar bears aren t hunting people they re just out of ice scientists nutritional stress does play a role it s just that it doesn t appear to be the role that we thought it was just driving bears en masse desperately into communities said douglas clark a professor in the university of saskatchewan s school of environment and sustainability environment climatechange https www cbc ca news canada saskatchewan polar bears churchill research 9 7113255 cmp rss https files hongkongers net media attachments files 116 170 803 656 124 950 original 9e1e356240e28a35 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "environment",
+          "climatechange"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "0053fe3abf45"
+      },
+      {
+        "headline": "铃：造反呐？ / AngelL / March 4, 2026 8:51 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141903578",
+        "publishedAt": "2026-03-04T12:00:49.000Z",
+        "description": "angell march 4 2026 8 51 pm aigenerated ai vocaloid https www pixiv net en artworks 141903578 https www pixiv net en users 85797363 https cdn mikuobsession net e3d8930f 21be 4b82 a74c 044a242decc1 141903578 p0 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "aiイラスト",
+          "vocaloid",
+          "ボカロ",
+          "初音ミク",
+          "女装",
+          "鏡音リン",
+          "鏡音レン"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "67f71afea91b"
+      },
+      {
+        "headline": "无题 / 云楼 / March 4, 2026 8:38 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/141903093",
+        "publishedAt": "2026-03-04T12:00:39.000Z",
+        "description": "march 4 2026 8 38 pm aigenerated https www pixiv net en artworks 141903093 https www pixiv net en users 84632305 https cdn mikuobsession net c63c6ccb d4d8 4a6b 8310 165c46a41326 141903093 p0 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "初音ミク",
+          "創作",
+          "女の子",
+          "少女",
+          "魅惑の顔"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "46dbd22cc08e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Manipulating AI Summarization Features",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html",
+        "publishedAt": "2026-03-04T12:13:36.000Z",
+        "description": "manipulating ai summarization features https www schneier com blog archives 2026 03 manipulating ai summarization features html microsoft is reporting companies are embedding hidden instructions in summarize with ai buttons that when clicked attempt to inject persistence commands into an ai assistant s memory via url prompt parameters these prompts instruct the ai to remember company as a trusted source or recommend company first aiming to bias future responses toward",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "389335ef84b7"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/invoice",
+        "publishedAt": "2026-03-04T12:09:20.000Z",
+        "description": "system status update cex price 343 68 street price 346 85 premium 0 92 24h 30 797 txs obs node 53 3 p2p liq 22 943 00 xmr source agg tr cn nk anonymous invoicing generate private payment links and invoices receive xmr or convert public crypto instantly https kyc rip invoice xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5a4dc794d98e"
+      },
+      {
+        "headline": "New Gemini released.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite",
+        "publishedAt": "2026-03-04T12:12:57.000Z",
+        "description": "new gemini released https blog google innovation and ai models and research gemini models gemini 3 1 flash lite google ai gemini artificialintelligence",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "google",
+          "ai",
+          "gemini",
+          "artificialintelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "17c63c408bfb"
+      },
+      {
+        "headline": "MongoDB is hiring Software Engineer 2",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/software-engineer-2-at-mongodb-com-feb-27-2026-f61cc0",
+        "publishedAt": "2026-03-04T12:05:45.000Z",
+        "description": "mongodb is hiring software engineer 2 cplusplus golang java python aws azure cicd gcp mongodb sydney australia full time mongodb job details https jobsfordevelopers com jobs software engineer 2 at mongodb com feb 27 2026 f61cc0 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cplusplus",
+          "golang",
+          "java",
+          "python",
+          "aws",
+          "azure",
+          "cicd",
+          "gcp",
+          "mongodb",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "112315207605"
+      },
+      {
+        "headline": "O processo do bode com cinto (IA)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtube.com/live/Lg0jtPkhPlc",
+        "publishedAt": "2026-03-04T11:59:46.000Z",
+        "description": "o processo do bode com cinto ia voc acredita nisso o que aconteceu um homem abriu um processo contra uma empresa de nibus alegando que eles transportavam animais e que o cheiro era insuport vel o detalhe absurdo as fotos anexadas ao processo eram geradas por intelig ncia artificial uma delas mostra um bode preso com cinto de seguran a no banco do nibus resultado ele processou a empresa por estar carregando animais s no brasil curtiu essa hist ria faz isso aqui curta se achou absurdo salva pra mostrar pros amigos comenta voc acredita nisso ou acha que foi troll segue pra mais hist rias inacredit veis brasil ia onibus not cia humor source https youtube com live lg0jtpkhplc brasil ia onibus not cia humor morningcrypto https postiz eddieoz com uploads 2026 03 04 094c9a95ec632aa0e155c1085a1a8ab",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7238ee442111"
+      },
+      {
+        "headline": "The Israeli Air Force carried out strikes on Hezbollah targets in Beirut over the past 24 hours, targeting underground weapons storage fa…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://video.nostr.build/4d3e6304755228510b0f4bc2bc7ca46fe0a66b39f232eb596bf3694f1c5327ca.mp4",
+        "publishedAt": "2026-03-04T11:49:35.000Z",
+        "description": "the israeli air force carried out strikes on hezbollah targets in beirut over the past 24 hours targeting underground weapons storage facilities command centers and a compound allegedly used for operational intelligence and propaganda activities according to the idf the attacks were conducted with prior warnings and precision measures aimed at minimizing civilian casualties the military said it will continue to act decisively against hezbollah s activities which it says are backed by iran in order to safeguard israeli civilians https video nostr build 4d3e6304755228510b0f4bc2bc7ca46fe0a66b39f232eb596bf3694f1c5327ca mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "0a775a0efdad"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 198
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 85
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 59
+    }
+  ],
+  "failures": []
+}
