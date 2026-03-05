@@ -1,0 +1,686 @@
+{
+  "date": "2026-03-05",
+  "generatedAt": "2026-03-05T12:17:07.578Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22717505082",
+    "commitSha": "c5d2058243121e4cdccbf7a746d2a5c2f96652c6"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 332,
+    "dedupDropped": 56
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Rackspace is hiring Lead Azure Data Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/lead-azure-data-engineer-at-rackspace-com-mar-2-2026-b06b11",
+        "publishedAt": "2026-03-05T12:05:44.000Z",
+        "description": "rackspace is hiring lead azure data engineer azure unity cicd kafka powerbi sql techlead gurgaon india full time rackspace job details https jobsfordevelopers com jobs lead azure data engineer at rackspace com mar 2 2026 b06b11 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "azure",
+          "unity",
+          "cicd",
+          "kafka",
+          "powerbi",
+          "sql",
+          "techlead",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "bd7f00193525"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/dispenser",
+        "publishedAt": "2026-03-05T12:00:47.000Z",
+        "description": "system status update cex price 370 10 street price 374 76 premium 1 26 24h 32 621 txs obs node 52 6 p2p liq 20 555 36 xmr source agg cn nk dispenser protocol batch privacy payments send xmr btc or eth to multiple recipients in a single transaction https kyc rip dispenser xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7fd274342d69"
+      },
+      {
+        "headline": "Musk’s Freewheeling Tweets Land Him in Legal Jeopardy Again",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-05/elon-musk-s-tweets-about-his-twitter-takeover-land-him-in-court-again",
+        "publishedAt": "2026-03-05T12:11:44.000Z",
+        "description": "musk s freewheeling tweets land him in legal jeopardy again https www bloomberg com news newsletters 2026 03 05 elon musk s tweets about his twitter takeover land him in court again utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a315133335f4"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.v2ex.com/t/1196138",
+        "publishedAt": "2026-03-05T12:01:13.000Z",
+        "description": "v2ex app v 1 2 app app app app zoihk https is1 ssl mzstatic com image thumb purplesource221 v4 7d de d7 7dded7c0 91b8 0840 2af7 0c9e16bb6990 1 jpg 460x996bb webp app eta 14 https is1 ssl mzstatic com image thumb purplesource221 v4 e6 f6 f3 e6f6f3e1 0fb4 4a7a 99f0 fac0a5ce044b 7 png 460x996bb webp api 1 0 9 ios app store zoihk google play v bug app store https www v2ex com t 1196138 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "808f13f401fd"
+      },
+      {
+        "headline": "🧽 Metadata Cleaner — Apague o que você nem sabia que estava lá\nO arquivo parece inocente… mas carrega etiqueta invisível. ⚠️\n\nO Metadata…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/4RvRpg8Cv9c",
+        "publishedAt": "2026-03-05T12:08:32.000Z",
+        "description": "https blossom primal net beb41f127f9c5b8e6d581f0c771922ba1575083d698bae44c70d948066ecbb89 png metadata cleaner apague o que voc nem sabia que estava l o arquivo parece inocente mas carrega etiqueta invis vel o metadata cleaner uma ferramenta open source com interface gr fica para remover metadados de arquivos antes de compartilhar fotos pdfs documentos do office e outros formatos costumam guardar informa es ocultas como autor software usado datas e at localiza o voc manda o arquivo vai junto o hist rico dicas do coach de osasco pra usar com consci ncia 1 limpe antes de publicar metadados s o criados automaticamente pelo sistema ou aplicativo se saiu da sua m quina j est fora do seu controle 2 use como rotina trabalha com documentos imprensa relat rios ou conte do sens vel passe tudo pelo l",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "metadatacleaner",
+          "metadados",
+          "privacidadedigital",
+          "anonimizacao",
+          "opensource",
+          "ciberseguranca",
+          "segurancadigital",
+          "privacidade",
+          "coachdeosasco"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b4237971e38c"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "#Today 05",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/writing/media_attachments/files/116/176/435/029/958/191/original/5421297a28f5b750.png",
+        "publishedAt": "2026-03-05T12:12:22.000Z",
+        "description": "today 05 good day what do i dislike about my iphone s weather app to which they ve added ai rather than nuance it s absolutely certain in its wrongness yesterday zero chance of moisture until evening it rained all day too forecasts swing wildly every 15 minutes be everwell writinglife amwriting writingcommunity aging healthyliving healthylifestyle getoutside hiking trails hikingadventures nature naturephotography naturelover photography landscapephotography https cdn masto host writing media attachments files 116 176 435 029 958 191 original 5421297a28f5b750 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "today",
+          "writinglife",
+          "amwriting",
+          "writingcommunity",
+          "aging",
+          "healthyliving",
+          "healthylifestyle",
+          "getoutside",
+          "hiking",
+          "trails",
+          "hikingadventures",
+          "nature",
+          "naturephotography",
+          "naturelover",
+          "photography",
+          "landscapephotography"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "388b37a53e51"
+      },
+      {
+        "headline": "Markets are testing our resolve. #Bitcoin is down ~50% from the October highs.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/12112071c94b6adcc00680767dc86d44eba794b3502dc937f0fb9b6c45ca9b1e.jpg",
+        "publishedAt": "2026-03-05T12:11:08.000Z",
+        "description": "markets are testing our resolve bitcoin is down 50 from the october highs in times like these not your keys not your coins is only half the story the other half not your bank not your safety high risk exchanges always buckle under volatility if you aren t self custodying you need a regulated fortress xapo bank has been navigating these cycles since 2013 bringing the security of a traditional bank to the digital frontier how to survive a bear market avoid high leverage get rich quick schemes keep your assets in a regulated segregated account or a cold wallet if you trust yourself bitcoiners focus on accumulation not just price action play the long game the bunker is open nostr plebchain bearmarket https blossom primal net 12112071c94b6adcc00680767dc86d44eba794b3502dc937f0fb9b6c45ca9b1e jpg ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "bitcoiners",
+          "nostr",
+          "plebchain",
+          "bearmarket"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "60bc2cffe576"
+      },
+      {
+        "headline": "China to step up tech, energy and decarbonisation efforts in next 5-year plan #Beijing #Business #CarbonEmissions #CarbonNeutrality? #Chi…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/633908",
+        "publishedAt": "2026-03-05T12:12:05.000Z",
+        "description": "https www europesays com us 633908 china to step up tech energy and decarbonisation efforts in next 5 year plan beijing business carbonemissions carbonneutrality china economicdevelopment economicsecurity economy fiveyearplan gdp governmentworkreport liqiang nationalpeople scongress publicwellbeing researchanddevelopment technologicalinnovation twosessions unitedstates unitedstates us westerncountries https media pubeurope com media attachments files 116 176 501 157 713 767 original 5e87422884afd884 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "beijing",
+          "business",
+          "carbonemissions",
+          "carbonneutrality",
+          "china",
+          "economicdevelopment",
+          "economicsecurity",
+          "economy",
+          "fiveyearplan",
+          "gdp",
+          "governmentworkreport",
+          "liqiang",
+          "nationalpeople",
+          "publicwellbeing",
+          "researchanddevelopment",
+          "technologicalinnovation",
+          "twosessions",
+          "unitedstates",
+          "us",
+          "westerncountries"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "78c57fb77723"
+      },
+      {
+        "headline": "Nintendo Switch 2 users buying fewer games because of AI storage crisis, report claims — game demand under threat as titles get bigger an…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-users-buying-fewer-games-because-of-ai-storage-crisis-report-claims-game-demand-under-threat-as-titles-get-bigger-and-storage-gets-more-expensive",
+        "publishedAt": "2026-03-05T12:00:55.000Z",
+        "description": "nintendo switch 2 users buying fewer games because of ai storage crisis report claims game demand under threat as titles get bigger and storage gets more expensive https www tomshardware com video games nintendo nintendo switch 2 users buying fewer games because of ai storage crisis report claims game demand under threat as titles get bigger and storage gets more expensive",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "5cdd71f5c193"
+      },
+      {
+        "headline": "Trump says he trusted his gut to strike Iran 🇮🇷",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html?smid=nytcore-ios-share",
+        "publishedAt": "2026-03-05T12:12:04.000Z",
+        "description": "trump says he trusted his gut to strike iran experts say there was little planning and no clear strategy a president without prepared choices is gambling with a pair of twos thomas wright never has so much risk been undertaken with so little apparent planning david rothkopf war by instinct is not strategy https www nytimes com 2026 03 04 us politics trump national security html smid nytcore ios share press iran",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "press",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "730c5a2e17a3"
+      },
+      {
+        "headline": "Hacked App Part of US/Israeli Propaganda Campaign Against Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html",
+        "publishedAt": "2026-03-05T12:10:20.000Z",
+        "description": "hacked app part of us israeli propaganda campaign against iran https www schneier com blog archives 2026 03 hacked app part of us israeli propaganda campaign against iran html wired has the story shortly after the first set of explosions iranians received bursts of notifications on their phones they came not from the government advising caution but from an apparently hacked prayer timing app called badesaba calendar that has been downloaded more than 5 million times from the google",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6fbe0e89c352"
+      },
+      {
+        "headline": "Şu meret şu anda Türkiye'de yok!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.youtube.com/watch?v=CztdI52DLcc",
+        "publishedAt": "2026-03-05T12:08:54.000Z",
+        "description": "u meret u anda t rkiye de yok varm bitmi emg nin olan var ama o k t bir s zde lisansl kopya neden berbat bir lisansl kopya oldu unun videosunu belki bu payla m n alt na eklerim reddot ve fener tak l bir tabanca i in ve bir de john wick i in belki tercih edebilirdim fakat u anda bu tabancan n army jag olan ndan yok airsoftt rkiye airsoft canik caniktp9 deltasays poligunstore bbhedefi intuitiveshooting https www youtube com watch v cztdi52dlcc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "airsoftturkiye",
+          "airsoft",
+          "canik",
+          "caniktp9",
+          "deltasays",
+          "poligunstore",
+          "bbhedefi",
+          "intuitiveshooting"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "52a891e0406f"
+      },
+      {
+        "headline": "China’s Government vows to fight independence movement in Taiwan (with video) #China #ChinaEconomy #ChinaPolitics #ChinaSociety #ChinaTai…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/2823987",
+        "publishedAt": "2026-03-05T12:08:03.000Z",
+        "description": "https www europesays com 2823987 china s government vows to fight independence movement in taiwan with video china chinaeconomy chinapolitics chinasociety chinataiwanconflicts conflicts taiwan worldpolitics worldsociety https media pubeurope com media attachments files 116 176 485 273 848 285 original df0ab33bed255b1c webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "china",
+          "chinaeconomy",
+          "chinapolitics",
+          "chinasociety",
+          "chinataiwanconflicts",
+          "conflicts",
+          "taiwan",
+          "worldpolitics",
+          "worldsociety"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "32678305f836"
+      },
+      {
+        "headline": "**Scared of Spiders? The Real Nightmare Is a World Without Them**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scared-of-spiders-the-real-nightmare-is-a-world-without-them",
+        "publishedAt": "2026-03-05T11:41:44.000Z",
+        "description": "scared of spiders the real nightmare is a world without them by university of massachusetts amherst published on 05 march 2026 a new study finds that almost 90 of north america s insects and arachnids have no conservation status at all arachnids including spiders scorpions and harvestmen daddy long legs often inspire fear or disgust despite their reputation these animals play an essential role in keeping ecosystems functioning as global biodiversity declines in what some researchers call the read more https scitechdaily com scared of spiders the real nightmare is a world without them science technology arachnophobia biology neuroscience biology arachnids biodiversity",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "044cf769ff9e"
+      },
+      {
+        "headline": "Agreed. Replace \"national security\" with \"child safety\" and the game remains the same.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://xcancel.com/schmidt1024/status/2029511175738692073",
+        "publishedAt": "2026-03-05T11:41:43.000Z",
+        "description": "agreed replace national security with child safety and the game remains the same kyc for playgrounds anyone original post https xcancel com schmidt1024 status 2029511175738692073 https files catbox moe mr27r6 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "b7e4d2a8223e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Rackspace is hiring Lead Azure Data Engineer",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jobsfordevelopers.com/jobs/lead-azure-data-engineer-at-rackspace-com-mar-2-2026-b06b11",
+        "publishedAt": "2026-03-05T12:05:44.000Z",
+        "description": "rackspace is hiring lead azure data engineer azure unity cicd kafka powerbi sql techlead gurgaon india full time rackspace job details https jobsfordevelopers com jobs lead azure data engineer at rackspace com mar 2 2026 b06b11 utm source mastodon world utm medium social utm campaign posting jobalert jobsearch hiring",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "azure",
+          "unity",
+          "cicd",
+          "kafka",
+          "powerbi",
+          "sql",
+          "techlead",
+          "jobalert",
+          "jobsearch",
+          "hiring"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "bd7f00193525"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/dispenser",
+        "publishedAt": "2026-03-05T12:00:47.000Z",
+        "description": "system status update cex price 370 10 street price 374 76 premium 1 26 24h 32 621 txs obs node 52 6 p2p liq 20 555 36 xmr source agg cn nk dispenser protocol batch privacy payments send xmr btc or eth to multiple recipients in a single transaction https kyc rip dispenser xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7fd274342d69"
+      },
+      {
+        "headline": "Musk’s Freewheeling Tweets Land Him in Legal Jeopardy Again",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-05/elon-musk-s-tweets-about-his-twitter-takeover-land-him-in-court-again",
+        "publishedAt": "2026-03-05T12:11:44.000Z",
+        "description": "musk s freewheeling tweets land him in legal jeopardy again https www bloomberg com news newsletters 2026 03 05 elon musk s tweets about his twitter takeover land him in court again utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a315133335f4"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.v2ex.com/t/1196138",
+        "publishedAt": "2026-03-05T12:01:13.000Z",
+        "description": "v2ex app v 1 2 app app app app zoihk https is1 ssl mzstatic com image thumb purplesource221 v4 7d de d7 7dded7c0 91b8 0840 2af7 0c9e16bb6990 1 jpg 460x996bb webp app eta 14 https is1 ssl mzstatic com image thumb purplesource221 v4 e6 f6 f3 e6f6f3e1 0fb4 4a7a 99f0 fac0a5ce044b 7 png 460x996bb webp api 1 0 9 ios app store zoihk google play v bug app store https www v2ex com t 1196138 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "808f13f401fd"
+      },
+      {
+        "headline": "🧽 Metadata Cleaner — Apague o que você nem sabia que estava lá\nO arquivo parece inocente… mas carrega etiqueta invisível. ⚠️\n\nO Metadata…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/4RvRpg8Cv9c",
+        "publishedAt": "2026-03-05T12:08:32.000Z",
+        "description": "https blossom primal net beb41f127f9c5b8e6d581f0c771922ba1575083d698bae44c70d948066ecbb89 png metadata cleaner apague o que voc nem sabia que estava l o arquivo parece inocente mas carrega etiqueta invis vel o metadata cleaner uma ferramenta open source com interface gr fica para remover metadados de arquivos antes de compartilhar fotos pdfs documentos do office e outros formatos costumam guardar informa es ocultas como autor software usado datas e at localiza o voc manda o arquivo vai junto o hist rico dicas do coach de osasco pra usar com consci ncia 1 limpe antes de publicar metadados s o criados automaticamente pelo sistema ou aplicativo se saiu da sua m quina j est fora do seu controle 2 use como rotina trabalha com documentos imprensa relat rios ou conte do sens vel passe tudo pelo l",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "metadatacleaner",
+          "metadados",
+          "privacidadedigital",
+          "anonimizacao",
+          "opensource",
+          "ciberseguranca",
+          "segurancadigital",
+          "privacidade",
+          "coachdeosasco"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b4237971e38c"
+      },
+      {
+        "headline": "Apple Releases iOS 18.7.6 to Address Australia Emergency Call Issue #Apple #iOS #iPad #iPhone #Mac #Mobile #rumors #Technology #UnitedSta…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/633904",
+        "publishedAt": "2026-03-05T12:07:06.000Z",
+        "description": "https www europesays com us 633904 apple releases ios 18 7 6 to address australia emergency call issue apple ios ipad iphone mac mobile rumors technology unitedstates unitedstates us https media pubeurope com media attachments files 116 176 481 553 870 602 original 512efb268aa2a9ca jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "apple",
+          "ios",
+          "ipad",
+          "iphone",
+          "mac",
+          "mobile",
+          "rumors",
+          "technology",
+          "unitedstates",
+          "us"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f1f401e62344"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 158
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 60
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 58
+    }
+  ],
+  "failures": []
+}
