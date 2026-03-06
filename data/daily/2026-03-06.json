@@ -1,0 +1,626 @@
+{
+  "date": "2026-03-06",
+  "generatedAt": "2026-03-06T12:14:45.286Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22763007507",
+    "commitSha": "ceedee93ee50ff104242c037ac7ee1fedbb2439b"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 317,
+    "dedupDropped": 67
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#Today 06",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/writing/media_attachments/files/116/182/102/109/709/585/original/eb246498195f7dd3.png",
+        "publishedAt": "2026-03-06T12:13:46.000Z",
+        "description": "today 06 good day well i m not crazy not entirely i am a writer after all to this point we ve officially had the warmest winter on record for this region which is the northern rockies no subzero days and few that failed to climb over freezing be everwell writinglife amwriting writingcommunity aging healthyliving healthylifestyle getoutside hiking trails hikingadventures nature footpathfriday naturephotography naturelover photography landscapephotography https cdn masto host writing media attachments files 116 182 102 109 709 585 original eb246498195f7dd3 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "today",
+          "writinglife",
+          "amwriting",
+          "writingcommunity",
+          "aging",
+          "healthyliving",
+          "healthylifestyle",
+          "getoutside",
+          "hiking",
+          "trails",
+          "hikingadventures",
+          "nature",
+          "footpathfriday",
+          "naturephotography",
+          "naturelover",
+          "photography",
+          "landscapephotography"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1bb8fd491c1a"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/graveyard",
+        "publishedAt": "2026-03-06T12:00:14.000Z",
+        "description": "system status update cex price 357 83 street price 360 68 premium 0 80 24h 30 231 txs obs node 52 9 p2p liq 23 169 19 xmr source agg tr cn nk hv stablecoin graveyard real time monitoring of frozen usdt usdc addresses witness the programmable tyranny of centralized assets https kyc rip graveyard xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "51891e445e87"
+      },
+      {
+        "headline": "Trabalhe com Open Service e viva do que ama",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtube.com/live/wM1leP2iPXo",
+        "publishedAt": "2026-03-06T11:45:24.000Z",
+        "description": "trabalhe com open service e viva do que ama quer ganhar dinheiro fazendo o que voc ama com open service agora voc pode trabalhar direito e ganhar o suficiente para viver open service uma alternativa real oferece sal rio espa o para crescer e trabalhar com prop sito investimentos ex bitcoin e iniciativas est o ajudando a financiar projetos no ecossistema n o f cil exige profissionalismo dedica o e entrega mas uma oportunidade gigante curtiu essa vis o sobre trabalhar com open service deixa nos coment rios qual rea voc iria escolher curta salve para lembrar comente siga para mais insights sobre trabalho e oportunidades source https youtube com live wm1lep2ipxo morningcrypto https postiz eddieoz com uploads 2026 03 06 1ebef52b5e56af9d5cc2b968fc978db8 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "84eac5b20d2d"
+      },
+      {
+        "headline": "Kit de exploits Coruna con 23 fallos hackeó miles de iPhones",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.elhacker.net/2026/03/kit-de-exploits-coruna-con-23-fallos.html",
+        "publishedAt": "2026-03-06T12:00:53.000Z",
+        "description": "kit de exploits coruna con 23 fallos hacke miles de iphones https blog elhacker net 2026 03 kit de exploits coruna con 23 fallos html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "031c7f8bf9fc"
+      },
+      {
+        "headline": "[ dwebxr/aegis ] test: add 29 more edge case tests for discovery, briefing API, source platform inference",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dwebxr/aegis/commit/012127d12b5ea1feab3bff92043e28fcc204fc15",
+        "publishedAt": "2026-03-06T12:02:06.000Z",
+        "description": "dwebxr aegis test add 29 more edge case tests for discovery briefing api source platform inference discovery edge jaccard boundary 0 3 threshold duplicate interests negative affinity large topic sets fetch briefing edge naddr length limit 1000 chars timeout 504 non timeout 502 storage edge inferplatform for all platforms youtube bluesky reddit github mastodon topic farcaster empty undefined feedurl priority ordering 299 suites 5155 tests all passing coverage 88 60 stmts 90 65 lines co authored by claude opus 4 6 https github com dwebxr aegis commit 012127d12b5ea1feab3bff92043e28fcc204fc15",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "96564771eb9b"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Seeing these sweet sheep wag their tails with pure joy proves they are just like the dogs we share our homes with. When we choose to see…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://fibercap.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Afe7wk7bzjxhyzzoecttcw322&cid=bafkreihm5vwwrngtjhsh23jp6gkkivr37jjctaul7it3742t2kgfxhwyb4",
+        "publishedAt": "2026-03-06T12:04:00.000Z",
+        "description": "seeing these sweet sheep wag their tails with pure joy proves they are just like the dogs we share our homes with when we choose to see their true nature we realize every animal deserves a lifetime of love and safety sheep friendsnotfood choosecompassion animalfriends farmsanctuary https fibercap us west host bsky network xrpc com atproto sync getblob did did plc fe7wk7bzjxhyzzoecttcw322 cid bafkreihm5vwwrngtjhsh23jp6gkkivr37jjctaul7it3742t2kgfxhwyb4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "sheep",
+          "friendsnotfood",
+          "choosecompassion",
+          "animalfriends",
+          "farmsanctuary"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "bd3ff3790ba1"
+      },
+      {
+        "headline": "More than a million users a day are signing up for Claude — as Anthropic hits out at its 'legally unsound' US government ban",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/ai-platforms-assistants/claude/more-than-a-million-users-a-day-are-signing-up-for-claude-as-anthropic-hits-out-at-its-legally-unsound-us-government-ban",
+        "publishedAt": "2026-03-06T12:01:42.000Z",
+        "description": "more than a million users a day are signing up for claude as anthropic hits out at its legally unsound us government ban https www techradar com ai platforms assistants claude more than a million users a day are signing up for claude as anthropic hits out at its legally unsound us government ban",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9a2059e1414f"
+      },
+      {
+        "headline": "\"I've lived in the deep sea for over 200 years.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.mountainstosea.org.nz/fish-of-the-year",
+        "publishedAt": "2026-03-06T12:03:13.000Z",
+        "description": "i ve lived in the deep sea for over 200 years bottom trawling is destroying my coral garden home most of my friends are gone my numbers are dwindling and i cannot recover fast enough poor orange roughy your vote can help it be seen vote orange roughy for fish of the year voting closes sunday march 15 https www mountainstosea org nz fish of the year orangeroughy teamorangeroughy foty fishoftheyear oceans banbottomtrawling protecttheocean https o mastodon nz media attachments files 116 182 107 540 932 958 original 52cd922098309b97 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "orangeroughy",
+          "teamorangeroughy",
+          "foty",
+          "fishoftheyear",
+          "oceans",
+          "banbottomtrawling",
+          "protecttheocean"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "369d884b8923"
+      },
+      {
+        "headline": "Alexa’s latest AI blunder could have sent someone to the hospital",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/amazon-alexa-dangerous-cleaning-tip-3647170",
+        "publishedAt": "2026-03-06T11:54:33.000Z",
+        "description": "alexa s latest ai blunder could have sent someone to the hospital https www androidauthority com amazon alexa dangerous cleaning tip 3647170",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "7c5cf5b01e7a"
+      },
+      {
+        "headline": "Kino, lapp di acquisizione video pro per iOS, ha ricevuto un aggiornamento che la rende la migliore per iPhone 17 Pro. 🎬📱",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/mastodonuno/media_attachments/files/116/182/119/100/440/481/original/bf94d9335eaee4bb.jpeg",
+        "publishedAt": "2026-03-06T12:00:50.000Z",
+        "description": "kino lapp di acquisizione video pro per ios ha ricevuto un aggiornamento che la rende la migliore per iphone 17 pro kino iphone17pro videoapp https cdn masto host mastodonuno media attachments files 116 182 119 100 440 481 original bf94d9335eaee4bb jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kino",
+          "iphone17pro",
+          "videoapp"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "b697f4a71af8"
+      },
+      {
+        "headline": "This Ultra flagship promises industry-leading gimbal-level telephoto stabilization",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/vivo-x300-ultra-camera-telephoto-ois-3647164",
+        "publishedAt": "2026-03-06T11:53:27.000Z",
+        "description": "this ultra flagship promises industry leading gimbal level telephoto stabilization https www androidauthority com vivo x300 ultra camera telephoto ois 3647164",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "1e3ba80c5df6"
+      },
+      {
+        "headline": "```",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://esv.org/Heb+2",
+        "publishedAt": "2026-03-06T12:07:41.000Z",
+        "description": "at that time his voice shook the earth but now he has promised yet once more i will shake not only the earth but also the heavens this phrase yet once more indicates the removal of things that are shaken that is things that have been made in order that the things that cannot be shaken may remain therefore let us be grateful for receiving a kingdom that cannot be shaken and thus let us offer to god acceptable worship with reverence and awe for our god is a consuming fire hebrews 12 26 29 https esv org heb 2 esv gm to each",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "735b1ddc5381"
+      },
+      {
+        "headline": "A Majority of Americans Want Illegal Aliens to Go Home | News Radio 1200 WOAI  #Alien #Aliens",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ufofeed.com/218627/a-majority-of-americans-want-illegal-aliens-to-go-home-news-radio-1200-woai",
+        "publishedAt": "2026-03-06T11:56:03.000Z",
+        "description": "https www ufofeed com 218627 a majority of americans want illegal aliens to go home news radio 1200 woai a majority of americans want illegal aliens to go home news radio 1200 woai alien aliens https media channels im media attachments files 116 182 100 437 250 738 original 78361484e0edd262 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "alien",
+          "aliens"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f5fff6bfc02b"
+      },
+      {
+        "headline": "Jaylen Brown, Beverly Hills police and video stoking racial bias claim #BeverlyHillsMansion #BlackPeople #Ca #california #city #ClassActi…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/636230",
+        "publishedAt": "2026-03-06T11:40:07.000Z",
+        "description": "https www europesays com us 636230 jaylen brown beverly hills police and video stoking racial bias claim beverlyhillsmansion blackpeople ca california city classactionlawsuit event incident jaylenbrown la lifeissue losangeles losangeles officer police resident salehebembury sterling store times https media pubeurope com media attachments files 116 182 037 754 914 411 original c816f1c9c5afdc07 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "beverlyhillsmansion",
+          "blackpeople",
+          "ca",
+          "california",
+          "city",
+          "classactionlawsuit",
+          "event",
+          "incident",
+          "jaylenbrown",
+          "la",
+          "lifeissue",
+          "losangeles",
+          "officer",
+          "police",
+          "resident",
+          "salehebembury",
+          "sterling",
+          "store",
+          "times"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "8dbc5ec1c783"
+      },
+      {
+        "headline": "**Scientists Successfully Transfer Longevity Gene, Paving the Way for Extending Human Lifespan**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-successfully-transfer-longevity-gene-paving-the-way-for-extending-human-lifespan",
+        "publishedAt": "2026-03-06T11:42:19.000Z",
+        "description": "scientists successfully transfer longevity gene paving the way for extending human lifespan by university of rochester published on 06 march 2026 scientists have long studied unusually long lived animals for clues to aging but applying those insights has been difficult now researchers report that inserting a single naked mole rat gene into mice extended lifespan and improved health researchers at the university of rochester have taken a bold step in exporting longevity biology from one mammal to read more https scitechdaily com scientists successfully transfer longevity gene paving the way for extending human lifespan longevitygene agingresearch genetransfer lifeextension nakedmolerat health biotechnology genetics",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "aada09c5c2fd"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "#Today 06",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/writing/media_attachments/files/116/182/102/109/709/585/original/eb246498195f7dd3.png",
+        "publishedAt": "2026-03-06T12:13:46.000Z",
+        "description": "today 06 good day well i m not crazy not entirely i am a writer after all to this point we ve officially had the warmest winter on record for this region which is the northern rockies no subzero days and few that failed to climb over freezing be everwell writinglife amwriting writingcommunity aging healthyliving healthylifestyle getoutside hiking trails hikingadventures nature footpathfriday naturephotography naturelover photography landscapephotography https cdn masto host writing media attachments files 116 182 102 109 709 585 original eb246498195f7dd3 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "today",
+          "writinglife",
+          "amwriting",
+          "writingcommunity",
+          "aging",
+          "healthyliving",
+          "healthylifestyle",
+          "getoutside",
+          "hiking",
+          "trails",
+          "hikingadventures",
+          "nature",
+          "footpathfriday",
+          "naturephotography",
+          "naturelover",
+          "photography",
+          "landscapephotography"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1bb8fd491c1a"
+      },
+      {
+        "headline": "[ SYSTEM_STATUS_UPDATE ]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/graveyard",
+        "publishedAt": "2026-03-06T12:00:14.000Z",
+        "description": "system status update cex price 357 83 street price 360 68 premium 0 80 24h 30 231 txs obs node 52 9 p2p liq 23 169 19 xmr source agg tr cn nk hv stablecoin graveyard real time monitoring of frozen usdt usdc addresses witness the programmable tyranny of centralized assets https kyc rip graveyard xmr monero privacy nokyc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "51891e445e87"
+      },
+      {
+        "headline": "Trabalhe com Open Service e viva do que ama",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtube.com/live/wM1leP2iPXo",
+        "publishedAt": "2026-03-06T11:45:24.000Z",
+        "description": "trabalhe com open service e viva do que ama quer ganhar dinheiro fazendo o que voc ama com open service agora voc pode trabalhar direito e ganhar o suficiente para viver open service uma alternativa real oferece sal rio espa o para crescer e trabalhar com prop sito investimentos ex bitcoin e iniciativas est o ajudando a financiar projetos no ecossistema n o f cil exige profissionalismo dedica o e entrega mas uma oportunidade gigante curtiu essa vis o sobre trabalhar com open service deixa nos coment rios qual rea voc iria escolher curta salve para lembrar comente siga para mais insights sobre trabalho e oportunidades source https youtube com live wm1lep2ipxo morningcrypto https postiz eddieoz com uploads 2026 03 06 1ebef52b5e56af9d5cc2b968fc978db8 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "84eac5b20d2d"
+      },
+      {
+        "headline": "Kit de exploits Coruna con 23 fallos hackeó miles de iPhones",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.elhacker.net/2026/03/kit-de-exploits-coruna-con-23-fallos.html",
+        "publishedAt": "2026-03-06T12:00:53.000Z",
+        "description": "kit de exploits coruna con 23 fallos hacke miles de iphones https blog elhacker net 2026 03 kit de exploits coruna con 23 fallos html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "031c7f8bf9fc"
+      },
+      {
+        "headline": "[ dwebxr/aegis ] test: add 29 more edge case tests for discovery, briefing API, source platform inference",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dwebxr/aegis/commit/012127d12b5ea1feab3bff92043e28fcc204fc15",
+        "publishedAt": "2026-03-06T12:02:06.000Z",
+        "description": "dwebxr aegis test add 29 more edge case tests for discovery briefing api source platform inference discovery edge jaccard boundary 0 3 threshold duplicate interests negative affinity large topic sets fetch briefing edge naddr length limit 1000 chars timeout 504 non timeout 502 storage edge inferplatform for all platforms youtube bluesky reddit github mastodon topic farcaster empty undefined feedurl priority ordering 299 suites 5155 tests all passing coverage 88 60 stmts 90 65 lines co authored by claude opus 4 6 https github com dwebxr aegis commit 012127d12b5ea1feab3bff92043e28fcc204fc15",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "96564771eb9b"
+      },
+      {
+        "headline": "[ greenart7c3/Amber ] Update dependencies and gradle wrapper, and apply linting fixes",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/greenart7c3/Amber/commit/c04ec63a5e87f27b7223588aa61f310aa993dd2b",
+        "publishedAt": "2026-03-06T12:03:07.000Z",
+        "description": "greenart7c3 amber update dependencies and gradle wrapper and apply linting fixes update gradle to 9 3 1 and agp to 9 1 0 upgrade library versions ktlint 14 1 0 mockk 1 14 9 and coroutinestest 1 10 2 apply code style improvements including trailing commas optimized imports and removal of redundant blank lines across several ui components and services refactor securecryptohelper isstrongboxsupported for better readability https github com greenart7c3 amber commit c04ec63a5e87f27b7223588aa61f310aa993dd2b",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "7e7351284161"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 177
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 23
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    }
+  ],
+  "failures": []
+}
