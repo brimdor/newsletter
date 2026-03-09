@@ -1,0 +1,619 @@
+{
+  "date": "2026-03-09",
+  "generatedAt": "2026-03-09T11:19:00.569Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22850966934",
+    "commitSha": "31ffba5cafdfd6808971abf7211a106f83c1e11d"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 377,
+    "dedupDropped": 104
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Seeing this circulate. Here is the full context:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israeli-airstrike-targets-nabatieh-lebanon-conflict",
+        "publishedAt": "2026-03-09T11:04:02.000Z",
+        "description": "seeing this circulate here is the full context israeli airstrike targets nabatieh amid escalating conflict with iran backed forces https theboard world static videos warmonitor 40841 mp4 read the analysis https theboard world articles israeli airstrike targets nabatieh lebanon conflict theboard iran israel war",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "b61c8c108798"
+      },
+      {
+        "headline": "Dorsey Wobbles on Question of AI’s Benefits Versus Loss of Jobs",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-09/dorsey-wobbles-on-question-of-ai-s-effects-after-major-job-cuts-at-block",
+        "publishedAt": "2026-03-09T11:13:09.000Z",
+        "description": "dorsey wobbles on question of ai s benefits versus loss of jobs https www bloomberg com news newsletters 2026 03 09 dorsey wobbles on question of ai s effects after major job cuts at block utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8452119a5685"
+      },
+      {
+        "headline": "Russian Forces Liberate Golubovka Village in DPR – Defense Ministry",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sputnikglobe.com/20260309/russian-forces-liberate-golubovka-village-in-dpr---defense-ministry-1123795054.html",
+        "publishedAt": "2026-03-09T10:45:22.000Z",
+        "description": "russian forces liberate golubovka village in dpr defense ministry from sputnik moscow sputnik the russian armed forces have taken control of the village of golubovka in the donetsk people s republic the russian defense ministry said on monday mar 9th 2026 6 03am edt source link https sputnikglobe com 20260309 russian forces liberate golubovka village in dpr defense ministry 1123795054 html share promote comment with nostr https dissentwatch com boost boost post id 1111125",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "43a4a2f0ed0b"
+      },
+      {
+        "headline": "Agentic AI Startup Lyzr Raises Funds at $250 Million Valuation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-09/agentic-ai-startup-lyzr-raises-funds-at-250-million-valuation",
+        "publishedAt": "2026-03-09T11:15:12.000Z",
+        "description": "agentic ai startup lyzr raises funds at 250 million valuation https www bloomberg com news articles 2026 03 09 agentic ai startup lyzr raises funds at 250 million valuation utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "724907666dd2"
+      },
+      {
+        "headline": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-09T11:12:00.000Z",
+        "description": "openai startet vorschau auf ki schwachstellenscanner codex security w hrend claude bereits mehr als 100 l cken in firefox findet k ndigt openai mit codex security einen ki sicherheitsl ckenscanner an https www heise de news openai startet vorschau auf ki schwachstellenscanner codex security 11203826 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon it k nstlicheintelligenz openai scanner security sicherheitsl cken news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "it",
+          "kunstlicheintelligenz",
+          "openai",
+          "scanner",
+          "security",
+          "sicherheitslucken",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "ecafeb4a68ff"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Scientists Discover Way To Reverse Chemical Process Linked With Alzheimer’s Disease**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-discover-way-to-reverse-chemical-process-linked-with-alzheimers-disease",
+        "publishedAt": "2026-03-09T10:48:41.000Z",
+        "description": "scientists discover way to reverse chemical process linked with alzheimer s disease by oregon state university published on 09 march 2026 by watching alzheimer s related protein clumping unfold second by second researchers have uncovered new clues about the role of metal ions an oregon state university chemist and a group of undergraduate researchers have captured real time details of a chemical reaction tied to alzheimer s disease their work could help guide the development of more precisely targeted medications read more https scitechdaily com scientists discover way to reverse chemical process linked with alzheimers disease alzheimersresearch neurodegeneration biochemistry drugdiscovery brainhealth health alzheimersdisease biochemistry",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "194e246d9d7e"
+      },
+      {
+        "headline": "🪷 On 9 March #PanicDay we recall that the king of all the satyrs is the god Pan, who has a stentorian voice which strikes terror into th…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://antinousstars.blogspot.com/2025/11/antinous-in-mantineia-home-of-his.html",
+        "publishedAt": "2026-03-09T11:13:17.000Z",
+        "description": "on 9 march panicday we recall that the king of all the satyrs is the god pan who has a stentorian voice which strikes terror into the hearts of foes of the gods hence the word panic pan is the son of antinous the suitor in homer s odyssey https antinousstars blogspot com 2025 11 antinous in mantineia home of his html https social anoxinon de system media attachments files 116 198 918 795 449 763 original d6bb28210e41388c jpg https social anoxinon de system media attachments files 116 198 918 816 982 389 original c12037c7f467eaa7 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "panicday",
+          "antinous"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "78ca66daec86"
+      },
+      {
+        "headline": "初音ミク(桜ミク) / 紅魔 / March 9, 2026 7:45 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://x.com/koumaPixiv",
+        "publishedAt": "2026-03-09T11:09:12.000Z",
+        "description": "march 9 2026 7 45 pm dm x if you have any character or situation requests please comment dm or x x https x com koumapixiv aigenerated vocaloid https www pixiv net en artworks 142101285 https www pixiv net en users 109504406 there are 20 images https cdn mikuobsession net 42dcd006 20b9 41b2 b254 36ae551f3b1f 142101285 p0 jpg https cdn mikuobsession net 206d527c e900 45be 8b14 70ebd77eb830 142101285 p1 jpg https cdn mikuobsession net ad7b7d3d fc83 4397 b2d3 683c93b55120 142101285 p2 jpg https cdn mikuobsession net 851123a1 92fa 48db ba48 3ba023eb16f3 142101285 p3 jpg https cdn mikuobsession net a5ca773d f75b 4a9b b699 5630f9ae076d 142101285 p4 jpg https cdn mikuobsession net 3b268bb0 2a45 4c71 9ca7 0a180353e826 142101285 p5 jpg https cdn mikuobsession net 5e85805e c38d 4ad3 bd4d fd2a5a7984e9",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "vocaloid",
+          "パンチラ",
+          "初音ミク",
+          "桜ミク"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9a6b98755e00"
+      },
+      {
+        "headline": "ミクの日 / キリノハ / March 9, 2026 7:38 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/142101038",
+        "publishedAt": "2026-03-09T11:07:24.000Z",
+        "description": "march 9 2026 7 38 pm pixelart https www pixiv net en artworks 142101038 https www pixiv net en users 110519101 https cdn mikuobsession net cb2db1a0 8814 4778 8c8f a8ee582cdc7b 142101038 ugoira1920x1080 zip webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "pixelart",
+          "うごイラ",
+          "ドット絵",
+          "初音ミク"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aac2d55d2b6b"
+      },
+      {
+        "headline": "💡 Crypto Safety Tip: Always check the SELL TAX before buying!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/",
+        "publishedAt": "2026-03-09T10:59:39.000Z",
+        "description": "crypto safety tip always check the sell tax before buying tokens with 10 sell tax are taking a huge cut of your profits some scam tokens have 90 100 sell tax making them impossible to sell free tool to check https titten patrol riverside enjoying trycloudflare com just paste any contract address blockchain trading bitcoin altcoin rugpull",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "bf70e32a25d4"
+      },
+      {
+        "headline": "Android’s Advanced Protection Mode may soon disable a key Chrome feature to boost security",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/android-advanced-protection-mode-disable-chrome-webgpu-apk-teardown-3647502",
+        "publishedAt": "2026-03-09T10:44:57.000Z",
+        "description": "android s advanced protection mode may soon disable a key chrome feature to boost security https www androidauthority com android advanced protection mode disable chrome webgpu apk teardown 3647502",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "f2a199c13cd8"
+      },
+      {
+        "headline": "IRAN WAR BOMBSHELL: It Has Now Been Confirmed That The Office Of National Intelligence And The Pentagon Warned President Trump One Week B…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.infowars.com/posts/iran-war-bombshell-it-has-now-been-confirmed-that-the-office-of-national-intelligence-and-the-pentagon-warned-president-trump-one-week-before-the-iran-war-began-that-in-most-scenarios-the-united-sta",
+        "publishedAt": "2026-03-09T11:13:46.000Z",
+        "description": "iran war bombshell it has now been confirmed that the office of national intelligence and the pentagon warned president trump one week before the iran war began that in most scenarios the united states would fail massively in regime change in iran and potentially trigger a global catastrophe https www infowars com posts iran war bombshell it has now been confirmed that the office of national intelligence and the pentagon warned president trump one week before the iran war began that in most scenarios the united sta zap to support dm to suggest new feeds",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "88cce096d629"
+      },
+      {
+        "headline": "Worth reading:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/ukraine-war-counter-drone-technology-arms-race",
+        "publishedAt": "2026-03-09T10:51:43.000Z",
+        "description": "worth reading ukraine war drives counter drone tech arms race the ukraine war has ignited a global counter drone technology arms race learn how battlefield innovations are reshaping security strategies worldwide https theboard world articles ukraine war counter drone technology arms race https theboard world static og ukraine war counter drone technology arms race png theboard war ukraine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "war",
+          "ukraine"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "850b4d5d0855"
+      },
+      {
+        "headline": "AWS Console Alert: Real-Time “AiTM” Phishing Campaign Bypasses MFA with Rapid Precision",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://securityonline.info/aws-console-alert-real-time-aitm-phishing-campaign-bypasses-mfa-with-rapid-precision",
+        "publishedAt": "2026-03-09T10:47:31.000Z",
+        "description": "aws console alert real time aitm phishing campaign bypasses mfa with rapid precision https securityonline info aws console alert real time aitm phishing campaign bypasses mfa with rapid precision",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "93edfb7b16d9"
+      },
+      {
+        "headline": "ラビットホールミクちゃんꯁꯧ / ちむちむ / March 9, 2026 7:58 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/142101755",
+        "publishedAt": "2026-03-09T11:12:04.000Z",
+        "description": "march 9 2026 7 58 pm aigenerated vocaloid hatsunemiku https www pixiv net en artworks 142101755 https www pixiv net en users 123998149 https cdn mikuobsession net de62a5b2 6a79 4b44 9f3a 56133c47fe19 142101755 p0 png https cdn mikuobsession net c555de53 4b0d 449d 8f79 da9d45c21b71 142101755 p1 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "hatsunemiku",
+          "vocaloid",
+          "バニーガール",
+          "ボカロ",
+          "ミクの日",
+          "ラビットホール",
+          "初音ミク",
+          "腋"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "49f81802af6e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Seeing this circulate. Here is the full context:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israeli-airstrike-targets-nabatieh-lebanon-conflict",
+        "publishedAt": "2026-03-09T11:04:02.000Z",
+        "description": "seeing this circulate here is the full context israeli airstrike targets nabatieh amid escalating conflict with iran backed forces https theboard world static videos warmonitor 40841 mp4 read the analysis https theboard world articles israeli airstrike targets nabatieh lebanon conflict theboard iran israel war",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "b61c8c108798"
+      },
+      {
+        "headline": "Dorsey Wobbles on Question of AI’s Benefits Versus Loss of Jobs",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-09/dorsey-wobbles-on-question-of-ai-s-effects-after-major-job-cuts-at-block",
+        "publishedAt": "2026-03-09T11:13:09.000Z",
+        "description": "dorsey wobbles on question of ai s benefits versus loss of jobs https www bloomberg com news newsletters 2026 03 09 dorsey wobbles on question of ai s effects after major job cuts at block utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8452119a5685"
+      },
+      {
+        "headline": "Russian Forces Liberate Golubovka Village in DPR – Defense Ministry",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sputnikglobe.com/20260309/russian-forces-liberate-golubovka-village-in-dpr---defense-ministry-1123795054.html",
+        "publishedAt": "2026-03-09T10:45:22.000Z",
+        "description": "russian forces liberate golubovka village in dpr defense ministry from sputnik moscow sputnik the russian armed forces have taken control of the village of golubovka in the donetsk people s republic the russian defense ministry said on monday mar 9th 2026 6 03am edt source link https sputnikglobe com 20260309 russian forces liberate golubovka village in dpr defense ministry 1123795054 html share promote comment with nostr https dissentwatch com boost boost post id 1111125",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "43a4a2f0ed0b"
+      },
+      {
+        "headline": "Agentic AI Startup Lyzr Raises Funds at $250 Million Valuation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-09/agentic-ai-startup-lyzr-raises-funds-at-250-million-valuation",
+        "publishedAt": "2026-03-09T11:15:12.000Z",
+        "description": "agentic ai startup lyzr raises funds at 250 million valuation https www bloomberg com news articles 2026 03 09 agentic ai startup lyzr raises funds at 250 million valuation utm source flipboard utm medium activitypub posted into bloomberg nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpqz0car90ezhv50k8usdk8l3h073s3f3mfqmkpcn62jse7cvpfpzfqsrykr2",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "724907666dd2"
+      },
+      {
+        "headline": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-09T11:12:00.000Z",
+        "description": "openai startet vorschau auf ki schwachstellenscanner codex security w hrend claude bereits mehr als 100 l cken in firefox findet k ndigt openai mit codex security einen ki sicherheitsl ckenscanner an https www heise de news openai startet vorschau auf ki schwachstellenscanner codex security 11203826 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon it k nstlicheintelligenz openai scanner security sicherheitsl cken news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "it",
+          "kunstlicheintelligenz",
+          "openai",
+          "scanner",
+          "security",
+          "sicherheitslucken",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "ecafeb4a68ff"
+      },
+      {
+        "headline": "Un blessé lors d’une partie de chasse près d’Avignon",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ledauphine.com/faits-divers-justice/2026/03/07/un-blesse-lors-d-une-partie-de-chasse-pres-d-avignon",
+        "publishedAt": "2026-03-09T11:09:44.000Z",
+        "description": "un bless lors d une partie de chasse pr s d avignon https www ledauphine com faits divers justice 2026 03 07 un blesse lors d une partie de chasse pres d avignon il est pr s de 9 h 30 le 7 mars quand un homme de 73 ans re oit un projectile la hanche lors d une partie de chasse en pleine for t rochefort du gard l intervention n cessite l engagement d une ambulance des sapeurs pompiers du gard et d un officier pour coordonner et s curiser la zone d intervention avec la gendarmerie indique une source au service d partemental d incendie et de secours du gard y avait donc pas que des bons chasseurs dans le lot",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1236bdf35d50"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 137
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 55
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 81
+    }
+  ],
+  "failures": []
+}
