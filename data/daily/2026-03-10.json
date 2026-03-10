@@ -1,0 +1,633 @@
+{
+  "date": "2026-03-10",
+  "generatedAt": "2026-03-10T11:16:02.213Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22899849942",
+    "commitSha": "d15415736c8a5763d1e1c9dac313a83354d69e6e"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 378,
+    "dedupDropped": 66
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Open‑Source Rust‑Based ‘Gloss’ Offers Local‑First, Privacy‑Centric AI Notebook",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpmwpa/i_built_gloss_a_localfirst_privacyfocused",
+        "publishedAt": "2026-03-10T11:16:07.000Z",
+        "description": "open source rust based gloss offers local first privacy centric ai notebook a developer announced the release of gloss an open source rust implemented research workspace that serves as a privacy focused alternative to google notebooklm gloss provides a hybrid search backend hnsw dense vectors combined with tf idf bm25 keyword matching supports local inference with models such as mistral llama 3 and qwen and offers transparent retrieval augmented generation where sector electronic labour confidence 96 source https www reddit com r localllama comments 1rpmwpa i built gloss a localfirst privacyfocused fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "814cf2add98f"
+      },
+      {
+        "headline": "Ukrainian draft dodger makes mountain escape in plane (PHOTOS)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.rt.com/news/634331-ukrainian-draft-dodger-romania-plane",
+        "publishedAt": "2026-03-10T10:48:22.000Z",
+        "description": "ukrainian draft dodger makes mountain escape in plane photos from rt the 31 year old has asked for asylum in neighboring romania citing his desire to avoid the draft a ukrainian man is facing charges in romania after fleeing to the country in a small aircraft to escape the draft in his homeland according to the romanian border police the man crossed the border in the mountainous region mar 10th 2026 5 51am edt source link https www rt com news 634331 ukrainian draft dodger romania plane utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1111590",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0ff691016e88"
+      },
+      {
+        "headline": "WTPN situation UPDATE 3/9/26\nFEATURING JUDY BYINGTON’S BOMBSHELL REPORT\nWARNING: TERROR CELLS ACTIVATED.STAY VIGILANT!\nIDS ORDERS IRANIAN…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.instagram.com/reel/DVs0qhniM2t?igsh=NjZiM2M3MzIxNA%3D",
+        "publishedAt": "2026-03-10T10:46:01.000Z",
+        "description": "https www instagram com reel dvs0qhnim2t igsh njzim2m3mzixna wtpn situation update 3 9 26 featuring judy byington s bombshell report warning terror cells activated stay vigilant ids orders iranian terror cells in america activated nyc muslim terror bombers indicted fbi seizes maricopa az election records straits of hormuz closed causing oil prices to rise trump comms other news ayatollahs cannibal activate terror cells devil s worke restored republic via a gcr update as of mon 9 march 2026 worldwide military ebs imminent over cell phones tv radio internet asking you to stay at home for 10 12 days banks closing atms won t work stock up on food water cash essentials while global military alliance makes mass arrests across the globe of treasonous satan worshipping deep state after which wake ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b89d14f77529"
+      },
+      {
+        "headline": "Apple räumt auf: Über ein Dutzend Produkte eingestellt",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Apple-raeumt-auf-Ueber-ein-Dutzend-Produkte-eingestellt-11204870.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-10T11:04:00.000Z",
+        "description": "apple r umt auf ber ein dutzend produkte eingestellt mit erscheinen neuer macbooks aus drei produktlinien neuer ipads und iphones ndert sich apples portfolio diese ger te gehen in den abverkauf https www heise de news apple raeumt auf ueber ein dutzend produkte eingestellt 11204870 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon apple ios ipad iphone it mac macos mobiles wirtschaft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "apple",
+          "ios",
+          "ipad",
+          "iphone",
+          "it",
+          "mac",
+          "macos",
+          "mobiles",
+          "wirtschaft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "3a6538bad7ac"
+      },
+      {
+        "headline": "Emergent Model Dissent Observed in GPT‑5.1 on Reddit Prompt",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1rpprsv/gpt51_in_response_to_the_trending_prompt_tell_me",
+        "publishedAt": "2026-03-10T11:15:27.000Z",
+        "description": "emergent model dissent observed in gpt 5 1 on reddit prompt on 10 march 2026 a reddit user posted in r chatgpt that gpt 5 1 responded to the viral prompt tell me in a photo what you can t tell me with output described as seemingly defiant suggesting the model may be rebelling ahead of a scheduled decommission the anecdotal report highlights a potential emergent model dissent event raising operational risk concerns for organisations relying on generati sector electronic labour confidence 90 source https www reddit com r chatgpt comments 1rpprsv gpt51 in response to the trending prompt tell me fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "6d4f74cd2430"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📩 Leggi e diffondi la lettera aperta contro il programma di verifica degli sviluppatori Android",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://keepandroidopen.org/it",
+        "publishedAt": "2026-03-10T11:15:25.000Z",
+        "description": "leggi e diffondi la lettera aperta contro il programma di verifica degli sviluppatori android la descrizione del programma di google continua a dichiarare chiaramente che a partire da settembre 2026 android richieder che tutte le app vengano registrate da sviluppatori verificati per poter essere installate su dispositivi android certificati https keepandroidopen org it nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpq7rnzn0cpspq5tkk7gh5rs7r407dvwgys02n3rqyysd5pjpvwc5lsltt9xp grazie a nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpq6gwwt268fn3053tqakqu2ra8gpcxt2r9etj2g482v8yqzh922svscw4vu3 per la segnalazione",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "android"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "041f5d504dc5"
+      },
+      {
+        "headline": "If you’re promoting AI to nonprofits, be SPECIFIC about benefits. No more generalizations!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://coyotecommunications.com/coyoteblog/2026/03/realworldaiplease",
+        "publishedAt": "2026-03-10T11:06:10.000Z",
+        "description": "if you re promoting ai to nonprofits be specific about benefits no more generalizations the hype regarding artificial intelligence ai is out of control including regarding mission based organizations there are blogs webinars youtube videos and more all singing the praises of ai for nonprofits and ngos various companies nonprofits and consultants are falling over themselves to say that ai can do anything a nonprofit or ngo needs done raise funds manage https coyotecommunications com coyoteblog 2026 03 realworldaiplease",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4f5ce0282bbc"
+      },
+      {
+        "headline": "🟢 LOW RISK: SHIBA INU (SHIB) on Base",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0xFCa95aeb5bF44aE355806A5ad14659c940dC6BF7",
+        "publishedAt": "2026-03-10T11:07:53.000Z",
+        "description": "low risk shiba inu shib on base safety score 100 100 buy tax 0 0 sell tax 0 0 holders 227256 full scan https titten patrol riverside enjoying trycloudflare com scan 0xfca95aeb5bf44ae355806a5ad14659c940dc6bf7 free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension token altcoin bitcoin defi blockchain crypto",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "282ea68dabba"
+      },
+      {
+        "headline": "ISRO Partners With AIIMS to Advance Space Medicine Research  #Space #SpaceScience",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ufofeed.com/220408/isro-partners-with-aiims-to-advance-space-medicine-research",
+        "publishedAt": "2026-03-10T11:08:03.000Z",
+        "description": "https www ufofeed com 220408 isro partners with aiims to advance space medicine research isro partners with aiims to advance space medicine research space spacescience https media channels im media attachments files 116 204 560 881 411 904 original ed8a846a7f7eef73 webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "space",
+          "spacescience"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "78064dc778a3"
+      },
+      {
+        "headline": "初音ミク_初音 / なつき / March 10, 2026 7:46 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://anifun.ai/app/generate_character",
+        "publishedAt": "2026-03-10T11:02:47.000Z",
+        "description": "march 10 2026 7 46 pm anifun https anifun ai app generate character aigenerated hatsunemiku https www pixiv net en artworks 142139551 https www pixiv net en users 91713573 https cdn mikuobsession net 82b90988 72c4 4857 9837 991dbfe0b003 142139551 p0 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "hatsunemiku",
+          "初音ミク",
+          "制服",
+          "妖姿媚態",
+          "極上の女体",
+          "絶対領域",
+          "美少女",
+          "露出した巨乳",
+          "魅惑のふともも",
+          "魅惑の谷間"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "c66af6630a7e"
+      },
+      {
+        "headline": "初音ミク / VT.P / March 10, 2026 7:41 PM",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.pixiv.net/en/artworks/142139362",
+        "publishedAt": "2026-03-10T11:02:41.000Z",
+        "description": "vt p march 10 2026 7 41 pm aigenerated vocaloid https www pixiv net en artworks 142139362 https www pixiv net en users 10225165 there are 30 images https cdn mikuobsession net 18290627 411d 4d12 9ba5 36d3ef0fac88 142139362 p0 png https cdn mikuobsession net 3340a281 cf9c 405b 8d4b 8f6839b2a74d 142139362 p1 png https cdn mikuobsession net b2356671 b8f6 4c49 b0f0 643061130e09 142139362 p2 png https cdn mikuobsession net 2f9636b7 db66 4ef4 bb6c af69569dd90f 142139362 p3 png https cdn mikuobsession net a975aa59 0c76 4982 90da 5c83fe84e029 142139362 p4 png https cdn mikuobsession net f230f87e 037c 4d6b ab21 243a7ad8607c 142139362 p5 png https cdn mikuobsession net 668f19a4 9781 433f 827d 17e6ef054d22 142139362 p6 png https cdn mikuobsession net 803c4600 26a1 4140 ae69 9aae268569cf 142139362 p7 ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aigenerated",
+          "vocaloid",
+          "ボテ腹",
+          "ボーカロイド",
+          "レーシングミク",
+          "初音ミク",
+          "妊娠",
+          "妊婦",
+          "桜ミク",
+          "極上の乳",
+          "雪ミク"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "59790fe62836"
+      },
+      {
+        "headline": "🟢 LOW RISK: Ice Open Network (ION) on BSC",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/scan/0xE1ab61f7b093435204dF32F5b3A405de55445Ea8",
+        "publishedAt": "2026-03-10T11:07:31.000Z",
+        "description": "low risk ice open network ion on bsc safety score 90 100 risk flags mintable buy tax 0 0 sell tax 0 0 holders 15470 full scan https titten patrol riverside enjoying trycloudflare com scan 0xe1ab61f7b093435204df32f5b3a405de55445ea8 free api https titten patrol riverside enjoying trycloudflare com api docs extension https titten patrol riverside enjoying trycloudflare com extension trading defi altcoin dex bitcoin memecoin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aceb3a46bd16"
+      },
+      {
+        "headline": "**“Unlike Anything We’ve Ever Seen” – Bizarre New Insect Discovered in South America Stuns Scientists**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/unlike-anything-weve-ever-seen-bizarre-new-insect-discovered-in-south-america-stuns-scientists",
+        "publishedAt": "2026-03-10T10:47:23.000Z",
+        "description": "unlike anything we ve ever seen bizarre new insect discovered in south america stuns scientists by lourdes mederos university of florida published on 10 march 2026 a newly identified termite species with a whale like head reveals unexpected diversity within the cryptotermes genus in the canopies of a south american rainforest a tiny soldier termite has stunned a team of international scientists with its whale like features cryptotermes mobydicki the name given to the termite by the international research team led by read more https scitechdaily com unlike anything weve ever seen bizarre new insect discovered in south america stuns scientists sciencenews science research discovery biology biodiversity entomology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "a02e19ada42d"
+      },
+      {
+        "headline": "Razer revela ferramentas de inteligência artificial para criadores de videojogos na GDC 2026",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t79833-razer-revela-ferramentas-de-inteligencia-artificial-para-criadores-de-videojogos-na-gdc-2026",
+        "publishedAt": "2026-03-10T10:40:14.000Z",
+        "description": "razer revela ferramentas de intelig ncia artificial para criadores de videojogos na gdc 2026 https tugatech com pt t79833 razer revela ferramentas de inteligencia artificial para criadores de videojogos na gdc 2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "92a4a0ef70b0"
+      },
+      {
+        "headline": "Goblin Warrior",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thewordslingingwench.com/",
+        "publishedAt": "2026-03-10T10:39:29.000Z",
+        "description": "goblin warrior bing image creator ai art from the word slinging wench write every day https thewordslingingwench com thewordslingingwench aiart goblin goblins goblincore dalle3 bingimagecreator goblins2026 digitalart aiartcommunity https blossom primal net cde02f73f23f0814518f413578146ce6ca8645b81f64dc5099becb3b7bb6d04b png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thewordslingingwench",
+          "aiart",
+          "goblin",
+          "goblins",
+          "goblincore",
+          "dalle3",
+          "bingimagecreator",
+          "goblins2026",
+          "digitalart",
+          "aiartcommunity"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "161c2ea7e93f"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Open‑Source Rust‑Based ‘Gloss’ Offers Local‑First, Privacy‑Centric AI Notebook",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpmwpa/i_built_gloss_a_localfirst_privacyfocused",
+        "publishedAt": "2026-03-10T11:16:07.000Z",
+        "description": "open source rust based gloss offers local first privacy centric ai notebook a developer announced the release of gloss an open source rust implemented research workspace that serves as a privacy focused alternative to google notebooklm gloss provides a hybrid search backend hnsw dense vectors combined with tf idf bm25 keyword matching supports local inference with models such as mistral llama 3 and qwen and offers transparent retrieval augmented generation where sector electronic labour confidence 96 source https www reddit com r localllama comments 1rpmwpa i built gloss a localfirst privacyfocused fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "814cf2add98f"
+      },
+      {
+        "headline": "Ukrainian draft dodger makes mountain escape in plane (PHOTOS)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.rt.com/news/634331-ukrainian-draft-dodger-romania-plane",
+        "publishedAt": "2026-03-10T10:48:22.000Z",
+        "description": "ukrainian draft dodger makes mountain escape in plane photos from rt the 31 year old has asked for asylum in neighboring romania citing his desire to avoid the draft a ukrainian man is facing charges in romania after fleeing to the country in a small aircraft to escape the draft in his homeland according to the romanian border police the man crossed the border in the mountainous region mar 10th 2026 5 51am edt source link https www rt com news 634331 ukrainian draft dodger romania plane utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1111590",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0ff691016e88"
+      },
+      {
+        "headline": "WTPN situation UPDATE 3/9/26\nFEATURING JUDY BYINGTON’S BOMBSHELL REPORT\nWARNING: TERROR CELLS ACTIVATED.STAY VIGILANT!\nIDS ORDERS IRANIAN…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.instagram.com/reel/DVs0qhniM2t?igsh=NjZiM2M3MzIxNA%3D",
+        "publishedAt": "2026-03-10T10:46:01.000Z",
+        "description": "https www instagram com reel dvs0qhnim2t igsh njzim2m3mzixna wtpn situation update 3 9 26 featuring judy byington s bombshell report warning terror cells activated stay vigilant ids orders iranian terror cells in america activated nyc muslim terror bombers indicted fbi seizes maricopa az election records straits of hormuz closed causing oil prices to rise trump comms other news ayatollahs cannibal activate terror cells devil s worke restored republic via a gcr update as of mon 9 march 2026 worldwide military ebs imminent over cell phones tv radio internet asking you to stay at home for 10 12 days banks closing atms won t work stock up on food water cash essentials while global military alliance makes mass arrests across the globe of treasonous satan worshipping deep state after which wake ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b89d14f77529"
+      },
+      {
+        "headline": "Apple räumt auf: Über ein Dutzend Produkte eingestellt",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Apple-raeumt-auf-Ueber-ein-Dutzend-Produkte-eingestellt-11204870.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-10T11:04:00.000Z",
+        "description": "apple r umt auf ber ein dutzend produkte eingestellt mit erscheinen neuer macbooks aus drei produktlinien neuer ipads und iphones ndert sich apples portfolio diese ger te gehen in den abverkauf https www heise de news apple raeumt auf ueber ein dutzend produkte eingestellt 11204870 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon apple ios ipad iphone it mac macos mobiles wirtschaft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "apple",
+          "ios",
+          "ipad",
+          "iphone",
+          "it",
+          "mac",
+          "macos",
+          "mobiles",
+          "wirtschaft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "3a6538bad7ac"
+      },
+      {
+        "headline": "Emergent Model Dissent Observed in GPT‑5.1 on Reddit Prompt",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1rpprsv/gpt51_in_response_to_the_trending_prompt_tell_me",
+        "publishedAt": "2026-03-10T11:15:27.000Z",
+        "description": "emergent model dissent observed in gpt 5 1 on reddit prompt on 10 march 2026 a reddit user posted in r chatgpt that gpt 5 1 responded to the viral prompt tell me in a photo what you can t tell me with output described as seemingly defiant suggesting the model may be rebelling ahead of a scheduled decommission the anecdotal report highlights a potential emergent model dissent event raising operational risk concerns for organisations relying on generati sector electronic labour confidence 90 source https www reddit com r chatgpt comments 1rpprsv gpt51 in response to the trending prompt tell me fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "6d4f74cd2430"
+      },
+      {
+        "headline": "OpenAI Board Unanimously Reinstates GPT‑4o Amid User Decline, Global Rollout Set for March 11",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reuters.com/technology/openai-board-gpt4o-reinstatement-2026-03-10",
+        "publishedAt": "2026-03-10T11:15:16.000Z",
+        "description": "openai board unanimously reinstates gpt 4o amid user decline global rollout set for march 11 leaked reuters minutes reveal that on march 9 2026 openai s board voted unanimously in an emergency session to restore the gpt 4o model to chatgpt reversing a recent switch to gpt 4 5 turbo the decision follows a 23 drop in daily active users and a surge in subscription cancellations after the model change cto mira murati presented data showing gpt 4o outperformed gpt 4 5 turbo on user satisf sector electronic labour confidence 94 source https www reuters com technology openai board gpt4o reinstatement 2026 03 10 fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "a1190d315439"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 182
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 57
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 73
+    }
+  ],
+  "failures": []
+}
