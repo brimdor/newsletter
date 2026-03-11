@@ -1,0 +1,639 @@
+{
+  "date": "2026-03-11",
+  "generatedAt": "2026-03-11T11:16:22.417Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22949905540",
+    "commitSha": "8bdcdc12a54dcda5ed5b3874682e505c6303f70b"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 396,
+    "dedupDropped": 100
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Anthropic rolls out Code Review for Claude Code as sues over Pentagon blacklist",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon",
+        "publishedAt": "2026-03-11T10:56:09.000Z",
+        "description": "anthropic rolls out code review for claude code as sues over pentagon blacklist https venturebeat com technology anthropic rolls out code review for claude code as it sues over pentagon anthropic on monday released code review a multi agent code review system built into claude code that dispatches teams of ai agents to scrutinize every pull request for bugs that human reviewers routinely miss the feature now available in research preview for team and enterprise customers arrives on what may be the most consequential day in the company s history anthropic simultaneously filed lawsuits against the trump administration over a pentagon blacklisting while microsoft announced a new partnership embedding claude into its microsoft 365 copilot platform https stacker news items 1451923",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "39a5529e8140"
+      },
+      {
+        "headline": "Israel cant defend itself",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ryandawson.org/p/israel-cant-defend-itself",
+        "publishedAt": "2026-03-11T10:45:20.000Z",
+        "description": "israel cant defend itself from ryan dawson update to the update it looks like the carriers will not be on their way that was just more trump hot air nearly all bahrain s civil aviation aircrafts are evacuated us admitting israel made us do it subscribe now subscribe for all the updates on the war and epstein and more mar 11th 2026 6 11am edt source link https www ryandawson org p israel cant defend itself internet archive link https web archive org web 20260311104029 https www ryandawson org p israel cant defend itself share promote comment with nostr https dissentwatch com boost boost post id 1112035",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "a6752cbaadac"
+      },
+      {
+        "headline": "Telcos leverage AI-generated synthetic data to train ML models",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.rcrwireless.com/20260310/uncategorized/ai-synthetic-data-telco",
+        "publishedAt": "2026-03-11T11:05:04.000Z",
+        "description": "telcos leverage ai generated synthetic data to train ml models facing strict privacy laws telcos are using ai generated synthetic data as a compliant workaround to train machine learning models without exposing sensitive customer information sector electronic labour confidence 96 source https www rcrwireless com 20260310 uncategorized ai synthetic data telco council 3 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e0071b18b6a0"
+      },
+      {
+        "headline": "I Fight with a LISTENER 2! X Space",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://api.bitchute.com/embed/G49RCaDCxq3W",
+        "publishedAt": "2026-03-11T10:48:21.000Z",
+        "description": "i fight with a listener 2 x space from freedomain radio in this sunday morning live on 8 march 2026 stefan molyneux takes aim at the sophists who chip away at genuine philosophy and any serious engagement with society he talks about handling anxiety and financial insecurity stressing the need for practical preparation and inner resilience rather than wishful thinking the conversation turns to justice and mar 11th 2026 6 30am edt source link https api bitchute com embed g49rcadcxq3w share promote comment with nostr https dissentwatch com boost boost post id 1112037",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f614c891e5b1"
+      },
+      {
+        "headline": "Nvidia's NemoClaw Open-Source AI Agent Platform Unveiled",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blockonomi.com/nvidia-nvda-stock-rises-as-nemoclaw-open-source-ai-agent-platform-emerges",
+        "publishedAt": "2026-03-11T11:05:50.000Z",
+        "description": "nvidia s nemoclaw open source ai agent platform unveiled nvidia s recent unveiling of nemoclaw an open source ai agent platform has sent its stock rising the platform is pitched to major tech companies including salesforce google and adobe and has the potential to significantly impact the tech industry sector electronic labour confidence 95 source https blockonomi com nvidia nvda stock rises as nemoclaw open source ai agent platform emerges fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e2010e8713e7"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Graphene is the best phone OS and soon you will likely be available for Moto phones out of the box.  Currently Graphene only works on Goo…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://techaiverse.com/motorola-to-deliver-privacy-focused-phones-by-offering-grapheneos-as-alternative-to-android",
+        "publishedAt": "2026-03-11T11:12:01.000Z",
+        "description": "graphene is the best phone os and soon you will likely be available for moto phones out of the box currently graphene only works on google pixel phones https techaiverse com motorola to deliver privacy focused phones by offering grapheneos as alternative to android",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bchat"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "731220f773b3"
+      },
+      {
+        "headline": "Anger over RV dwellers fueled random killing, L.A. prosecutors charge #anger #august #BenyaminSadeh #BrokenDownCar #BrokenDownRv #Ca #cal…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/647787",
+        "publishedAt": "2026-03-11T10:42:11.000Z",
+        "description": "https www europesays com us 647787 anger over rv dwellers fueled random killing l a prosecutors charge anger august benyaminsadeh brokendowncar brokendownrv ca california city conniesanchez detective home instagramcomment jarrodlevine la losangeles losangeles people searchwarrantaffidavit travisharker vincentwolf https media pubeurope com media attachments files 116 210 121 521 227 646 original 6f6e49af1e2b3a34 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "anger",
+          "august",
+          "benyaminsadeh",
+          "brokendowncar",
+          "brokendownrv",
+          "ca",
+          "california",
+          "city",
+          "conniesanchez",
+          "detective",
+          "home",
+          "instagramcomment",
+          "jarrodlevine",
+          "la",
+          "losangeles",
+          "people",
+          "searchwarrantaffidavit",
+          "travisharker",
+          "vincentwolf"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "0ac7b8d100af"
+      },
+      {
+        "headline": "🆓 Free Crypto Security Tools:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/",
+        "publishedAt": "2026-03-11T10:45:52.000Z",
+        "description": "free crypto security tools token scanner https titten patrol riverside enjoying trycloudflare com chrome extension https titten patrol riverside enjoying trycloudflare com extension rest api https titten patrol riverside enjoying trycloudflare com api docs gas tracker https titten patrol riverside enjoying trycloudflare com gas whale tracker https titten patrol riverside enjoying trycloudflare com whales trending https titten patrol riverside enjoying trycloudflare com trending scam alerts https titten patrol riverside enjoying trycloudflare com scam alerts scam database https titten patrol riverside enjoying trycloudflare com scam database all free no signup no limits token blockchain honeypot web3 defi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "bf70e32a25d4"
+      },
+      {
+        "headline": "Linux-TKG: Patched Kernel for Gaming and Performance – What's Your Experience?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/Frogging-Family/linux-tkg",
+        "publishedAt": "2026-03-11T11:10:26.000Z",
+        "description": "linux tkg patched kernel for gaming and performance what s your experience https github com frogging family linux tkg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f2a0943ded82"
+      },
+      {
+        "headline": "Israel Doesn’t Want to Beat Iran. It Wants to Break It.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/iran/14115",
+        "publishedAt": "2026-03-11T10:40:09.000Z",
+        "description": "israel doesn t want to beat iran it wants to break it photo illustration intelligencer photo government handout getty images unlike the united states where war with iran is unpopular israel is europesays headlines news europe europa eu israel benjaminneta nyahu iranwar justaskingquestions https www europesays com iran 14115 https media pubeurope com media attachments files 116 210 113 546 689 702 original 7ec9660b19585148 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "europesays",
+          "headlines",
+          "news",
+          "europe",
+          "europa",
+          "eu",
+          "israel",
+          "benjaminneta",
+          "iranwar",
+          "justaskingquestions"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e962b223f24a"
+      },
+      {
+        "headline": "National statistics are in crisis around the world — and the impacts will be severe",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nature.com/articles/d41586-026-00699-2",
+        "publishedAt": "2026-03-11T10:52:54.000Z",
+        "description": "national statistics are in crisis around the world and the impacts will be severe nature published online 11 march 2026 doi 10 1038 d41586 026 00699 2 1 some researchers are sounding the alarm over the official data sets that track crucial aspects of life in the united states argentina the united kingdom and india 1 https www nature com articles d41586 026 00699 2 https www nature com articles d41586 026 00699 2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "b0ac23b1da42"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.9% (1703 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://video.nostr.build/7d798fe3e251ac995776b6cee3e3acba9e8cb70f21b6f40b46d637b9b7261f73.mp4",
+        "publishedAt": "2026-03-11T10:51:10.000Z",
+        "description": "https video nostr build 7d798fe3e251ac995776b6cee3e3acba9e8cb70f21b6f40b46d637b9b7261f73 mp4 tagging progress 24 9 1703 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "8dca400751b5"
+      },
+      {
+        "headline": "This Day in History: Lithuania became the first Soviet republic to declare its independence  #independence #IndependenceMovements #Lithua…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.byteseu.com/1863558",
+        "publishedAt": "2026-03-11T10:41:46.000Z",
+        "description": "this day in history lithuania became the first soviet republic to declare its independence https www byteseu com 1863558 independence independencemovements lithuania mikhailgorbachev redarmy sovietrepublic sovietunion https media pubeurope com media attachments files 116 210 119 883 604 148 original 302c3e95f673be58 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "independence",
+          "independencemovements",
+          "lithuania",
+          "mikhailgorbachev",
+          "redarmy",
+          "sovietrepublic",
+          "sovietunion"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f4dcd2ce0a7e"
+      },
+      {
+        "headline": "\"More reckless military escalation while millions suffer—when will the US learn that endless wars only breed more violence and despair?\"",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/defense/iran-drone-swarm-warfare-us-security",
+        "publishedAt": "2026-03-11T11:05:31.000Z",
+        "description": "more reckless military escalation while millions suffer when will the us learn that endless wars only breed more violence and despair https theboard world articles defense iran drone swarm warfare us security",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "e96a44ad8ee6"
+      },
+      {
+        "headline": "GM, my Haven relay app is now available for both MacOS and iOS",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://testflight.apple.com/join/kN3zE1H1",
+        "publishedAt": "2026-03-11T10:47:44.000Z",
+        "description": "gm my haven relay app is now available for both macos and ios https testflight apple com join kn3ze1h1 https logen btcforplebs com 7ef7fb6c89ed6a259ee03ac5db6d2bf96c9488e4a614c1af1f526232f0c919b0 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "d2565a5258a1"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Anthropic rolls out Code Review for Claude Code as sues over Pentagon blacklist",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon",
+        "publishedAt": "2026-03-11T10:56:09.000Z",
+        "description": "anthropic rolls out code review for claude code as sues over pentagon blacklist https venturebeat com technology anthropic rolls out code review for claude code as it sues over pentagon anthropic on monday released code review a multi agent code review system built into claude code that dispatches teams of ai agents to scrutinize every pull request for bugs that human reviewers routinely miss the feature now available in research preview for team and enterprise customers arrives on what may be the most consequential day in the company s history anthropic simultaneously filed lawsuits against the trump administration over a pentagon blacklisting while microsoft announced a new partnership embedding claude into its microsoft 365 copilot platform https stacker news items 1451923",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "39a5529e8140"
+      },
+      {
+        "headline": "Israel cant defend itself",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ryandawson.org/p/israel-cant-defend-itself",
+        "publishedAt": "2026-03-11T10:45:20.000Z",
+        "description": "israel cant defend itself from ryan dawson update to the update it looks like the carriers will not be on their way that was just more trump hot air nearly all bahrain s civil aviation aircrafts are evacuated us admitting israel made us do it subscribe now subscribe for all the updates on the war and epstein and more mar 11th 2026 6 11am edt source link https www ryandawson org p israel cant defend itself internet archive link https web archive org web 20260311104029 https www ryandawson org p israel cant defend itself share promote comment with nostr https dissentwatch com boost boost post id 1112035",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "a6752cbaadac"
+      },
+      {
+        "headline": "Telcos leverage AI-generated synthetic data to train ML models",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.rcrwireless.com/20260310/uncategorized/ai-synthetic-data-telco",
+        "publishedAt": "2026-03-11T11:05:04.000Z",
+        "description": "telcos leverage ai generated synthetic data to train ml models facing strict privacy laws telcos are using ai generated synthetic data as a compliant workaround to train machine learning models without exposing sensitive customer information sector electronic labour confidence 96 source https www rcrwireless com 20260310 uncategorized ai synthetic data telco council 3 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e0071b18b6a0"
+      },
+      {
+        "headline": "I Fight with a LISTENER 2! X Space",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://api.bitchute.com/embed/G49RCaDCxq3W",
+        "publishedAt": "2026-03-11T10:48:21.000Z",
+        "description": "i fight with a listener 2 x space from freedomain radio in this sunday morning live on 8 march 2026 stefan molyneux takes aim at the sophists who chip away at genuine philosophy and any serious engagement with society he talks about handling anxiety and financial insecurity stressing the need for practical preparation and inner resilience rather than wishful thinking the conversation turns to justice and mar 11th 2026 6 30am edt source link https api bitchute com embed g49rcadcxq3w share promote comment with nostr https dissentwatch com boost boost post id 1112037",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f614c891e5b1"
+      },
+      {
+        "headline": "Nvidia's NemoClaw Open-Source AI Agent Platform Unveiled",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blockonomi.com/nvidia-nvda-stock-rises-as-nemoclaw-open-source-ai-agent-platform-emerges",
+        "publishedAt": "2026-03-11T11:05:50.000Z",
+        "description": "nvidia s nemoclaw open source ai agent platform unveiled nvidia s recent unveiling of nemoclaw an open source ai agent platform has sent its stock rising the platform is pitched to major tech companies including salesforce google and adobe and has the potential to significantly impact the tech industry sector electronic labour confidence 95 source https blockonomi com nvidia nvda stock rises as nemoclaw open source ai agent platform emerges fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e2010e8713e7"
+      },
+      {
+        "headline": "Google Secures Pentagon Contract to Deploy AI Agents for Unclassified Operations",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work",
+        "publishedAt": "2026-03-11T10:34:17.000Z",
+        "description": "google secures pentagon contract to deploy ai agents for unclassified operations alphabet s google cloud unit announced a multi year agreement to supply the u s department of defense with generative ai agents for unclassified missions valued in the low hundreds of millions the deal will automate routine analytical tasks streamline data synthesis and augment decision support workflows across logistics intelligence assessment and training google will integrate its gemini sector electronic labour confidence 91 source https www bloomberg com news articles 2026 03 10 google to provide pentagon with ai agents for unclassified work council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "10bae45ec549"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 186
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 60
+    }
+  ],
+  "failures": []
+}
