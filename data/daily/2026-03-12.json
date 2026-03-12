@@ -1,0 +1,649 @@
+{
+  "date": "2026-03-12",
+  "generatedAt": "2026-03-12T11:16:10.813Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "22999286379",
+    "commitSha": "d44900beb934dfce0c2494482c55be798f6d4eef"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 534,
+    "dedupDropped": 290
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Europe is building an alternative to Microsoft Office",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://techcentral.co.za/europe-is-building-an-alternative-to-microsoft-office/278843",
+        "publishedAt": "2026-03-12T11:05:21.000Z",
+        "description": "europe is building an alternative to microsoft office office eu is a cloud based office suite built entirely on open source software and hosted exclusively on european servers has launched as a direct competitor to microsoft 365 and google workspace its pitch is straightforward keep data in the eu run on transparent open source components and comply with eu law by design the platform combines file storage e mail calendar document editing chat and video conferencing in a single browser based interface it is really time that the microslop monopoly was broken it is not just about digital sovereignty but also this belief that one must by ms office to do documents it is just not true and so many non profits and governments are spending a lot of money on what could have gone directly towards soc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "opensource",
+          "digitalsovereignty"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "4695b91fa497"
+      },
+      {
+        "headline": "Vision Pro als Monitor für X-Plane 12 – mit einem Umweg",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Vision-Pro-als-Monitor-fuer-X-Plane-12-mit-einem-Umweg-11207375.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-12T10:40:00.000Z",
+        "description": "vision pro als monitor f r x plane 12 mit einem umweg laminar research will das apple headset f r eine realistische cockpit anzeige in x plane nutzen daf r braucht es allerdings einen pc mit cloudxr 6 https www heise de news vision pro als monitor fuer x plane 12 mit einem umweg 11207375 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon apple applevisionpro entertainment it mixedreality mobiles nvidia news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "apple",
+          "applevisionpro",
+          "entertainment",
+          "it",
+          "mixedreality",
+          "mobiles",
+          "nvidia",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "mobile",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2679b8ff2f0d"
+      },
+      {
+        "headline": "🎉 Quick reminder: our 10th anniversary sale is live!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cryptomator.org/blog/2026/03/09/10-years-cryptomator",
+        "publishedAt": "2026-03-12T11:04:03.000Z",
+        "description": "quick reminder our 10th anniversary sale is live for a limited time you can get the cryptomator mobile apps ios android and the supporter certificate for only 10 celebrate 10 years of privacy first encryption with us and support the project while securing your files on the go details in the anniversary blog post https cryptomator org blog 2026 03 09 10 years cryptomator utm source mastodon utm medium social utm campaign anniversary sale reminder cryptomator anniversary sale opensource privacy encryption",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cryptomator",
+          "anniversary",
+          "sale",
+          "opensource",
+          "privacy",
+          "encryption"
+        ],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3de8004424ee"
+      },
+      {
+        "headline": "Interesse pelos carros elétricos dispara e metade dos portugueses pondera trocar de automóvel",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/interesse-pelos-carros-eletricos-dispara-e-metade-dos-portugueses-pondera-trocar-de-automovel-69b265009009c4d561b936dd",
+        "publishedAt": "2026-03-12T10:55:27.000Z",
+        "description": "interesse pelos carros el tricos dispara e metade dos portugueses pondera trocar de autom vel https sapo pt artigo interesse pelos carros eletricos dispara e metade dos portugueses pondera trocar de automovel 69b265009009c4d561b936dd utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "7d3ca9de6f21"
+      },
+      {
+        "headline": "Formally launching my site which includes my work in sovereign systems architecture and the Sov Stack Atlas.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "http://cowboybill.xyz/",
+        "publishedAt": "2026-03-12T11:14:50.000Z",
+        "description": "formally launching my site which includes my work in sovereign systems architecture and the sov stack atlas my lane is architecture integration helping people and groups make their stack more coherent across custody treasury governance communications infrastructure and resilience a lot of excellent tools and projects already exist my work is the layer that identifies hidden dependencies maps failure modes and strengthens structural sovereignty the atlas is the public mapping layer of that work a living map of tools resources patterns and standards as i currently see them built to be used challenged and extended it is live here http cowboybill xyz",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "020bc2a7e61d"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "# 🔥 **RDE ARSENAL: The Ultimate Free Tool Suite** 🔥",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://rd-elite.com/Files/Tools/index.php",
+        "publishedAt": "2026-03-12T11:14:54.000Z",
+        "description": "rde arsenal the ultimate free tool suite enter the arsenal https rd elite com files tools index php if it costs money we make it free that s the rde way the triumvirat 17 tools 0 paywalls 100 free 777 protocol no tracking no limits no bullshit mod 01 mystic tools red dragon rune converter elder futhark mystical younger futhark viking red dragon mode 777 secret dialect convert text to ancient runes use apostrophe for word separators mod 02 black market link cleaner strip utm facebook pixel google analytics fbclid gclid chaos password generator move your mouse for entropy the more chaos the stronger the password hash generator sha 256 sha 512 100 client side base64 encoder decoder obfuscate strings alias maker generate ghost identities for sketchy registrations mod 03 creator tools image com",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "rde",
+          "nopaywalls",
+          "hackertools"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ecc5bf683051"
+      },
+      {
+        "headline": "[ pablof7z/wiki ] fix: remove preamble text from home page default view",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/pablof7z/wiki/commit/df8e35bce457f353ea1cb46c9a675d98a504671f",
+        "publishedAt": "2026-03-12T11:03:26.000Z",
+        "description": "pablof7z wiki fix remove preamble text from home page default view remove discovery feed eyebrow recently modified wikis heading and descriptive paragraph from the default home page view the list now shows directly without preamble search filter results still display their contextual heading and description https github com pablof7z wiki commit df8e35bce457f353ea1cb46c9a675d98a504671f",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "061beacf9e7b"
+      },
+      {
+        "headline": "Google to start long-awaited move into Platform 37 London HQ this summer #ArtificialGeneralIntelligence #Britain #England #Google #Google…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/uk/820597",
+        "publishedAt": "2026-03-12T11:06:05.000Z",
+        "description": "https www europesays com uk 820597 google to start long awaited move into platform 37 london hq this summer artificialgeneralintelligence britain england google googledeepmind greatbritain king scross london uk unitedkingdom https media pubeurope com media attachments files 116 215 877 802 247 504 original 782b947ab7e62b76 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "artificialgeneralintelligence",
+          "britain",
+          "england",
+          "google",
+          "googledeepmind",
+          "greatbritain",
+          "king",
+          "london",
+          "uk",
+          "unitedkingdom"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "a965369fccc6"
+      },
+      {
+        "headline": "🐋 Whale Alert Pro Tip:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://titten-patrol-riverside-enjoying.trycloudflare.com/whales",
+        "publishedAt": "2026-03-12T11:06:07.000Z",
+        "description": "whale alert pro tip when a whale buys a new token always check 1 the sell tax is it 5 2 if the contract is a honeypot 3 if the liquidity is locked 4 if the contract has external calls whales can still get rugged scan everything https titten patrol riverside enjoying trycloudflare com whales security blockchain defi crypto rugpull",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "65227a8e9704"
+      },
+      {
+        "headline": "#Today 12",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/writing/media_attachments/files/116/215/850/453/184/139/original/e7bf17906c75f476.png",
+        "publishedAt": "2026-03-12T11:11:27.000Z",
+        "description": "today 12 good day we re in what could be our last sorta winter storm cold but not cold enough for snow at least not in the valley i ll make a quick trip to the grocery store early this morning before sunrise then walk and edit less than 20 chapters remain be everwell writinglife amwriting writingcommunity aging healthyliving healthylifestyle getoutside hiking trails hikingadventures nature naturephotography naturelover photography landscapephotography https cdn masto host writing media attachments files 116 215 850 453 184 139 original e7bf17906c75f476 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "today",
+          "writinglife",
+          "amwriting",
+          "writingcommunity",
+          "aging",
+          "healthyliving",
+          "healthylifestyle",
+          "getoutside",
+          "hiking",
+          "trails",
+          "hikingadventures",
+          "nature",
+          "naturephotography",
+          "naturelover",
+          "photography",
+          "landscapephotography"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2f9ae64f15da"
+      },
+      {
+        "headline": "Here is how you can run complex CLI tasks easily! ⚡",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/mgood/tuisage",
+        "publishedAt": "2026-03-12T11:04:29.000Z",
+        "description": "here is how you can run complex cli tasks easily tuisage tui for running mise tasks fuzzy search dynamic completions embedded terminal execution supports any tool that expose usage specs written in rust built with nostr nprofile1qy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqpq63jct20kzgjjr6z28u4vskax7d0gwq3zemrk6flgnw430vu55vts8sdygl github https github com mgood tuisage rustlang ratatui tui mise task runner productivity terminal https cdn fosstodon org media attachments files 116 215 871 441 311 861 original e32db4bfc9b136b2 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "rustlang",
+          "ratatui",
+          "tui",
+          "mise",
+          "task",
+          "runner",
+          "productivity",
+          "terminal"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f62ba8cf0eea"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1197803",
+        "publishedAt": "2026-03-12T10:54:11.000Z",
+        "description": "v2ex github copilot github copilot error startlinenumberbaseone must be a number received undefined cursor codex codex copilot copilot gpt5mini codex gpt5 2 android studio copilot bug https www v2ex com t 1197803 reply2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "1e7c291e004d"
+      },
+      {
+        "headline": "**Hidden Clues Challenge the Long-Held Theory Behind the Maya Civilization’s Collapse**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/hidden-clues-challenge-the-long-held-theory-behind-the-maya-civilizations-collapse",
+        "publishedAt": "2026-03-12T11:16:18.000Z",
+        "description": "hidden clues challenge the long held theory behind the maya civilization s collapse by martin lasalle university of montreal published on 12 march 2026 new research suggests that explanations based only on climate may not fully account for the major decline of the lowland population in central america and calls for a reassessment of those assumptions between 750 and 900 ce the population of the maya lowlands in central america underwent a dramatic demographic and political decline in many read more https scitechdaily com hidden clues challenge the long held theory behind the maya civilizations collapse mayacivilization archaeology ancienthistory climatechange ellipsisscientificresearch science anthropology archaeology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "07ddeab08a63"
+      },
+      {
+        "headline": "📈 Ganadores de hoy en la categoría #DeFi (12-03-2026)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://res.cloudinary.com/db5i3inqr/image/upload/v1773312534/nostr-posts/object_Object_wl.png",
+        "publishedAt": "2026-03-12T10:49:11.000Z",
+        "description": "ganadores de hoy en la categor a defi 12 03 2026 derive drv 93 01 derivexyz unifai network uai 42 60 unifainetwork river river 20 15 riverdotinc deepbook protocol deep 14 24 deepbookonsui maple finance syrup 10 36 maplefinance perdedores de hoy defi app home 5 80 defiapp convex finance cvx 5 23 convexfinance circle tokenized stock xstock crclx 3 46 xstocksfi circle internet group tokenized stock ondo crclon 3 42 ondofinance compound comp 3 38 compound xyz https res cloudinary com db5i3inqr image upload v1773312534 nostr posts object object wl png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d8de32718c78"
+      },
+      {
+        "headline": "U.S. Naval Escorts: Strait of Hormuz Impact",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/geopolitics/us-naval-escorts-strait-hormuz-impact",
+        "publishedAt": "2026-03-12T10:48:24.000Z",
+        "description": "u s naval escorts strait of hormuz impact explore the impact of u s naval escorts in the strait of hormuz learn how these deployments affect oil tanker safety and global energy security read the full analysis https theboard world articles geopolitics us naval escorts strait hormuz impact",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "bcb1d112f483"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Europe is building an alternative to Microsoft Office",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://techcentral.co.za/europe-is-building-an-alternative-to-microsoft-office/278843",
+        "publishedAt": "2026-03-12T11:05:21.000Z",
+        "description": "europe is building an alternative to microsoft office office eu is a cloud based office suite built entirely on open source software and hosted exclusively on european servers has launched as a direct competitor to microsoft 365 and google workspace its pitch is straightforward keep data in the eu run on transparent open source components and comply with eu law by design the platform combines file storage e mail calendar document editing chat and video conferencing in a single browser based interface it is really time that the microslop monopoly was broken it is not just about digital sovereignty but also this belief that one must by ms office to do documents it is just not true and so many non profits and governments are spending a lot of money on what could have gone directly towards soc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "opensource",
+          "digitalsovereignty"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "4695b91fa497"
+      },
+      {
+        "headline": "Vision Pro als Monitor für X-Plane 12 – mit einem Umweg",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/news/Vision-Pro-als-Monitor-fuer-X-Plane-12-mit-einem-Umweg-11207375.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-12T10:40:00.000Z",
+        "description": "vision pro als monitor f r x plane 12 mit einem umweg laminar research will das apple headset f r eine realistische cockpit anzeige in x plane nutzen daf r braucht es allerdings einen pc mit cloudxr 6 https www heise de news vision pro als monitor fuer x plane 12 mit einem umweg 11207375 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon apple applevisionpro entertainment it mixedreality mobiles nvidia news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "apple",
+          "applevisionpro",
+          "entertainment",
+          "it",
+          "mixedreality",
+          "mobiles",
+          "nvidia",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "mobile",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2679b8ff2f0d"
+      },
+      {
+        "headline": "🎉 Quick reminder: our 10th anniversary sale is live!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cryptomator.org/blog/2026/03/09/10-years-cryptomator",
+        "publishedAt": "2026-03-12T11:04:03.000Z",
+        "description": "quick reminder our 10th anniversary sale is live for a limited time you can get the cryptomator mobile apps ios android and the supporter certificate for only 10 celebrate 10 years of privacy first encryption with us and support the project while securing your files on the go details in the anniversary blog post https cryptomator org blog 2026 03 09 10 years cryptomator utm source mastodon utm medium social utm campaign anniversary sale reminder cryptomator anniversary sale opensource privacy encryption",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cryptomator",
+          "anniversary",
+          "sale",
+          "opensource",
+          "privacy",
+          "encryption"
+        ],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3de8004424ee"
+      },
+      {
+        "headline": "Interesse pelos carros elétricos dispara e metade dos portugueses pondera trocar de automóvel",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/interesse-pelos-carros-eletricos-dispara-e-metade-dos-portugueses-pondera-trocar-de-automovel-69b265009009c4d561b936dd",
+        "publishedAt": "2026-03-12T10:55:27.000Z",
+        "description": "interesse pelos carros el tricos dispara e metade dos portugueses pondera trocar de autom vel https sapo pt artigo interesse pelos carros eletricos dispara e metade dos portugueses pondera trocar de automovel 69b265009009c4d561b936dd utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "7d3ca9de6f21"
+      },
+      {
+        "headline": "Formally launching my site which includes my work in sovereign systems architecture and the Sov Stack Atlas.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "http://cowboybill.xyz/",
+        "publishedAt": "2026-03-12T11:14:50.000Z",
+        "description": "formally launching my site which includes my work in sovereign systems architecture and the sov stack atlas my lane is architecture integration helping people and groups make their stack more coherent across custody treasury governance communications infrastructure and resilience a lot of excellent tools and projects already exist my work is the layer that identifies hidden dependencies maps failure modes and strengthens structural sovereignty the atlas is the public mapping layer of that work a living map of tools resources patterns and standards as i currently see them built to be used challenged and extended it is live here http cowboybill xyz",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "020bc2a7e61d"
+      },
+      {
+        "headline": "Dubai high-rise building damaged in overnight drone hit",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss",
+        "publishedAt": "2026-03-12T11:14:16.000Z",
+        "description": "dubai high rise building damaged in overnight drone hit video shows damage to a dubai high rise building hit by a drone https www aljazeera com video newsfeed 2026 3 12 dubai high rise building damaged in overnight drone hit traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "55ccc6d7fad2"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 162
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 25
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 56
+    }
+  ],
+  "failures": []
+}
