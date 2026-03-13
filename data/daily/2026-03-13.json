@@ -1,0 +1,638 @@
+{
+  "date": "2026-03-13",
+  "generatedAt": "2026-03-13T11:14:55.824Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23048326499",
+    "commitSha": "597682e19dcea34c701d84814c827a0507473928"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 315,
+    "dedupDropped": 58
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "🌊 SURF 'N TURF 🏝️",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/b0be6369f93dfc08d1aabe490110c67bcb8fd77a68f0c4104ad6afd35f872370.jpg",
+        "publishedAt": "2026-03-13T10:48:36.000Z",
+        "description": "surf n turf the boracay island life https blossom primal net b0be6369f93dfc08d1aabe490110c67bcb8fd77a68f0c4104ad6afd35f872370 jpg this 1971 star streak motorhome is a one of a kind rv built by an air force officer https blossom primal net 543ecf584ccd9060f5b8cbeda441187aabdc042b37d60190897d8bbc128a9e27 jpg based on a 1971 oldsmobile toronado chassis with cadillac trim it is designed to fit in a standard garage https blossom primal net 0f1775fed0135075b05d6580b100a6f89ef1fd6a75bf31c9feed04e70a7c4406 jpg pure signal no noise credits goes to the respective author photographer",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ccd0a54af1b9"
+      },
+      {
+        "headline": "LFC fitness update: Alisson Becker, Federico Chiesa and Alexander Isak #Alisson #Firmino #homepage #Klopp #LFC #LFCNews #LFCTV #LFCTVGO #…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/uk/822868",
+        "publishedAt": "2026-03-13T11:11:10.000Z",
+        "description": "https www europesays com uk 822868 lfc fitness update alisson becker federico chiesa and alexander isak alisson firmino homepage klopp lfc lfcnews lfctv lfctvgo liverpoolfc liverpoolfcmatch liverpoolfcnews liverpoolfootballclub mane reds salah sports thereds uk unitedkingdom vandijk https media pubeurope com media attachments files 116 221 560 104 248 549 original 1b80b25f1f27db20 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alisson",
+          "firmino",
+          "homepage",
+          "klopp",
+          "lfc",
+          "lfcnews",
+          "lfctv",
+          "lfctvgo",
+          "liverpoolfc",
+          "liverpoolfcmatch",
+          "liverpoolfcnews",
+          "liverpoolfootballclub",
+          "mane",
+          "reds",
+          "salah",
+          "sports",
+          "thereds",
+          "uk",
+          "unitedkingdom",
+          "vandijk"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "89edc0de73d9"
+      },
+      {
+        "headline": "Neu in .NET 10.0 [14]: Starten einzelner C#-Dateien unter Linux und macOS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/blog/Neu-in-NET-10-0-14-Starten-einzelner-C-Dateien-unter-Linux-und-macOS-11209692.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-13T10:49:00.000Z",
+        "description": "neu in net 10 0 14 starten einzelner c dateien unter linux und macos nicht nur unter windows kann man seit net 10 0 einzelne c dateien direkt bersetzen und starten sondern auch unter linux und macos https www heise de blog neu in net 10 0 14 starten einzelner c dateien unter linux und macos 11209692 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon net c derdotnetdoktor it microsoft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "net",
+          "c",
+          "derdotnetdoktor",
+          "it",
+          "microsoft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "fe26ae9d6247"
+      },
+      {
+        "headline": "Daily Discussion & Transfer Thread (March 13, 2026)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.eucup.com/1554385",
+        "publishedAt": "2026-03-13T10:41:09.000Z",
+        "description": "daily discussion transfer thread march 13 2026 this is a daily thread for general spurs discussion quick questions transfer suggestions the latest rumours etc what s on your mind today join r spurswomen for updates on the tottenham ladies team r coys fantasy pl league 2025 6 has kicked off join with this l tottenhamhotspur tottenhamhotspurfc england premierleague englishpremierleague football tottenhamhotspur tottenhamhotspurfootballclub https www eucup com 1554385 https media pubeurope com media attachments files 116 221 442 048 776 854 original 9f97840e5b2ce688 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tottenhamhotspur",
+          "tottenhamhotspurfc",
+          "england",
+          "premierleague",
+          "englishpremierleague",
+          "football",
+          "tottenhamhotspurfootballclub"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ed157566196d"
+      },
+      {
+        "headline": "First Direct Observation of Magnetar Birth Confirms 16-Year-Old Theoretical Model",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.popsci.com/science/first-magnetar-birth",
+        "publishedAt": "2026-03-13T11:10:44.000Z",
+        "description": "first direct observation of magnetar birth confirms 16 year old theoretical model astronomers have directly observed the formation of a magnetar a highly magnetized neutron star for the first time confirming a theoretical model proposed in 2009 by dan kasen a theoretical astrophysicist at the university of california berkeley the observation validates kasen s hypothesis that superluminous supernovae derive their extraordinary brightness from the rotational energy of nascen sector research confidence 75 source https www popsci com science first magnetar birth fire circle",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8c1506c075dc"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Are Irish Students Ultra-Racists?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://bucket.alive.bar/media_attachments/files/116/221/534/345/242/651/original/6af0b7a9bd0ed312.jpeg",
+        "publishedAt": "2026-03-13T11:04:39.000Z",
+        "description": "are irish students ultra racists these are the important questions being asked in the new publication roots of racism revealing racism in irish secondary schools printed by issu lucymichael research who are all about diversity racism brainwashing 101 https bucket alive bar media attachments files 116 221 534 345 242 651 original 6af0b7a9bd0ed312 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "fdf56459aa92"
+      },
+      {
+        "headline": "iPhone Fold da Apple pode ser lançado um mix de iOS e iPadOS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.maistecnologia.com/iphone-fold-da-apple-pode-ser-lancado-um-mix-de-ios-e-ipados",
+        "publishedAt": "2026-03-13T11:06:01.000Z",
+        "description": "iphone fold da apple pode ser lan ado um mix de ios e ipados https www maistecnologia com iphone fold da apple pode ser lancado um mix de ios e ipados",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "46e4136841e7"
+      },
+      {
+        "headline": "**Moon Rocks Challenge Long-Held Theory About the Origin of Earth’s Water**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/moon-rocks-challenge-long-held-theory-about-the-origin-of-earths-water",
+        "publishedAt": "2026-03-13T10:25:32.000Z",
+        "description": "moon rocks challenge long held theory about the origin of earth s water by university of new mexico published on 13 march 2026 oxygen isotope analysis of lunar soil shows meteorites delivered only a limited amount of water to the earth moon system after about 4 billion years ago for many years scientists have proposed that water rich meteorites striking earth late in its history may have delivered a significant share of the planet s oceans however new research indicates that read more https scitechdaily com moon rocks challenge long held theory about the origin of earths water moonrocks earthwaterorigin isotopeanalysis lunarsoil meteoriteimpact space astrobiology isotopes",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "adbf2a31818b"
+      },
+      {
+        "headline": "I added a photo to the previous note but I don’t know why it didn’t appear. Anyways this is me. Pure vida🌞🍃(I’m in school now actually…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/85818d02f5d41bf3d73ca5717ff0a3aba1836d8aef471ca035b7bac4e7f7ba8a.jpg",
+        "publishedAt": "2026-03-13T10:46:14.000Z",
+        "description": "i added a photo to the previous note but i don t know why it didn t appear anyways this is me pure vida i m in school now actually and i can t wait to get in the sun as soon as i come back home https blossom primal net 85818d02f5d41bf3d73ca5717ff0a3aba1836d8aef471ca035b7bac4e7f7ba8a jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "3ee6c36ce29e"
+      },
+      {
+        "headline": "Google Chrome chega finalmente de forma nativa aos sistemas Linux ARM64",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t80091-google-chrome-chega-finalmente-de-forma-nativa-aos-sistemas-linux-arm64",
+        "publishedAt": "2026-03-13T10:45:54.000Z",
+        "description": "google chrome chega finalmente de forma nativa aos sistemas linux arm64 https tugatech com pt t80091 google chrome chega finalmente de forma nativa aos sistemas linux arm64",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "0265d2a6da16"
+      },
+      {
+        "headline": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+        "publishedAt": "2026-03-13T11:12:01.000Z",
+        "description": "veeam patches 7 critical backup replication flaws allowing remote code execution https thehackernews com 2026 03 veeam patches 7 critical backup html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "e59354ba9b6e"
+      },
+      {
+        "headline": "« On a moins de clients » : sur ce marché de Toulouse, l’interdiction de crier ne fait pas l’unanimité #actu #Actualités #ArticleVideo #E…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/fr/795741",
+        "publishedAt": "2026-03-13T10:57:10.000Z",
+        "description": "https www europesays com fr 795741 on a moins de clients sur ce march de toulouse l interdiction de crier ne fait pas l unanimit actu actualit s articlevideo eu europe fr france info le13h news occitanie r publiquefran aise toulouse vid o vid or gions vieenr gions https media pubeurope com media attachments files 116 221 505 081 723 069 original 6e2ec8109a21d8d4 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actu",
+          "actualites",
+          "articlevideo",
+          "eu",
+          "europe",
+          "fr",
+          "france",
+          "info",
+          "le13h",
+          "news",
+          "occitanie",
+          "republiquefrancaise",
+          "toulouse",
+          "video",
+          "videoregions",
+          "vieenregions"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8cc72044480a"
+      },
+      {
+        "headline": "Streaming: Capsule - 001",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://harmonique.one/shows/capsule/episodes/001",
+        "publishedAt": "2026-03-13T11:02:36.000Z",
+        "description": "streaming capsule 001 1 hortense ellis sitting in the park 2 the termites rub up push up 3 carlton the shoes never let go 4 william onyeabor jungle gods 5 william onyeabor atomic bomb 6 chassol pipornithology pt ii 7 chassol mario pt i 8 tyler the creator running out of time 9 tyler the creator 911 mr lonely feat frank ocean steve lacy https harmonique one shows capsule episodes 001 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8aedf1139bcf"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/31431e755db22938ce92ba59e8729684769bbd6a6938dec2ba966e0b309a7ed4.mp4",
+        "publishedAt": "2026-03-13T10:54:42.000Z",
+        "description": "https blossom primal net 31431e755db22938ce92ba59e8729684769bbd6a6938dec2ba966e0b309a7ed4 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "b2301e5711d1"
+      },
+      {
+        "headline": "Google Maps si aggiorna con Gemini, introducendo conversazioni AI tramite Ask Maps e mappe 3D per una navigazione immersiva.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.masto.host/mastodonuno/media_attachments/files/116/221/519/452/041/328/original/0b2553084c537b8c.png",
+        "publishedAt": "2026-03-13T11:00:52.000Z",
+        "description": "google maps si aggiorna con gemini introducendo conversazioni ai tramite ask maps e mappe 3d per una navigazione immersiva googlemaps gemini https cdn masto host mastodonuno media attachments files 116 221 519 452 041 328 original 0b2553084c537b8c png https cdn masto host mastodonuno media attachments files 116 221 519 448 941 059 original 83dff19a74d9aab5 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "googlemaps",
+          "gemini"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c41896ad9d1d"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "🌊 SURF 'N TURF 🏝️",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/b0be6369f93dfc08d1aabe490110c67bcb8fd77a68f0c4104ad6afd35f872370.jpg",
+        "publishedAt": "2026-03-13T10:48:36.000Z",
+        "description": "surf n turf the boracay island life https blossom primal net b0be6369f93dfc08d1aabe490110c67bcb8fd77a68f0c4104ad6afd35f872370 jpg this 1971 star streak motorhome is a one of a kind rv built by an air force officer https blossom primal net 543ecf584ccd9060f5b8cbeda441187aabdc042b37d60190897d8bbc128a9e27 jpg based on a 1971 oldsmobile toronado chassis with cadillac trim it is designed to fit in a standard garage https blossom primal net 0f1775fed0135075b05d6580b100a6f89ef1fd6a75bf31c9feed04e70a7c4406 jpg pure signal no noise credits goes to the respective author photographer",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ccd0a54af1b9"
+      },
+      {
+        "headline": "LFC fitness update: Alisson Becker, Federico Chiesa and Alexander Isak #Alisson #Firmino #homepage #Klopp #LFC #LFCNews #LFCTV #LFCTVGO #…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/uk/822868",
+        "publishedAt": "2026-03-13T11:11:10.000Z",
+        "description": "https www europesays com uk 822868 lfc fitness update alisson becker federico chiesa and alexander isak alisson firmino homepage klopp lfc lfcnews lfctv lfctvgo liverpoolfc liverpoolfcmatch liverpoolfcnews liverpoolfootballclub mane reds salah sports thereds uk unitedkingdom vandijk https media pubeurope com media attachments files 116 221 560 104 248 549 original 1b80b25f1f27db20 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alisson",
+          "firmino",
+          "homepage",
+          "klopp",
+          "lfc",
+          "lfcnews",
+          "lfctv",
+          "lfctvgo",
+          "liverpoolfc",
+          "liverpoolfcmatch",
+          "liverpoolfcnews",
+          "liverpoolfootballclub",
+          "mane",
+          "reds",
+          "salah",
+          "sports",
+          "thereds",
+          "uk",
+          "unitedkingdom",
+          "vandijk"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "89edc0de73d9"
+      },
+      {
+        "headline": "Neu in .NET 10.0 [14]: Starten einzelner C#-Dateien unter Linux und macOS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.heise.de/blog/Neu-in-NET-10-0-14-Starten-einzelner-C-Dateien-unter-Linux-und-macOS-11209692.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege",
+        "publishedAt": "2026-03-13T10:49:00.000Z",
+        "description": "neu in net 10 0 14 starten einzelner c dateien unter linux und macos nicht nur unter windows kann man seit net 10 0 einzelne c dateien direkt bersetzen und starten sondern auch unter linux und macos https www heise de blog neu in net 10 0 14 starten einzelner c dateien unter linux und macos 11209692 html wt mc sm red ho mastodon mastodon md beitraege md beitraege utm source mastodon net c derdotnetdoktor it microsoft news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "net",
+          "c",
+          "derdotnetdoktor",
+          "it",
+          "microsoft",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "fe26ae9d6247"
+      },
+      {
+        "headline": "Daily Discussion & Transfer Thread (March 13, 2026)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.eucup.com/1554385",
+        "publishedAt": "2026-03-13T10:41:09.000Z",
+        "description": "daily discussion transfer thread march 13 2026 this is a daily thread for general spurs discussion quick questions transfer suggestions the latest rumours etc what s on your mind today join r spurswomen for updates on the tottenham ladies team r coys fantasy pl league 2025 6 has kicked off join with this l tottenhamhotspur tottenhamhotspurfc england premierleague englishpremierleague football tottenhamhotspur tottenhamhotspurfootballclub https www eucup com 1554385 https media pubeurope com media attachments files 116 221 442 048 776 854 original 9f97840e5b2ce688 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tottenhamhotspur",
+          "tottenhamhotspurfc",
+          "england",
+          "premierleague",
+          "englishpremierleague",
+          "football",
+          "tottenhamhotspurfootballclub"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ed157566196d"
+      },
+      {
+        "headline": "First Direct Observation of Magnetar Birth Confirms 16-Year-Old Theoretical Model",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.popsci.com/science/first-magnetar-birth",
+        "publishedAt": "2026-03-13T11:10:44.000Z",
+        "description": "first direct observation of magnetar birth confirms 16 year old theoretical model astronomers have directly observed the formation of a magnetar a highly magnetized neutron star for the first time confirming a theoretical model proposed in 2009 by dan kasen a theoretical astrophysicist at the university of california berkeley the observation validates kasen s hypothesis that superluminous supernovae derive their extraordinary brightness from the rotational energy of nascen sector research confidence 75 source https www popsci com science first magnetar birth fire circle",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8c1506c075dc"
+      },
+      {
+        "headline": "Qatar Arrests 313 Over Iran Missile Attack Videos",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.infowars.com/posts/qatar-arrests-313-over-iran-missile-attack-videos",
+        "publishedAt": "2026-03-13T10:36:22.000Z",
+        "description": "qatar arrests 313 over iran missile attack videos from infowars 313 people documented what a missile attack on their country looked like in real time and their government s response was to make that a crime powered by wpematico mar 13th 2026 1 00am edt source link https www infowars com posts qatar arrests 313 over iran missile attack videos share promote comment with nostr https dissentwatch com boost boost post id 1113065",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5b05cf83225d"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 176
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 30
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    }
+  ],
+  "failures": []
+}
