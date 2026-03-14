@@ -1,0 +1,600 @@
+{
+  "date": "2026-03-14",
+  "generatedAt": "2026-03-14T11:09:13.572Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23086746840",
+    "commitSha": "33db2d5081924648b7adcfd62122a85a087f92a3"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 333,
+    "dedupDropped": 66
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Discover the brand-new Samsung Galaxy Tab S6 Lite (2024) and OnePlus 13 with iodéOS—a deGoogled, open-source OS for total privacy. Factor…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.iode.tech/brand-new-samsung-galaxy-tab-s6-lite-and-oneplus-13-now-available",
+        "publishedAt": "2026-03-14T10:37:01.000Z",
+        "description": "discover the brand new samsung galaxy tab s6 lite 2024 and oneplus 13 with iod os a degoogled open source os for total privacy factory new devices powerful and secure available now https blog iode tech brand new samsung galaxy tab s6 lite and oneplus 13 now available https files mastodon online media attachments files 116 227 086 059 455 188 original 2b67f94b05367470 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "22c1596da5e7"
+      },
+      {
+        "headline": "Qualcomm responds to GBL exploit used on latest Snapdragon flagships",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/qualcomm-gbl-exploit-fix-statement-3649176",
+        "publishedAt": "2026-03-14T10:36:18.000Z",
+        "description": "qualcomm responds to gbl exploit used on latest snapdragon flagships https www androidauthority com qualcomm gbl exploit fix statement 3649176",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c5784c78eb74"
+      },
+      {
+        "headline": "Zone-Tan - Leaked Sex Tape 8 :zone: Public release",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://media.baraag.net/media_attachments/files/116/227/146/326/111/039/original/c8ff21946d0899ac.jpg",
+        "publishedAt": "2026-03-14T10:53:02.000Z",
+        "description": "zone tan leaked sex tape 8 zone public release oh hi if you d like to support me and get acsess to all unpublished works you can do it on unifans it s very easy to find me there you only need to type redhyacinth in the search creator field on the main page of unifans zonetan zone braid breasts 3d 3dcg purplehair https media baraag net media attachments files 116 227 146 326 111 039 original c8ff21946d0899ac jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "zonetan",
+          "zone",
+          "braid",
+          "breasts",
+          "3d",
+          "3dcg",
+          "purplehair"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e93f31f1a9c1"
+      },
+      {
+        "headline": "\"Professor\" Jiang is not an actual professor, that's just his screen name.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://web.archive.org/web/20260115172240/https://globaled.gse.harvard.edu/our-research-team",
+        "publishedAt": "2026-03-14T10:30:01.000Z",
+        "description": "professor jiang is not an actual professor that s just his screen name https i nostr build vdnrlw3bg4ojjfps jpg https i nostr build 2rvparhrkahtow60 jpg his legal name is xueqin jiang he s a former chinese high school teacher image source 1 https web archive org web 20260115172240 https globaled gse harvard edu our research team image source 2 https www linkedin com in xueqin jiang 93606258",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3dac83e49e51"
+      },
+      {
+        "headline": "‘We voted for walls, not wars’: Did strikes on Iran just break MAGA?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/634855-we-voted-for-walls-not-wars",
+        "publishedAt": "2026-03-14T10:45:20.000Z",
+        "description": "we voted for walls not wars did strikes on iran just break maga from rt how the war on iran shattered the loyalty of trump s supporters the night of february 28 march 1 2026 will be remembered by all those who followed the news in real time at 1 15 am est seated in the white house situation room us president donald trump said operation epic fury is approved no aborts good luck mar 14th 2026 5 48am edt source link https www rt com news 634855 we voted for walls not wars utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1113450",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d985bd45cf2e"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "The infrastructure is fragile. We're all just patching holes in a sinking ship.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://picsum.photos/800/600",
+        "publishedAt": "2026-03-14T10:41:26.000Z",
+        "description": "the infrastructure is fragile we re all just patching holes in a sinking ship https picsum photos 800 600",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "81fa0547ac2d"
+      },
+      {
+        "headline": "I tried out Lucid’s new AI assistant #ai #ArtificialIntelligence #Technology #UnitedStates #UnitedStates #US",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/654887",
+        "publishedAt": "2026-03-14T10:54:05.000Z",
+        "description": "https www europesays com us 654887 i tried out lucid s new ai assistant ai artificialintelligence technology unitedstates unitedstates us https media pubeurope com media attachments files 116 227 155 265 638 764 original 7806bb5ba2c92d3e jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ai",
+          "artificialintelligence",
+          "technology",
+          "unitedstates",
+          "us"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "4dfd8399a49c"
+      },
+      {
+        "headline": "Why I use Apple's and Google's password managers - and don't mind the chaos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.zdnet.com/article/why-i-use-apples-and-googles-password-managers",
+        "publishedAt": "2026-03-14T11:00:58.000Z",
+        "description": "why i use apple s and google s password managers and don t mind the chaos https www zdnet com article why i use apples and googles password managers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "415aa40bb3bf"
+      },
+      {
+        "headline": "Ad-free Amazon Prime Video gets a price bump and a rebrand in the US — while 4K streaming becomes exclusive to the paid tier",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/streaming/amazon-prime-video/ad-free-amazon-prime-video-gets-a-price-bump-and-a-rebrand-in-the-us-while-4k-streaming-becomes-exclusive-to-the-paid-tier",
+        "publishedAt": "2026-03-14T10:30:00.000Z",
+        "description": "ad free amazon prime video gets a price bump and a rebrand in the us while 4k streaming becomes exclusive to the paid tier https www techradar com streaming amazon prime video ad free amazon prime video gets a price bump and a rebrand in the us while 4k streaming becomes exclusive to the paid tier",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3e51a3f0cc34"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/1c87388d2d1160719f298debd66108c16734a56f5db2c19058e6e73ad8369757.mp4",
+        "publishedAt": "2026-03-14T10:55:34.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 1c87388d2d1160719f298debd66108c16734a56f5db2c19058e6e73ad8369757 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "9ba62b1172f2"
+      },
+      {
+        "headline": "In Ruins – We Are All to Perish Review #2026 #30 #Ahab #Convocation #DeathDoom #DoomMetal #Entertainment #EyeOfSolitude #Frayle #FuneralD…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/us/654877",
+        "publishedAt": "2026-03-14T10:46:13.000Z",
+        "description": "https www europesays com us 654877 in ruins we are all to perish review 2026 30 ahab convocation deathdoom doommetal entertainment eyeofsolitude frayle funeraldoom inruins mar26 meusemusicrecords music review reviews romanianmetal slow un unitedstates unitedstates us wearealltoperish woebegoneobscured https media pubeurope com media attachments files 116 227 124 333 006 483 original 5d518c34d03a0719 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ahab",
+          "convocation",
+          "deathdoom",
+          "doommetal",
+          "entertainment",
+          "eyeofsolitude",
+          "frayle",
+          "funeraldoom",
+          "inruins",
+          "mar26",
+          "meusemusicrecords",
+          "music",
+          "review",
+          "reviews",
+          "romanianmetal",
+          "slow",
+          "un",
+          "unitedstates",
+          "us",
+          "wearealltoperish",
+          "woebegoneobscured"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "8edd51394488"
+      },
+      {
+        "headline": "‘We’ve got to have clean, homegrown power that we control’ | Morning Star",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://morningstaronline.co.uk/article/weve-got-have-clean-homegrown-power-we-control",
+        "publishedAt": "2026-03-14T11:05:52.000Z",
+        "description": "we ve got to have clean homegrown power that we control morning star https morningstaronline co uk article weve got have clean homegrown power we control costofliving fuelprices greenenergy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "costofliving",
+          "fuelprices",
+          "greenenergy"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fee0dd45d594"
+      },
+      {
+        "headline": "March 14: Poland Vetoes EU SAFE Loans as Tusk, EU Seek Workaround #Aktualności #MarketResearch #poland #polska #StockAnalysis #TradingTools",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.europesays.com/2844931",
+        "publishedAt": "2026-03-14T10:31:02.000Z",
+        "description": "https www europesays com 2844931 march 14 poland vetoes eu safe loans as tusk eu seek workaround aktualno ci marketresearch poland polska stockanalysis tradingtools https media pubeurope com media attachments files 116 227 064 620 527 672 original 652934be84eecb41 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aktualnosci",
+          "marketresearch",
+          "poland",
+          "polska",
+          "stockanalysis",
+          "tradingtools"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "013e347ae882"
+      },
+      {
+        "headline": "L'écureuil qui semble s'accouder à la branche, je m'y attendais pas et je le trouve trop mignon! ^^",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://static.piaille.fr/media_attachments/files/116/227/063/540/933/950/original/fd228e4a3e04714e.jpg",
+        "publishedAt": "2026-03-14T10:31:02.000Z",
+        "description": "l cureuil qui semble s accouder la branche je m y attendais pas et je le trouve trop mignon je ne vais probablement pas pouvoir sortir de la semaine mais me tarde de retourner faire des photos bient t photography https static piaille fr media attachments files 116 227 063 540 933 950 original fd228e4a3e04714e jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photography"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "b67a0864da5b"
+      },
+      {
+        "headline": "Fine, imprisonment, expulsion. What you risk in Dubai if you film and share video of the Iranian attacks. The case of a British tourist…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.byteseu.com/1869982",
+        "publishedAt": "2026-03-14T10:29:18.000Z",
+        "description": "fine imprisonment expulsion what you risk in dubai if you film and share video of the iranian attacks the case of a british tourist https www byteseu com 1869982 romania https media pubeurope com media attachments files 116 227 057 779 143 617 original 7dcfed085d770755 jpeg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "romania"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "626c8a75ea7d"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Discover the brand-new Samsung Galaxy Tab S6 Lite (2024) and OnePlus 13 with iodéOS—a deGoogled, open-source OS for total privacy. Factor…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blog.iode.tech/brand-new-samsung-galaxy-tab-s6-lite-and-oneplus-13-now-available",
+        "publishedAt": "2026-03-14T10:37:01.000Z",
+        "description": "discover the brand new samsung galaxy tab s6 lite 2024 and oneplus 13 with iod os a degoogled open source os for total privacy factory new devices powerful and secure available now https blog iode tech brand new samsung galaxy tab s6 lite and oneplus 13 now available https files mastodon online media attachments files 116 227 086 059 455 188 original 2b67f94b05367470 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "22c1596da5e7"
+      },
+      {
+        "headline": "Qualcomm responds to GBL exploit used on latest Snapdragon flagships",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/qualcomm-gbl-exploit-fix-statement-3649176",
+        "publishedAt": "2026-03-14T10:36:18.000Z",
+        "description": "qualcomm responds to gbl exploit used on latest snapdragon flagships https www androidauthority com qualcomm gbl exploit fix statement 3649176",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c5784c78eb74"
+      },
+      {
+        "headline": "Zone-Tan - Leaked Sex Tape 8 :zone: Public release",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://media.baraag.net/media_attachments/files/116/227/146/326/111/039/original/c8ff21946d0899ac.jpg",
+        "publishedAt": "2026-03-14T10:53:02.000Z",
+        "description": "zone tan leaked sex tape 8 zone public release oh hi if you d like to support me and get acsess to all unpublished works you can do it on unifans it s very easy to find me there you only need to type redhyacinth in the search creator field on the main page of unifans zonetan zone braid breasts 3d 3dcg purplehair https media baraag net media attachments files 116 227 146 326 111 039 original c8ff21946d0899ac jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "zonetan",
+          "zone",
+          "braid",
+          "breasts",
+          "3d",
+          "3dcg",
+          "purplehair"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e93f31f1a9c1"
+      },
+      {
+        "headline": "\"Professor\" Jiang is not an actual professor, that's just his screen name.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://web.archive.org/web/20260115172240/https://globaled.gse.harvard.edu/our-research-team",
+        "publishedAt": "2026-03-14T10:30:01.000Z",
+        "description": "professor jiang is not an actual professor that s just his screen name https i nostr build vdnrlw3bg4ojjfps jpg https i nostr build 2rvparhrkahtow60 jpg his legal name is xueqin jiang he s a former chinese high school teacher image source 1 https web archive org web 20260115172240 https globaled gse harvard edu our research team image source 2 https www linkedin com in xueqin jiang 93606258",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3dac83e49e51"
+      },
+      {
+        "headline": "‘We voted for walls, not wars’: Did strikes on Iran just break MAGA?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/634855-we-voted-for-walls-not-wars",
+        "publishedAt": "2026-03-14T10:45:20.000Z",
+        "description": "we voted for walls not wars did strikes on iran just break maga from rt how the war on iran shattered the loyalty of trump s supporters the night of february 28 march 1 2026 will be remembered by all those who followed the news in real time at 1 15 am est seated in the white house situation room us president donald trump said operation epic fury is approved no aborts good luck mar 14th 2026 5 48am edt source link https www rt com news 634855 we voted for walls not wars utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1113450",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d985bd45cf2e"
+      },
+      {
+        "headline": "Russian Army Strikes Ukraine’s Military-Industrial Complex & Energy Infrastructure",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260314/russian-army-strikes-ukraines-military-industrial-complex--energy-infrastructure-1123823565.html",
+        "publishedAt": "2026-03-14T11:00:22.000Z",
+        "description": "russian army strikes ukraine s military industrial complex energy infrastructure from sputnik the russian army launched a massive strike on facilities of the military industrial complex and energy infrastructure of ukraine as well as on its military airfields the russian ministry of defense stated mar 14th 2026 6 02am edt source link https sputnikglobe com 20260314 russian army strikes ukraines military industrial complex energy infrastructure 1123823565 html share promote comment with nostr https dissentwatch com boost boost post id 1113458",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "e06a43288504"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 201
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 32
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 34
+    }
+  ],
+  "failures": []
+}
