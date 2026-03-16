@@ -1,0 +1,560 @@
+{
+  "date": "2026-03-16",
+  "generatedAt": "2026-03-16T11:22:49.534Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23141193307",
+    "commitSha": "0b244bdff84411f904495251a61d66614d33a80b"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 392,
+    "dedupDropped": 140
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "“Tear Up Texas”: FBI Encouraged a 2015 Islamic Terror Shooting & Did Nothing to Stop It",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/tear-up-texas-fbi-encouraged-a-2015-1eb",
+        "publishedAt": "2026-03-16T11:09:20.000Z",
+        "description": "tear up texas fbi encouraged a 2015 islamic terror shooting did nothing to stop it from dr peter mccullough md i m hearing a lot of chatter about a possible iranian attack on the u s homeland if god forbid we experience what appears to be an islamic terror attack we should remember the fbi s conduct in the curtis culwell center attack in garland texas on may 3 2015 the perpetrators had been monitored by the fbi mar 16th 2026 6 45am edt source link https www thefocalpoints com p tear up texas fbi encouraged a 2015 1eb internet archive link https web archive org web 20260316105709 https www thefocalpoints com p tear up texas fbi encouraged a 2015 1eb share promote comment with nostr https dissentwatch com boost boost post id 1114074",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a293503e9a09"
+      },
+      {
+        "headline": "Estágios no SNS para alunos do privado implicam pagamento diário",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/estagios-no-sns-para-alunos-do-privado-implicam-pagamento-diario-69b7c31fe4b4028ed2f2475c",
+        "publishedAt": "2026-03-16T10:54:34.000Z",
+        "description": "est gios no sns para alunos do privado implicam pagamento di rio https sapo pt artigo estagios no sns para alunos do privado implicam pagamento diario 69b7c31fe4b4028ed2f2475c utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c04ce5b74281"
+      },
+      {
+        "headline": "Microsoft Copilot Health Centralizes Personal Medical Records",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/microsoft-copilot-health-centralizes-personal-medical-records",
+        "publishedAt": "2026-03-16T10:36:20.000Z",
+        "description": "microsoft copilot health centralizes personal medical records from infowars microsoft built a product that knows your cholesterol levels your step count and your last hospital visit and faces none of the legal consequences your doctor would for mishandling any of it mar 16th 2026 1 00am edt source link https www infowars com posts microsoft copilot health centralizes personal medical records share promote comment with nostr https dissentwatch com boost boost post id 1114050",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "a0daba657728"
+      },
+      {
+        "headline": "#CHAGOS  DIEGO #GARCIA !!! EMPIRE'S LAST ISLAND IN #ASIA WAITING FOR LIBERATION -- CSG - USS Lincoln is significantly damaged that it is…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://interactive.guim.co.uk/uploader/embed/2026/01/chagos_locator/giv-32554bUGgqMwpZWXA/Chagos_locator-inArticle_620.jpg",
+        "publishedAt": "2026-03-16T10:25:36.000Z",
+        "description": "https interactive guim co uk uploader embed 2026 01 chagos locator giv 32554buggqmwpzwxa chagos locator inarticle 620 jpg chagos diego garcia empire s last island in asia waiting for liberation csg uss lincoln is significantly damaged that it is operating and is being towed back to diego garcia for major repairs while there is a mutiny on uss ford x 20billion yankee metal flotilla forcefully removed all natives in 1960s mauritius",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "chagos",
+          "garcia",
+          "asia",
+          "mauritius"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "ad05cd276d02"
+      },
+      {
+        "headline": "European Commission",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://translation.ec.europa.eu/tools-and-resources/ai-translation-and-language-tools_en",
+        "publishedAt": "2026-03-16T11:03:44.000Z",
+        "description": "european commission the european commission s free and secure ai language tools all ai based multilingual tools etranslation ereporting ebriefing ereply esummary anonymisation webtext accessible text multilingual post speech to text https translation ec europa eu tools and resources ai translation and language tools en",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "aa025e27915f"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "🔴 TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-03-16T11:07:24.000Z",
+        "description": "tiktok and meta risked safety to win algorithm arms race whistleblowers say companies allowed more harmful content on user s feeds knowing their algorithms ran on outrage bbc hears https www bbc com news articles cqj9kgxqjwjo at medium rss at campaign rss https ichef bbci co uk ace standard 240 cpsprodpb 25a6 live 9833eb40 1efb 11f1 9120 a910fc22c6ac png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ed9205ad4b2c"
+      },
+      {
+        "headline": "LoKI – Local AI Assistant for Linux and WSL",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://schneider-ki.com/",
+        "publishedAt": "2026-03-16T11:10:13.000Z",
+        "description": "loki local ai assistant for linux and wsl https schneider ki com",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "546240217d45"
+      },
+      {
+        "headline": "Survey suggests Pixel VPN is not nearly as popular as Google would like it to be",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/pixel-vpn-usage-poll-results-3649246",
+        "publishedAt": "2026-03-16T11:00:14.000Z",
+        "description": "survey suggests pixel vpn is not nearly as popular as google would like it to be https www androidauthority com pixel vpn usage poll results 3649246",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "485e72e09438"
+      },
+      {
+        "headline": "Portfolio apps are great for monitoring the situation. But they track your IP, location, assets, even your identity. In the recent past,…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://getdarkfolio.app/",
+        "publishedAt": "2026-03-16T10:58:32.000Z",
+        "description": "portfolio apps are great for monitoring the situation but they track your ip location assets even your identity in the recent past data from millions of users has leaked resulting in phishing identity theft or physical wrench attacks darkfolio fixes this darkfolio can t leak information it doesn t have when you refresh the server sends 7 000 asset prices stocks and crypto every time your phone extracts what it needs locally so a server never learns what you re monitoring and you can run it all through tor no accounts no emails no cloud sync even better darkfolio s developer nostr npub10afr060h0g3vf2ykynr6cvw2u7ta3tzpgjczfyufp420aeeen0xszf0xj0 is pledging the first 10k in net revenue back to the cause of your digital privacy it s live on the ios app store today craig is a friend but no one ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "news"
+        ],
+        "id": "002ca1db7028"
+      },
+      {
+        "headline": "Checkt das mal — für die iPhone Nutzer da draußen ist ohnehin der Zug bereits abgefahren.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://keepandroidopen.org/",
+        "publishedAt": "2026-03-16T10:37:19.000Z",
+        "description": "https keepandroidopen org checkt das mal f r die iphone nutzer da drau en ist ohnehin der zug bereits abgefahren",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "6763a203aaec"
+      },
+      {
+        "headline": "📜 La #LDH et plusieurs associations s’inquiètent des attaques virulentes dont sont victimes les fonctionnaires qui choisissent de contri…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.lemonde.fr/idees/article/2026/03/13/notre-fonction-publique-doit-concilier-citoyennete-pluralisme-et-impartialite_6671009_3232.html?search-type=classic&ise_click_rank=1",
+        "publishedAt": "2026-03-16T10:36:26.000Z",
+        "description": "la ldh et plusieurs associations s inqui tent des attaques virulentes dont sont victimes les fonctionnaires qui choisissent de contribuer au d bat public d fendons la n cessit de pr server un mod le d mocratique o coexistent plusieurs visions et opinions https www lemonde fr idees article 2026 03 13 notre fonction publique doit concilier citoyennete pluralisme et impartialite 6671009 3232 html search type classic ise click rank 1",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ldh"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "ad1965bb5abf"
+      },
+      {
+        "headline": "'He was going for it!' - O'Sullivan narrowly misses out on maximum against Muir",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.tntsports.co.uk/snooker/world-open/2026/hw-was-going-for-it-ronnie-osullivan-narrowly-misses-out-on-147-maximum-break-against-ross-muir-at-world-open_vid60063658/video.shtml",
+        "publishedAt": "2026-03-16T10:26:01.000Z",
+        "description": "he was going for it o sullivan narrowly misses out on maximum against muir https www tntsports co uk snooker world open 2026 hw was going for it ronnie osullivan narrowly misses out on 147 maximum break against ross muir at world open vid60063658 video shtml",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a081f3dd2d1c"
+      },
+      {
+        "headline": "**Scientists Discover Hidden “Gatekeeper” Inside Brain Cells Linked to Alzheimer’s**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-discover-hidden-gatekeeper-inside-brain-cells-linked-to-alzheimers",
+        "publishedAt": "2026-03-16T11:14:24.000Z",
+        "description": "scientists discover hidden gatekeeper inside brain cells linked to alzheimer s by adrienne berard penn state published on 16 march 2026 a newly identified role for the neuronal mps shows it controls nutrient uptake by acting as a gatekeeper its disruption speeds endocytosis and promotes toxic amyloid buildup linked to alzheimer s brain cells constantly draw in material from the fluid around them including signaling molecules nutrients and even fragments of their own outer membranes this process read more https scitechdaily com scientists discover hidden gatekeeper inside brain cells linked to alzheimers tech science sciencenews research biology alzheimersdisease brain",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "cd850e5f4fd6"
+      },
+      {
+        "headline": "Australian Senate committee backs crypto regulation framework. Digital assets now under traditional financial services rules.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/d86a12111fd7654a3c0626543ddaf1e2192de3f5d80832758ad6ad58a867b22a.png",
+        "publishedAt": "2026-03-16T11:13:24.000Z",
+        "description": "australian senate committee backs crypto regulation framework digital assets now under traditional financial services rules the senate economics legislation committee published their report backing the corporations amendment bill establishes licensing and compliance for digital token managers targets firms holding digital assets for customers brings them under existing financial services rules firms without afsl get 6 months to get authorization crypto exchanges already register with austrac as digital currency providers australia joins the global trend clear rules are coming us eu uk singapore hong kong all creating frameworks regulatory clarity helps institutional adoption consumer protection builds trust clear rules are not bitcoin s enemy they are the path to mainstream adoption https ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d90822007c37"
+      },
+      {
+        "headline": "It looks like Benjamin Mileikowsky may either be seriously injured or dead. His last two public 'appearances' were AI-generated. The firs…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.youtube.com/watch?v=st6PMiLJDOY",
+        "publishedAt": "2026-03-16T11:08:31.000Z",
+        "description": "it looks like benjamin mileikowsky may either be seriously injured or dead his last two public appearances were ai generated the first one showed him with 6 fingers in a few frames the second was put out to debunk the rumor of his death but this one too was ai generated look at the coffee surface it is in motion and moving in the beginning but then goes static also when he sips it the ai f s it up and they had to cut a few frames out and the video jumps ahead to the point where he s done sipping it from then on the coffee surface remains static and unmoving https www youtube com watch v st6pmiljdoy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6ed464048298"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "“Tear Up Texas”: FBI Encouraged a 2015 Islamic Terror Shooting & Did Nothing to Stop It",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/tear-up-texas-fbi-encouraged-a-2015-1eb",
+        "publishedAt": "2026-03-16T11:09:20.000Z",
+        "description": "tear up texas fbi encouraged a 2015 islamic terror shooting did nothing to stop it from dr peter mccullough md i m hearing a lot of chatter about a possible iranian attack on the u s homeland if god forbid we experience what appears to be an islamic terror attack we should remember the fbi s conduct in the curtis culwell center attack in garland texas on may 3 2015 the perpetrators had been monitored by the fbi mar 16th 2026 6 45am edt source link https www thefocalpoints com p tear up texas fbi encouraged a 2015 1eb internet archive link https web archive org web 20260316105709 https www thefocalpoints com p tear up texas fbi encouraged a 2015 1eb share promote comment with nostr https dissentwatch com boost boost post id 1114074",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a293503e9a09"
+      },
+      {
+        "headline": "Estágios no SNS para alunos do privado implicam pagamento diário",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sapo.pt/artigo/estagios-no-sns-para-alunos-do-privado-implicam-pagamento-diario-69b7c31fe4b4028ed2f2475c",
+        "publishedAt": "2026-03-16T10:54:34.000Z",
+        "description": "est gios no sns para alunos do privado implicam pagamento di rio https sapo pt artigo estagios no sns para alunos do privado implicam pagamento diario 69b7c31fe4b4028ed2f2475c utm source mastodon utm medium web utm campaign sapo rs",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c04ce5b74281"
+      },
+      {
+        "headline": "Microsoft Copilot Health Centralizes Personal Medical Records",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/microsoft-copilot-health-centralizes-personal-medical-records",
+        "publishedAt": "2026-03-16T10:36:20.000Z",
+        "description": "microsoft copilot health centralizes personal medical records from infowars microsoft built a product that knows your cholesterol levels your step count and your last hospital visit and faces none of the legal consequences your doctor would for mishandling any of it mar 16th 2026 1 00am edt source link https www infowars com posts microsoft copilot health centralizes personal medical records share promote comment with nostr https dissentwatch com boost boost post id 1114050",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "a0daba657728"
+      },
+      {
+        "headline": "#CHAGOS  DIEGO #GARCIA !!! EMPIRE'S LAST ISLAND IN #ASIA WAITING FOR LIBERATION -- CSG - USS Lincoln is significantly damaged that it is…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://interactive.guim.co.uk/uploader/embed/2026/01/chagos_locator/giv-32554bUGgqMwpZWXA/Chagos_locator-inArticle_620.jpg",
+        "publishedAt": "2026-03-16T10:25:36.000Z",
+        "description": "https interactive guim co uk uploader embed 2026 01 chagos locator giv 32554buggqmwpzwxa chagos locator inarticle 620 jpg chagos diego garcia empire s last island in asia waiting for liberation csg uss lincoln is significantly damaged that it is operating and is being towed back to diego garcia for major repairs while there is a mutiny on uss ford x 20billion yankee metal flotilla forcefully removed all natives in 1960s mauritius",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "chagos",
+          "garcia",
+          "asia",
+          "mauritius"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "ad05cd276d02"
+      },
+      {
+        "headline": "European Commission",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://translation.ec.europa.eu/tools-and-resources/ai-translation-and-language-tools_en",
+        "publishedAt": "2026-03-16T11:03:44.000Z",
+        "description": "european commission the european commission s free and secure ai language tools all ai based multilingual tools etranslation ereporting ebriefing ereply esummary anonymisation webtext accessible text multilingual post speech to text https translation ec europa eu tools and resources ai translation and language tools en",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "aa025e27915f"
+      },
+      {
+        "headline": "🌊 SURF 'N TURF 🏝️",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/srwxJUXPHvE",
+        "publishedAt": "2026-03-16T11:22:51.000Z",
+        "description": "surf n turf the boracay island life the doomsday dj tunes for the post apocalypse https blossom primal net 094b655ccc23547b80cf9578ee8bf28e42a2dc39159d3103a2a5537da1bf72b0 jpg https youtu be srwxjuxphve https blossom primal net 89c8eae293a33e011bac9c74ea9e1929e8cf57376ae574aebc710acd2927d5cd jpg released on the 16th of march 1964 in the united states can t buy me love is a single by the beatles pure signal no noise credits goes to the respective author photographer",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cae52fe2ce35"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 145
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 39
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 68
+    }
+  ],
+  "failures": []
+}
