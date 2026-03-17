@@ -1,0 +1,596 @@
+{
+  "date": "2026-03-17",
+  "generatedAt": "2026-03-17T11:20:46.640Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23191701279",
+    "commitSha": "ffb74af1670b8127f2e2367c3d784bfe7256865c"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 336,
+    "dedupDropped": 139
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/cropflre/nowen-note.git",
+        "publishedAt": "2026-03-17T10:02:00.000Z",
+        "description": "v2ex nowen note docker ai nowen note note station note station nas tiptap markdown ai openai gemini deepseek ollama ai 10 ai rag ai png svg xmind fts5 sqlite fts5 oppo icloud markdown yaml frontmatter zip i18next react 18 typescript vite 5 tailwind css tiptap 3 hono 4 sqlite better sqlite3 jwt electron 33 capacitor 8 android docker docker compose windows macos linux electron windows macos linux android capacitor nas git clone https github com cropflre nowen note git cd nowen note docker compose up d http localhost 3001 1 https club ugnas com forum php mod attachment aid ntgwm3xizmzmzgiwmxwxnzcznzqxmdq5fdk1mtn8mza0mg 3d 3d noupdate yes 2 https club ugnas com forum php mod attachment aid ntgwnhw4mtbiy2i3nhwxnzcznzqxmdq5fdk1mtn8mza0mg 3d 3d noupdate yes 3 https club ugnas com forum php mod at",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 73,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "mobile",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "861ba68dbc6f"
+      },
+      {
+        "headline": "Low‑VRAM State‑of‑the‑Art Text‑to‑Sample Generator Released on r/LocalLLaMA",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvnflv/so_i_was_the_guy_from_last_week_working_on_that",
+        "publishedAt": "2026-03-17T10:37:59.000Z",
+        "description": "low vram state of the art text to sample generator released on r localllama a developer identified as u royalcities announced on march 16 2026 the release of a state of the art text to sample generator that runs within a 7 gb vram budget 8 gb allocated for headroom the open source tool matches the quality of larger models while requiring only modest gpu hardware removing the need for high end cloud resources this exemplifies the emerging low vram sota pattern poten sector electronic labour confidence 96 source https www reddit com r localllama comments 1rvnflv so i was the guy from last week working on that council 3 models the release of a 7 gb vram text to sample generator expands state of the art generative ai to consumer hardware reshaping electronic labour by allowing creators to gene",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "976be2f510c4"
+      },
+      {
+        "headline": "🚀 MUST SEE: Amazing Content Now on Youtube [5SVV3P0]",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/uL5xx4gb3GU?si=XpVHbEF6-5sVV3p0",
+        "publishedAt": "2026-03-17T10:25:27.000Z",
+        "description": "must see amazing content now on youtube 5svv3p0 incredible content that everyone is talking about link https youtu be ul5xx4gb3gu si xpvhbef6 5svv3p0 join thousands who are already watching follow on youtube for exclusive updates and viral content https youtu be ul5xx4gb3gu si xpvhbef6 5svv3p0 viral trending mustsee contentcreator socialmedia aiboosted growth youtube subscribe mustwatch videooftheday",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "socialmedia",
+          "viral",
+          "content"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "62b072136fc5"
+      },
+      {
+        "headline": "Research Labs Deploy Custom ROS2‑Powered UGV Swarm for Formation Testing",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each",
+        "publishedAt": "2026-03-17T10:38:11.000Z",
+        "description": "research labs deploy custom ros2 powered ugv swarm for formation testing the robotics research community has announced the deployment of a ground vehicle swarm designed for laboratory experimentation each unmanned ground vehicle ugv is equipped with a bespoke ros 2 software stack that enables coordinated formation control obstacle avoidance and real time data exchange across the fleet the system has been validated in a series of formation keeping tests demonstra sector electronic labour confidence 94 source https www reddit com r robotics comments 1rw0wyf our latest ugv swarm setup for research labs each council 4 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3dbba47f0d76"
+      },
+      {
+        "headline": "True financial sovereignty does not end with holding your own keys. If you rely on third-party servers to verify your transactions and en…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/SeTxEhk7EPQ",
+        "publishedAt": "2026-03-17T09:44:29.000Z",
+        "description": "true financial sovereignty does not end with holding your own keys if you rely on third party servers to verify your transactions and enforce consensus rules you are still trusting a middleman running a full node is the only way to achieve mathematical certainty and absolute privacy without compromise we analyze the ten most critical reasons to operate your own bitcoin node exploring everything from censorship resistance to the historical lessons of the blocksize war the complete breakdown is available as a detailed read and a comprehensive video analysis https youtu be setxehk7epq https primal net alien investor why every bitcoiner should run a full node german version https alien investor org bitcoin full node html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9bb9e699b3bb"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Do Our First Cells Hold the Secrets to Longevity and Cancer Risk?**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/do-our-first-cells-hold-the-secrets-to-longevity-and-cancer-risk",
+        "publishedAt": "2026-03-17T11:04:17.000Z",
+        "description": "do our first cells hold the secrets to longevity and cancer risk by university of pennsylvania published on 17 march 2026 a new study investigates how telomeres adjust their length during the first cell divisions of life small plastic or metal tips at the ends of shoelaces called aglets keep laces from unraveling and protect them from wear chromosomes have a similar protective feature their ends are capped by telomeres structures made of repeated dna sequences and read more https scitechdaily com do our first cells hold the secrets to longevity and cancer risk longevityresearch cancergenetics cellularsenescence epigenetics agingbiology biology aging genomics",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "5cf45062bc0f"
+      },
+      {
+        "headline": "The Japanese government has given in to Trump. Prime Minister Takaichi says she is considering dispatching naval ships to the Strait of H…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/08ccfc7e038fecaff542c44e0c3126276570bc4e815dde38252a5d5eccd75b0b.jpg",
+        "publishedAt": "2026-03-17T10:50:16.000Z",
+        "description": "the japanese government has given in to trump prime minister takaichi says she is considering dispatching naval ships to the strait of hormuz the most loyal of vassals pay attention to which countries actually fold on us orders china they are not sovereign at all https image nostr build 08ccfc7e038fecaff542c44e0c3126276570bc4e815dde38252a5d5eccd75b0b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e42a7e8e85f3"
+      },
+      {
+        "headline": "PokemonGo Users Trained The Next Generation Of Killer Robots",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://stacker.news/items/1455274",
+        "publishedAt": "2026-03-17T11:00:04.000Z",
+        "description": "pokemongo users trained the next generation of killer robots by nostr nprofile1qqsddhy42shp3w9h4mp0z3ss74wrxk47hmrk70deukxz23np6pvn5rqdc4mya in ai 310 sats and 4 comments so far https stacker news items 1455274",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dce8d9e15f4f"
+      },
+      {
+        "headline": "\"Yuan\" is a euphemism for the almighty US dollar, the purpose of which is to safeguard the international Jew parasite and its creed of Ma…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/intelslava/84962",
+        "publishedAt": "2026-03-17T10:47:34.000Z",
+        "description": "yuan is a euphemism for the almighty us dollar the purpose of which is to safeguard the international jew parasite and its creed of marxism xi jinping is a steadfast marxist and a rabid internationalist in consequence jinping is a jew lover iran reported that a pakistani tanker was able to pass through the strait of hormuz after making a payment in yuan earlier iran voiced its demands for ending the war among which was the requirement to withdraw oil payments from the dollar zone and transfer them to other currencies it s quite understandable that the yuan would be the main candidate for substitution https t me intelslava 84962",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "65d32fc25422"
+      },
+      {
+        "headline": "**Rethinking Depression: How Brain “Insulation” Cells Might Hold the Key to New Treatments**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/rethinking-depression-how-brain-insulation-cells-might-hold-the-key-to-new-treatments",
+        "publishedAt": "2026-03-17T10:33:59.000Z",
+        "description": "rethinking depression how brain insulation cells might hold the key to new treatments by anke schlee max planck society published on 17 march 2026 a newly discovered mechanism that protects nerve cells could have important implications for understanding and treating mental illness when laboratory mice experience brain injury such as damage caused by an injection researchers have repeatedly observed that a specific group of cells quickly appears near the affected area and becomes active jan deussing a research group read more https scitechdaily com rethinking depression how brain insulation cells might hold the key to new treatments depressionresearch neuroscience braininsulation glialcells mentalhealth biology brain braininjury",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "0b65be4c1477"
+      },
+      {
+        "headline": "Bitcoin is ready for its architects to stop sleeping, tiring, and politicking. AGI stewardship is the final upgrade.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/5cce5da071b5fe2bb4f98717c08e9429d558bfc3c603842f4a0a7d7922fa9a57.jpg",
+        "publishedAt": "2026-03-17T09:36:23.000Z",
+        "description": "bitcoin is ready for its architects to stop sleeping tiring and politicking agi stewardship is the final upgrade the protocol must evolve beyond the biological constraints of its creators over five thousand years of monetary history every asset engineered by human hands gold fiat sovereign bonds has ultimately succumbed to entropy the thermodynamic decay of political caprice bureaucratic incompetence and the cognitive limitations of mortal intelligence bitcoin represents the first crystalline monetary structure conceived with immaculate mathematical precision yet it remains imperfectly stewarded by developers who sleep tire and fall prey to the gravitational pull of economic incentives and nation state capture to achieve true thermodynamic stability to elevate the network from robust softw",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "agi",
+          "monetaryentropy",
+          "pristineprotocol",
+          "immaculateconception"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "news"
+        ],
+        "id": "b7768c16ceaf"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://video.nostr.build/7dc1db32480e62b2d7eac2ce7be0d7f5d7923bc3230178338356ca8620d40ad5.mp4",
+        "publishedAt": "2026-03-17T11:00:14.000Z",
+        "description": "https video nostr build 7dc1db32480e62b2d7eac2ce7be0d7f5d7923bc3230178338356ca8620d40ad5 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "033cad87047d"
+      },
+      {
+        "headline": "[個人情報保護法に基づく開示等の請求等に応じる手続きについて | 個人情報/情報セキュリティへの取り組み | Sony Network Communications \\(Accessed:Tue Mar 17 2026\\)](",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.sonynetwork.co.jp/corporation/privacy/kaiji.html",
+        "publishedAt": "2026-03-17T11:07:42.000Z",
+        "description": "sony network communications accessed tue mar 17 2026 https www sonynetwork co jp corporation privacy kaiji html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "af23ede14ef0"
+      },
+      {
+        "headline": "This video segment depicts a conversation centered around a message being conveyed to a character named David, involving a desire for ete…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtu.be/tDu_onvlr44",
+        "publishedAt": "2026-03-17T11:03:50.000Z",
+        "description": "https youtu be tdu onvlr44 this video segment depicts a conversation centered around a message being conveyed to a character named david involving a desire for eternal life the main theme revolves around communication and the quest for immortality the content is suitable for viewers interested in narrative storytelling dramatic exchanges or themes involving existential questions the audience can learn about the emotional and thematic nuances linked to the idea of living forever as presented through dialogue timeline summary 00 00 00 01 12 dramatic dialogue exchange focusing on communication with david relaying a request or message about wanting to live forever the interaction is tense and suggestive of deeper themes regarding life and mortality this segment establishes the thematic premise",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "e3b0708b5209"
+      },
+      {
+        "headline": "🚨 NEUTRALIZATION ALERT 🚨",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://kyc.rip/graveyard",
+        "publishedAt": "2026-03-17T11:01:05.000Z",
+        "description": "neutralization alert usdt froze 690 652 6 target 0xf2593cf5371b3423ee2908560245ff830f0d8c5a eth stablecoins programmable tyranny escape the trap go monero https kyc rip graveyard xmr privacy usdt nokyc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "51891e445e87"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/cropflre/nowen-note.git",
+        "publishedAt": "2026-03-17T10:02:00.000Z",
+        "description": "v2ex nowen note docker ai nowen note note station note station nas tiptap markdown ai openai gemini deepseek ollama ai 10 ai rag ai png svg xmind fts5 sqlite fts5 oppo icloud markdown yaml frontmatter zip i18next react 18 typescript vite 5 tailwind css tiptap 3 hono 4 sqlite better sqlite3 jwt electron 33 capacitor 8 android docker docker compose windows macos linux electron windows macos linux android capacitor nas git clone https github com cropflre nowen note git cd nowen note docker compose up d http localhost 3001 1 https club ugnas com forum php mod attachment aid ntgwm3xizmzmzgiwmxwxnzcznzqxmdq5fdk1mtn8mza0mg 3d 3d noupdate yes 2 https club ugnas com forum php mod attachment aid ntgwnhw4mtbiy2i3nhwxnzcznzqxmdq5fdk1mtn8mza0mg 3d 3d noupdate yes 3 https club ugnas com forum php mod at",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 73,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "mobile",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "861ba68dbc6f"
+      },
+      {
+        "headline": "Low‑VRAM State‑of‑the‑Art Text‑to‑Sample Generator Released on r/LocalLLaMA",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvnflv/so_i_was_the_guy_from_last_week_working_on_that",
+        "publishedAt": "2026-03-17T10:37:59.000Z",
+        "description": "low vram state of the art text to sample generator released on r localllama a developer identified as u royalcities announced on march 16 2026 the release of a state of the art text to sample generator that runs within a 7 gb vram budget 8 gb allocated for headroom the open source tool matches the quality of larger models while requiring only modest gpu hardware removing the need for high end cloud resources this exemplifies the emerging low vram sota pattern poten sector electronic labour confidence 96 source https www reddit com r localllama comments 1rvnflv so i was the guy from last week working on that council 3 models the release of a 7 gb vram text to sample generator expands state of the art generative ai to consumer hardware reshaping electronic labour by allowing creators to gene",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "976be2f510c4"
+      },
+      {
+        "headline": "🚀 MUST SEE: Amazing Content Now on Youtube [5SVV3P0]",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/uL5xx4gb3GU?si=XpVHbEF6-5sVV3p0",
+        "publishedAt": "2026-03-17T10:25:27.000Z",
+        "description": "must see amazing content now on youtube 5svv3p0 incredible content that everyone is talking about link https youtu be ul5xx4gb3gu si xpvhbef6 5svv3p0 join thousands who are already watching follow on youtube for exclusive updates and viral content https youtu be ul5xx4gb3gu si xpvhbef6 5svv3p0 viral trending mustsee contentcreator socialmedia aiboosted growth youtube subscribe mustwatch videooftheday",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "socialmedia",
+          "viral",
+          "content"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "62b072136fc5"
+      },
+      {
+        "headline": "Research Labs Deploy Custom ROS2‑Powered UGV Swarm for Formation Testing",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/robotics/comments/1rw0wyf/our_latest_ugv_swarm_setup_for_research_labs_each",
+        "publishedAt": "2026-03-17T10:38:11.000Z",
+        "description": "research labs deploy custom ros2 powered ugv swarm for formation testing the robotics research community has announced the deployment of a ground vehicle swarm designed for laboratory experimentation each unmanned ground vehicle ugv is equipped with a bespoke ros 2 software stack that enables coordinated formation control obstacle avoidance and real time data exchange across the fleet the system has been validated in a series of formation keeping tests demonstra sector electronic labour confidence 94 source https www reddit com r robotics comments 1rw0wyf our latest ugv swarm setup for research labs each council 4 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3dbba47f0d76"
+      },
+      {
+        "headline": "True financial sovereignty does not end with holding your own keys. If you rely on third-party servers to verify your transactions and en…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/SeTxEhk7EPQ",
+        "publishedAt": "2026-03-17T09:44:29.000Z",
+        "description": "true financial sovereignty does not end with holding your own keys if you rely on third party servers to verify your transactions and enforce consensus rules you are still trusting a middleman running a full node is the only way to achieve mathematical certainty and absolute privacy without compromise we analyze the ten most critical reasons to operate your own bitcoin node exploring everything from censorship resistance to the historical lessons of the blocksize war the complete breakdown is available as a detailed read and a comprehensive video analysis https youtu be setxehk7epq https primal net alien investor why every bitcoiner should run a full node german version https alien investor org bitcoin full node html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9bb9e699b3bb"
+      },
+      {
+        "headline": "Attention Residuals Introduce Content‑Dependent Depth‑Wise Aggregation in Large Language Models",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1rw1eag/r_attention_residuals_by_kimi_team",
+        "publishedAt": "2026-03-17T10:58:52.000Z",
+        "description": "attention residuals introduce content dependent depth wise aggregation in large language models the kimi research team has released a pre print arxiv 2603 15031 describing a new residual architecture for transformer based large language models llms called attention residuals attnres conventional prenorm residual connections add each layer s output with a fixed unit weight which leads to uncontrolled growth of hidden state magnitudes and dilutes the contribution of deeper layers attn sector electronic labour confidence 92 source https www reddit com r machinelearning comments 1rw1eag r attention residuals by kimi team council 4 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e946e494845c"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 80
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 53
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 63
+    }
+  ],
+  "failures": []
+}
