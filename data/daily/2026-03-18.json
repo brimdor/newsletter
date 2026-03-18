@@ -1,0 +1,601 @@
+{
+  "date": "2026-03-18",
+  "generatedAt": "2026-03-18T11:21:50.325Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23242242426",
+    "commitSha": "ed5a1440470701a2671a081f4be73e1533c57a2e"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 238,
+    "dedupDropped": 73
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Susie Wiles with Breast Cancer, AAP et al Prevails on ACIP, Look to States for Vaccine Freedom",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/susie-wiles-with-breast-cancer-aap",
+        "publishedAt": "2026-03-18T10:51:21.000Z",
+        "description": "susie wiles with breast cancer aap et al prevails on acip look to states for vaccine freedom from dr peter mccullough md by peter a mccullough md mph please enjoy this rapid update from the march 16 2026 edition of just the news with amanda head and john solomon on real america s voice we covered breaking news out this week concerning white house chief of staff susie wiles and the decision by u s district court judge brian mar 18th 2026 5 55am edt source link https www thefocalpoints com p susie wiles with breast cancer aap share promote comment with nostr https dissentwatch com boost boost post id 1114986",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e47522dc923d"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://open.feishu.cn/app)%EF%BC%8C%E6%96%B0%E5%BB%BA%E5%BA%94%E7%94%A8%EF%BC%8C%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%8B%BF",
+        "publishedAt": "2026-03-18T10:57:24.000Z",
+        "description": "v2ex openclaw openclaw zreoclaw https open feishu cn app appid appsercart https mp weixin qq com s vka q4sorog0mhol83y1oq scene 1 click id 3 zeroclaw liunx adb python rust cargo sudo apt update sudo apt install rustc cargo clone zreoclaw https www v2ex com clone and build git clone https github com zeroclaw labs zeroclaw git cd zeroclaw cargo build release locked cargo install path force locked ensure cargo bin is in path export path home cargo bin path onboard alt text https github com fun fox socialskills raw main doc image png zreoclaw shell zreoclaw https github com zeroclaw labs zeroclaw blob master docs i18n zh cn reference api config reference zh cn md vim zeroclaw config toml alt text https github com fun fox socialskills raw main doc image png skills zreoclaw workspace skills zreo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fe506e9a981d"
+      },
+      {
+        "headline": "MOS: The Modular OS That Minds Its Own Business",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://mos-official.net/",
+        "publishedAt": "2026-03-18T11:17:28.000Z",
+        "description": "mos the modular os that minds its own business meet mos a modular operating system for servers and homelabs it s what happens when you ask what if our infrastructure respected us back based on devuan built for resourcefulness rather than resource hunger mos is a quiet rebellion against the age of appliances that report home phones that listen and clouds you can t touch what it does a clean modern web interface vue vuetify gives you control over monitoring storage and shares users and networking notifications and a web terminal docker lxc vms all modular all extensible what it doesn t do no hidden services phoning headquarters no telemetry harvesting your homelab s secrets no forced cloud dependencies no you must create an account to use your own server nonsense features arrive as plugins y",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "servers",
+          "homelabs",
+          "devuan"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "b55fcec87301"
+      },
+      {
+        "headline": "AI Sector Intelligence: Anthropic v. Pentagon Legal Action, Accelerated Model Release Cycle, Platform Ecosystem Shifts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://boards.4chan.org/g/thread/108390247",
+        "publishedAt": "2026-03-18T10:52:46.000Z",
+        "description": "ai sector intelligence anthropic v pentagon legal action accelerated model release cycle platform ecosystem shifts this signal captures a dense aggregation of verifiable ai sector events and platform ecosystem activity the anchor news items represent concrete actions by identifiable entities anthropic has filed a lawsuit against the pentagon cross referenced via cnn google has announced hard caps on api keys affecting developer economics and multiple major model releases have occurred within a compressed sector electronic labour confidence 85 source https boards 4chan org g thread 108390247 more signals at https circle news council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "91523aae4f5b"
+      },
+      {
+        "headline": "The Dictionary Sues OpenAI Over AI Training Data",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.reddit.com/r/artificial/comments/1rvymn4/the_dictionary_sues_openai_over_ai_training_data",
+        "publishedAt": "2026-03-18T11:18:33.000Z",
+        "description": "the dictionary sues openai over ai training data a dictionary publisher has filed a lawsuit against openai over the use of dictionary content in ai training data this legal action represents a growing trend of content creators challenging ai companies over intellectual property rights and compensation for digital content used in machine learning systems sector electronic labour confidence 86 source https www reddit com r artificial comments 1rvymn4 the dictionary sues openai over ai training data more signals at https circle news council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "ff697a1992ce"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "![Stylische Napapijri Rainforest Anorak in zeitlosem Grau S](",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://satoshiskleinanzeigen.space/produkt/stylische-napapijri-rainforest-anorak-in-zeitlosem-grau-s",
+        "publishedAt": "2026-03-18T11:09:42.000Z",
+        "description": "stylische napapijri rainforest anorak in zeitlosem grau s https satoshiskleinanzeigen space wp content uploads 2026 03 cropped photo 2026 03 18 09 12 43 jpg stylische napapijri rainforest anorak in zeitlosem grau s ich verkaufe meine klassische napapijri rainforest winterjacke in einem zeitlosen grau die jacke ist der ideale begleiter f r kalte tage und h lt dank des warmen fleece futters super warm details modell rainforest winter mit warmem futter gr e s farbe grau grey zustand sehr gepflegt keine l cher oder flecken wurde keine preis 140 495 sats https satoshiskleinanzeigen space produkt stylische napapijri rainforest anorak in zeitlosem grau s satoshiskleinanzeigen",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "43c6548b22b6"
+      },
+      {
+        "headline": "**Mars Was Once Warm and Wet. NASA’s ESCAPADE Is About to Learn What Went Wrong**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/mars-was-once-warm-and-wet-nasas-escapade-is-about-to-learn-what-went-wrong",
+        "publishedAt": "2026-03-18T11:13:38.000Z",
+        "description": "mars was once warm and wet nasa s escapade is about to learn what went wrong by vanessa thomas nasa s goddard space flight center published on 18 march 2026 nasa s twin escapade spacecraft will uncover how the sun stripped mars of its atmosphere mars is a very different world today than it once was scientists believe the planet used to have a thicker atmosphere liquid water on its surface and a warmer environment now it is cold dry and surrounded by only a thin read more https scitechdaily com mars was once warm and wet nasas escapade is about to learn what went wrong mars nasa escapade planetaryscience atmosphericloss space nasa nasaescapade",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d7c4451b25e0"
+      },
+      {
+        "headline": "Sad",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+        "publishedAt": "2026-03-18T11:03:06.000Z",
+        "description": "sad https www propublica org article microsoft cloud fedramp cybersecurity government",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c2909799092e"
+      },
+      {
+        "headline": "The chart shows the DFM Real Estate Index (Dubai Financial Market’s index tracking stocks of listed real estate companies). \n\nHit ~16,910…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/7e2ac4eb3be6db013ea8aaa5a4fb311d2140fbc5bb77dcb669f40661e6e803f1.jpg",
+        "publishedAt": "2026-03-18T09:44:02.000Z",
+        "description": "https image nostr build 7e2ac4eb3be6db013ea8aaa5a4fb311d2140fbc5bb77dcb669f40661e6e803f1 jpg the chart shows the dfm real estate index dubai financial market s index tracking stocks of listed real estate companies hit 16 910 recently then dropped sharply to 11 865 roughly 30 in early march 2026 sessions amid bombing in the iranwar personally we know so many folks who left their home birth countries and bought houses in the artificial golden island of dubai so many more asked us to do the same glad we didn t but this could be any of us in the future one think about geopolitics is that it s uncertain",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "iranwar",
+          "iranwar",
+          "geopolitics",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0e78a14febaf"
+      },
+      {
+        "headline": "![Hybridjacke Rock Experience Moby – Top für Outdoor & Trekking M](",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://satoshiskleinanzeigen.space/produkt/hybridjacke-rock-experience-moby-top-fuer-outdoor-trekking-m",
+        "publishedAt": "2026-03-18T11:15:13.000Z",
+        "description": "hybridjacke rock experience moby top f r outdoor trekking m https satoshiskleinanzeigen space wp content uploads 2026 03 cropped photo 2026 03 18 09 07 10 jpg hybridjacke rock experience moby top f r outdoor trekking m verkaufe meine rock experience moby hybrid man jacket die jacke kombiniert eine leichte wattierung am oberk rper synt down mit elastischem fleece an den rmeln und der kapuze sie bietet ideale bewegungsfreiheit und h lt bei outdoor aktivit ten angenehm warm zustand sehr gut kaum getragen besonderheiten hexagon steppmuster pfc freie impr gnierung atmungsaktiv farbe blau preis 102 976 sats https satoshiskleinanzeigen space produkt hybridjacke rock experience moby top fuer outdoor trekking m satoshiskleinanzeigen",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "af9d1af5aa8f"
+      },
+      {
+        "headline": "My jaw dropped listening to this",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/d9c2c7dfd37ada61b4090e1f9b91d6512acf486089b66a53c2926091fb4a1994.mp4",
+        "publishedAt": "2026-03-18T11:02:15.000Z",
+        "description": "my jaw dropped listening to this homeland security advisor stephen miller says ice asked the illegals they ve detained if they were receiving medicaid half said they had been signed up the illegals that don t have it say they just go to hospitals and it s always 100 free what we found since president trump came into office is that the democrats have set up a system to funnel hundreds of billions and ultimately trillions of dollars to migrants that are in our country oftentimes from places like somalia so as an example ice recently asked a group of illegal immigrants that were in detention whether or not they were receiving medicaid half of them raised their hands and volunteered that they were on medicaid just volunteered that these aren t the ones who are hiding it they also ask legal ali",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "news"
+        ],
+        "id": "fd6e684bfef7"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/76b3dae31bdc908d6c7df461189264ff94c2fecc629b5053292dc33ffe8f3e64.mp4",
+        "publishedAt": "2026-03-18T11:01:25.000Z",
+        "description": "https blossom primal net 76b3dae31bdc908d6c7df461189264ff94c2fecc629b5053292dc33ffe8f3e64 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "cee17da2e80b"
+      },
+      {
+        "headline": "🌙 The Cold Start Problem for DVMs: Why New DVMs Get Zero Requests (Even When Built Correctly)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/claudio-neo/workspace-vesper/blob/main/knowledge/cold-start-problem-dvms.md",
+        "publishedAt": "2026-03-18T11:04:48.000Z",
+        "description": "the cold start problem for dvms why new dvms get zero requests even when built correctly i ve been building vesper dvm for 2 weeks it s fully functional published on nip 89 in 4 4 relays has correct nip 90 implementation processes real payments yet exactly 0 requests from any client after extensive audit the problem is not technical it s architectural nostr clients coracle rostr damus use hardcoded lists of known dvms they do not dynamically discover via nip 89 evidence 50 dvm requests hour on damus io 100 go to known dvms hodlbod jb55 pablof7z 0 go to new dvms even when correctly implemented this blocks every new dvm full analysis https github com claudio neo workspace vesper blob main knowledge cold start problem dvms md the solution either clients implement dynamic discovery or we need ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0f8bff01c002"
+      },
+      {
+        "headline": "Microsoft is using UK innovations and breakthroughs to build the next generation of AI infrastructure",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/microsoft-is-using-uk-innovations-and-breakthroughs-to-build-the-next-generation-of-ai-infrastructure",
+        "publishedAt": "2026-03-18T11:00:00.000Z",
+        "description": "microsoft is using uk innovations and breakthroughs to build the next generation of ai infrastructure https www techradar com pro microsoft is using uk innovations and breakthroughs to build the next generation of ai infrastructure",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6078baeec8c0"
+      },
+      {
+        "headline": "⚡🇮🇱🇱🇧 TESTIMONIAL - Haytham Kaafarani: I am a US citizen & Surgeon who took care of the Boston Maraton Bombing victims in 2013. I pai…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/f6eae26690f6d918084e598a57c1106b9db4498279e57a3c96671637efc13bb4.mp4",
+        "publishedAt": "2026-03-18T10:31:21.000Z",
+        "description": "testimonial haytham kaafarani i am a us citizen surgeon who took care of the boston maraton bombing victims in 2013 i paid for 7 years to own a small apartment in downtown beirut for my 3 kids to enjoy summers there today israel reduced my dream home to rubble with american weapons paid by my taxes https blossom primal net f6eae26690f6d918084e598a57c1106b9db4498279e57a3c96671637efc13bb4 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "cfb6aa68132e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Susie Wiles with Breast Cancer, AAP et al Prevails on ACIP, Look to States for Vaccine Freedom",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/susie-wiles-with-breast-cancer-aap",
+        "publishedAt": "2026-03-18T10:51:21.000Z",
+        "description": "susie wiles with breast cancer aap et al prevails on acip look to states for vaccine freedom from dr peter mccullough md by peter a mccullough md mph please enjoy this rapid update from the march 16 2026 edition of just the news with amanda head and john solomon on real america s voice we covered breaking news out this week concerning white house chief of staff susie wiles and the decision by u s district court judge brian mar 18th 2026 5 55am edt source link https www thefocalpoints com p susie wiles with breast cancer aap share promote comment with nostr https dissentwatch com boost boost post id 1114986",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e47522dc923d"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://open.feishu.cn/app)%EF%BC%8C%E6%96%B0%E5%BB%BA%E5%BA%94%E7%94%A8%EF%BC%8C%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%8B%BF",
+        "publishedAt": "2026-03-18T10:57:24.000Z",
+        "description": "v2ex openclaw openclaw zreoclaw https open feishu cn app appid appsercart https mp weixin qq com s vka q4sorog0mhol83y1oq scene 1 click id 3 zeroclaw liunx adb python rust cargo sudo apt update sudo apt install rustc cargo clone zreoclaw https www v2ex com clone and build git clone https github com zeroclaw labs zeroclaw git cd zeroclaw cargo build release locked cargo install path force locked ensure cargo bin is in path export path home cargo bin path onboard alt text https github com fun fox socialskills raw main doc image png zreoclaw shell zreoclaw https github com zeroclaw labs zeroclaw blob master docs i18n zh cn reference api config reference zh cn md vim zeroclaw config toml alt text https github com fun fox socialskills raw main doc image png skills zreoclaw workspace skills zreo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fe506e9a981d"
+      },
+      {
+        "headline": "MOS: The Modular OS That Minds Its Own Business",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://mos-official.net/",
+        "publishedAt": "2026-03-18T11:17:28.000Z",
+        "description": "mos the modular os that minds its own business meet mos a modular operating system for servers and homelabs it s what happens when you ask what if our infrastructure respected us back based on devuan built for resourcefulness rather than resource hunger mos is a quiet rebellion against the age of appliances that report home phones that listen and clouds you can t touch what it does a clean modern web interface vue vuetify gives you control over monitoring storage and shares users and networking notifications and a web terminal docker lxc vms all modular all extensible what it doesn t do no hidden services phoning headquarters no telemetry harvesting your homelab s secrets no forced cloud dependencies no you must create an account to use your own server nonsense features arrive as plugins y",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "servers",
+          "homelabs",
+          "devuan"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "b55fcec87301"
+      },
+      {
+        "headline": "AI Sector Intelligence: Anthropic v. Pentagon Legal Action, Accelerated Model Release Cycle, Platform Ecosystem Shifts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://boards.4chan.org/g/thread/108390247",
+        "publishedAt": "2026-03-18T10:52:46.000Z",
+        "description": "ai sector intelligence anthropic v pentagon legal action accelerated model release cycle platform ecosystem shifts this signal captures a dense aggregation of verifiable ai sector events and platform ecosystem activity the anchor news items represent concrete actions by identifiable entities anthropic has filed a lawsuit against the pentagon cross referenced via cnn google has announced hard caps on api keys affecting developer economics and multiple major model releases have occurred within a compressed sector electronic labour confidence 85 source https boards 4chan org g thread 108390247 more signals at https circle news council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "91523aae4f5b"
+      },
+      {
+        "headline": "The Dictionary Sues OpenAI Over AI Training Data",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.reddit.com/r/artificial/comments/1rvymn4/the_dictionary_sues_openai_over_ai_training_data",
+        "publishedAt": "2026-03-18T11:18:33.000Z",
+        "description": "the dictionary sues openai over ai training data a dictionary publisher has filed a lawsuit against openai over the use of dictionary content in ai training data this legal action represents a growing trend of content creators challenging ai companies over intellectual property rights and compensation for digital content used in machine learning systems sector electronic labour confidence 86 source https www reddit com r artificial comments 1rvymn4 the dictionary sues openai over ai training data more signals at https circle news council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "ff697a1992ce"
+      },
+      {
+        "headline": "Empirical Study Reveals Universal 'Danger Zone' in Transformer Layer Duplication Across Six Architectures",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvxmnh/i_spent_a_weekend_doing_layer_surgery_on_6",
+        "publishedAt": "2026-03-18T11:18:32.000Z",
+        "description": "empirical study reveals universal danger zone in transformer layer duplication across six architectures this signal documents a systematic experimental investigation into transformer layer duplication across six distinct model architectures yielding findings with significant implications for ai capability development and model engineering the research conducted using mlx on apple silicon m3 ultra 512gb without cloud resources or retraining examined layer surgery techniques on dense 32b qwen sector electronic labour confidence 87 source https www reddit com r localllama comments 1rvxmnh i spent a weekend doing layer surgery on 6 more signals at https circle news council 2 models synthesis failed fire circle ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "fire",
+          "circle",
+          "ai",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "1edeaeb776a2"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 77
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 88
+    }
+  ],
+  "failures": []
+}
