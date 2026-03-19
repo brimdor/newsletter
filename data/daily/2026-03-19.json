@@ -1,0 +1,590 @@
+{
+  "date": "2026-03-19",
+  "generatedAt": "2026-03-19T11:17:47.383Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23292338356",
+    "commitSha": "702879c2c71ab49d6375f2aeb8ec1535d9afec0f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 356,
+    "dedupDropped": 138
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Trump issues threat over major Iranian gas field, Moscow warns of ‘tipping point’ (PHOTOS, VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/635517-us-iran-israel-war-updates",
+        "publishedAt": "2026-03-19T10:51:27.000Z",
+        "description": "trump issues threat over major iranian gas field moscow warns of tipping point photos videos from rt the us president has cautioned tehran against further strikes on qatari lng facilities the us will massively blow up iran s south pars gas field if tehran continues strikes on qatari energy facilities president donald trump has warned south pars shared with qatar where it is known as the north field is the world s largest natural mar 19th 2026 6 00am edt source link https www rt com news 635517 us iran israel war updates utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1115430",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "548bfda0c02b"
+      },
+      {
+        "headline": "Why SCROTUS is shitting 🧱 and how this is going to ruin all of us 🌍",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/01b070bba1f30f51dd369f0a7d821984cd8924e32b6d6ec3869855392e06907e.jpg",
+        "publishedAt": "2026-03-19T10:35:13.000Z",
+        "description": "why scrotus is shitting and how this is going to ruin all of us it ll affect not just oil lpg lng sulfuric acid agriculture fertilizers food production helium semiconductors supply chain and logistics literally everything 1 top up your vehicles asap 2 withdraw cash s run on oil based electricity and they might force digitalid 3 keep canned food at home supplies will run low on fresh food 4 take more walks and disconnect more often from get some the newearth that comes next will be based on accelerated degrowth you can get with or get left out https image nostr build 01b070bba1f30f51dd369f0a7d821984cd8924e32b6d6ec3869855392e06907e jpg https image nostr build c7d18f74c0767dfdc8939f008f430a9d3612e818884a8e44803636f822bd5e6e jpg https image nostr build 9799c9acf0cc077e238fa180fd36c543587d1939e",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "digitalid",
+          "digitalid",
+          "newearth",
+          "newearth",
+          "iranwar",
+          "iranwar",
+          "thegreatawakening",
+          "thegreatawakening",
+          "epsteinindustrialcomplex",
+          "epsteinindustrialcomplex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fe27e17c9148"
+      },
+      {
+        "headline": "Libya 15 years later: What NATO’s war still teaches the world",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/africa/635509-libya-15-years-after-nato-intervention",
+        "publishedAt": "2026-03-19T10:57:20.000Z",
+        "description": "libya 15 years later what nato s war still teaches the world from rt the world is being sold the same human rights pretext for the assault on iran that left libya in ruins fifteen years ago fifteen years ago on march 19 2011 nato came to libya claiming to deliver democracy and human rights what followed was an eight month campaign of destruction that dismantled a sovereign state shattered mar 19th 2026 5 55am edt source link https www rt com africa 635509 libya 15 years after nato intervention utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1115435",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3af03896b20d"
+      },
+      {
+        "headline": "Breaking footage:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/fpv-drone-strikes-us-victoria-base-baghdad",
+        "publishedAt": "2026-03-19T11:01:38.000Z",
+        "description": "breaking footage fpv drone strikes us victoria base near baghdad airport footage shows direct hit https theboard world static videos ddgeopolitics 177688 baghdad drone mp4 newly released footage shows an fpv kamikaze drone striking the us victoria military base near baghdad international airport marking an escalation in proxy attacks on american forces in iraq https theboard world articles fpv drone strikes us victoria base baghdad theboard military defense",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "c8dc0675b6d8"
+      },
+      {
+        "headline": "Russian Forces Liberate Two Settlements in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260319/russian-forces-liberate-two-settlements-in-dpr---mod-1123852172.html",
+        "publishedAt": "2026-03-19T11:00:21.000Z",
+        "description": "russian forces liberate two settlements in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of pavlovka in the donetsk people s republic dpr the russian defense ministry said on thursday mar 19th 2026 5 51am edt source link https sputnikglobe com 20260319 russian forces liberate two settlements in dpr mod 1123852172 html share promote comment with nostr https dissentwatch com boost boost post id 1115438",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "dd9edbbedf6c"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "\"An estimated 85% of K-12 public school teachers recently reported that they used AI during the 2024-2025 school year – often for curricu…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://theconversation.com/more-and-more-teachers-and-students-are-using-ai-even-though-it-might-do-more-harm-than-good-275650",
+        "publishedAt": "2026-03-19T08:27:08.000Z",
+        "description": "an estimated 85 of k 12 public school teachers recently reported that they used ai during the 2024 2025 school year often for curriculum and content development similarly 86 of k 12 students shared in 2025 that they have used ai in general an estimated 50 of students reported that they use it for schoolwork such as for learning more about topics outside of what was taught in class tutoring on specific subjects receiving help with a homework assignment or asking for college advice https theconversation com more and more teachers and students are using ai even though it might do more harm than good 275650 ai education",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ai",
+          "ai",
+          "education",
+          "education"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fef8db79229e"
+      },
+      {
+        "headline": "Android 16 has a silent VPN bug Google hasn’t fixed for months, claim multiple VPN providers",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/android-16-vpn-bug-3650394",
+        "publishedAt": "2026-03-19T10:58:41.000Z",
+        "description": "android 16 has a silent vpn bug google hasn t fixed for months claim multiple vpn providers https www androidauthority com android 16 vpn bug 3650394",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "64db0d484c44"
+      },
+      {
+        "headline": "[ nodetec/comet ] Improve note and editor search highlighting",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/nodetec/comet/commit/268829c279ab0e382f195b44787b92b15230a55d",
+        "publishedAt": "2026-03-19T11:04:32.000Z",
+        "description": "nodetec comet improve note and editor search highlighting https github com nodetec comet commit 268829c279ab0e382f195b44787b92b15230a55d",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6edb1ea47e23"
+      },
+      {
+        "headline": "iPhone em perigo com ataque invisível que rouba palavras-passe e elimina vestígios",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t80452-iphone-em-perigo-com-ataque-invisivel-que-rouba-palavras-passe-e-elimina-vestigios",
+        "publishedAt": "2026-03-19T10:53:06.000Z",
+        "description": "iphone em perigo com ataque invis vel que rouba palavras passe e elimina vest gios https tugatech com pt t80452 iphone em perigo com ataque invisivel que rouba palavras passe e elimina vestigios",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "90ac7cba71e3"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/4e75a495fefff39d0e0f127c88cc7e45c9e3dceaab3ebfe7cf0af3693a42a49c.mp4",
+        "publishedAt": "2026-03-19T11:03:08.000Z",
+        "description": "https blossom primal net 4e75a495fefff39d0e0f127c88cc7e45c9e3dceaab3ebfe7cf0af3693a42a49c mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "6abda7babe72"
+      },
+      {
+        "headline": "🚨 Do you understand what happened in the last 24 hours?",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/46a6cf6f71a15239a034a5a8e153137ddb259952c9598f407c331cb1bc4c797c.mp4",
+        "publishedAt": "2026-03-19T10:49:44.000Z",
+        "description": "do you understand what happened in the last 24 hours zuckerberg killed the metaverse after burning 80 billion on cartoon avatars nobody used sam altman took 13 billion from microsoft then sold openai s cloud to amazon for 50 billion microsoft just found out they funded their own competition anthropic made an ai that takes orders from your phone and does your work while you sleep x dropped a dislike button and a mute entire countries button in the same week youtube asking you to flag ai slop is just google getting 2 billion people to train their next model for free 93 of us jobs can now be partly done by ai same week companies started giving the weakest raises since 2008 apple started rejecting vibe coded apps from the app store xai is paying wall street bankers 100 hour to teach grok how t",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "vendors",
+          "news"
+        ],
+        "id": "194ab5e9fea1"
+      },
+      {
+        "headline": "Escaping Algorithmic Binds: Creators vs. Corporate Platforms (w/ Bridget Todd & Rudy Fraser at SXSW)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://traffic.megaphone.fm/NOTDI8645081256.mp3",
+        "publishedAt": "2026-03-19T11:06:09.000Z",
+        "description": "escaping algorithmic binds creators vs corporate platforms w bridget todd rudy fraser at sxsw https traffic megaphone fm notdi8645081256 mp3",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "df48ed3f797f"
+      },
+      {
+        "headline": "Wake up, Neo . . .",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://video.nostr.build/1aafb8703c949a16f571cce3dba0d1647b9ac237aa4c885099dddbccac3754b7.mp4",
+        "publishedAt": "2026-03-19T10:43:37.000Z",
+        "description": "wake up neo matrix great a good start lord of war with nicolas cage not bad but belows scene from this movie covers most of it in 2 sentences the most relevant causes for never ending nation state wars always has been study bitcoin https video nostr build 1aafb8703c949a16f571cce3dba0d1647b9ac237aa4c885099dddbccac3754b7 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ef75f27106fe"
+      },
+      {
+        "headline": "[ PrimalHQ/primal-android-app ] Fix wallet upgrade notice shown after successful migration (#972)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/PrimalHQ/primal-android-app/commit/298923d5c192a49f45325633a6d75720af96933e",
+        "publishedAt": "2026-03-19T11:02:00.000Z",
+        "description": "primalhq primal android app fix wallet upgrade notice shown after successful migration 972 https github com primalhq primal android app commit 298923d5c192a49f45325633a6d75720af96933e",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "93ae9aff55bb"
+      },
+      {
+        "headline": "Un « vol » au-dessus de Jupiter",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/c150d7c9d3b636854a9cb38ff173a82f821e5a4b7f3932bff789ad7ff04e0ff6.mp4",
+        "publishedAt": "2026-03-19T10:43:19.000Z",
+        "description": "un vol au dessus de jupiter https video nostr build c150d7c9d3b636854a9cb38ff173a82f821e5a4b7f3932bff789ad7ff04e0ff6 mp4 cette vid o utilise des images de la mission juno de la nasa pour recr er ce que l on pourrait voir bord de la sonde spatiale juno lors de son 27e survol rapproch de jupiter le 2 juin 2020 au plus pr s de sa trajectoire la sonde s est approch e environ 3 400 kilom tres du sommet des nuages de jupiter ce stade l immense gravit de la plan te a propuls l engin une vitesse vertigineuse environ 209 000 km h par rapport la plan te le citoyen scientifique kevin m gill a cr cette vid o partir des donn es de l instrument junocam la s quence combine 41 images fixes projet es num riquement sur une sph re une cam ra virtuelle offre diff rents angles de vue de jupiter alors que la so",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nasa",
+          "nasa",
+          "astronomie",
+          "astronomie",
+          "espace",
+          "espace",
+          "nostrfr",
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "3c6a51eaae4c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Trump issues threat over major Iranian gas field, Moscow warns of ‘tipping point’ (PHOTOS, VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/635517-us-iran-israel-war-updates",
+        "publishedAt": "2026-03-19T10:51:27.000Z",
+        "description": "trump issues threat over major iranian gas field moscow warns of tipping point photos videos from rt the us president has cautioned tehran against further strikes on qatari lng facilities the us will massively blow up iran s south pars gas field if tehran continues strikes on qatari energy facilities president donald trump has warned south pars shared with qatar where it is known as the north field is the world s largest natural mar 19th 2026 6 00am edt source link https www rt com news 635517 us iran israel war updates utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1115430",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "548bfda0c02b"
+      },
+      {
+        "headline": "Why SCROTUS is shitting 🧱 and how this is going to ruin all of us 🌍",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/01b070bba1f30f51dd369f0a7d821984cd8924e32b6d6ec3869855392e06907e.jpg",
+        "publishedAt": "2026-03-19T10:35:13.000Z",
+        "description": "why scrotus is shitting and how this is going to ruin all of us it ll affect not just oil lpg lng sulfuric acid agriculture fertilizers food production helium semiconductors supply chain and logistics literally everything 1 top up your vehicles asap 2 withdraw cash s run on oil based electricity and they might force digitalid 3 keep canned food at home supplies will run low on fresh food 4 take more walks and disconnect more often from get some the newearth that comes next will be based on accelerated degrowth you can get with or get left out https image nostr build 01b070bba1f30f51dd369f0a7d821984cd8924e32b6d6ec3869855392e06907e jpg https image nostr build c7d18f74c0767dfdc8939f008f430a9d3612e818884a8e44803636f822bd5e6e jpg https image nostr build 9799c9acf0cc077e238fa180fd36c543587d1939e",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "digitalid",
+          "digitalid",
+          "newearth",
+          "newearth",
+          "iranwar",
+          "iranwar",
+          "thegreatawakening",
+          "thegreatawakening",
+          "epsteinindustrialcomplex",
+          "epsteinindustrialcomplex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fe27e17c9148"
+      },
+      {
+        "headline": "Libya 15 years later: What NATO’s war still teaches the world",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/africa/635509-libya-15-years-after-nato-intervention",
+        "publishedAt": "2026-03-19T10:57:20.000Z",
+        "description": "libya 15 years later what nato s war still teaches the world from rt the world is being sold the same human rights pretext for the assault on iran that left libya in ruins fifteen years ago fifteen years ago on march 19 2011 nato came to libya claiming to deliver democracy and human rights what followed was an eight month campaign of destruction that dismantled a sovereign state shattered mar 19th 2026 5 55am edt source link https www rt com africa 635509 libya 15 years after nato intervention utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1115435",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3af03896b20d"
+      },
+      {
+        "headline": "Breaking footage:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/fpv-drone-strikes-us-victoria-base-baghdad",
+        "publishedAt": "2026-03-19T11:01:38.000Z",
+        "description": "breaking footage fpv drone strikes us victoria base near baghdad airport footage shows direct hit https theboard world static videos ddgeopolitics 177688 baghdad drone mp4 newly released footage shows an fpv kamikaze drone striking the us victoria military base near baghdad international airport marking an escalation in proxy attacks on american forces in iraq https theboard world articles fpv drone strikes us victoria base baghdad theboard military defense",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "c8dc0675b6d8"
+      },
+      {
+        "headline": "Russian Forces Liberate Two Settlements in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260319/russian-forces-liberate-two-settlements-in-dpr---mod-1123852172.html",
+        "publishedAt": "2026-03-19T11:00:21.000Z",
+        "description": "russian forces liberate two settlements in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of pavlovka in the donetsk people s republic dpr the russian defense ministry said on thursday mar 19th 2026 5 51am edt source link https sputnikglobe com 20260319 russian forces liberate two settlements in dpr mod 1123852172 html share promote comment with nostr https dissentwatch com boost boost post id 1115438",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "dd9edbbedf6c"
+      },
+      {
+        "headline": "UK Lawmakers Seek Moratorium On Crypto Donations To Political Parties",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/crypto/uk-lawmakers-seek-moratorium-crypto-donations-political-parties",
+        "publishedAt": "2026-03-19T09:42:20.000Z",
+        "description": "uk lawmakers seek moratorium on crypto donations to political parties from zerohedge authored by zoltan vardai via cointelegraph com a cross party parliamentary committee in the united kingdom has urged the government to impose an immediate moratorium on cryptocurrency donations to political parties until stronger safeguards are in place in a report published on wednesday the joint committee on the national mar 19th 2026 5 00am edt source link https www zerohedge com crypto uk lawmakers seek moratorium crypto donations political parties share promote comment with nostr https dissentwatch com boost boost post id 1115406",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b682b0d00a43"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 88
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 68
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 62
+    }
+  ],
+  "failures": []
+}
