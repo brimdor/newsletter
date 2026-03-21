@@ -1,0 +1,586 @@
+{
+  "date": "2026-03-21",
+  "generatedAt": "2026-03-21T11:08:36.537Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23378353644",
+    "commitSha": "08ee0b7654258585217ca49a0168cf2d1437ba5c"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 259,
+    "dedupDropped": 83
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "WATCH: Explosions Reported in Tehran Amid Regional Tensions",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/tehran-explosions-reported-amid-tensions",
+        "publishedAt": "2026-03-21T10:59:51.000Z",
+        "description": "watch explosions reported in tehran amid regional tensions reports of explosions in tehran are surfacing amidst regional tensions get the latest updates on the developing situation in iran here https theboard world static videos anadoluagency 62150 tehran strikes mp4 full analysis https theboard world articles tehran explosions reported amid tensions theboard iran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "release"
+        ],
+        "id": "051800122e3f"
+      },
+      {
+        "headline": "Russian Armed Forces Strike Ukraine’s Infrastructure Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260321/russian-armed-forces-strike-ukraines-infrastructure-facilities--1123873118.html",
+        "publishedAt": "2026-03-21T10:48:21.000Z",
+        "description": "russian armed forces strike ukraine s infrastructure facilities from sputnik moscow sputnik the russian armed forces struck energy and transportation infrastructure facilities used in the interests of the ukrainian armed forces the russian defense ministry said on saturday mar 21st 2026 6 13am edt source link https sputnikglobe com 20260321 russian armed forces strike ukraines infrastructure facilities 1123873118 html share promote comment with nostr https dissentwatch com boost boost post id 1116245",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "35169fa1235e"
+      },
+      {
+        "headline": "Intelligence-grade analysis used to cost $50,000/year.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/",
+        "publishedAt": "2026-03-21T10:55:37.000Z",
+        "description": "intelligence grade analysis used to cost 50 000 year the board 5 000 sources monitored in real time ai powered newsroom free to read https theboard world https theboard world static og default png v 2 theboard osint intelligence news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "theboard",
+          "osint",
+          "intelligence",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a2e1875beeb4"
+      },
+      {
+        "headline": "Israel, US Attack Iran’s Natanz Nuclear Facility, No Leaks Reported",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260321/israel-us-attack-irans-natanz-nuclear-facility-no-leaks-reported--1123872810.html",
+        "publishedAt": "2026-03-21T10:03:19.000Z",
+        "description": "israel us attack iran s natanz nuclear facility no leaks reported from sputnik moscow sputnik israel and the united states attacked the natanz uranium enrichment facility in iran on saturday with no leaks reported the atomic energy organization of iran aeoi said mar 21st 2026 5 49am edt source link https sputnikglobe com 20260321 israel us attack irans natanz nuclear facility no leaks reported 1123872810 html internet archive link https web archive org web 20260321095631 https sputnikglobe com 20260321 israel us attack irans natanz nuclear facility no leaks reported 1123872810 html share promote comment with nostr https dissentwatch com boost boost post id 1116241",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "96f645465f97"
+      },
+      {
+        "headline": "War spirals as information control tightens",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens",
+        "publishedAt": "2026-03-21T11:04:16.000Z",
+        "description": "war spirals as information control tightens https www aljazeera com video the listening post 2026 3 21 war spirals as information control tightens source al jazeera https t me aljazeeraglobal 130968",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a6088180005f"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "How to turn your old Android phone into a Wi-Fi extender - and fix dead spots at home",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free",
+        "publishedAt": "2026-03-21T10:33:11.000Z",
+        "description": "how to turn your old android phone into a wi fi extender and fix dead spots at home https www zdnet com article how to turn android phone into wifi extender for free",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "3bdd6e454546"
+      },
+      {
+        "headline": "AI BUBBLE wall st #SMCI #supermicro cook book - AI was cooking for YEARS -  since maybe 2023 -  arrest in march 2026 is diversion / cover…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/84a6f1d1aa664cb6571ae8ac6ce6ab0daf3006655757d7ef06690333c5076e52.png",
+        "publishedAt": "2026-03-21T09:39:09.000Z",
+        "description": "ai bubble wall st smci supermicro cook book ai was cooking for years since maybe 2023 arrest in march 2026 is diversion coverup that s the decrypted translation https image nostr build 84a6f1d1aa664cb6571ae8ac6ce6ab0daf3006655757d7ef06690333c5076e52 png justdario nov 5 2025 smci earnings revenues down 1bn vs same quarter in 2024 cash down 1bn vs june inventory up 1bn vs june this is how it looks like when a client unexpectedly cancels 1bn worth of orders https image nostr build 315e20b20009ed08eb3868409b4c2788186351ed20e0209e078fbbe5bfcb6782 png nvidia nvda",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "smci",
+          "supermicro",
+          "nvidia",
+          "nvda"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "67549ee1779d"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/65589e48f8929ddfd55e1bc4173ae5ee838d56cb00881d62f3918c1e4a4b8089.mp4",
+        "publishedAt": "2026-03-21T11:06:35.000Z",
+        "description": "https blossom primal net 65589e48f8929ddfd55e1bc4173ae5ee838d56cb00881d62f3918c1e4a4b8089 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "8b2f534a290f"
+      },
+      {
+        "headline": "Russia establishes Vienna as key western spy hub targeting NATO",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://securityaffairs.com/189653/intelligence/russia-establishes-vienna-as-key-western-spy-hub-targeting-nato.html",
+        "publishedAt": "2026-03-21T10:15:13.000Z",
+        "description": "russia establishes vienna as key western spy hub targeting nato https securityaffairs com 189653 intelligence russia establishes vienna as key western spy hub targeting nato html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "db847bebd8fd"
+      },
+      {
+        "headline": "Pay attention to this.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/middle-east-ai-arms-race-risks",
+        "publishedAt": "2026-03-21T11:04:53.000Z",
+        "description": "pay attention to this middle east ai arms race key players risks explore the middle east ai arms race key players rapid militarization and potential risks of ai powered defense systems learn about escalation https theboard world articles middle east ai arms race risks https theboard world static og middle east ai arms race risks png theboard military defense ai tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8f7c26bf8f22"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/ai-cyber-warfare-hype-versus-reality",
+        "publishedAt": "2026-03-21T10:43:08.000Z",
+        "description": "good analysis on this from the board ai cyber warfare separating hype from reality explore the truth about ai cyber warfare is it hype or reality uncover ai s role in cyber conflicts and its impact on global security https theboard world articles ai cyber warfare hype versus reality https theboard world static og ai cyber warfare hype versus reality png theboard ai tech cybersecurity",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech",
+          "cybersecurity"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9e398bc5fd09"
+      },
+      {
+        "headline": "NEW: \"Bitcoin Plunges as Gold, Silver Rally\" by The Chosun Daily via 조선일보 on March 02, 2026.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinmediawatch.com/articles/31c7a590-2f61-4cf0-bbb6-a6702509b5d3",
+        "publishedAt": "2026-03-21T11:05:06.000Z",
+        "description": "new bitcoin plunges as gold silver rally by the chosun daily via on march 02 2026 country south korea rank this article here https bitcoinmediawatch com articles 31c7a590 2f61 4cf0 bbb6 a6702509b5d3",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "92d8febbb5c1"
+      },
+      {
+        "headline": "This footage just surfaced.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israel-iran-tensions-evangelical-outreach-role",
+        "publishedAt": "2026-03-21T11:07:49.000Z",
+        "description": "this footage just surfaced israel iran tensions the role of evangelical outreach https theboard world static videos beholdisrael 72692 mp4 explore the role of evangelical outreach amidst israel iran tensions discover faith resilience community support during turbulent times learn more no deep dive https theboard world articles israel iran tensions evangelical outreach role theboard iran israel",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "israel"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "8eb65ef2e7f6"
+      },
+      {
+        "headline": "Just published: Housing Market Crash 2026: 7 Warning Signs and What Happens Next",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/housing-market-crash-2026-warning-signs",
+        "publishedAt": "2026-03-21T10:59:10.000Z",
+        "description": "just published housing market crash 2026 7 warning signs and what happens next mortgage rates at 7 2 inventory up 38 and home sales at 30 year lows the 7 indicators that preceded every housing crash and where they stand in march 2026 https theboard world articles housing market crash 2026 warning signs https theboard world static og housing market crash 2026 warning signs png theboard markets finance",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "9c6db90dcd3c"
+      },
+      {
+        "headline": "[ keshav0479/Stashu ] fix: patch flatted and rollup security vulnerabilities",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/keshav0479/Stashu/commit/8f3f1936a5c379f262c9ae86ec9760814260fa10",
+        "publishedAt": "2026-03-21T11:02:12.000Z",
+        "description": "keshav0479 stashu fix patch flatted and rollup security vulnerabilities https github com keshav0479 stashu commit 8f3f1936a5c379f262c9ae86ec9760814260fa10",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "43b4298d4b6b"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "WATCH: Explosions Reported in Tehran Amid Regional Tensions",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/tehran-explosions-reported-amid-tensions",
+        "publishedAt": "2026-03-21T10:59:51.000Z",
+        "description": "watch explosions reported in tehran amid regional tensions reports of explosions in tehran are surfacing amidst regional tensions get the latest updates on the developing situation in iran here https theboard world static videos anadoluagency 62150 tehran strikes mp4 full analysis https theboard world articles tehran explosions reported amid tensions theboard iran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "release"
+        ],
+        "id": "051800122e3f"
+      },
+      {
+        "headline": "Russian Armed Forces Strike Ukraine’s Infrastructure Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260321/russian-armed-forces-strike-ukraines-infrastructure-facilities--1123873118.html",
+        "publishedAt": "2026-03-21T10:48:21.000Z",
+        "description": "russian armed forces strike ukraine s infrastructure facilities from sputnik moscow sputnik the russian armed forces struck energy and transportation infrastructure facilities used in the interests of the ukrainian armed forces the russian defense ministry said on saturday mar 21st 2026 6 13am edt source link https sputnikglobe com 20260321 russian armed forces strike ukraines infrastructure facilities 1123873118 html share promote comment with nostr https dissentwatch com boost boost post id 1116245",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "35169fa1235e"
+      },
+      {
+        "headline": "Intelligence-grade analysis used to cost $50,000/year.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/",
+        "publishedAt": "2026-03-21T10:55:37.000Z",
+        "description": "intelligence grade analysis used to cost 50 000 year the board 5 000 sources monitored in real time ai powered newsroom free to read https theboard world https theboard world static og default png v 2 theboard osint intelligence news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "theboard",
+          "osint",
+          "intelligence",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a2e1875beeb4"
+      },
+      {
+        "headline": "Israel, US Attack Iran’s Natanz Nuclear Facility, No Leaks Reported",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260321/israel-us-attack-irans-natanz-nuclear-facility-no-leaks-reported--1123872810.html",
+        "publishedAt": "2026-03-21T10:03:19.000Z",
+        "description": "israel us attack iran s natanz nuclear facility no leaks reported from sputnik moscow sputnik israel and the united states attacked the natanz uranium enrichment facility in iran on saturday with no leaks reported the atomic energy organization of iran aeoi said mar 21st 2026 5 49am edt source link https sputnikglobe com 20260321 israel us attack irans natanz nuclear facility no leaks reported 1123872810 html internet archive link https web archive org web 20260321095631 https sputnikglobe com 20260321 israel us attack irans natanz nuclear facility no leaks reported 1123872810 html share promote comment with nostr https dissentwatch com boost boost post id 1116241",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "96f645465f97"
+      },
+      {
+        "headline": "War spirals as information control tightens",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens",
+        "publishedAt": "2026-03-21T11:04:16.000Z",
+        "description": "war spirals as information control tightens https www aljazeera com video the listening post 2026 3 21 war spirals as information control tightens source al jazeera https t me aljazeeraglobal 130968",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a6088180005f"
+      },
+      {
+        "headline": "Western silence allows Israel to get away with killing journalists",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/635719-israel-attacks-journalists-west-complicit",
+        "publishedAt": "2026-03-21T09:45:21.000Z",
+        "description": "western silence allows israel to get away with killing journalists from rt the non reaction to an rt reporter s narrow escape from a missile strike underscores the selective outrage of western media on march 19 rt war correspondent steve sweeney and his cameraman ali rida sbeity were injured by an israeli strike meters from where they stood in southern lebanon sweeney was on camera reporting on recent israeli attacks mar 21st 2026 5 24am edt source link https www rt com news 635719 israel attacks journalists west complicit utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260321094432 https www rt com news 635719 israel attacks journalists west complicit utm source rss utm medium rss utm campaign rss share promote comment with nostr https diss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "797ab21caba7"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 79
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 43
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 54
+    }
+  ],
+  "failures": []
+}
