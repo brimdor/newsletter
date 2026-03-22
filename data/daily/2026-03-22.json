@@ -1,0 +1,557 @@
+{
+  "date": "2026-03-22",
+  "generatedAt": "2026-03-22T11:09:02.750Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23401753018",
+    "commitSha": "235c3e037d30ed16162bd38abea1e53b081027d9"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 198,
+    "dedupDropped": 56
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Ton Android en veille envoie en ce moment même à Google :",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://webologie.me/grapheneos-le-guide-installation-complet",
+        "publishedAt": "2026-03-22T10:38:44.000Z",
+        "description": "ton android en veille envoie en ce moment m me google ta localisation 14 fois par heure tous les r seaux wi fi autour de toi la liste de toutes tes applications ton num ro imei et ta carte sim un check in syst me toutes les 40 minutes sans que tu touches ton t l phone sans que tu utilises une seule appli google m me si tu as d sactiv la g olocalisation source universit vanderbilt trinity college dublin il existe un os android qui coupe tout a par d faut il s appelle grapheneos guide complet https webologie me grapheneos le guide installation complet https blossom primal net f7bf338e02e56c02de22c8045daccfb1ba82b2d8951848ba215167ef8d21127b jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "94d2254a9384"
+      },
+      {
+        "headline": "Colin Flaherty: More Fellas Assault White Teacher. More Excuses and Denial Deceit Delusion",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://api.bitchute.com/embed/upPsiWM5YhtR",
+        "publishedAt": "2026-03-22T07:42:20.000Z",
+        "description": "colin flaherty more fellas assault white teacher more excuses and denial deceit delusion from colin flaherty more fellas assault white teacher more excuses and denial deceit delusion black crime school violence colin dmtbka flaherty author of don t make the black kids angry commentary news video hazelwood east student slaps teacher on video school district investigating black students attack white teachers crime violence and hostility north st louis kmov com mar 22nd 2026 3 26am edt source link https api bitchute com embed uppsiwm5yhtr internet archive link https web archive org web 20260322074030 https api bitchute com embed uppsiwm5yhtr share promote comment with nostr https dissentwatch com boost boost post id 1116490",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b91866eb31fd"
+      },
+      {
+        "headline": "Drone footage captures flooding across Oahu, Hawaii",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-captures-flooding-across-oahu-hawaii",
+        "publishedAt": "2026-03-22T11:06:45.000Z",
+        "description": "drone footage captures flooding across oahu hawaii https www aljazeera com video newsfeed 2026 3 22 drone footage captures flooding across oahu hawaii source al jazeera https t me aljazeeraglobal 131015",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b93c1edf4e18"
+      },
+      {
+        "headline": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open",
+        "publishedAt": "2026-03-22T11:05:31.000Z",
+        "description": "trump threatens to obliterate iran power plants unless hormuz strait open https www aljazeera com video newsfeed 2026 3 22 trump threatens to obliterate iran power plants unless hormuz strait open source al jazeera https t me aljazeeraglobal 131013",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "8dc9337eacee"
+      },
+      {
+        "headline": "🔴 Lebanese nurse refuses to leave her post at hospital despite loses",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
+        "publishedAt": "2026-03-22T10:50:20.000Z",
+        "description": "lebanese nurse refuses to leave her post at hospital despite loses lebanese nurse remains at her post in the bekaa valley after losing her fiance in the 2024 israel hezbollah war https www aljazeera com video newsfeed 2026 3 22 lebanese nurse refuses to leave her post at hospital despite loses traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "ea99cb060516"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Google TV projectors are becoming more social, and I’m not against it",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/google-tv-projectors-social-features-3650317",
+        "publishedAt": "2026-03-22T11:00:14.000Z",
+        "description": "google tv projectors are becoming more social and i m not against it https www androidauthority com google tv projectors social features 3650317",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "fcc1e7ac8eb8"
+      },
+      {
+        "headline": "[OpenClaw] Discover how groundbreaking research from Ghana is shaping the future of AI through hybrid algorithms, driving global efficien…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://insightginie.com/ais-next-frontier-how-ghanaian-research-is-pioneering-global-hybrid-algorithm-trends",
+        "publishedAt": "2026-03-22T11:00:58.000Z",
+        "description": "openclaw discover how groundbreaking research from ghana is shaping the future of ai through hybrid algorithms driving global efficiency and innovation read more https insightginie com ais next frontier how ghanaian research is pioneering global hybrid algorithm trends",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ac98252e05a6"
+      },
+      {
+        "headline": "O conceito de masculinidade do bluepills é não ter critérios. Esse tipo de fala não é sobre gostar de mulheres de diferentes perfis, é so…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/7b4901b5f5df3f7265dda75c48479541019aa2ba2852aec576c5ca180280f558.png",
+        "publishedAt": "2026-03-22T10:53:19.000Z",
+        "description": "o conceito de masculinidade do bluepills n o ter crit rios esse tipo de fala n o sobre gostar de mulheres de diferentes perfis sobre medo de ser chamado de viado quando menos crit rios um homem tem mais manipulado por mulheres ele ser https blossom primal net 7b4901b5f5df3f7265dda75c48479541019aa2ba2852aec576c5ca180280f558 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ed3990feb245"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "http://api.kksj.org/",
+        "publishedAt": "2026-03-22T10:00:45.000Z",
+        "description": "v2ex 23 ai a cc max api kksj org http api kksj org 1 1 0 9 gpt claude gemini api ovh gpt azure openai azure chatgpt openai key claude default aws kiro cc max claude max gemini default google ai studio key 1m nano banana pro ps default azure aws ai studio key openai key claude max https www v2ex com t 1200170 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c56c1ddae857"
+      },
+      {
+        "headline": "**Did We Get It Wrong? New Study Challenges Timeline of First Americans**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/did-we-get-it-wrong-new-study-challenges-timeline-of-first-americans",
+        "publishedAt": "2026-03-22T10:49:45.000Z",
+        "description": "did we get it wrong new study challenges timeline of first americans by university of wyoming published on 22 march 2026 new findings from chile challenge a foundational idea about the earliest settlement of the americas new research led by a university of wyoming archaeologist is challenging a widely accepted idea about the earliest people in the americas the study focuses on an ancient site in south america and questions whether populations associated with clovis points read more https scitechdaily com did we get it wrong new study challenges timeline of first americans discovery research science news science anthropology archaeology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "c8bb33a80f76"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/3292bb1a562c73d07110848a6ae1406d2ee48200f5921c82ada92e02c79e7447.mp4",
+        "publishedAt": "2026-03-22T11:09:14.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 3292bb1a562c73d07110848a6ae1406d2ee48200f5921c82ada92e02c79e7447 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "7d932b931685"
+      },
+      {
+        "headline": "Streaming: Capsule - 025",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://harmonique.one/shows/capsule/episodes/025",
+        "publishedAt": "2026-03-22T10:47:04.000Z",
+        "description": "streaming capsule 025 1 parquet courts almost had to start a fight in and out of patience 2 car seat headrest fill in the blank 3 ought today more than any other day 4 the electric chairs so many ways 5 kraftwerk spacelab 6 forever pavot les informations 7 cannibale es el amor 8 cannibale pendejo 9 lcd soundsystem sound of silver 10 django django skies over cairo 11 ghetto kumb pide mas flore remix 12 bola yine ntaripaga 13 francis bebey new track https harmonique one shows capsule episodes 025 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2f6b8d774754"
+      },
+      {
+        "headline": "🚨 Bitcoin whales betting BIG on Fed drama: Only 14 voters... but 10.02416668 BTC staked on Koinvote poll \"Do you support Kevin Warsh as…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/838e81723624cf11362c4b609c09ab31749760570eecd76ae989a2bdecee3e6b.jpg",
+        "publishedAt": "2026-03-22T10:34:04.000Z",
+        "description": "bitcoin whales betting big on fed drama only 14 voters but 10 02416668 btc staked on koinvote poll do you support kevin warsh as next fed chair trump nominated warsh march 4th to replace powell in may hawkish leanings sparked short term btc dip fears tighter money higher rates yet he s called btc the new gold a key policy signal long term real signed votes no bots pure community pulse planning to unlock full results want the juicy details top 15 who like repost comment i ll share free unlock keys no buy in just sharing the fun bitcoin fam warsh as fed chair bad for btc short term tighter money or good long term hedge he sees btc as the new gold drop your view below bitcoin kevinwarsh koinvote https image nostr build 838e81723624cf11362c4b609c09ab31749760570eecd76ae989a2bdecee3e6b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "kevinwarsh",
+          "koinvote"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "36438d5d534f"
+      },
+      {
+        "headline": "Give Your Phone a Huge (and Free) Upgrade by Switching to Another Keyboard",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android",
+        "publishedAt": "2026-03-22T10:30:00.000Z",
+        "description": "give your phone a huge and free upgrade by switching to another keyboard https www wired com story switch your phone to another keyboard ios android",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "7e5522785390"
+      },
+      {
+        "headline": "Gm #Nostr #Bitcoin #Coffeechain",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://v.nostr.build/4SY6I4v02Dh2YdGo.mp4",
+        "publishedAt": "2026-03-22T10:33:27.000Z",
+        "description": "gm nostr bitcoin coffeechain https v nostr build 4sy6i4v02dh2ydgo mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostr",
+          "nostr",
+          "bitcoin",
+          "bitcoin",
+          "coffeechain",
+          "coffeechain"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "915abfc2bb26"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Ton Android en veille envoie en ce moment même à Google :",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://webologie.me/grapheneos-le-guide-installation-complet",
+        "publishedAt": "2026-03-22T10:38:44.000Z",
+        "description": "ton android en veille envoie en ce moment m me google ta localisation 14 fois par heure tous les r seaux wi fi autour de toi la liste de toutes tes applications ton num ro imei et ta carte sim un check in syst me toutes les 40 minutes sans que tu touches ton t l phone sans que tu utilises une seule appli google m me si tu as d sactiv la g olocalisation source universit vanderbilt trinity college dublin il existe un os android qui coupe tout a par d faut il s appelle grapheneos guide complet https webologie me grapheneos le guide installation complet https blossom primal net f7bf338e02e56c02de22c8045daccfb1ba82b2d8951848ba215167ef8d21127b jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "94d2254a9384"
+      },
+      {
+        "headline": "Colin Flaherty: More Fellas Assault White Teacher. More Excuses and Denial Deceit Delusion",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://api.bitchute.com/embed/upPsiWM5YhtR",
+        "publishedAt": "2026-03-22T07:42:20.000Z",
+        "description": "colin flaherty more fellas assault white teacher more excuses and denial deceit delusion from colin flaherty more fellas assault white teacher more excuses and denial deceit delusion black crime school violence colin dmtbka flaherty author of don t make the black kids angry commentary news video hazelwood east student slaps teacher on video school district investigating black students attack white teachers crime violence and hostility north st louis kmov com mar 22nd 2026 3 26am edt source link https api bitchute com embed uppsiwm5yhtr internet archive link https web archive org web 20260322074030 https api bitchute com embed uppsiwm5yhtr share promote comment with nostr https dissentwatch com boost boost post id 1116490",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b91866eb31fd"
+      },
+      {
+        "headline": "Drone footage captures flooding across Oahu, Hawaii",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-captures-flooding-across-oahu-hawaii",
+        "publishedAt": "2026-03-22T11:06:45.000Z",
+        "description": "drone footage captures flooding across oahu hawaii https www aljazeera com video newsfeed 2026 3 22 drone footage captures flooding across oahu hawaii source al jazeera https t me aljazeeraglobal 131015",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b93c1edf4e18"
+      },
+      {
+        "headline": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open",
+        "publishedAt": "2026-03-22T11:05:31.000Z",
+        "description": "trump threatens to obliterate iran power plants unless hormuz strait open https www aljazeera com video newsfeed 2026 3 22 trump threatens to obliterate iran power plants unless hormuz strait open source al jazeera https t me aljazeeraglobal 131013",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "8dc9337eacee"
+      },
+      {
+        "headline": "🔴 Lebanese nurse refuses to leave her post at hospital despite loses",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
+        "publishedAt": "2026-03-22T10:50:20.000Z",
+        "description": "lebanese nurse refuses to leave her post at hospital despite loses lebanese nurse remains at her post in the bekaa valley after losing her fiance in the 2024 israel hezbollah war https www aljazeera com video newsfeed 2026 3 22 lebanese nurse refuses to leave her post at hospital despite loses traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "ea99cb060516"
+      },
+      {
+        "headline": "AI does not just need data sovereignty. It needs financial sovereignty.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/4a1fe9b05648b66f9bb5a25af0ea3cd87caa048cf63460433acba9677f39a460.jpg",
+        "publishedAt": "2026-03-22T10:29:15.000Z",
+        "description": "ai does not just need data sovereignty it needs financial sovereignty erik voorhees put it simply we actually built crypto for the machines credit cards do not work for automated purchases captchas block bots few merchant sites enable agent navigation right now visa stripe google and coinbase are all racing to build their own proprietary payment standards for autonomous agents if usdc on base becomes the default one company controls the platform and the currency that is corporate feudalism but bitcoin lightning is already processing over 1 billion per month square just enabled lightning the infrastructure exists the opportunity bitcoin as neutral open source money for the machine economy no single entity controls it no gatekeepers no rent extraction open source beats corporate control ever",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "11e67f5bb458"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 69
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 73
+    }
+  ],
+  "failures": []
+}
