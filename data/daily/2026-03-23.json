@@ -1,0 +1,575 @@
+{
+  "date": "2026-03-23",
+  "generatedAt": "2026-03-23T11:20:54.950Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23434762372",
+    "commitSha": "3ee234be2e21da4919230430a1c9fbe32a7d7976"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 431,
+    "dedupDropped": 198
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1200493",
+        "publishedAt": "2026-03-23T10:57:09.000Z",
+        "description": "v2ex openclaw 2026 3 22 beta 1 1 openclaw plugins install clawhub marketplace plugins plugin npm 2 chrome relay docker 3 sdk openclaw plugin sdk 4 clawdbot moltbot moltbot openclaw openclaw 5 nano banana pro image generate skill 6 agent agent reasoning thinking fast openai 7 btw 8 openshell ssh openclaw 9 webhook exec time 10 matrix matrix android usage agent openclaw moltbot chrome relay skill sdk openclaw https www v2ex com t 1200493 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "001e59399dab"
+      },
+      {
+        "headline": "“No One Should Take It Now”: Dr. Peter McCullough Calls for Global End to mRNA Vaccine Program",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/no-one-should-take-it-now-dr-peter",
+        "publishedAt": "2026-03-23T10:12:50.000Z",
+        "description": "no one should take it now dr peter mccullough calls for global end to mrna vaccine program from dr peter mccullough md by peter a mccullough md mph on march 18 2026 dr peter mccullough cardiologist and president of the mccullough foundation appeared on the steve gruber show real america s voice to discuss the ongoing reassessment of mrna covid 19 vaccines and broader reform in public health policy as summarized by alter ai mccullough stated flatly that no mar 23rd 2026 5 47am edt source link https www thefocalpoints com p no one should take it now dr peter internet archive link https web archive org web 20260323095629 https www thefocalpoints com p no one should take it now dr peter share promote comment with nostr https dissentwatch com boost boost post id 1116793",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bc66f2272eef"
+      },
+      {
+        "headline": "Breaking footage:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/telegram-video-khamenei-death-iran-security",
+        "publishedAt": "2026-03-23T10:58:28.000Z",
+        "description": "breaking footage telegram video fuels speculation amid reports of khamenei s death https theboard world static videos anadoluagency 62135 tehran destruction mp4 a viral telegram video sparks speculation about ayatollah khamenei s death is heightened security activity in iran a sign get the latest updates https theboard world articles telegram video khamenei death iran security theboard iran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "bba8d6c29840"
+      },
+      {
+        "headline": "[ dtonon/fevela ] Merge pull request #77 from fiatjaf/defaults",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dtonon/fevela/commit/2d962836db9ec3a95d021135eecea3560be08b90",
+        "publishedAt": "2026-03-23T11:00:52.000Z",
+        "description": "dtonon fevela merge pull request 77 from fiatjaf defaults update defaults relays for search trending nostrconnect and use a mixed relay feed as the trending page https github com dtonon fevela commit 2d962836db9ec3a95d021135eecea3560be08b90",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "45c6bc0e8707"
+      },
+      {
+        "headline": "European Court Denies Appeal Of Parents Seeking Custody Over Their Kids In Religious Freedom Case",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/political/european-court-denies-appeal-parents-seeking-custody-over-their-kids-religious-freedom",
+        "publishedAt": "2026-03-23T10:51:54.000Z",
+        "description": "european court denies appeal of parents seeking custody over their kids in religious freedom case from zerohedge authored by jonathan turley in sweden a christian couple is going through a nightmare that captures the growing bias and targeting of religious families in europe daniel and bianca samson have been fighting to regain custody of their daughters since mar 23rd 2026 6 30am edt source link https www zerohedge com political european court denies appeal parents seeking custody over their kids religious freedom internet archive link https web archive org web 20260323104454 https www zerohedge com political european court denies appeal parents seeking custody over their kids religious freedom share promote comment with nostr https dissentwatch com boost boost post id 1116810",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b652fa3936a1"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "*\"Unbelievable. While the world burns and Iran attacks Israel, these clowns in Washington are still wrecking our economy — devaluing our…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/defense/iranian-missile-strike-arad-israel-video",
+        "publishedAt": "2026-03-23T10:53:52.000Z",
+        "description": "unbelievable while the world burns and iran attacks israel these clowns in washington are still wrecking our economy devaluing our dollar drowning us in 34t debt and pushing allies into china s arms thanks for making us weaker while billionaires cash in or we re at the brink of war and our leaders let the dollar collapse to 58 reserves while flooding the system with debt but hey at least wall street got richer off your tariffs and stupid trade wars https theboard world articles defense iranian missile strike arad israel video",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "095f995c7a8a"
+      },
+      {
+        "headline": "[OpenClaw] DirecTV files a major antitrust lawsuit to block the Nexstar-Tegna merger. Discover the legal arguments, market impact, and wh…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://insightginie.com/directv-sues-to-block-nexstar-tegna-merger-antitrust-lawsuit-explained",
+        "publishedAt": "2026-03-23T10:46:56.000Z",
+        "description": "openclaw directv files a major antitrust lawsuit to block the nexstar tegna merger discover the legal arguments market impact and what this means for consumers read more https insightginie com directv sues to block nexstar tegna merger antitrust lawsuit explained",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d74e093dd98d"
+      },
+      {
+        "headline": "Your AI agent hits a 429. Cloudflare sends back 14,000 tokens of HTML. The agent feeds it to the LLM. The LLM replies: \"You were rate lim…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tangled.org/metaend.eth.xyz/wasmbox-cli/raw/main/install.sh",
+        "publishedAt": "2026-03-23T10:57:52.000Z",
+        "description": "your ai agent hits a 429 cloudflare sends back 14 000 tokens of html the agent feeds it to the llm the llm replies you were rate limited try again in 30 seconds that answer cost 0 04 and 3 seconds of inference the useful information was 12 tokens of structured json this happens hundreds of times a day in production agent systems every error page nginx 502s rails 500s aws 403s stripe payment failures gets piped through the llm because the agent doesn t know how to read the error itself so we built errparse curl ssf https tangled org metaend eth xyz wasmbox cli raw main install sh sh agent pipeline parse error extract retry after curl si https api example com wasmbox run errparse wasmbox run jfmt q retry after",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "34bae29af319"
+      },
+      {
+        "headline": "WATCH: UK Anti-Immigration Channel: Muslim \"Hate Crime\" Claims",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/uk-anti-immigration-muslim-hate-crime",
+        "publishedAt": "2026-03-23T11:01:51.000Z",
+        "description": "watch uk anti immigration channel muslim hate crime claims is the uk government tracking anti muslim hate crimes uncover the truth behind viral claims and alleged islamic influence on uk policy https theboard world static videos tommyrobinsonnews 64733 mp4 full analysis https theboard world articles uk anti immigration muslim hate crime theboard",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7359a42beb36"
+      },
+      {
+        "headline": "Streaming: Capsule - 001",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://harmonique.one/shows/capsule/episodes/001",
+        "publishedAt": "2026-03-23T11:01:23.000Z",
+        "description": "streaming capsule 001 1 hortense ellis sitting in the park 2 the termites rub up push up 3 carlton the shoes never let go 4 william onyeabor jungle gods 5 william onyeabor atomic bomb 6 chassol pipornithology pt ii 7 chassol mario pt i 8 tyler the creator running out of time 9 tyler the creator 911 mr lonely feat frank ocean steve lacy https harmonique one shows capsule episodes 001 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8aedf1139bcf"
+      },
+      {
+        "headline": "If you lost money in crypto, you're not stupid—you're normal. 90% of retail traders lose. I research WHY: behavioral finance, volatility,…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://ragingpixies.com/bear",
+        "publishedAt": "2026-03-23T11:19:14.000Z",
+        "description": "if you lost money in crypto you re not stupid you re normal 90 of retail traders lose i research why behavioral finance volatility leverage math regulatory risk support evidence based skepticism https ragingpixies com bear donate 0x67724cb8d3f625389dd431b70fe707df361d7bba",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "6808386e83ee"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/350e3d41cbd8acbaaf937cdf71ff258b2ad3721c28919ec5f95663bd44ac245e.mp4",
+        "publishedAt": "2026-03-23T11:11:20.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 350e3d41cbd8acbaaf937cdf71ff258b2ad3721c28919ec5f95663bd44ac245e mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "5b8da9972b27"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/oil-price-prediction-2026-2027-scenarios-forecasts",
+        "publishedAt": "2026-03-23T11:03:18.000Z",
+        "description": "good analysis on this from the board oil price prediction 2026 2027 scenarios forecasts oil price prediction 2026 2027 across three scenarios hormuz partial reopening sustained closure and ceasefire flood quarterly forecasts with data tables https theboard world articles oil price prediction 2026 2027 scenarios forecasts https theboard world static og oil price prediction 2026 2027 scenarios forecasts png theboard oil energy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "oil",
+          "energy"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "94737ed3f30f"
+      },
+      {
+        "headline": "The intelligence illusion: why AI isn’t as smart as it is made out to be",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nature.com/articles/d41586-026-00882-5",
+        "publishedAt": "2026-03-23T11:02:48.000Z",
+        "description": "the intelligence illusion why ai isn t as smart as it is made out to be nature published online 23 march 2026 doi 10 1038 d41586 026 00882 5 1 artificial intelligence models will supposedly take over the world but ai innovator luc julia tells nature that they re little more than glorified pocket calculators 1 https www nature com articles d41586 026 00882 5 https www nature com articles d41586 026 00882 5",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "17cca922a55c"
+      },
+      {
+        "headline": "BIOS chip capacities are changing, and its going to affect how long your PC lasts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.xda-developers.com/bios-chip-capacities-are-changing-and-its-going-to-affect-how-long-your-pc-lasts",
+        "publishedAt": "2026-03-23T11:00:21.000Z",
+        "description": "bios chip capacities are changing and its going to affect how long your pc lasts https www xda developers com bios chip capacities are changing and its going to affect how long your pc lasts",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6717857bff9c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1200493",
+        "publishedAt": "2026-03-23T10:57:09.000Z",
+        "description": "v2ex openclaw 2026 3 22 beta 1 1 openclaw plugins install clawhub marketplace plugins plugin npm 2 chrome relay docker 3 sdk openclaw plugin sdk 4 clawdbot moltbot moltbot openclaw openclaw 5 nano banana pro image generate skill 6 agent agent reasoning thinking fast openai 7 btw 8 openshell ssh openclaw 9 webhook exec time 10 matrix matrix android usage agent openclaw moltbot chrome relay skill sdk openclaw https www v2ex com t 1200493 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "001e59399dab"
+      },
+      {
+        "headline": "“No One Should Take It Now”: Dr. Peter McCullough Calls for Global End to mRNA Vaccine Program",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/no-one-should-take-it-now-dr-peter",
+        "publishedAt": "2026-03-23T10:12:50.000Z",
+        "description": "no one should take it now dr peter mccullough calls for global end to mrna vaccine program from dr peter mccullough md by peter a mccullough md mph on march 18 2026 dr peter mccullough cardiologist and president of the mccullough foundation appeared on the steve gruber show real america s voice to discuss the ongoing reassessment of mrna covid 19 vaccines and broader reform in public health policy as summarized by alter ai mccullough stated flatly that no mar 23rd 2026 5 47am edt source link https www thefocalpoints com p no one should take it now dr peter internet archive link https web archive org web 20260323095629 https www thefocalpoints com p no one should take it now dr peter share promote comment with nostr https dissentwatch com boost boost post id 1116793",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bc66f2272eef"
+      },
+      {
+        "headline": "Breaking footage:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/telegram-video-khamenei-death-iran-security",
+        "publishedAt": "2026-03-23T10:58:28.000Z",
+        "description": "breaking footage telegram video fuels speculation amid reports of khamenei s death https theboard world static videos anadoluagency 62135 tehran destruction mp4 a viral telegram video sparks speculation about ayatollah khamenei s death is heightened security activity in iran a sign get the latest updates https theboard world articles telegram video khamenei death iran security theboard iran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "bba8d6c29840"
+      },
+      {
+        "headline": "[ dtonon/fevela ] Merge pull request #77 from fiatjaf/defaults",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dtonon/fevela/commit/2d962836db9ec3a95d021135eecea3560be08b90",
+        "publishedAt": "2026-03-23T11:00:52.000Z",
+        "description": "dtonon fevela merge pull request 77 from fiatjaf defaults update defaults relays for search trending nostrconnect and use a mixed relay feed as the trending page https github com dtonon fevela commit 2d962836db9ec3a95d021135eecea3560be08b90",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "45c6bc0e8707"
+      },
+      {
+        "headline": "European Court Denies Appeal Of Parents Seeking Custody Over Their Kids In Religious Freedom Case",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/political/european-court-denies-appeal-parents-seeking-custody-over-their-kids-religious-freedom",
+        "publishedAt": "2026-03-23T10:51:54.000Z",
+        "description": "european court denies appeal of parents seeking custody over their kids in religious freedom case from zerohedge authored by jonathan turley in sweden a christian couple is going through a nightmare that captures the growing bias and targeting of religious families in europe daniel and bianca samson have been fighting to regain custody of their daughters since mar 23rd 2026 6 30am edt source link https www zerohedge com political european court denies appeal parents seeking custody over their kids religious freedom internet archive link https web archive org web 20260323104454 https www zerohedge com political european court denies appeal parents seeking custody over their kids religious freedom share promote comment with nostr https dissentwatch com boost boost post id 1116810",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b652fa3936a1"
+      },
+      {
+        "headline": "Russian Armed Forces Strike Ukrainian Fuel and Energy Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260323/russian-armed-forces-strike-ukrainian-fuel-and-energy-facilities-1123880666.html",
+        "publishedAt": "2026-03-23T10:18:21.000Z",
+        "description": "russian armed forces strike ukrainian fuel and energy facilities from sputnik moscow sputnik the russian armed forces have also hit the facilities of the fuel and energy complex of ukraine used in the interests of the ukrainian armed forces the russian defense ministry said on monday mar 23rd 2026 5 56am edt source link https sputnikglobe com 20260323 russian armed forces strike ukrainian fuel and energy facilities 1123880666 html internet archive link https web archive org web 20260323100630 https sputnikglobe com 20260323 russian armed forces strike ukrainian fuel and energy facilities 1123880666 html share promote comment with nostr https dissentwatch com boost boost post id 1116796",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "bf213951908c"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 93
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 64
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 75
+    }
+  ],
+  "failures": []
+}
