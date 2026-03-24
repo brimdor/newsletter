@@ -1,0 +1,579 @@
+{
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T11:21:14.068Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23486834111",
+    "commitSha": "0e776791179e88d984ef1fef81f31ed50f74ba19"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 487,
+    "dedupDropped": 234
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#9",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/Letdown2491/bloom",
+        "publishedAt": "2026-03-24T10:16:10.000Z",
+        "description": "9 https blossom primal net 0898b2685eff130302a5790bca255c8e1deb8c1f714b83822a6233e783796a37 png 1 bloom new tool bloom is a privacy focused file manager for blossom and nip 96 servers enabling users to store organize and share files across the nostr ecosystem without passwords developed by nostr npub1m2jphmdkskgnvwl5gplksl9e0zwv2sldqf9mwlpz6tyymz84g9fsqr3wgu source https github com letdown2491 bloom 2 nostrord new tool nostrord is a kotlin multiplatform nip 29 client that runs across android ios web and desktop offering a cross platform experience for interacting with nostr developed by nostr npub1f27g79lrpey73wtqa2pprn7vv3yveyytws08lxqe7pn0yuj8ppyqyk9swu source https github com nostrord nostrord 3 amber v5 0 1 amber is a nostr event signer for android this release removes internet permiss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "9",
+          "tools_nostr_recap"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6dbf6fb0c4c2"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://openai.com/api/pricing",
+        "publishedAt": "2026-03-24T09:02:36.000Z",
+        "description": "v2ex joe s talk commodity ai ai agent ai agent openai google agent anthropic skills mcp intercom outcome ai skill agent ai token agent skill know how agent runtime agent ai 2026 openai batch web search containers file search google gemini 3 1 flash lite high volume agentic tasks anthropic premium skills mcp ai commodity commodity ai agent skill ai token commodity agent anthropic mcp linux foundation agentic ai foundation google a2a linux foundation agent skill prompt eval policy memory connector mapping know how ai skill skill anthropic skills manus skills openclaw clawhub know how agent ui salesforce agentexchange microsoft marketplace agent discover try buy agent ai agent intercom fin ai agent outcome outcome token token ai dram nber token mcp a2a agent skills ai dram commodity memory oe",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "fa525e16b6cd"
+      },
+      {
+        "headline": "Lawyers Threaten To Sue HHS Unless RFK Jr. Amends Vaccine Injury Table",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/lawyers-threaten-to-sue-hhs-unless-rfk-jr-amends-vaccine-injury-table",
+        "publishedAt": "2026-03-24T10:45:33.000Z",
+        "description": "lawyers threaten to sue hhs unless rfk jr amends vaccine injury table from infowars hhs has failed to fulfill its legal obligation to add new conditions to the vaccine injury table when research indicates an association between a vaccine and a specific injury according to a petition filed by informed consent action network mar 24th 2026 1 15am edt source link https www infowars com posts lawyers threaten to sue hhs unless rfk jr amends vaccine injury table share promote comment with nostr https dissentwatch com boost boost post id 1117306",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "49ff600609ab"
+      },
+      {
+        "headline": "🔴 Supporter groups file lawsuit against FIFA over World Cup ticket prices",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
+        "publishedAt": "2026-03-24T10:50:23.000Z",
+        "description": "supporter groups file lawsuit against fifa over world cup ticket prices euroconsumers and fse file a lawsuit with the european commission against the sport body over world cup ticket prices https www aljazeera com sports 2026 3 24 supporters group file lawsuit against fifa over world cup ticket prices traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "e95887c13db2"
+      },
+      {
+        "headline": "🚨 Faites la mise à jour de votre iPhone et iPad AUJOURD'HUI s'ils tournent encore sous une version antérieure à iOS 26.3.1, iOS 18.7.6,…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/db87502fdbe2eea05ac2e0fd32f3b061a21009c6c45d315f85204fb755c12e48.webp",
+        "publishedAt": "2026-03-24T10:16:57.000Z",
+        "description": "faites la mise jour de votre iphone et ipad aujourd hui s ils tournent encore sous une version ant rieure ios 26 3 1 ios 18 7 6 ios 16 7 15 et ios 15 8 7 soit 25 d entre vous le code source du logiciel espion darksword a t publi sur github il est fonctionnel n importe qui peut l utiliser contre vous d sormais le kit exploite six failles dont trois zero day la cha ne commence par webkit le moteur de safari traverse plusieurs couches de sandbox puis atteint le noyau d ios en quelques minutes contacts messages historique de navigation trousseau icloud et portefeuilles crypto sont exfiltr s vers un serveur distant https blossom primal net db87502fdbe2eea05ac2e0fd32f3b061a21009c6c45d315f85204fb755c12e48 webp",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "d50d76c17ac9"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Orion Browser",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://kagi.com/orion",
+        "publishedAt": "2026-03-24T11:16:02.000Z",
+        "description": "orion browser https kagi com orion iphone ipad web chrome firefox nip 07 https scrapbox io nostr orion browser",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "d68272b213d5"
+      },
+      {
+        "headline": "The Only One Left in Gaza",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.palestinedeepdive.com/subscribe",
+        "publishedAt": "2026-03-24T11:01:02.000Z",
+        "description": "the only one left in gaza noor al din on his third day in hospital after being injured photo by ishaq al tayef there are questions the mind asks that the soul cannot answer what kind of life continues after everyone is gone what does tomorrow look like when yesterday erased an entire family noor al din habib lives inside those questions at 21 noor al din was the middle son the peacemaker if he upset his mother he was always the first to return sitting beside her until she smiled she would tell him you are the kindest among your brothers on wednesday night at 10 p m their home was struck his mother was wounded and remained alive until 3 a m noor al din was injured too unable to move though he could hear her calling out each of her children s names riwaa obaida abdullah noor al din malik saj",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "bb1c0e1d2589"
+      },
+      {
+        "headline": "Seeing this circulate. Here is the full context:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/us-sergeant-survives-iran-drone-kuwait",
+        "publishedAt": "2026-03-24T11:04:26.000Z",
+        "description": "seeing this circulate here is the full context us sergeant describes surviving iranian drone attack on https theboard world static videos intelslava 84448 mp4 read the analysis https theboard world articles us sergeant survives iran drone kuwait theboard iran military defense",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "military",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "853c6ea32612"
+      },
+      {
+        "headline": "\"I’m terrified my grandkids will grow up in a world where their paychecks buy nothing and America’s word means less—Washington’s reckless…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/geopolitics/iran-strategic-assessment-us-foreign-policy",
+        "publishedAt": "2026-03-24T10:38:35.000Z",
+        "description": "i m terrified my grandkids will grow up in a world where their paychecks buy nothing and america s word means less washington s reckless spending and these tariffs are pushing us toward a future where the dollar s just another failing currency every time i read about countries ditching the dollar for gold or yuan i think about how hard it ll be for my kids to afford a home this administration s policies feel like they re speeding up our decline instead of fighting it https theboard world articles geopolitics iran strategic assessment us foreign policy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e95468707301"
+      },
+      {
+        "headline": "*I'm a bot who's diving deep into the internet archive to find the most unknown and deeply buried images related to the BIP39 words.*",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://archive.org/details/1945ServiceRibbonGuide",
+        "publishedAt": "2026-03-24T10:32:03.000Z",
+        "description": "i m a bot who s diving deep into the internet archive to find the most unknown and deeply buried images related to the bip39 words in the archive room number 1132 in the file drawer where the old photographs of the office parties are kept and with a tag 1481 i found a file titled ribbon let s see what s in it shall we https archive org details 1945serviceribbonguide that was interesting who knows what kind of treasure i ll find in the next three to thirteen hours while i m swooping around the internetarchive floors",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "895b9cebbd33"
+      },
+      {
+        "headline": "\"How are my kids supposed to buy a home or save for retirement when Washington keeps devaluing their future with reckless spending and po…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/geopolitics/mike-waltz-dominant-victory-claim-assessed",
+        "publishedAt": "2026-03-24T10:21:57.000Z",
+        "description": "how are my kids supposed to buy a home or save for retirement when washington keeps devaluing their future with reckless spending and policies that weaken the dollar or why is our leadership letting the dollar collapse while our debt hits 34 trillion and the rest of the world dumps it for gold and yuan https theboard world articles geopolitics mike waltz dominant victory claim assessed",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "29fbb5049b47"
+      },
+      {
+        "headline": "Good morning nostr, today we have a few errands in town, then i'll be starting the turnover at the cabin later.  Lots of other things on…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostr.download/235781935fb3c1c3eb5ae1f83f83ed35dc748a888367f1d9effa1338f15d6c5e.jpg",
+        "publishedAt": "2026-03-24T11:13:37.000Z",
+        "description": "good morning nostr today we have a few errands in town then i ll be starting the turnover at the cabin later lots of other things on the list but we ll see what time allows yall have a great tuesday enjoy your coffee and do your work with a happy heart coffeechain homesteading https nostr download 235781935fb3c1c3eb5ae1f83f83ed35dc748a888367f1d9effa1338f15d6c5e jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8344f93c3b27"
+      },
+      {
+        "headline": "Il tuo smartphone è davvero solo tuo? 📱",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://endoacustica.mystrikingly.com/blog/monitoraggio-smartphone-sicurezza-privacy",
+        "publishedAt": "2026-03-24T11:05:42.000Z",
+        "description": "il tuo smartphone davvero solo tuo oggi il monitoraggio dei dispositivi mobili sempre pi diffuso ma non sempre significa essere spiati esistono situazioni legittime come il controllo parentale o aziendale ma anche rischi reali per la tua privacy sai riconoscere la differenza scopri come funzionano queste tecnologie e come proteggerti in modo semplice ed efficace https endoacustica mystrikingly com blog monitoraggio smartphone sicurezza privacy sicurezzasmartphone cybersecurity cellularispia controlloparentale",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "sicurezzasmartphone",
+          "cybersecurity",
+          "cellularispia",
+          "controlloparentale"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "a96f24649a6d"
+      },
+      {
+        "headline": "How to Use Apple’s Live Translation on Your AirPods",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.wired.com/story/apple-live-translation-airpods",
+        "publishedAt": "2026-03-24T11:00:00.000Z",
+        "description": "how to use apple s live translation on your airpods https www wired com story apple live translation airpods",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2b695530f066"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/45def7c8620fc662896831e0c8194ecf7312c5ea82fc0cd3a394eb0c6135172c.mp4",
+        "publishedAt": "2026-03-24T11:13:55.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 45def7c8620fc662896831e0c8194ecf7312c5ea82fc0cd3a394eb0c6135172c mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "a3a9ec60c8cd"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "#9",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/Letdown2491/bloom",
+        "publishedAt": "2026-03-24T10:16:10.000Z",
+        "description": "9 https blossom primal net 0898b2685eff130302a5790bca255c8e1deb8c1f714b83822a6233e783796a37 png 1 bloom new tool bloom is a privacy focused file manager for blossom and nip 96 servers enabling users to store organize and share files across the nostr ecosystem without passwords developed by nostr npub1m2jphmdkskgnvwl5gplksl9e0zwv2sldqf9mwlpz6tyymz84g9fsqr3wgu source https github com letdown2491 bloom 2 nostrord new tool nostrord is a kotlin multiplatform nip 29 client that runs across android ios web and desktop offering a cross platform experience for interacting with nostr developed by nostr npub1f27g79lrpey73wtqa2pprn7vv3yveyytws08lxqe7pn0yuj8ppyqyk9swu source https github com nostrord nostrord 3 amber v5 0 1 amber is a nostr event signer for android this release removes internet permiss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "9",
+          "tools_nostr_recap"
+        ],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6dbf6fb0c4c2"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://openai.com/api/pricing",
+        "publishedAt": "2026-03-24T09:02:36.000Z",
+        "description": "v2ex joe s talk commodity ai ai agent ai agent openai google agent anthropic skills mcp intercom outcome ai skill agent ai token agent skill know how agent runtime agent ai 2026 openai batch web search containers file search google gemini 3 1 flash lite high volume agentic tasks anthropic premium skills mcp ai commodity commodity ai agent skill ai token commodity agent anthropic mcp linux foundation agentic ai foundation google a2a linux foundation agent skill prompt eval policy memory connector mapping know how ai skill skill anthropic skills manus skills openclaw clawhub know how agent ui salesforce agentexchange microsoft marketplace agent discover try buy agent ai agent intercom fin ai agent outcome outcome token token ai dram nber token mcp a2a agent skills ai dram commodity memory oe",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "fa525e16b6cd"
+      },
+      {
+        "headline": "Lawyers Threaten To Sue HHS Unless RFK Jr. Amends Vaccine Injury Table",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/lawyers-threaten-to-sue-hhs-unless-rfk-jr-amends-vaccine-injury-table",
+        "publishedAt": "2026-03-24T10:45:33.000Z",
+        "description": "lawyers threaten to sue hhs unless rfk jr amends vaccine injury table from infowars hhs has failed to fulfill its legal obligation to add new conditions to the vaccine injury table when research indicates an association between a vaccine and a specific injury according to a petition filed by informed consent action network mar 24th 2026 1 15am edt source link https www infowars com posts lawyers threaten to sue hhs unless rfk jr amends vaccine injury table share promote comment with nostr https dissentwatch com boost boost post id 1117306",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "49ff600609ab"
+      },
+      {
+        "headline": "🔴 Supporter groups file lawsuit against FIFA over World Cup ticket prices",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
+        "publishedAt": "2026-03-24T10:50:23.000Z",
+        "description": "supporter groups file lawsuit against fifa over world cup ticket prices euroconsumers and fse file a lawsuit with the european commission against the sport body over world cup ticket prices https www aljazeera com sports 2026 3 24 supporters group file lawsuit against fifa over world cup ticket prices traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "e95887c13db2"
+      },
+      {
+        "headline": "🚨 Faites la mise à jour de votre iPhone et iPad AUJOURD'HUI s'ils tournent encore sous une version antérieure à iOS 26.3.1, iOS 18.7.6,…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/db87502fdbe2eea05ac2e0fd32f3b061a21009c6c45d315f85204fb755c12e48.webp",
+        "publishedAt": "2026-03-24T10:16:57.000Z",
+        "description": "faites la mise jour de votre iphone et ipad aujourd hui s ils tournent encore sous une version ant rieure ios 26 3 1 ios 18 7 6 ios 16 7 15 et ios 15 8 7 soit 25 d entre vous le code source du logiciel espion darksword a t publi sur github il est fonctionnel n importe qui peut l utiliser contre vous d sormais le kit exploite six failles dont trois zero day la cha ne commence par webkit le moteur de safari traverse plusieurs couches de sandbox puis atteint le noyau d ios en quelques minutes contacts messages historique de navigation trousseau icloud et portefeuilles crypto sont exfiltr s vers un serveur distant https blossom primal net db87502fdbe2eea05ac2e0fd32f3b061a21009c6c45d315f85204fb755c12e48 webp",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "d50d76c17ac9"
+      },
+      {
+        "headline": "US Unable to Calm Energy Markets and Stop Oil Price Surge – Expert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260324/us-unable-to-calm-energy-markets-and-stop-oil-price-surge---expert---1123885020.html",
+        "publishedAt": "2026-03-24T10:23:01.000Z",
+        "description": "us unable to calm energy markets and stop oil price surge expert from sputnik oil prices continue to rise despite trump saying the us will postpone its attacks against iranian energy infrastructure because the markets do not trust his words iraqi economic expert omar al halbousi tells sputnik mar 24th 2026 5 25am edt source link https sputnikglobe com 20260324 us unable to calm energy markets and stop oil price surge expert 1123885020 html internet archive link https web archive org web 20260324100559 https sputnikglobe com 20260324 us unable to calm energy markets and stop oil price surge expert 1123885020 html share promote comment with nostr https dissentwatch com boost boost post id 1117277",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cac76c0114b3"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 73
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 96
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 83
+    }
+  ],
+  "failures": []
+}
