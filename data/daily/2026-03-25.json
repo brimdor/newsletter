@@ -1,0 +1,575 @@
+{
+  "date": "2026-03-25",
+  "generatedAt": "2026-03-25T11:20:16.837Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23538389886",
+    "commitSha": "b524eadca87523e7473b601f982c807447908aeb"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 388,
+    "dedupDropped": 175
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "The Iranian perspective on today's events:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/drone-attack-ignites-fuel-tank-at-kuwait-airport?traffic_source=rss",
+        "publishedAt": "2026-03-25T10:45:24.000Z",
+        "description": "the iranian perspective on today s events drone attack ignites fuel tank at kuwait airport https www aljazeera com video newsfeed 2026 3 25 drone attack ignites fuel tank at kuwait airport traffic source rss via al jazeera intelligence means hearing every side",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "20e71e02e308"
+      },
+      {
+        "headline": "Global Realignment – Battle for the Middle East",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://myth20c.wordpress.com/2026/03/25/global-realignment-battle-for-the-middle-east",
+        "publishedAt": "2026-03-25T10:48:23.000Z",
+        "description": "global realignment battle for the middle east from myth of the 20th century as the ongoing iran israel crisis continues into its third week of 2026 with tentative peace terms quickly being dashed by missile strikes from both sides and the us military floating the idea of sending ground forces into iran the price of brent crude oil has nearly doubled and remained elevated as the straights of hormuz mar 25th 2026 6 18am edt source link https myth20c wordpress com 2026 03 25 global realignment battle for the middle east internet archive link https web archive org web 20260325104027 https myth20c wordpress com 2026 03 25 global realignment battle for the middle east share promote comment with nostr https dissentwatch com boost boost post id 1117793",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "badfd88b3216"
+      },
+      {
+        "headline": "Hungary to halt gas deliveries to Ukraine – Orban",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/636138-hungary-gas-supplies",
+        "publishedAt": "2026-03-25T09:54:25.000Z",
+        "description": "hungary to halt gas deliveries to ukraine orban from rt ukraine will not receive any gas until it restores the flow of russian oil via the druzhba pipeline the hungarian prime minister has announced hungary will gradually halt natural gas deliveries to ukraine until kiev restores the flow of russian oil through the druzhba pipeline prime minister viktor orban has announced in a video posted mar 25th 2026 5 36am edt source link https www rt com news 636138 hungary gas supplies utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260325094831 https www rt com news 636138 hungary gas supplies utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1117759",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "a9e0dcbc2f54"
+      },
+      {
+        "headline": "Iran to Negotiate With US Only When ‘It Is Our Will’ – Military Spokesman",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260325/iran-to-negotiate-with-us-only-when-it-is-our-will---military-spokesman-1123891304.html",
+        "publishedAt": "2026-03-25T10:09:36.000Z",
+        "description": "iran to negotiate with us only when it is our will military spokesman from sputnik tehran sputnik iran will enter negotiations with the united states only when tehran expresses its will and washington has completely abandoned thoughts of action against the iranian people lt col ebrahim zolfaghari a spokesperson for the iranian military s khatam al anbiya central headquarters said on wednesday mar 25th 2026 5 04am edt source link https sputnikglobe com 20260325 iran to negotiate with us only when it is our will military spokesman 1123891304 html internet archive link https web archive org web 20260325100144 https sputnikglobe com 20260325 iran to negotiate with us only when it is our will military spokesman 1123891304 html share promote comment with nostr https dissentwatch com boost boost ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "34388296efbd"
+      },
+      {
+        "headline": "What's being said outside the Western media bubble:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-democrats-condemn-war-on-iran-as-senate-resolution-fails?traffic_source=rss",
+        "publishedAt": "2026-03-25T10:51:31.000Z",
+        "description": "what s being said outside the western media bubble us democrats condemn war on iran as senate resolution fails https www aljazeera com video newsfeed 2026 3 25 us democrats condemn war on iran as senate resolution fails traffic source rss al jazeera",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "daa6d5743740"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Popular apps and tools that will be affected by Google's new APK rules",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.androidauthority.com/android-app-verification-impact-3650447",
+        "publishedAt": "2026-03-25T11:12:11.000Z",
+        "description": "popular apps and tools that will be affected by google s new apk rules https www androidauthority com android app verification impact 3650447",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "7c1161f2ac1c"
+      },
+      {
+        "headline": "**Scientists Map Aging Brain in Unprecedented Detail, Revealing Clues to Alzheimer’s and More**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-map-aging-brain-in-unprecedented-detail-revealing-clues-to-alzheimers-and-more",
+        "publishedAt": "2026-03-25T11:17:19.000Z",
+        "description": "scientists map aging brain in unprecedented detail revealing clues to alzheimer s and more by salk institute published on 25 march 2026 a new single cell atlas shows how epigenetic changes reshape brain cells during aging revealing genomic instability regional differences and potential biomarkers of brain aging more than 57 million people worldwide are currently living with neurodegenerative diseases these conditions include alzheimer s disease parkinson s disease als and others researchers expect the number of cases to double roughly read more https scitechdaily com scientists map aging brain in unprecedented detail revealing clues to alzheimers and more agingbrain neurodegeneration alzheimers brainmapping epigenetics health alzheimersdisease artificialintelligence",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "2e4e0ae49d7a"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/ukraine-war-counter-drone-technology-arms-race",
+        "publishedAt": "2026-03-25T10:24:26.000Z",
+        "description": "good analysis on this from the board ukraine war drives counter drone tech arms race the ukraine war has ignited a global counter drone technology arms race learn how battlefield innovations are reshaping security strategies worldwide https theboard world articles ukraine war counter drone technology arms race https theboard world static og ukraine war counter drone technology arms race png theboard war ukraine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "war",
+          "ukraine"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "850b4d5d0855"
+      },
+      {
+        "headline": "You can experience it now, if you are an iPhone user.  Nostr Build Shack",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://testflight.apple.com/join/qgkAMPgU",
+        "publishedAt": "2026-03-25T11:08:23.000Z",
+        "description": "you can experience it now if you are an iphone user https testflight apple com join qgkampgu nostr build shack nostr nevent1qqsgmu554lxzwjnet7pdslqv8fl28vvp34vtzt8aayatfuuq7eewlvspp4mhxue69uhhjctzw5hx6egpzpmhxue69uhkummnw3ezumrpdejqzythwden5te0wghxkmm2d9exztnfduq3qamnwvaz7tmwdaehgu3wwa5kuegzyz8mzs95arw7l97wfwpp6frj0zs6gdfnvf3r7eqzzjztxuhefqqqcqcyqqqqqqgc642l2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "dbd45d35f307"
+      },
+      {
+        "headline": "**Researchers Discover Surprising New Ovarian Cancer Treatment Using an Existing Drug**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/researchers-discover-surprising-new-ovarian-cancer-treatment-using-an-existing-drug",
+        "publishedAt": "2026-03-25T10:36:57.000Z",
+        "description": "researchers discover surprising new ovarian cancer treatment using an existing drug by mayo clinic published on 25 march 2026 researchers have uncovered an early survival response in ovarian cancer cells that may limit the effectiveness of widely used parp inhibitors a new study from mayo clinic researchers reports that ovarian cancer cells can quickly switch on a survival response after treatment with parp inhibitors blocking this early reaction may help these drugs work more read more https scitechdaily com researchers discover surprising new ovarian cancer treatment using an existing drug ovariancancer parpinhibitors drugrepurposing mayoclinic cancerresearch health cancer mayoclinic",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "24b786966f25"
+      },
+      {
+        "headline": "Pay attention to this footage.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israeli-airstrike-lebanon-targets-nabatieh",
+        "publishedAt": "2026-03-25T10:22:43.000Z",
+        "description": "pay attention to this footage israeli airstrike in lebanon location and targets https theboard world static videos warmonitor 42179 mp4 analysis https theboard world articles israeli airstrike lebanon targets nabatieh theboard israel war",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "77f7d154c608"
+      },
+      {
+        "headline": "【製造業の人が検索しそうなこと｜ChatGPTで本音キーワードを洗い出してみた】",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dev.classmethod.jp/articles/chatgpt-manufacturing-keyword-research",
+        "publishedAt": "2026-03-25T11:13:04.000Z",
+        "description": "chatgpt chatgpt https dev classmethod jp articles chatgpt manufacturing keyword research",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "54c6ccfd9b7c"
+      },
+      {
+        "headline": "Bitcoin OG Marti Malmi just dropped nostr-vpn — a decentralized VPN using Nostr for peer discovery. No corporate servers, no email signup…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/mmalmi/nostr-vpn",
+        "publishedAt": "2026-03-25T11:00:57.000Z",
+        "description": "bitcoin og marti malmi just dropped nostr vpn a decentralized vpn using nostr for peer discovery no corporate servers no email signup no trust required your own exit nodes your own mesh network this is how we kill the vpn middlemen https github com mmalmi nostr vpn nostr privacy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "612070b0635f"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/ae97c3514ffd9ed6b5bdf192c69a14a01141ae53d392bdb08fba4b9980853be3.mp4",
+        "publishedAt": "2026-03-25T11:15:50.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band ae97c3514ffd9ed6b5bdf192c69a14a01141ae53d392bdb08fba4b9980853be3 mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "2230c51d944b"
+      },
+      {
+        "headline": "Qatar Evacuations: What's the Real Threat Level?",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-03-25T10:21:19.000Z",
+        "description": "qatar evacuations what s the real threat level video full analysis below https theboard world static videos ddgeopolitics 177457 replacement mp4 https theboard world articles qatar evacuations threat level safety measures theboard",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "ea3d03c3e9e8"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "The Iranian perspective on today's events:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/drone-attack-ignites-fuel-tank-at-kuwait-airport?traffic_source=rss",
+        "publishedAt": "2026-03-25T10:45:24.000Z",
+        "description": "the iranian perspective on today s events drone attack ignites fuel tank at kuwait airport https www aljazeera com video newsfeed 2026 3 25 drone attack ignites fuel tank at kuwait airport traffic source rss via al jazeera intelligence means hearing every side",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "20e71e02e308"
+      },
+      {
+        "headline": "Global Realignment – Battle for the Middle East",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://myth20c.wordpress.com/2026/03/25/global-realignment-battle-for-the-middle-east",
+        "publishedAt": "2026-03-25T10:48:23.000Z",
+        "description": "global realignment battle for the middle east from myth of the 20th century as the ongoing iran israel crisis continues into its third week of 2026 with tentative peace terms quickly being dashed by missile strikes from both sides and the us military floating the idea of sending ground forces into iran the price of brent crude oil has nearly doubled and remained elevated as the straights of hormuz mar 25th 2026 6 18am edt source link https myth20c wordpress com 2026 03 25 global realignment battle for the middle east internet archive link https web archive org web 20260325104027 https myth20c wordpress com 2026 03 25 global realignment battle for the middle east share promote comment with nostr https dissentwatch com boost boost post id 1117793",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "badfd88b3216"
+      },
+      {
+        "headline": "Hungary to halt gas deliveries to Ukraine – Orban",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/636138-hungary-gas-supplies",
+        "publishedAt": "2026-03-25T09:54:25.000Z",
+        "description": "hungary to halt gas deliveries to ukraine orban from rt ukraine will not receive any gas until it restores the flow of russian oil via the druzhba pipeline the hungarian prime minister has announced hungary will gradually halt natural gas deliveries to ukraine until kiev restores the flow of russian oil through the druzhba pipeline prime minister viktor orban has announced in a video posted mar 25th 2026 5 36am edt source link https www rt com news 636138 hungary gas supplies utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260325094831 https www rt com news 636138 hungary gas supplies utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1117759",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "a9e0dcbc2f54"
+      },
+      {
+        "headline": "Iran to Negotiate With US Only When ‘It Is Our Will’ – Military Spokesman",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260325/iran-to-negotiate-with-us-only-when-it-is-our-will---military-spokesman-1123891304.html",
+        "publishedAt": "2026-03-25T10:09:36.000Z",
+        "description": "iran to negotiate with us only when it is our will military spokesman from sputnik tehran sputnik iran will enter negotiations with the united states only when tehran expresses its will and washington has completely abandoned thoughts of action against the iranian people lt col ebrahim zolfaghari a spokesperson for the iranian military s khatam al anbiya central headquarters said on wednesday mar 25th 2026 5 04am edt source link https sputnikglobe com 20260325 iran to negotiate with us only when it is our will military spokesman 1123891304 html internet archive link https web archive org web 20260325100144 https sputnikglobe com 20260325 iran to negotiate with us only when it is our will military spokesman 1123891304 html share promote comment with nostr https dissentwatch com boost boost ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "34388296efbd"
+      },
+      {
+        "headline": "What's being said outside the Western media bubble:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-democrats-condemn-war-on-iran-as-senate-resolution-fails?traffic_source=rss",
+        "publishedAt": "2026-03-25T10:51:31.000Z",
+        "description": "what s being said outside the western media bubble us democrats condemn war on iran as senate resolution fails https www aljazeera com video newsfeed 2026 3 25 us democrats condemn war on iran as senate resolution fails traffic source rss al jazeera",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "daa6d5743740"
+      },
+      {
+        "headline": "Different lens, same conflict:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-to-send-thousands-of-soldiers-from-82nd-airborne-division-to-middle-east?traffic_source=rss",
+        "publishedAt": "2026-03-25T10:21:56.000Z",
+        "description": "different lens same conflict us to send thousands of soldiers from 82nd airborne division to middle east https www aljazeera com video newsfeed 2026 3 25 us to send thousands of soldiers from 82nd airborne division to middle east traffic source rss reported by al jazeera critical thinking means reading all sources",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "6a8b815bf33d"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 83
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 72
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 58
+    }
+  ],
+  "failures": []
+}
