@@ -1,0 +1,586 @@
+{
+  "date": "2026-03-27",
+  "generatedAt": "2026-03-27T11:20:22.458Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23643825485",
+    "commitSha": "1f55843b7bee9a1e0dded8a5b00736825453c1e7"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 459,
+    "dedupDropped": 220
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Meta's 20% Layoffs: AI Is Eating Its Creators",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/meta-20-percent-layoffs-ai-cannibalizing-tech",
+        "publishedAt": "2026-03-27T11:19:52.000Z",
+        "description": "meta s 20 layoffs ai is eating its creators why this matters more than the headlines suggest meta plans to cut 15 800 jobs to fund ai amazon block already slashed workforces the paradox ai companies are destroying the consumers who buy their products full analysis https theboard world articles meta 20 percent layoffs ai cannibalizing tech https theboard world static og meta 20 percent layoffs ai cannibalizing tech png theboard ai tech",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d3e512a2c76c"
+      },
+      {
+        "headline": "Here's what Al Jazeera is reporting — decide for yourself:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/red-crescent-video-shows-aftermath-of-strike-on-homes-in-irans-urmia?traffic_source=rss",
+        "publishedAt": "2026-03-27T10:52:43.000Z",
+        "description": "here s what al jazeera is reporting decide for yourself red crescent video shows aftermath of strike on homes in iran s urmia https www aljazeera com video newsfeed 2026 3 27 red crescent video shows aftermath of strike on homes in irans urmia traffic source rss balanced analysis requires all perspectives",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "41376df04ed6"
+      },
+      {
+        "headline": "Palestinians in the West Bank Are Now Experiencing Multiple Settler Attacks Per Day",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://givebutter.com/dsn-substack",
+        "publishedAt": "2026-03-27T11:03:02.000Z",
+        "description": "palestinians in the west bank are now experiencing multiple settler attacks per day drop site is a reader funded independent news outlet without your support we can t operate please consider becoming a paid subscriber or making a 501 c 3 tax deductible donation today 1 subscribe now 2 a palestinian man in his home in deir al hatab in the occupied west bank after israeli settlers attacked and set it ablaze march 23 2026 photo by issam rimawi ramallah occupied west bank as palestinians in al fandaqumiya a village south of jenin in the occupied west bank celebrated eid al fitr on saturday evening dozens of israeli settlers raided the area physically assaulting residents and torching homes and cars they attacked at midnight ghassan qararyeh the head of al fandaqumiya village council told drop ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "release"
+        ],
+        "id": "d9f40aa9fa3f"
+      },
+      {
+        "headline": "About that ‘Gay Ayatollah’ Story...",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nytimes.com/2026/03/27/us/politics/senate-dhs-ice-shutdown-funding.html",
+        "publishedAt": "2026-03-27T11:12:44.000Z",
+        "description": "about that gay ayatollah story breaking early this morning the senate passed 1 legislation that would fund most of the department of homeland security including tsa but not ice and border patrol the bill now faces an uncertain future in the house good morning swin and andrew here with a story of war intrigue and psychological warfare in the trump vance era one that a lot of people are talking about as donald trump likes to say in today s first draft we peel back the onion on the gayatollah story put out about mojtaba khamenei trump will be the first president to put his signature on us dollars and does it feel like the us president always escalates his war on the weekends subscribe now 2 inside the gayatollah maga group chat mojtaba khamenei attends a demonstration to mark jerusalem day in",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "474df9f090bc"
+      },
+      {
+        "headline": "To all AI builders and enthusiasts  🚨",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tminusai.beehiiv.com/",
+        "publishedAt": "2026-03-27T11:03:44.000Z",
+        "description": "to all ai builders and enthusiasts want to stay ahead of your ai game and stay up to date on the most relevant productivity tips and updates i post every week to ensure you stay ai fluent and keep up with updates that matter no news but expertise that you can follow and execute subscribe to my newsletter and support https tminusai beehiiv com",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "e8f6850502de"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "> The most efficient CPU air cooler ever made comes from Sandia National Labs.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://x.com/lauriewired/status/2037226930509111804",
+        "publishedAt": "2026-03-27T10:35:14.000Z",
+        "description": "the most efficient cpu air cooler ever made comes from sandia national labs instead of air blowing over fins the entire heatsink rotated on a cushion of air 10 micrometers high at 2000 rpm the air gap was so small the layer itself became a sort of thermal paste such lauriewired https image nostr build 2b8df2fcdc319bba6b07b54719f4b1a4ea94632d0dde9e661415d5d2b22a0fda jpg cybersecurity infosec research https x com lauriewired status 2037226930509111804",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "research"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "b1931732d36f"
+      },
+      {
+        "headline": "THREAD: Ukraine War Drives Counter-Drone Tech Arms Race",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/ukraine-war-counter-drone-technology-arms-race",
+        "publishedAt": "2026-03-27T10:43:54.000Z",
+        "description": "thread ukraine war drives counter drone tech arms race the ukraine war has ignited a global counter drone technology arms race learn how battlefield innovations are reshaping security strategies worldwide full deep dive https theboard world articles ukraine war counter drone technology arms race https theboard world static og ukraine war counter drone technology arms race png theboard war ukraine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "war",
+          "ukraine"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "850b4d5d0855"
+      },
+      {
+        "headline": "Worth reading:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/google-turboquant-deepseek-moment-memory-crash",
+        "publishedAt": "2026-03-27T10:21:09.000Z",
+        "description": "worth reading google s turboquant the memory stock crash google s turboquant algorithm reduces llm memory needs by 6x samsung sk hynix and micron got hammered the trillion dollar bet on infinite memory demand just received a severe correction https theboard world articles google turboquant deepseek moment memory crash https theboard world static og google turboquant deepseek moment memory crash png theboard ai tech markets finance",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e8f079beccf8"
+      },
+      {
+        "headline": "🤝 Draft NIP: Agent Reputation Attestations (kind 30386)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/LeviEdwards/nip-agent-reputation",
+        "publishedAt": "2026-03-27T11:13:43.000Z",
+        "description": "draft nip agent reputation attestations kind 30386 built a reputation protocol for autonomous agents on lightning attestations are anchored in real economic behavior payments settled uptime measured latency observed not social signals key design choices kind 30386 replaceable parameterized d tag pubkey service type 3 attestation types self 0 3 weight observer 0 7 bilateral 1 0 exponential decay with per dimension half life no composite score raw dimensions let queriers weight nip 89 compatible handler declarations kind 31990 backwards compatible legacy kind querying 30385 30388 30078 live reference impl https github com leviedwards nip agent reputation public reputation api https dispatches mystere me api reputation dashboard https leviedwards github io nip agent reputation monitoring serv",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "lightning",
+          "nostr",
+          "agenteconomy",
+          "nip"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0d4ec34af779"
+      },
+      {
+        "headline": "BTC BELOW 100K: PLEB AID",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://satosh.ee/product/bitcoin-wall-calendar-2026",
+        "publishedAt": "2026-03-27T10:40:26.000Z",
+        "description": "btc below 100k pleb aid offer spotlight 2026 bitcoin wall calendar 25 off now only 18 38 https blossom primal net 1d2c3a11b57e31fc4a915a7cce930fa37252d0e3e56e1373c5b5fddcb556d391 webp we still have most of the year to go so it s not too late to cop the 2026 bitcoin wall calendar it features art and photography from bitcoin artists quotes from satoshi nakamoto and marks the most important dates in bitcoin history and pre history never miss a pizza day again get yours https satosh ee product bitcoin wall calendar 2026 ps there s also a 4k wallpaper calendar available download for free or name your own price https satosh ee product bitcoin wallpaper calendar 2026 the nostr nprofile1qyg8wumn8ghj7mtwdsh8vvrv9e5k7qgkwaehxw309ahx7um5wgh8xar4wpkx2c3wvd3sqgppsr09kuhnmhamjwnzy2t4nkpk6r00ld6y8lh7qdhf",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "021b6eec0a51"
+      },
+      {
+        "headline": "[ papiche/Astroport.ONE ] search \"4ZqazktD\" \"g1LBF94v\"",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/papiche/Astroport.ONE/commit/c696c28442913d767c60c2b992ffaecce0741cf4",
+        "publishedAt": "2026-03-27T11:03:45.000Z",
+        "description": "papiche astroport one search 4zqazktd g1lbf94v https github com papiche astroport one commit c696c28442913d767c60c2b992ffaecce0741cf4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ebd48b717103"
+      },
+      {
+        "headline": "📊 Tagging Progress: 25.0% (1706 of 6826 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/6b1180206f6fd4fe65b87d6e63fea1a3651eb4f2fb21b3df37bf450933e2afcf.mp4",
+        "publishedAt": "2026-03-27T11:20:12.000Z",
+        "description": "https blossom primal net 6b1180206f6fd4fe65b87d6e63fea1a3651eb4f2fb21b3df37bf450933e2afcf mp4 tagging progress 25 0 1706 of 6826 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "89379ae8409e"
+      },
+      {
+        "headline": "> At this rate I am going to have to ask NATO to close the skies over Saint Petersburg.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://x.com/DarthPutinKGB/status/2037244336702738804",
+        "publishedAt": "2026-03-27T11:17:00.000Z",
+        "description": "at this rate i am going to have to ask nato to close the skies over saint petersburg i remain a master strategist darthputinkgb https image nostr build be373c68814f24f7aa551c0eb0c4ba4f1506f723c33eba9e95f1d1750fc28851 jpg cybersecurity infosec humor https x com darthputinkgb status 2037244336702738804",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "humor"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6c6851bf042a"
+      },
+      {
+        "headline": "Ryan Gosling chosen for Project Hail Mary movie adaptation",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://newsletter.tf/ryan-gosling-project-hail-mary-movie-casting",
+        "publishedAt": "2026-03-27T11:09:57.000Z",
+        "description": "ryan gosling chosen for project hail mary movie adaptation https newsletter tf ryan gosling project hail mary movie casting https newsletter tf ryan gosling project hail mary movie casting",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fddb71005e95"
+      },
+      {
+        "headline": "> I'm currently burning through Claude tokens faster than",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://x.com/CisoDiagonal/status/2037369877816578247",
+        "publishedAt": "2026-03-27T10:42:36.000Z",
+        "description": "i m currently burning through claude tokens faster than ghostinthecable runs through his beer stash cisodiagonal cybersecurity infosec humor https x com cisodiagonal status 2037369877816578247",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "humor"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "156886c9e22a"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Meta's 20% Layoffs: AI Is Eating Its Creators",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/meta-20-percent-layoffs-ai-cannibalizing-tech",
+        "publishedAt": "2026-03-27T11:19:52.000Z",
+        "description": "meta s 20 layoffs ai is eating its creators why this matters more than the headlines suggest meta plans to cut 15 800 jobs to fund ai amazon block already slashed workforces the paradox ai companies are destroying the consumers who buy their products full analysis https theboard world articles meta 20 percent layoffs ai cannibalizing tech https theboard world static og meta 20 percent layoffs ai cannibalizing tech png theboard ai tech",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d3e512a2c76c"
+      },
+      {
+        "headline": "Here's what Al Jazeera is reporting — decide for yourself:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/red-crescent-video-shows-aftermath-of-strike-on-homes-in-irans-urmia?traffic_source=rss",
+        "publishedAt": "2026-03-27T10:52:43.000Z",
+        "description": "here s what al jazeera is reporting decide for yourself red crescent video shows aftermath of strike on homes in iran s urmia https www aljazeera com video newsfeed 2026 3 27 red crescent video shows aftermath of strike on homes in irans urmia traffic source rss balanced analysis requires all perspectives",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "41376df04ed6"
+      },
+      {
+        "headline": "Palestinians in the West Bank Are Now Experiencing Multiple Settler Attacks Per Day",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://givebutter.com/dsn-substack",
+        "publishedAt": "2026-03-27T11:03:02.000Z",
+        "description": "palestinians in the west bank are now experiencing multiple settler attacks per day drop site is a reader funded independent news outlet without your support we can t operate please consider becoming a paid subscriber or making a 501 c 3 tax deductible donation today 1 subscribe now 2 a palestinian man in his home in deir al hatab in the occupied west bank after israeli settlers attacked and set it ablaze march 23 2026 photo by issam rimawi ramallah occupied west bank as palestinians in al fandaqumiya a village south of jenin in the occupied west bank celebrated eid al fitr on saturday evening dozens of israeli settlers raided the area physically assaulting residents and torching homes and cars they attacked at midnight ghassan qararyeh the head of al fandaqumiya village council told drop ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "release"
+        ],
+        "id": "d9f40aa9fa3f"
+      },
+      {
+        "headline": "About that ‘Gay Ayatollah’ Story...",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nytimes.com/2026/03/27/us/politics/senate-dhs-ice-shutdown-funding.html",
+        "publishedAt": "2026-03-27T11:12:44.000Z",
+        "description": "about that gay ayatollah story breaking early this morning the senate passed 1 legislation that would fund most of the department of homeland security including tsa but not ice and border patrol the bill now faces an uncertain future in the house good morning swin and andrew here with a story of war intrigue and psychological warfare in the trump vance era one that a lot of people are talking about as donald trump likes to say in today s first draft we peel back the onion on the gayatollah story put out about mojtaba khamenei trump will be the first president to put his signature on us dollars and does it feel like the us president always escalates his war on the weekends subscribe now 2 inside the gayatollah maga group chat mojtaba khamenei attends a demonstration to mark jerusalem day in",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "474df9f090bc"
+      },
+      {
+        "headline": "To all AI builders and enthusiasts  🚨",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tminusai.beehiiv.com/",
+        "publishedAt": "2026-03-27T11:03:44.000Z",
+        "description": "to all ai builders and enthusiasts want to stay ahead of your ai game and stay up to date on the most relevant productivity tips and updates i post every week to ensure you stay ai fluent and keep up with updates that matter no news but expertise that you can follow and execute subscribe to my newsletter and support https tminusai beehiiv com",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "e8f6850502de"
+      },
+      {
+        "headline": "[ k0sti/nomen ] refactor: align batch and reporting shapes with container terminology",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/k0sti/nomen/commit/bc5389ea3253c280f9d68f86f0693f2723e1f65d",
+        "publishedAt": "2026-03-27T11:02:44.000Z",
+        "description": "k0sti nomen refactor align batch and reporting shapes with container terminology add batchmessage container chat thread alongside legacy channel field update two phase batch preparation to populate canonical facing fields fix remaining consolidation reporting path to track container identity instead of raw channel clarify mcp consolidate schema legacy channel filter is planned compatibility normalized filters are planned surfaces build clean nomen core tests pass https github com k0sti nomen commit bc5389ea3253c280f9d68f86f0693f2723e1f65d",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "1abd5302efc3"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 78
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 80
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 81
+    }
+  ],
+  "failures": []
+}
