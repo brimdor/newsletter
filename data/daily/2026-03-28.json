@@ -1,0 +1,587 @@
+{
+  "date": "2026-03-28",
+  "generatedAt": "2026-03-28T11:10:49.927Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23683956314",
+    "commitSha": "ee2fe4f392efd1819e7e0c48780c46377fdaaf32"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 301,
+    "dedupDropped": 137
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "This Past Weekend",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/this-past-weekend",
+        "publishedAt": "2026-03-28T09:45:21.000Z",
+        "description": "this past weekend from dr peter mccullough md by peter a mccullough md mph nashville is rapidly becoming america s new entertainment mecca including the home of comedian and podcaster theo von and his show theo von s podcast has evolved from a grassroots comedy show into a global platform featuring some of the most recognizable names in entertainment mar 28th 2026 5 16am edt source link https www thefocalpoints com p this past weekend internet archive link https web archive org web 20260328094427 https www thefocalpoints com p this past weekend share promote comment with nostr https dissentwatch com boost boost post id 1119291",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "075a389f4ba0"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://groups.google.com/g/radioplayer-beta",
+        "publishedAt": "2026-03-28T09:16:34.000Z",
+        "description": "v2ex android app 20 google play pro android radioplayer tunein ui radiobrowser jazz pop news ui compose miniplayer m3u mp3 pro pro high quality audio sleep timer car mode closed test google play 20 14 20 google android license testing pro google pay 0 pro 1 2 google play store 3 google play app app bug https www v2ex com t 1201854 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2b8bc92e95ba"
+      },
+      {
+        "headline": "Different lens, same conflict:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/PressTV/182247",
+        "publishedAt": "2026-03-28T11:03:13.000Z",
+        "description": "different lens same conflict ready for all options yemenis voice support for iran lebanon amid us israeli aggression the capital sana a and several other cities across yemen witnessed a million man march on friday in solidari https t me presstv 182247 reported by telegram press tv critical thinking means reading all sources",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b05a66ae0637"
+      },
+      {
+        "headline": "DEVELOPING: Qatar Evacuations: What's the Real Threat Level?",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-03-28T11:03:59.000Z",
+        "description": "developing qatar evacuations what s the real threat level qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures full breakdown just published https theboard world articles qatar evacuations threat level safety measures https theboard world static og qatar evacuations threat level safety measures png theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "Bookmark this. You will want to come back to it.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israeli-airstrike-lebanon-targets-nabatieh",
+        "publishedAt": "2026-03-28T10:54:16.000Z",
+        "description": "bookmark this you will want to come back to it israeli airstrike in lebanon location and targets israeli airstrike in lebanon targets nabatieh al fawqa video shows aftermath highlighting border volatility get the latest updates here https theboard world articles israeli airstrike lebanon targets nabatieh https theboard world static og israeli airstrike lebanon targets nabatieh png theboard israel war",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "77f7d154c608"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "asset-centric sounds good until you realize attackers don't care about your labels. they follow the path of least resistance, every time.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://x.com/IAMERICAbooted/status/2037510339458167065",
+        "publishedAt": "2026-03-28T11:02:39.000Z",
+        "description": "asset centric sounds good until you realize attackers don t care about your labels they follow the path of least resistance every time take home message from this article the asset centric approach focuses on what tier 0 is instead of how attackers reach it iamericabooted https image nostr build a8181cd781fadc2c66802d3c1f26976022e5c7d50e3fb3fe6eeabd62296cf992 jpg cybersecurity infosec news research https x com iamericabooted status 2037510339458167065",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "news",
+          "research"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "01eda183f0f8"
+      },
+      {
+        "headline": "Streaming: Capsule - 009",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://harmonique.one/shows/capsule/episodes/009",
+        "publishedAt": "2026-03-28T10:44:00.000Z",
+        "description": "streaming capsule 009 1 mark a mitchell how can i 2 mamman sani ci da dy 3 sonic boom things like this a little bit deeper 4 darryl d bonneau its the spirit dj romain remix 5 jazmina let the rain come down 6 ol dirty bastard goin down 7 kendrick lamar backseat freestyle 8 william onyeabor something you will never forget 9 tyler the creator garden shed feat estelle 10 john b pressure 11 nirvana milk it https harmonique one shows capsule episodes 009 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "49760b119100"
+      },
+      {
+        "headline": "\"I voted for America First, not America Alone. How did Washington’s tariffs and gold-hoarding policies become a BRICS recruitment drive w…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/policy/age-verification-mandates-privacy-risks-explained",
+        "publishedAt": "2026-03-28T10:58:16.000Z",
+        "description": "i voted for america first not america alone how did washington s tariffs and gold hoarding policies become a brics recruitment drive while the dollar burns alternate version if you want to avoid trump entirely i believed in putting america first not watching these policies push allies toward yuan trade and gold while our debt hits 34 7t who thought isolating ourselves would strengthen the dollar https theboard world articles policy age verification mandates privacy risks explained",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a5820a30f950"
+      },
+      {
+        "headline": "[OpenClaw] Discover how the surge in Bitcoin zero-knowledge tech is reshaping privacy, scalability, and the future of decentralized finan…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://insightginie.com/reactions-the-bitcoin-zero-knowledge-arms-race-begins-what-it-means-for-crypto",
+        "publishedAt": "2026-03-28T10:48:42.000Z",
+        "description": "openclaw discover how the surge in bitcoin zero knowledge tech is reshaping privacy scalability and the future of decentralized finance in this deep dive read more https insightginie com reactions the bitcoin zero knowledge arms race begins what it means for crypto",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c6a8b34abce7"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/middle-east-ai-arms-race-risks",
+        "publishedAt": "2026-03-28T11:02:36.000Z",
+        "description": "good analysis on this from the board middle east ai arms race key players risks explore the middle east ai arms race key players rapid militarization and potential risks of ai powered defense systems learn about escalation https theboard world articles middle east ai arms race risks https theboard world static og middle east ai arms race risks png theboard military defense ai tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8f7c26bf8f22"
+      },
+      {
+        "headline": "Minisforum AI X1 Pro 470 review: AMD's Gorgon Point in a sleek mini PC desktop",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-ai-x1-pro-470-review",
+        "publishedAt": "2026-03-28T11:00:00.000Z",
+        "description": "minisforum ai x1 pro 470 review amd s gorgon point in a sleek mini pc desktop https www tomshardware com desktops mini pcs minisforum ai x1 pro 470 review",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "55b797e387de"
+      },
+      {
+        "headline": "‍Gold Market Stabilizes Amidst Structural Support",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/gold-market-stabilizes-as-structural-support-mitigates-bearish-risks",
+        "publishedAt": "2026-03-28T10:53:45.000Z",
+        "description": "gold market stabilizes amidst structural support the gold market has shown resilience with prices recovering approximately 3 on march 27 2026 after a sharp 19 decline from its january peak this rebound underscores the persistent demand for safe haven assets amidst global economic uncertainty factors such as inflationary pressures concerns over sovereign bond creditworthiness geopolitical tensions and currency devaluation risks continue to support gold s appeal central bank accumulation has been a key driver though potential escalation of regional conflicts could test this support while a formal bear market was narrowly avoided the market s stability hinges on the mitigation of geopolitical risks highlighting gold s enduring role in investor diversification strategies https cryptovka com ne",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f5ce49a8e9e1"
+      },
+      {
+        "headline": "Pay attention to this.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/memory-chip-shortage-2026-causes-impact",
+        "publishedAt": "2026-03-28T10:59:51.000Z",
+        "description": "pay attention to this 2026 memory chip shortage causes and impact is another memory chip shortage coming in 2026 explore the potential causes and impacts of a ram shortage on consumers and the tech industry https theboard world articles memory chip shortage 2026 causes impact https theboard world static og memory chip shortage 2026 causes impact png theboard",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "050e19acdd20"
+      },
+      {
+        "headline": "Samsung Galaxy S26 problems and how to fix them",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/samsung-galaxy-s26-problems-3651083",
+        "publishedAt": "2026-03-28T11:00:55.000Z",
+        "description": "samsung galaxy s26 problems and how to fix them https www androidauthority com samsung galaxy s26 problems 3651083",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "af66345048ac"
+      },
+      {
+        "headline": "🔴 Yemen’de Husiler ilk kez İsrail’i hedef aldı | İran tehdit kartını masaya koydu!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.cnnturk.com/video/dunya/yemende-husiler-ilk-kez-israili-hedef-aldi-iran-tehdit-kartini-masaya-koydu-2411070",
+        "publishedAt": "2026-03-28T10:35:21.000Z",
+        "description": "yemen de husiler ilk kez i srail i hedef ald i ran tehdit kart n masaya koydu yemen deki i ran destekli husiler sava n ba lad 28 ubat tan sonra ilk kez i srail e f ze f rlatt katar lusail niversitesi retim yesi dr muhammed mazhar ahin e g re husilerin devreye girmesi i ran n b lgedeki stratejik st nl n peki tiriyor ve k rfez deki enerji hatlar ile suudi arabistan hedefleri ciddi risk alt nda nc cephe a lan i srail b lgedeki at malar n ekonomik ve psikolojik etkilerinin artaca lkeler aras nda husilerin dahil olmas sava n boyutunu geni letiyor ve petrol do al gaz fiyatlar zerinde bask yarat yor https www cnnturk com video dunya yemende husiler ilk kez israili hedef aldi iran tehdit kartini masaya koydu 2411070",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "92315d2ee7fe"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "This Past Weekend",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/this-past-weekend",
+        "publishedAt": "2026-03-28T09:45:21.000Z",
+        "description": "this past weekend from dr peter mccullough md by peter a mccullough md mph nashville is rapidly becoming america s new entertainment mecca including the home of comedian and podcaster theo von and his show theo von s podcast has evolved from a grassroots comedy show into a global platform featuring some of the most recognizable names in entertainment mar 28th 2026 5 16am edt source link https www thefocalpoints com p this past weekend internet archive link https web archive org web 20260328094427 https www thefocalpoints com p this past weekend share promote comment with nostr https dissentwatch com boost boost post id 1119291",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "075a389f4ba0"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://groups.google.com/g/radioplayer-beta",
+        "publishedAt": "2026-03-28T09:16:34.000Z",
+        "description": "v2ex android app 20 google play pro android radioplayer tunein ui radiobrowser jazz pop news ui compose miniplayer m3u mp3 pro pro high quality audio sleep timer car mode closed test google play 20 14 20 google android license testing pro google pay 0 pro 1 2 google play store 3 google play app app bug https www v2ex com t 1201854 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "2b8bc92e95ba"
+      },
+      {
+        "headline": "Different lens, same conflict:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/PressTV/182247",
+        "publishedAt": "2026-03-28T11:03:13.000Z",
+        "description": "different lens same conflict ready for all options yemenis voice support for iran lebanon amid us israeli aggression the capital sana a and several other cities across yemen witnessed a million man march on friday in solidari https t me presstv 182247 reported by telegram press tv critical thinking means reading all sources",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b05a66ae0637"
+      },
+      {
+        "headline": "DEVELOPING: Qatar Evacuations: What's the Real Threat Level?",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-03-28T11:03:59.000Z",
+        "description": "developing qatar evacuations what s the real threat level qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures full breakdown just published https theboard world articles qatar evacuations threat level safety measures https theboard world static og qatar evacuations threat level safety measures png theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "Bookmark this. You will want to come back to it.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/israeli-airstrike-lebanon-targets-nabatieh",
+        "publishedAt": "2026-03-28T10:54:16.000Z",
+        "description": "bookmark this you will want to come back to it israeli airstrike in lebanon location and targets israeli airstrike in lebanon targets nabatieh al fawqa video shows aftermath highlighting border volatility get the latest updates here https theboard world articles israeli airstrike lebanon targets nabatieh https theboard world static og israeli airstrike lebanon targets nabatieh png theboard israel war",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "77f7d154c608"
+      },
+      {
+        "headline": "After Area C, Israeli Settlers Expand Into PA-Controlled Area B",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.palestinedeepdive.com/subscribe",
+        "publishedAt": "2026-03-28T10:55:07.000Z",
+        "description": "after area c israeli settlers expand into pa controlled area b houses under construction at the illegal israeli settlement of kfar eldad south of bethlehem occupied west bank photo garry walsh tr caire cc by 2 0 on the morning of 13 february 2026 more than 30 masked settlers brandishing machetes and throwing stones stormed the village of talfit in the occupied west bank they fired live ammunition at residents their homes vehicles and even the town mosque several villagers were beaten and stabbed and a 19 year old man was shot in the shoulder it s the first time such a large attack has happened in the village said yousef abu aisheh during the assault he sheltered in the centre of his home with his wife and seven young children who screamed in fear as settlers pelted their windows with rocks",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "release"
+        ],
+        "id": "bb1c0e1d2589"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 68
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 51
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 45
+    }
+  ],
+  "failures": []
+}
