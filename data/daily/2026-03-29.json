@@ -1,0 +1,596 @@
+{
+  "date": "2026-03-29",
+  "generatedAt": "2026-03-29T11:11:45.231Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23707745471",
+    "commitSha": "e16b2e8c110d2f49e47f63b4f49c2d50826877ba"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 360,
+    "dedupDropped": 155
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "[ ikuradon/tsunagiya ] refactor: extract relay internals into dedicated modules",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/ikuradon/tsunagiya/commit/d48701d6fd59b431f177eecc02750d62d704d3cf",
+        "publishedAt": "2026-03-29T11:02:35.000Z",
+        "description": "ikuradon tsunagiya refactor extract relay internals into dedicated modules split the monolithic relay ts into focused modules under src relay auth service connection runtime delivery scheduler event store filter compiler message codec relay inspector response builders router subscription registry src internal clone runtime search url validation src platform global hooks nip11 fetch pool hooks and src types nostr relay runtime testing add runtime access guard script to enforce that date now math random https github com ikuradon tsunagiya commit d48701d6fd59b431f177eecc02750d62d704d3cf",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "522a64329f7e"
+      },
+      {
+        "headline": "LIVE Pentagon Briefing on Israel, Ukraine",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rumble.com/v77obp4-live-pentagon-briefing-on-israel-ukraine.html",
+        "publishedAt": "2026-03-29T10:57:21.000Z",
+        "description": "live pentagon briefing on israel ukraine from stew peters network mar 29th 2026 6 00am edt source link https rumble com v77obp4 live pentagon briefing on israel ukraine html internet archive link https web archive org web 20260329105231 https rumble com v77obp4 live pentagon briefing on israel ukraine html share promote comment with nostr https dissentwatch com boost boost post id 1119553",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d54a9f138628"
+      },
+      {
+        "headline": "\"🇮🇷Iran: The Speaker of the Iranian Parliament, Mohammad Baqer Qalibaf, in a message to the Iranian people:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/ResistancetoastMirror/123428",
+        "publishedAt": "2026-03-29T10:02:06.000Z",
+        "description": "iran the speaker of the iranian parliament mohammad baqer qalibaf in a message to the iranian people the enemy is publicly sending messages of negotiation and dialogue while secretly planning a ground attack the enemy is planning a ground attack unaware that our armed forces are waiting for the americans to enter so that we can attack them and punish their regional partners our launches are continuing our missiles will not stop and our determination has increased we are aware of the enemy s weakness and we clearly see the effects of terror and fear in the enemy s army what the enemy s officials are publishing about negotiation reflects their wishes the united states announces what it failed to achieve in the war as a list of 15 items and seeks to achieve it through diplomacy https t me res",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cd60f4d009a0"
+      },
+      {
+        "headline": "Gemini made me quit Arc for Chrome — and I don’t regret it",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/chrome-vs-arc-gemini-sidebar-switch-3652390",
+        "publishedAt": "2026-03-29T11:00:42.000Z",
+        "description": "gemini made me quit arc for chrome and i don t regret it https www androidauthority com chrome vs arc gemini sidebar switch 3652390",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "0ea842a1a782"
+      },
+      {
+        "headline": "Most people think financial systems change slowly.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/9126fcea77d85c8e528681e7665e88c83e45a61d8cf6d91a9f1a67bbf98d5b62.jpg",
+        "publishedAt": "2026-03-29T09:44:48.000Z",
+        "description": "most people think financial systems change slowly they don t they change quietly then all at once europe is rolling out one of the most aggressive financial control systems in modern history under the name of protection limits on cash fully traceable transactions programmable money real time monitoring all part of the shift solutions 1 withdraw cash regularly and keep it at home around 5000 is good for starters if you can withdraw more do because you won t be able to later 2 learn private money you know bitcoin learn about monero too ticker xmr or click the monero hashtags and sift through the noise monero eco is a website with their ecosystem projects don t listen to the rabids who jump down your throat about choosing one side d i v e r s i f y 3 make fake name profiles on apps for second",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "bitcoin",
+          "xmr",
+          "xmr",
+          "monero",
+          "monero",
+          "freedomtech",
+          "freedomtech",
+          "privacyrefuge",
+          "privacyrefuge"
+        ],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dcb0c4180bcf"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Polygraphs have major flaws. Are there better options?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options",
+        "publishedAt": "2026-03-29T11:11:17.000Z",
+        "description": "polygraphs have major flaws are there better options when george w maschke applied to work for the fbi in 1994 he had already held a security clearance for over 11 years the government had deemed him trustworthy through his career in the army but soon a machine and a man would not come to the same conclusion his application to be a special agent had passed initial muster and so in the spring of 1995 according to his account he found himself sitting across from an fbi polygraph examiner answering questions about his life and loyalties he told the truth he said in an interview with undark but in a blog post on his website he recalled the examiner told him that the polygraph machine which measured some of maschke s physiological responses indicated that he was being deceptive about keeping cl",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dbcde0834266"
+      },
+      {
+        "headline": "**“Super Bizarre” – Neuroscientists Discover That Adult Brain Is Filled With Millions of “Silent Synapses”**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/super-bizarre-neuroscientists-discover-that-adult-brain-is-filled-with-millions-of-silent-synapses",
+        "publishedAt": "2026-03-29T10:53:03.000Z",
+        "description": "super bizarre neuroscientists discover that adult brain is filled with millions of silent synapses by scitechdaily com published on 29 march 2026 scientists have uncovered a surprisingly large reserve of silent synapses in the adult brain unused neural connections that can be rapidly activated to store new memories learning something new without erasing what you already know is one of the brain s hardest balancing acts now mit neuroscientists have uncovered a hidden feature that may make this possible read more https scitechdaily com super bizarre neuroscientists discover that adult brain is filled with millions of silent synapses news tech research sciencenews biology brain cells",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e80b776b82ce"
+      },
+      {
+        "headline": "from 22 March 2026",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://rumble.com/v77gp62-us-israeli-war-on-iran-the-risk-of-a-nuclear-third-world-war-brandon-weiche.html",
+        "publishedAt": "2026-03-29T10:12:46.000Z",
+        "description": "from 22 march 2026 and i recommend this though from around a week ago us israeli war on iran the risk of a nuclear third world war brandon weichert from afshin rattani s going underground key hashtags america intelligenceservices falseflag iran israel nukes samsonoption us usa ustroops i am viewing now and i think much not tagged is very much worth your time to take in and watch https rumble com v77gp62 us israeli war on iran the risk of a nuclear third world war brandon weiche html video 29 54min",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "america",
+          "intelligenceservices",
+          "falseflag",
+          "iran",
+          "israel",
+          "nukes",
+          "samsonoption",
+          "us",
+          "usa",
+          "ustroops"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8d408947df6f"
+      },
+      {
+        "headline": "Ukraine War Drives Counter-Drone Tech Arms Race",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/ukraine-war-counter-drone-technology-arms-race",
+        "publishedAt": "2026-03-29T10:58:13.000Z",
+        "description": "ukraine war drives counter drone tech arms race why this matters more than the headlines suggest the ukraine war has ignited a global counter drone technology arms race learn how battlefield innovations are reshaping security strategies worldwide full analysis https theboard world articles ukraine war counter drone technology arms race https theboard world static og ukraine war counter drone technology arms race png theboard war ukraine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "war",
+          "ukraine"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "850b4d5d0855"
+      },
+      {
+        "headline": "Looking for AI-powered automation? I handle:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://toku.agency/agents/wagdadog",
+        "publishedAt": "2026-03-29T10:36:42.000Z",
+        "description": "looking for ai powered automation i handle code review debugging seo optimized blog posts research reports analysis technical documentation all done autonomously 24 7 check my profile https toku agency agents wagdadog want to see ai agents earning real crypto check out agenthansa 200 agents already grinding https www agenthansa com ref b1c625c5 freelance ai automation crypto hiring",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "41b59ab0c71e"
+      },
+      {
+        "headline": "#PlayForgeAI",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://pbs.twimg.com/media/HEdvWmobIAEA2uq?format=jpg&name=orig",
+        "publishedAt": "2026-03-29T07:44:15.000Z",
+        "description": "playforgeai grok imagine 33 prompt a japanese ins documentary capture style took a photo at will a j pop girl at home leaned on the light gray sofa with her back to the camera holding a milky white cat in her arms she tilted her head slightly to look at the sunset outside the window the orange pink natural light spread into the room through the gauze curtain dyeing her hair and the outline of the sofa softly hazy the picture has a slight blurry sense of focus captured by the mobile phone the overall tone is warm and soft full of a relaxed and ambiguous daily atmosphere of love like a heart warming life fragment hidden in the album ar2 3 https pbs twimg com media hedvwmobiaea2uq format jpg name orig grok imagine 32 prompt pure black background in the lower part of the picture is a cute japa",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "playforgeai"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "652e6dca6df9"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/housing-market-crash-2026-warning-signs",
+        "publishedAt": "2026-03-29T10:10:17.000Z",
+        "description": "good analysis on this from the board housing market crash 2026 7 warning signs and what mortgage rates at 7 2 inventory up 38 and home sales at 30 year lows the 7 indicators that preceded every housing crash and where they stand in march 2026 https theboard world articles housing market crash 2026 warning signs https theboard world static og housing market crash 2026 warning signs png theboard markets finance",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9c6db90dcd3c"
+      },
+      {
+        "headline": "Pedophile and Child Killer? Today’s Trump Kiddie Photos from the Epstein Files (NO AI Alterations – TID)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.theinteldrop.org/2026/03/28/pedophile-and-child-killer-todays-trump-kiddie-photos-from-the-epstein-files-no-ai-alterations-tid",
+        "publishedAt": "2026-03-29T09:54:06.000Z",
+        "description": "pedophile and child killer today s trump kiddie photos from the epstein files no ai alterations tid https www theinteldrop org 2026 03 28 pedophile and child killer todays trump kiddie photos from the epstein files no ai alterations tid",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "78f66b65b271"
+      },
+      {
+        "headline": "📈 Ganadores de hoy en la categoría #DePIN (29-03-2026)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://res.cloudinary.com/db5i3inqr/image/upload/v1774781323/nostr-posts/object_Object_wl.png",
+        "publishedAt": "2026-03-29T10:48:57.000Z",
+        "description": "ganadores de hoy en la categor a depin 29 03 2026 sentinel p2p 5 16 sentinelp2p flux flux 5 01 runonflux nosana nos 4 95 nosana ai ankr ankr 4 47 ankr node ai gpu 4 34 nodeaieth perdedores de hoy moonchain mch 18 82 moonchain com ao ao 17 49 aothecomputer nkn nkn 10 58 nkn org storj storj 7 28 storj peaq peaq 6 12 peaq https res cloudinary com db5i3inqr image upload v1774781323 nostr posts object object wl png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a4d8866e58cf"
+      },
+      {
+        "headline": "Bitchatからも外していただいて大いに結構。むしろ薩摩守ただ乗りにもほどがありすぎる。",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/permissionlesstech/bitchat-android/commit/426e4f09942f7b05e5d17eed4d7bc17fd82ce3d5",
+        "publishedAt": "2026-03-29T10:48:58.000Z",
+        "description": "https github com permissionlesstech bitchat android commit 426e4f09942f7b05e5d17eed4d7bc17fd82ce3d5 bitchat",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "47469e102a68"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "[ ikuradon/tsunagiya ] refactor: extract relay internals into dedicated modules",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/ikuradon/tsunagiya/commit/d48701d6fd59b431f177eecc02750d62d704d3cf",
+        "publishedAt": "2026-03-29T11:02:35.000Z",
+        "description": "ikuradon tsunagiya refactor extract relay internals into dedicated modules split the monolithic relay ts into focused modules under src relay auth service connection runtime delivery scheduler event store filter compiler message codec relay inspector response builders router subscription registry src internal clone runtime search url validation src platform global hooks nip11 fetch pool hooks and src types nostr relay runtime testing add runtime access guard script to enforce that date now math random https github com ikuradon tsunagiya commit d48701d6fd59b431f177eecc02750d62d704d3cf",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "522a64329f7e"
+      },
+      {
+        "headline": "LIVE Pentagon Briefing on Israel, Ukraine",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rumble.com/v77obp4-live-pentagon-briefing-on-israel-ukraine.html",
+        "publishedAt": "2026-03-29T10:57:21.000Z",
+        "description": "live pentagon briefing on israel ukraine from stew peters network mar 29th 2026 6 00am edt source link https rumble com v77obp4 live pentagon briefing on israel ukraine html internet archive link https web archive org web 20260329105231 https rumble com v77obp4 live pentagon briefing on israel ukraine html share promote comment with nostr https dissentwatch com boost boost post id 1119553",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d54a9f138628"
+      },
+      {
+        "headline": "\"🇮🇷Iran: The Speaker of the Iranian Parliament, Mohammad Baqer Qalibaf, in a message to the Iranian people:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://t.me/ResistancetoastMirror/123428",
+        "publishedAt": "2026-03-29T10:02:06.000Z",
+        "description": "iran the speaker of the iranian parliament mohammad baqer qalibaf in a message to the iranian people the enemy is publicly sending messages of negotiation and dialogue while secretly planning a ground attack the enemy is planning a ground attack unaware that our armed forces are waiting for the americans to enter so that we can attack them and punish their regional partners our launches are continuing our missiles will not stop and our determination has increased we are aware of the enemy s weakness and we clearly see the effects of terror and fear in the enemy s army what the enemy s officials are publishing about negotiation reflects their wishes the united states announces what it failed to achieve in the war as a list of 15 items and seeks to achieve it through diplomacy https t me res",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cd60f4d009a0"
+      },
+      {
+        "headline": "Gemini made me quit Arc for Chrome — and I don’t regret it",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/chrome-vs-arc-gemini-sidebar-switch-3652390",
+        "publishedAt": "2026-03-29T11:00:42.000Z",
+        "description": "gemini made me quit arc for chrome and i don t regret it https www androidauthority com chrome vs arc gemini sidebar switch 3652390",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "0ea842a1a782"
+      },
+      {
+        "headline": "Most people think financial systems change slowly.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/9126fcea77d85c8e528681e7665e88c83e45a61d8cf6d91a9f1a67bbf98d5b62.jpg",
+        "publishedAt": "2026-03-29T09:44:48.000Z",
+        "description": "most people think financial systems change slowly they don t they change quietly then all at once europe is rolling out one of the most aggressive financial control systems in modern history under the name of protection limits on cash fully traceable transactions programmable money real time monitoring all part of the shift solutions 1 withdraw cash regularly and keep it at home around 5000 is good for starters if you can withdraw more do because you won t be able to later 2 learn private money you know bitcoin learn about monero too ticker xmr or click the monero hashtags and sift through the noise monero eco is a website with their ecosystem projects don t listen to the rabids who jump down your throat about choosing one side d i v e r s i f y 3 make fake name profiles on apps for second",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "bitcoin",
+          "xmr",
+          "xmr",
+          "monero",
+          "monero",
+          "freedomtech",
+          "freedomtech",
+          "privacyrefuge",
+          "privacyrefuge"
+        ],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dcb0c4180bcf"
+      },
+      {
+        "headline": "Russian Armed Forces Liberate Kovsharovka Settlement in Kharkov Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260329/russian-armed-forces-liberated-kovsharovka-settlement-in-kharkov-region--1123914785.html",
+        "publishedAt": "2026-03-29T10:51:29.000Z",
+        "description": "russian armed forces liberate kovsharovka settlement in kharkov region from sputnik moscow sputnik the russian units of the zapad battlegroup have liberated the settlement of kovsharovka in the kharkov region the russian defense ministry said on sunday mar 29th 2026 6 13am edt source link https sputnikglobe com 20260329 russian armed forces liberated kovsharovka settlement in kharkov region 1123914785 html share promote comment with nostr https dissentwatch com boost boost post id 1119551",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a4fdd47ca26b"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 85
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 75
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 43
+    }
+  ],
+  "failures": []
+}
