@@ -1,0 +1,608 @@
+{
+  "date": "2026-03-30",
+  "generatedAt": "2026-03-30T11:26:50.402Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23742345671",
+    "commitSha": "b05b729d7269f823e0b0fc54883da272521d6c5d"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 442,
+    "dedupDropped": 184
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "[ shawnoster/aya ] docs: generalize pairing examples and update for NIP-44 encryption",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/shawnoster/aya/commit/bc91997e3667b6f7d4ccfa8babcc9561f19db1d0",
+        "publishedAt": "2026-03-30T11:00:16.000Z",
+        "description": "shawnoster aya docs generalize pairing examples and update for nip 44 encryption replace home work examples with alice bob throughout readme agents md and architecture docs labels can be anything names roles hostnames add note that labels are flexible with common patterns listed update security model nacl box nip 44 v2 ecdh chacha20 hmac add encryption py to component map update packet lifecycle to show encrypt decrypt steps add no encrypt flag to dispatch examples note that encryption is on by default for public relays https github com shawnoster aya commit bc91997e3667b6f7d4ccfa8babcc9561f19db1d0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "4f96928e3ec7"
+      },
+      {
+        "headline": "\"Ah yes, *Making the Dollar Worthless Again*—mission accomplished. Gold’s mooning while Washington flirts with default and tariffs that d…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/markets/gold-price-forecast-2031-year-by-year-outlook-2026-update",
+        "publishedAt": "2026-03-30T10:59:34.000Z",
+        "description": "ah yes making the dollar worthless again mission accomplished gold s mooning while washington flirts with default and tariffs that drive allies into yuan arms but sure let s call winning a 34 7t debt bomb and brics hoarding gold like doomsday preppers nothing says economic genius like gutting the dollar s reserves to 58 while trump s trade wars hand china the currency war on a silver platter but hey at least someone s winning and by someone i mean gold bugs and xi jinping https theboard world articles markets gold price forecast 2031 year by year outlook 2026 update",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e7f42fa21f1f"
+      },
+      {
+        "headline": "Yemen’s Houthis side with Iran: Who are they and how much firepower do they have?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/636667-yemens-houthis-iran-war",
+        "publishedAt": "2026-03-30T10:57:21.000Z",
+        "description": "yemen s houthis side with iran who are they and how much firepower do they have from rt the group announced it will join the ongoing hostilities as the us israeli attack on the islamic republic enters its second month the yemeni based houthi movement on saturday announced its formal entry into the conflict in the middle east the group has proclaimed its full support for iran and other resistance factions across the region faced mar 30th 2026 6 44am edt source link https www rt com news 636667 yemens houthis iran war utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260330105234 https www rt com news 636667 yemens houthis iran war utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d8ccee09a6e1"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youran-tab.du-fu.com/",
+        "publishedAt": "2026-03-30T09:16:43.000Z",
+        "description": "v2ex chrome chromium ui arc arc arc spaces ui yandex ui yandex browser ui help edge ui edge edge windows office ui copilot edge devtools devtools vivaldi vivaldi vivaldi ui bug tampermonkey brave brave brave web api showopenfilepicker brave helium helium helium macos chrome chrome chrome chrome mac favicon chrome chrome favicon2 size 24 24px retina chrome chrome favicon library application support google chrome default favicons chrome chrome https youran tab du fu com https www v2ex com t 1202275 reply1",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "00aa544736fd"
+      },
+      {
+        "headline": "The coverage on this is missing the real story.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/the-90-day-spigot-inside-the-petrodollar-war-thesis",
+        "publishedAt": "2026-03-30T11:16:29.000Z",
+        "description": "the coverage on this is missing the real story the 90 day spigot us dismantles non dollar oil markets multi source intelligence assessment of us military operations in venezuela and iran evidence points to a systematic campaign to neutralize every oil supply channel outside the dollar system here is what is actually going on https theboard world articles the 90 day spigot inside the petrodollar war thesis https theboard world static og the 90 day spigot inside the petrodollar war thesis png theboard iran military defense oil energy intelligence",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "military",
+          "defense",
+          "oil",
+          "energy"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "48d0e5392efc"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Warming Waters Are Supercharging an Invasive Predator in Alaska**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/warming-waters-are-supercharging-an-invasive-predator-in-alaska",
+        "publishedAt": "2026-03-30T10:52:30.000Z",
+        "description": "warming waters are supercharging an invasive predator in alaska by university of alaska fairbanks published on 30 march 2026 warming river temperatures are causing invasive northern pike to eat more fish threatening already declining salmon populations the trend is expected to worsen with continued climate change raising concerns about ecosystem impacts rising temperatures in a river in south central alaska are fueling a growing appetite among invasive northern pike raising concerns for native salmon and read more https scitechdaily com warming waters are supercharging an invasive predator in alaska news research science tech earth biodiversity climatechange",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "ebed108afaf3"
+      },
+      {
+        "headline": "It said by those who are enlightened that once you understand how karma is a function to your enlightenment, you would not want to go bac…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/d33e479ceff69ceade1565f9b7410bdfe9bde1d90f5290e0695da12790ee4d85.jpg",
+        "publishedAt": "2026-03-30T11:13:07.000Z",
+        "description": "it said by those who are enlightened that once you understand how karma is a function to your enlightenment you would not want to go back in time to fix anything that the universe is unfolding perfectly even though we may not understand how there can be so much suffering if that is true but without the suffering you had in your life you may have never gotten to be enlightened there s a good scene in the matrix that reminds me of that scene where cypher says ignorance is bliss and how he wanted to forget the truth and go back to the illusion almost like time travelling i was lucky enough to get in the delorean to see the real thing but never took it to 88 photography philosophy mindfulness ramdass https image nostr build d33e479ceff69ceade1565f9b7410bdfe9bde1d90f5290e0695da12790ee4d85 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photography",
+          "philosophy",
+          "mindfulness",
+          "ramdass"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0293f0e83f5e"
+      },
+      {
+        "headline": "Samsung’s ‘for Galaxy’ Snapdragon pulls ahead in GPU tests, until throttling wipes out its lead",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-benchmarks-3652232",
+        "publishedAt": "2026-03-30T11:00:19.000Z",
+        "description": "samsung s for galaxy snapdragon pulls ahead in gpu tests until throttling wipes out its lead https www androidauthority com samsung galaxy s26 ultra benchmarks 3652232",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ea74e571490a"
+      },
+      {
+        "headline": "Alternative à X et Instagram : qu'est-ce que Attie, la nouvelle IA de Bluesky ?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3044623_marre-dinstagram-ou-de-x-vous-pouvez-construire-votre-propre-reseau-social-avec-cet-assistant-ia",
+        "publishedAt": "2026-03-30T09:36:25.000Z",
+        "description": "alternative x et instagram qu est ce que attie la nouvelle ia de bluesky https www frandroid com culture tech intelligence artificielle 3044623 marre dinstagram ou de x vous pouvez construire votre propre reseau social avec cet assistant ia nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "52d040b25cc1"
+      },
+      {
+        "headline": "This deserves more attention.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/google-turboquant-deepseek-moment-memory-crash",
+        "publishedAt": "2026-03-30T10:48:13.000Z",
+        "description": "this deserves more attention google s turboquant the memory stock crash google s turboquant algorithm reduces llm memory needs by 6x samsung sk hynix and micron got hammered the trillion dollar bet on infinite memory demand just received a severe correction https theboard world articles google turboquant deepseek moment memory crash https theboard world static og google turboquant deepseek moment memory crash png theboard ai tech markets finance",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e8f079beccf8"
+      },
+      {
+        "headline": "🎬 Testament (1983)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.youtube.com/watch?v=9o_VkYWDSy4",
+        "publishedAt": "2026-03-30T11:14:11.000Z",
+        "description": "testament 1983 https image tmdb org t p original teboquirnssnvx7czzb07kvyw8f jpg overview it is just another day in the small town of hamlin until something disastrous happens suddenly news breaks that a series of nuclear warheads has been dropped along the eastern seaboard and more locally in california as people begin coping with the devastating aftermath of the attacks many suffer radiation poisoning the wetherly family tries to survive rating 6 375 134 votes trailer link below https www youtube com watch v 9o vkywdsy4 watch here link below https www vidking net embed movie 21259 search movies telegram link below https t me movies4free21bot movies free hd drama sciencefiction",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "75a187d9baf1"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/mullin-homeland-security-secretary-nomination-analysis",
+        "publishedAt": "2026-03-30T11:14:01.000Z",
+        "description": "good analysis on this from the board homeland security mullin nomination analysis explore trump s nomination of markwayne mullin as homeland security secretary analyze the implications for border security and immigration policy https theboard world articles mullin homeland security secretary nomination analysis https theboard world static og mullin homeland security secretary nomination analysis png theboard trump",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "trump"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cb6f719ae478"
+      },
+      {
+        "headline": "Now is the time for scientific societies to guide global research",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nature.com/articles/d41586-025-04155-5",
+        "publishedAt": "2026-03-30T11:26:19.000Z",
+        "description": "now is the time for scientific societies to guide global research nature published online 30 march 2026 doi 10 1038 d41586 025 04155 5 1 electrical engineer ratko magjarevi explains the benefits of joining and leading scientific societies 1 https www nature com articles d41586 025 04155 5 https www nature com articles d41586 025 04155 5",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "6830a75d2c90"
+      },
+      {
+        "headline": "You can now buy an iPhone 17 Pro containing a piece of Steve Jobs' turtleneck — if you’re prepared to commit a crime against taste",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/phones/iphone/you-can-now-buy-an-iphone-17-pro-containing-a-piece-of-steve-jobs-turtleneck-if-youre-prepared-to-commit-a-crime-against-taste",
+        "publishedAt": "2026-03-30T11:14:07.000Z",
+        "description": "you can now buy an iphone 17 pro containing a piece of steve jobs turtleneck if you re prepared to commit a crime against taste https www techradar com phones iphone you can now buy an iphone 17 pro containing a piece of steve jobs turtleneck if youre prepared to commit a crime against taste",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "ba18d6c4e4aa"
+      },
+      {
+        "headline": "🔴 Retail spending fell in March as consumers pull back",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+        "publishedAt": "2026-03-30T11:05:23.000Z",
+        "description": "retail spending fell in march as consumers pull back spending at us retailers fell in march as consumers pulled back amid recessionary fears fueled by the banking crisis https www cnn com 2023 04 14 economy march retail sales index html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f67f8b6b7414"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "[ shawnoster/aya ] docs: generalize pairing examples and update for NIP-44 encryption",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/shawnoster/aya/commit/bc91997e3667b6f7d4ccfa8babcc9561f19db1d0",
+        "publishedAt": "2026-03-30T11:00:16.000Z",
+        "description": "shawnoster aya docs generalize pairing examples and update for nip 44 encryption replace home work examples with alice bob throughout readme agents md and architecture docs labels can be anything names roles hostnames add note that labels are flexible with common patterns listed update security model nacl box nip 44 v2 ecdh chacha20 hmac add encryption py to component map update packet lifecycle to show encrypt decrypt steps add no encrypt flag to dispatch examples note that encryption is on by default for public relays https github com shawnoster aya commit bc91997e3667b6f7d4ccfa8babcc9561f19db1d0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "4f96928e3ec7"
+      },
+      {
+        "headline": "\"Ah yes, *Making the Dollar Worthless Again*—mission accomplished. Gold’s mooning while Washington flirts with default and tariffs that d…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/markets/gold-price-forecast-2031-year-by-year-outlook-2026-update",
+        "publishedAt": "2026-03-30T10:59:34.000Z",
+        "description": "ah yes making the dollar worthless again mission accomplished gold s mooning while washington flirts with default and tariffs that drive allies into yuan arms but sure let s call winning a 34 7t debt bomb and brics hoarding gold like doomsday preppers nothing says economic genius like gutting the dollar s reserves to 58 while trump s trade wars hand china the currency war on a silver platter but hey at least someone s winning and by someone i mean gold bugs and xi jinping https theboard world articles markets gold price forecast 2031 year by year outlook 2026 update",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e7f42fa21f1f"
+      },
+      {
+        "headline": "Yemen’s Houthis side with Iran: Who are they and how much firepower do they have?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/636667-yemens-houthis-iran-war",
+        "publishedAt": "2026-03-30T10:57:21.000Z",
+        "description": "yemen s houthis side with iran who are they and how much firepower do they have from rt the group announced it will join the ongoing hostilities as the us israeli attack on the islamic republic enters its second month the yemeni based houthi movement on saturday announced its formal entry into the conflict in the middle east the group has proclaimed its full support for iran and other resistance factions across the region faced mar 30th 2026 6 44am edt source link https www rt com news 636667 yemens houthis iran war utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260330105234 https www rt com news 636667 yemens houthis iran war utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d8ccee09a6e1"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youran-tab.du-fu.com/",
+        "publishedAt": "2026-03-30T09:16:43.000Z",
+        "description": "v2ex chrome chromium ui arc arc arc spaces ui yandex ui yandex browser ui help edge ui edge edge windows office ui copilot edge devtools devtools vivaldi vivaldi vivaldi ui bug tampermonkey brave brave brave web api showopenfilepicker brave helium helium helium macos chrome chrome chrome chrome mac favicon chrome chrome favicon2 size 24 24px retina chrome chrome favicon library application support google chrome default favicons chrome chrome https youran tab du fu com https www v2ex com t 1202275 reply1",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "00aa544736fd"
+      },
+      {
+        "headline": "The coverage on this is missing the real story.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/the-90-day-spigot-inside-the-petrodollar-war-thesis",
+        "publishedAt": "2026-03-30T11:16:29.000Z",
+        "description": "the coverage on this is missing the real story the 90 day spigot us dismantles non dollar oil markets multi source intelligence assessment of us military operations in venezuela and iran evidence points to a systematic campaign to neutralize every oil supply channel outside the dollar system here is what is actually going on https theboard world articles the 90 day spigot inside the petrodollar war thesis https theboard world static og the 90 day spigot inside the petrodollar war thesis png theboard iran military defense oil energy intelligence",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "military",
+          "defense",
+          "oil",
+          "energy"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "48d0e5392efc"
+      },
+      {
+        "headline": "Explore rising Azerbaijan-Iran tensions after a viral video alleges Iranian betrayal and a retaliatory strike. Understand the geopolitica…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/azerbaijan-iran-tensions-diplomatic-betrayal-strike",
+        "publishedAt": "2026-03-30T11:10:31.000Z",
+        "description": "explore rising azerbaijan iran tensions after a viral video alleges iranian betrayal and a retaliatory strike understand the geopolitical implications azerbaijan iran tensions spike after alleged diplomatic sourced deep dive https theboard world articles azerbaijan iran tensions diplomatic betrayal strike https theboard world static og azerbaijan iran tensions diplomatic betrayal strike png theboard iran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "cef7a9fce3a1"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 79
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 79
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 100
+    }
+  ],
+  "failures": []
+}
