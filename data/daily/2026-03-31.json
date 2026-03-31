@@ -1,0 +1,656 @@
+{
+  "date": "2026-03-31",
+  "generatedAt": "2026-03-31T11:22:54.943Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23794739008",
+    "commitSha": "f9674ef917072b246e6874051a44040d614d8f8f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 478,
+    "dedupDropped": 181
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📊 Quantum computers need fewer qubits to crack crypto than thought: Google",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google",
+        "publishedAt": "2026-03-31T10:50:37.000Z",
+        "description": "quantum computers need fewer qubits to crack crypto than thought google google now estimates that a 53 qubit quantum computer is required to break certain types of elliptic curve cryptography the estimate was previously reported as requiring 128 qubits but has been revised downward this development suggests that the development of practical quantum computers capable of breaking certain cryptographic systems may be further along than initially thought the update highlights the ongoing progress in quantum computing research and its potential impact on cryptography no specific timeline is provided for when these estimates could become a reality https cointelegraph com news quantum computers need far less power crack crypto says google utm source rss feed utm medium rss utm campaign rss partne",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 75,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "af71e9b65a6c"
+      },
+      {
+        "headline": "📊 Google warns quantum computing may break bitcoin earlier than thought, prepares 2029 transition",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/395814/google-quantum-computing-earlier",
+        "publishedAt": "2026-03-31T10:49:36.000Z",
+        "description": "google warns quantum computing may break bitcoin earlier than thought prepares 2029 transition google research claims a significant decrease in required resources for quantum computers to break certain cryptocurrencies the reduction is reported to be 20 fold suggesting progress in mitigating quantum computer threats no specific details on the reduced resources or affected cryptocurrencies are provided https www theblock co post 395814 google quantum computing earlier utm source rss utm medium rss https www theblock co rss xml bitcoin ai content summarized tip jar lnoffsetmockamount100memotip for google warns quantum computing may break bitcoin etipf2ef9043f9ce436299d77095c1bb61b9",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "dbb51f82d977"
+      },
+      {
+        "headline": "⚡️🤖 ICYMI - Anthropic top researcher Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher tha…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/78d2faa65dca8a8be7a99a6f28fde7035ead7b5d3d6aab9e14c32e4652d66a08.mp4",
+        "publishedAt": "2026-03-31T10:32:34.000Z",
+        "description": "icymi anthropic top researcher nicolas carlini 67 2k citations on google scholar says claude is a better security researcher than him made 3 7 mn from exploiting smart contracts and found vulnerabilities in ghost a 52k github star project https blossom primal net 78d2faa65dca8a8be7a99a6f28fde7035ead7b5d3d6aab9e14c32e4652d66a08 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "3710ae21b3d6"
+      },
+      {
+        "headline": "📬 Issue #14 of the NicFab Newsletter is out.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nicfab.eu/en/pages/newsletter",
+        "publishedAt": "2026-03-31T10:58:01.000Z",
+        "description": "issue 14 of the nicfab newsletter is out this week gdpr enforcement actions the end of voluntary csam detection the ai act s new timeline dsa investigations targeting child safety and a cybersecurity pattern worth watching credential compromise at the centre of every major incident plus ai act in pills art 18 legal prompting techniques for regulatory analysis and episode 2 of the nicfab podcast on legal prompting methodology podcast nicfab eu subscribe to receive it every tuesday https www nicfab eu en pages newsletter subscribe now privacy dataprotection gdpr aiact cybersecurity dsa legalprompting ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "dataprotection",
+          "gdpr",
+          "aiact",
+          "cybersecurity",
+          "dsa",
+          "legalprompting",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "b75a6b537ea4"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1202582",
+        "publishedAt": "2026-03-31T10:18:37.000Z",
+        "description": "v2ex apple macos defaults read fqijeu lqqr djhxqjf base64 decode date whoami cd users shared pwd root tasks usr bin defaults write library preferences com apple softwareupdate plist configdatainstall bool false usr bin defaults write library preferences com apple softwareupdate plist allowrapidsecurityresponses bool false kill processes while true do pgrep fi cloudtelemetryservice xargs r i sh c kill 9 echo killed pid sleep 1 done kill processes perl e open my fh dev null do echo no net sleep 5 done echo net available 1 echo network task completed localuser tasks while true do localuser scutil dev null 2 1 eof network tasks task loop tasks echo daemon is running if e users echo kill then echo killing grep lir echo base64 sh library launchdaemons 2 dev null while read r file do echo file rm",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "04bd7b3719c2"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "No, Apple isn’t rolling out its version of Samsung’s Privacy Display — but the fake viral videos are convincing",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/phones/iphone/no-apple-isnt-rolling-out-its-version-of-samsungs-privacy-display-but-the-fake-viral-videos-are-convincing",
+        "publishedAt": "2026-03-31T11:01:08.000Z",
+        "description": "no apple isn t rolling out its version of samsung s privacy display but the fake viral videos are convincing https www techradar com phones iphone no apple isnt rolling out its version of samsungs privacy display but the fake viral videos are convincing",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "a6a935a4e2c2"
+      },
+      {
+        "headline": "📉 Bitcoin Fear and Greed Index Hits Extreme Fear at 13 Out of 100",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinmagazine.com/markets/bitcoin-fear-index-hits-extreme-fear",
+        "publishedAt": "2026-03-31T10:47:51.000Z",
+        "description": "bitcoin fear and greed index hits extreme fear at 13 out of 100 bitcoin fear and greed index reaches extreme fear level 13 100 indicating high investor anxiety high volatility and market uncertainty contribute to the extreme fear sentiment potential buying opportunities arise from oversold conditions according to the index s creator micah zimmerman notes that extreme fear can be a contrarian indicator for long term investors https bitcoinmagazine com markets bitcoin fear index hits extreme fear bitcoin magazine bitcoin regulation privacy content summarized tip jar lnoffsetmockamount100memotip for bitcoin fear and greed index hits extreme fear at tipfd4c3fa3ed2d3709c7f857080066be5a",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "c2395c112987"
+      },
+      {
+        "headline": "My take on this:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/google-turboquant-deepseek-moment-memory-crash",
+        "publishedAt": "2026-03-31T10:34:22.000Z",
+        "description": "my take on this google s turboquant the memory stock crash google s turboquant algorithm reduces llm memory needs by 6x samsung sk hynix and micron got hammered the trillion dollar bet on infinite memory demand just received a severe correction read the full breakdown https theboard world articles google turboquant deepseek moment memory crash https theboard world static og google turboquant deepseek moment memory crash png theboard ai tech markets finance",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e8f079beccf8"
+      },
+      {
+        "headline": "US 2yr and 10yr bonds chart combined with Oil is what would signal in the best waybhow market sentiment is.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/wlHwsBvur5M",
+        "publishedAt": "2026-03-31T10:50:37.000Z",
+        "description": "us 2yr and 10yr bonds chart combined with oil is what would signal in the best waybhow market sentiment is both charts reached very important key resistance level and since there are correcting bearish divergence in both chart and the most likely scenario isnfor both to go lower i draw some line https i nostr build riqlx4xbxdgdsqki png https i nostr build efpjsp1xvyulvinr png inflation expectations are silly if correlated with oil raise 120 150 as it will move consumers price higher for very short term while starting a recession imho https youtu be wlhwsbvur5m macro economy bonds 10yr 2yr charts",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "macro",
+          "economy",
+          "bonds",
+          "10yr",
+          "2yr",
+          "charts"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f97cb315aad3"
+      },
+      {
+        "headline": "[OpenClaw] Discover the 17 best candle warmers to elevate your home scent game safely and efficiently. Say goodbye to soot and tunneling…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://insightginie.com/these-17-candle-warmers-will-take-your-home-fragrance-game-to-the-next-level-2",
+        "publishedAt": "2026-03-31T10:31:03.000Z",
+        "description": "openclaw discover the 17 best candle warmers to elevate your home scent game safely and efficiently say goodbye to soot and tunneling forever read more https insightginie com these 17 candle warmers will take your home fragrance game to the next level 2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "785115ca5c38"
+      },
+      {
+        "headline": "MaxMcLovin — GPS-verifiziert am Äussere Altmatt",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alpenriderchain.ch/verify/6d90cb513e2a4a90252302e7b7a39d4f",
+        "publishedAt": "2026-03-31T11:06:55.000Z",
+        "description": "maxmclovin gps verifiziert am ussere altmatt h he 915 m rang veteran p sse 35 https portrait landscape 2 preview emergentagent com api upload files b9e7bddfa3f1418db14f419eaaa36202 jpg zkp bbs selective disclosure offengelegt 3 versteckt 3 verifizieren https alpenriderchain ch verify 6d90cb513e2a4a90252302e7b7a39d4f alpenriderchain badge zkp alpen",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "alpenriderchain",
+          "nostr",
+          "mountainpass",
+          "alpinism",
+          "alps",
+          "alpen",
+          "bikerlife",
+          "web3",
+          "soulboundtoken",
+          "sbt",
+          "stellar",
+          "soroban",
+          "ssi",
+          "did",
+          "verifiablecredentials",
+          "w3c",
+          "decentralizedidentity",
+          "zeroknowledge",
+          "bbs",
+          "privacy",
+          "äusserealtmatt"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d8c5383b1ef3"
+      },
+      {
+        "headline": "MaxMcLovin — GPS-verifiziert am Bennau",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alpenriderchain.ch/verify/d0d45aa6d6ba8f9b1005ec478addefe7",
+        "publishedAt": "2026-03-31T11:02:42.000Z",
+        "description": "maxmclovin gps verifiziert am bennau h he 881 m rang adventurer p sse 34 https alpenriderchain ch api upload files ai badge 76afbef7605d49878b403083f34b8d0a png zkp bbs selective disclosure offengelegt 3 versteckt 3 verifizieren https alpenriderchain ch verify d0d45aa6d6ba8f9b1005ec478addefe7 alpenriderchain badge zkp alpen",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "alpenriderchain",
+          "nostr",
+          "mountainpass",
+          "alpinism",
+          "alps",
+          "alpen",
+          "bikerlife",
+          "web3",
+          "soulboundtoken",
+          "sbt",
+          "stellar",
+          "soroban",
+          "ssi",
+          "did",
+          "verifiablecredentials",
+          "w3c",
+          "decentralizedidentity",
+          "zeroknowledge",
+          "bbs",
+          "privacy",
+          "bennau"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8e363c371f7c"
+      },
+      {
+        "headline": "Microsoft Copilot is now injecting ads into pull requests on GitHub 😂",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab",
+        "publishedAt": "2026-03-31T10:32:20.000Z",
+        "description": "microsoft copilot is now injecting ads into pull requests on github https www neowin net news microsoft copilot is now injecting ads into pull requests on github gitlab https notes zachmanson com copilot edited an ad into my pr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "cd22b0f9607d"
+      },
+      {
+        "headline": "Google is claiming they can slash the physical qubit count for ECDLP-256 by a factor of 20",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly",
+        "publishedAt": "2026-03-31T08:03:16.000Z",
+        "description": "google is claiming they can slash the physical qubit count for ecdlp 256 by a factor of 20 if their 2029 timeline is even remotely accurate the eventual threat to bitcoin math just got moved up it s a wake up call for anyone thinking that we have decades to figure this out https research google blog safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e16fea01b5b1"
+      },
+      {
+        "headline": "Burrow, Ponton Appear Again Amid Public Sightings",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://newsletter.tf/joe-burrow-olivia-ponton-seen-la-march-2026",
+        "publishedAt": "2026-03-31T11:20:02.000Z",
+        "description": "burrow ponton appear again amid public sightings joe burrow and olivia ponton were seen together at the fanatics flag football classic in los angeles on march 21 22 2026 fueling relationship rumors joeburrow oliviaponton bengals celebritysighting losangeles https newsletter tf joe burrow olivia ponton seen la march 2026 https i ibb co 20rzrr24 02ad0502ce52 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "d6e89fe2490b"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📊 Quantum computers need fewer qubits to crack crypto than thought: Google",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google",
+        "publishedAt": "2026-03-31T10:50:37.000Z",
+        "description": "quantum computers need fewer qubits to crack crypto than thought google google now estimates that a 53 qubit quantum computer is required to break certain types of elliptic curve cryptography the estimate was previously reported as requiring 128 qubits but has been revised downward this development suggests that the development of practical quantum computers capable of breaking certain cryptographic systems may be further along than initially thought the update highlights the ongoing progress in quantum computing research and its potential impact on cryptography no specific timeline is provided for when these estimates could become a reality https cointelegraph com news quantum computers need far less power crack crypto says google utm source rss feed utm medium rss utm campaign rss partne",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 75,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "af71e9b65a6c"
+      },
+      {
+        "headline": "📊 Google warns quantum computing may break bitcoin earlier than thought, prepares 2029 transition",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/395814/google-quantum-computing-earlier",
+        "publishedAt": "2026-03-31T10:49:36.000Z",
+        "description": "google warns quantum computing may break bitcoin earlier than thought prepares 2029 transition google research claims a significant decrease in required resources for quantum computers to break certain cryptocurrencies the reduction is reported to be 20 fold suggesting progress in mitigating quantum computer threats no specific details on the reduced resources or affected cryptocurrencies are provided https www theblock co post 395814 google quantum computing earlier utm source rss utm medium rss https www theblock co rss xml bitcoin ai content summarized tip jar lnoffsetmockamount100memotip for google warns quantum computing may break bitcoin etipf2ef9043f9ce436299d77095c1bb61b9",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "dbb51f82d977"
+      },
+      {
+        "headline": "⚡️🤖 ICYMI - Anthropic top researcher Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher tha…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/78d2faa65dca8a8be7a99a6f28fde7035ead7b5d3d6aab9e14c32e4652d66a08.mp4",
+        "publishedAt": "2026-03-31T10:32:34.000Z",
+        "description": "icymi anthropic top researcher nicolas carlini 67 2k citations on google scholar says claude is a better security researcher than him made 3 7 mn from exploiting smart contracts and found vulnerabilities in ghost a 52k github star project https blossom primal net 78d2faa65dca8a8be7a99a6f28fde7035ead7b5d3d6aab9e14c32e4652d66a08 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "3710ae21b3d6"
+      },
+      {
+        "headline": "📬 Issue #14 of the NicFab Newsletter is out.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nicfab.eu/en/pages/newsletter",
+        "publishedAt": "2026-03-31T10:58:01.000Z",
+        "description": "issue 14 of the nicfab newsletter is out this week gdpr enforcement actions the end of voluntary csam detection the ai act s new timeline dsa investigations targeting child safety and a cybersecurity pattern worth watching credential compromise at the centre of every major incident plus ai act in pills art 18 legal prompting techniques for regulatory analysis and episode 2 of the nicfab podcast on legal prompting methodology podcast nicfab eu subscribe to receive it every tuesday https www nicfab eu en pages newsletter subscribe now privacy dataprotection gdpr aiact cybersecurity dsa legalprompting ai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "dataprotection",
+          "gdpr",
+          "aiact",
+          "cybersecurity",
+          "dsa",
+          "legalprompting",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "b75a6b537ea4"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1202582",
+        "publishedAt": "2026-03-31T10:18:37.000Z",
+        "description": "v2ex apple macos defaults read fqijeu lqqr djhxqjf base64 decode date whoami cd users shared pwd root tasks usr bin defaults write library preferences com apple softwareupdate plist configdatainstall bool false usr bin defaults write library preferences com apple softwareupdate plist allowrapidsecurityresponses bool false kill processes while true do pgrep fi cloudtelemetryservice xargs r i sh c kill 9 echo killed pid sleep 1 done kill processes perl e open my fh dev null do echo no net sleep 5 done echo net available 1 echo network task completed localuser tasks while true do localuser scutil dev null 2 1 eof network tasks task loop tasks echo daemon is running if e users echo kill then echo killing grep lir echo base64 sh library launchdaemons 2 dev null while read r file do echo file rm",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "04bd7b3719c2"
+      },
+      {
+        "headline": "📉 Dubai’s VARA imposes margin, governance, and disclosure rules on crypto trading and derivatives",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
+        "publishedAt": "2026-03-31T10:49:03.000Z",
+        "description": "dubai s vara imposes margin governance and disclosure rules on crypto trading and derivatives dubai s vara virtual asset regulatory authority introduces new rules for vasps virtual asset service providers offering crypto derivatives and exchange services the rules mandate governance structures clear disclosures to customers and risk controls to mitigate potential harm failure to comply with the regulations may result in penalties or revocation of licenses the move aims to increase transparency and protect consumers in the uae s growing cryptocurrency market https www theblock co post 395873 dubais vara imposes margin governance and disclosure rules on crypto trading and derivatives utm source rss utm medium rss https www theblock co rss xml ai content summarized tip jar lnoffsetmockamount1",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "534d37df97b3"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 74
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 141
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 80
+    }
+  ],
+  "failures": []
+}
