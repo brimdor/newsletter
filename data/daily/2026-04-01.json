@@ -1,0 +1,609 @@
+{
+  "date": "2026-04-01",
+  "generatedAt": "2026-04-01T11:24:25.568Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23846168541",
+    "commitSha": "ec68d3988179162ecd3636f4fcf1c28fffd0838e"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 389,
+    "dedupDropped": 176
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📉 ‘No longer a drill’: Google’s latest quantum breakthrough sparks fresh debate over Bitcoin’s long-term security",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/395944/no-longer-drill-googles-latest-quantum-breakthrough-debate-bitcoins-security",
+        "publishedAt": "2026-04-01T11:23:44.000Z",
+        "description": "no longer a drill google s latest quantum breakthrough sparks fresh debate over bitcoin s long term security google researchers claim that quantum computers could potentially break bitcoin s sha 256 algorithm which secures the network the warning suggests that the estimated timeline for a quantum computer to break bitcoin was too optimistic and may be as early as 2023 or 2024 quantum computers have already demonstrated capabilities in breaking certain types of encryption used by bitcoin the impact of a quantum computer on bitcoin s security would depend on the specific implementation and the ability of the network to transition to more secure algorithms https www theblock co post 395944 no longer drill googles latest quantum breakthrough debate bitcoins security utm source rss utm medium r",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "af3ee6c09d40"
+      },
+      {
+        "headline": "📉 Crypto Trading Goes Full Spectacle — Why Polymarket’s Arena Could Be The Next Degens’ Battleground",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinist.com/crypto-trading-goes-spectacle-polymarkets-arena",
+        "publishedAt": "2026-04-01T11:21:40.000Z",
+        "description": "crypto trading goes full spectacle why polymarket s arena could be the next degens battleground polymarket is launching a new platform called the coliseum that combines crypto trading with e sports the platform allows users to bet on the outcome of e sports matches using cryptocurrencies the move aims to create a more engaging and entertaining experience for users blurring the line between prediction markets and traditional sports betting polymarket s ceo says the platform is designed to be degen friendly a slang term for excessive or reckless behavior the launch comes after recent scrutiny from legislators over the ethics of crypto trading platforms https bitcoinist com crypto trading goes spectacle polymarkets arena https bitcoinist com feed privacy ethereum content summarized tip jar ln",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ethereum"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a9cdf2cc47e0"
+      },
+      {
+        "headline": "📊 Bitcoin ETFs post $1.3B in March inflows, first monthly gain of 2026",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-1-3-billion-march-first-monthly-gain-2026",
+        "publishedAt": "2026-04-01T11:24:23.000Z",
+        "description": "bitcoin etfs post 1 3b in march inflows first monthly gain of 2026 us spot bitcoin etfs saw a net outflow of around 500 million in q1 despite march inflows overall sentiment remained weak due to geopolitical tensions net outflows indicate investors are cautious about the market weak sentiment suggests ongoing concerns about bitcoin s price stability and regulatory risks https cointelegraph com news bitcoin etf 1 3 billion march first monthly gain 2026 utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss bitcoin regulation ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin etfs post 1 3b in march inflows first motip6d29d40efe85e20358452d477ed2b376",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e0ad031de024"
+      },
+      {
+        "headline": "mRNA, Mutation, and Medical Betrayal: Dr. Peter McCullough Exposes the Genetic Fallout of the Vaccine Era",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/mrna-mutation-and-medical-betrayal",
+        "publishedAt": "2026-04-01T11:06:21.000Z",
+        "description": "mrna mutation and medical betrayal dr peter mccullough exposes the genetic fallout of the vaccine era from dr peter mccullough md there is so much news i asked alter ai to summarize these developments dr peter mccullough s march 2026 broadcast for focal points substack and america out loud news serves as both a scientific update and a manifesto for medical reform speaking as chief scientific officer of the wellness company and president of the mccullough foundation apr 1st 2026 5 52am edt source link https www thefocalpoints com p mrna mutation and medical betrayal internet archive link https web archive org web 20260401105658 https www thefocalpoints com p mrna mutation and medical betrayal share promote comment with nostr https dissentwatch com boost boost post id 1120725",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "f011902d9187"
+      },
+      {
+        "headline": "Political Polarization Particularly Strong In The US",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/political/political-polarization-particularly-strong-us",
+        "publishedAt": "2026-04-01T10:48:23.000Z",
+        "description": "political polarization particularly strong in the us from zerohedge the share of people who consider themselves on the far left or far right of the political spectrum is particularly high in the united states according to a survey by statista consumer insights as statista s tristan gaudiat details below among u s respondents surveyed between january and december 2025 12 percent placed apr 1st 2026 5 45am edt source link https www zerohedge com political political polarization particularly strong us internet archive link https web archive org web 20260401104430 https www zerohedge com political political polarization particularly strong us share promote comment with nostr https dissentwatch com boost boost post id 1120713",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "be736396d7e5"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📊 Google’s New Quantum Research Reignites Push to Harden Bitcoin",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinmagazine.com/news/googles-quantum-research-harden-bitcoin",
+        "publishedAt": "2026-04-01T11:18:46.000Z",
+        "description": "google s new quantum research reignites push to harden bitcoin google s new quantum research accelerates concerns about bitcoin s cryptography being vulnerable to attacks the push for quantum resistant upgrades is gaining momentum with the network racing against a potential timeline to implement necessary changes this development reignites pressure on bitcoin developers and the wider community to prioritize quantum hardening efforts the urgency of this issue highlights the need for more research and investment in developing quantum resistant cryptographic algorithms a failure to act could leave bitcoin exposed to significant security risks undermining trust in the network https bitcoinmagazine com news googles quantum research harden bitcoin bitcoin magazine bitcoin regulation content summ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2c34803af3e3"
+      },
+      {
+        "headline": "📉 Satoshi’s 2010 Quantum Response Is Getting a 2026 Stress Test as Google Warns Timeline May Be Closer Than Expected",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinmagazine.com/news/satoshis-2010-quantum-response-stress-test",
+        "publishedAt": "2026-04-01T11:18:03.000Z",
+        "description": "satoshi s 2010 quantum response is getting a 2026 stress test as google warns timeline may be closer than expected google research suggests cryptographically relevant quantum computing may be closer than expected satoshi s 2010 quantum response plan a key component of bitcoin s quantum recovery strategy is being reexamined in 2026 the timeline for implementing quantum resistant cryptography in bitcoin may be accelerated due to the rapid progress in quantum computing technology this development could potentially impact bitcoin s security and scalability as it approaches its 13 year milestone the stress test on satoshi s plan aims to ensure bitcoin can withstand potential quantum attacks https bitcoinmagazine com news satoshis 2010 quantum response stress test bitcoin magazine bitcoin regula",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3598617995c7"
+      },
+      {
+        "headline": "📉 CZ: Here’s What The Crypto Industry Must Do To Defend Against Rising Quantum Computing Threat",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinist.com/cz-crypto-must-do-defend-against-quantum-computing",
+        "publishedAt": "2026-04-01T11:20:24.000Z",
+        "description": "cz here s what the crypto industry must do to defend against rising quantum computing threat google research highlights accelerating quantum computing threat to cryptocurrency cz recommends upgrading cryptography to address the issue citing technical and governance challenges no specific solutions or timelines are mentioned for implementing these upgrades cz aims to ease concerns while acknowledging the complexity of implementing cryptographic upgrades https bitcoinist com cz crypto must do defend against quantum computing https bitcoinist com feed ai content summarized tip jar lnoffsetmockamount100memotip for cz here s what the crypto industry must do to deftip8ead9ab915cb976a4bd698da8ba5e67c",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "811570c55e54"
+      },
+      {
+        "headline": "🔴 5G Ücretli mi? Android ve iPhone’da 5G Nasıl Aktif Edilir? 5G Teknolojisi Nedir, Geçiş Süreci Nasıl İşliyor?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.cnnturk.com/turkiye/5g-ucretli-mi-android-ve-iphoneda-5g-nasil-aktif-edilir-5g-teknolojisi-nedir-gecis-sureci-nasil-isliyor-2412425",
+        "publishedAt": "2026-04-01T11:14:53.000Z",
+        "description": "5g cretli mi android ve iphone da 5g nas l aktif edilir 5g teknolojisi nedir ge i s reci nas l i liyor 1 nisan 2026 itibar yla hayata ge irilen 5g teknolojisi y ksek h z ve d k gecikme avantajlar yla kullan c lar n g ndeminde g l bir yer edinmeye ba lad i lk etapta i stanbul ankara ve i zmir gibi b y k ehirlerin merkezi b lgelerinde devreye al nan 5g altyap s n n y l sonuna kadar t m illere kademeli olarak yayg nla t r lmas hedefleniyor bu geli meyle birlikte 5g nedir telefonlarda 5g nas l aktif edilir ve 5g ye ge i ek bir cret gerektiriyor mu gibi sorular daha s k g ndeme gelirken yeni nesil mobil ileti im teknolojisine dair t m merak edilen detaylar da netle meye ba lad https www cnnturk com turkiye 5g ucretli mi android ve iphoneda 5g nasil aktif edilir 5g teknolojisi nedir gecis sureci",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "36b027110dc7"
+      },
+      {
+        "headline": "Anthropic admits Claude Code quotas running out too fast",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits",
+        "publishedAt": "2026-04-01T11:15:38.000Z",
+        "description": "anthropic admits claude code quotas running out too fast https www theregister com 2026 03 31 anthropic claude code limits users of claude code anthropic s ai powered coding assistant are experiencing high token usage and early quota exhaustion disrupting their work anthropic has acknowledged the issue stating that people are hitting usage limits in claude code way faster than expected we re actively investigating it s the top priority for the team https stacker news items 1463281",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "6bfb7ca51c49"
+      },
+      {
+        "headline": "📉 Mitsubishi Goes Blockchain With JPMorgan For Payments Upgrade",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinist.com/mitsubishi-goes-blockchain-with-jpmorgan-for-payments-upgrade",
+        "publishedAt": "2026-04-01T11:21:06.000Z",
+        "description": "mitsubishi goes blockchain with jpmorgan for payments upgrade jpmorgan s blockchain based payment system sees daily transaction volumes approaching 10 billion the bank is rebranding its digital asset services under kinexys shifting away from the onyx label expansion into industrial sector suggests growing interest in institutional adoption of blockchain technology https bitcoinist com mitsubishi goes blockchain with jpmorgan for payments upgrade https bitcoinist com feed regulation privacy ai content summarized tip jar lnoffsetmockamount100memotip for mitsubishi goes blockchain with jpmorgan for paymetip771b641cf77969d42157531dd4580079",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "regulation",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e0ea9fa5d13c"
+      },
+      {
+        "headline": "📊 U.S. Senators Unveil ‘Mined in America Act’ to Reshore BTC Mining, Codify Bitcoin Strategic Reserve",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinmagazine.com/news/u-s-senators-mining-bitcoin-reserve-bill",
+        "publishedAt": "2026-04-01T11:19:16.000Z",
+        "description": "u s senators unveil mined in america act to reshore btc mining codify bitcoin strategic reserve us senators bill cassidy and cynthia lummis introduce mined in america act to reshore us bitcoin mining the bill aims to reduce reliance on chinese hardware and create a strategic bitcoin reserve key provisions include incentives for us based mining operations tax credits and a reserve fund the move seeks to bolster us dominance in the global bitcoin market and improve energy security https bitcoinmagazine com news u s senators mining bitcoin reserve bill bitcoin magazine bitcoin self custody regulation mining privacy content summarized tip jar lnoffsetmockamount100memotip for u s senators unveil mined in america act to restip3691ac6bf1c134fe9f03f71fda97ef88",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "self-custody",
+          "regulation",
+          "mining",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "4c6508a9cd6e"
+      },
+      {
+        "headline": "Amber",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/greenart7c3/Amber",
+        "publishedAt": "2026-04-01T11:16:03.000Z",
+        "description": "amber https github com greenart7c3 amber android nostr nip 46 https scrapbox io nostr nip 46 category androidapp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "93360f47310b"
+      },
+      {
+        "headline": "Fitbit’s health coach gains new features, including nutrition and cycle tracking",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/fitbit-personal-health-coach-new-features-3653938",
+        "publishedAt": "2026-04-01T10:58:09.000Z",
+        "description": "fitbit s health coach gains new features including nutrition and cycle tracking https www androidauthority com fitbit personal health coach new features 3653938",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "af03e8de655d"
+      },
+      {
+        "headline": "Goblin Contemplation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thewordslingingwench.com/",
+        "publishedAt": "2026-04-01T10:56:56.000Z",
+        "description": "https blossom primal net e30f3c1e5c8fb76256a3834bbe5bf4ba165f570c804c58e0faea2f5ba94c2849 png goblin contemplation bing image creator ai art from the word slinging wench write every day https thewordslingingwench com thewordslingingwench aiart goblin goblins goblincore dalle3 bingimagecreator goblins2026 digitalart aiartcommunity",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thewordslingingwench",
+          "aiart",
+          "goblin",
+          "goblins",
+          "goblincore",
+          "dalle3",
+          "bingimagecreator",
+          "goblins2026",
+          "digitalart",
+          "aiartcommunity"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "161c2ea7e93f"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📉 ‘No longer a drill’: Google’s latest quantum breakthrough sparks fresh debate over Bitcoin’s long-term security",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/395944/no-longer-drill-googles-latest-quantum-breakthrough-debate-bitcoins-security",
+        "publishedAt": "2026-04-01T11:23:44.000Z",
+        "description": "no longer a drill google s latest quantum breakthrough sparks fresh debate over bitcoin s long term security google researchers claim that quantum computers could potentially break bitcoin s sha 256 algorithm which secures the network the warning suggests that the estimated timeline for a quantum computer to break bitcoin was too optimistic and may be as early as 2023 or 2024 quantum computers have already demonstrated capabilities in breaking certain types of encryption used by bitcoin the impact of a quantum computer on bitcoin s security would depend on the specific implementation and the ability of the network to transition to more secure algorithms https www theblock co post 395944 no longer drill googles latest quantum breakthrough debate bitcoins security utm source rss utm medium r",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "af3ee6c09d40"
+      },
+      {
+        "headline": "📉 Crypto Trading Goes Full Spectacle — Why Polymarket’s Arena Could Be The Next Degens’ Battleground",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinist.com/crypto-trading-goes-spectacle-polymarkets-arena",
+        "publishedAt": "2026-04-01T11:21:40.000Z",
+        "description": "crypto trading goes full spectacle why polymarket s arena could be the next degens battleground polymarket is launching a new platform called the coliseum that combines crypto trading with e sports the platform allows users to bet on the outcome of e sports matches using cryptocurrencies the move aims to create a more engaging and entertaining experience for users blurring the line between prediction markets and traditional sports betting polymarket s ceo says the platform is designed to be degen friendly a slang term for excessive or reckless behavior the launch comes after recent scrutiny from legislators over the ethics of crypto trading platforms https bitcoinist com crypto trading goes spectacle polymarkets arena https bitcoinist com feed privacy ethereum content summarized tip jar ln",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ethereum"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a9cdf2cc47e0"
+      },
+      {
+        "headline": "📊 Bitcoin ETFs post $1.3B in March inflows, first monthly gain of 2026",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-1-3-billion-march-first-monthly-gain-2026",
+        "publishedAt": "2026-04-01T11:24:23.000Z",
+        "description": "bitcoin etfs post 1 3b in march inflows first monthly gain of 2026 us spot bitcoin etfs saw a net outflow of around 500 million in q1 despite march inflows overall sentiment remained weak due to geopolitical tensions net outflows indicate investors are cautious about the market weak sentiment suggests ongoing concerns about bitcoin s price stability and regulatory risks https cointelegraph com news bitcoin etf 1 3 billion march first monthly gain 2026 utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss bitcoin regulation ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin etfs post 1 3b in march inflows first motip6d29d40efe85e20358452d477ed2b376",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e0ad031de024"
+      },
+      {
+        "headline": "mRNA, Mutation, and Medical Betrayal: Dr. Peter McCullough Exposes the Genetic Fallout of the Vaccine Era",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/mrna-mutation-and-medical-betrayal",
+        "publishedAt": "2026-04-01T11:06:21.000Z",
+        "description": "mrna mutation and medical betrayal dr peter mccullough exposes the genetic fallout of the vaccine era from dr peter mccullough md there is so much news i asked alter ai to summarize these developments dr peter mccullough s march 2026 broadcast for focal points substack and america out loud news serves as both a scientific update and a manifesto for medical reform speaking as chief scientific officer of the wellness company and president of the mccullough foundation apr 1st 2026 5 52am edt source link https www thefocalpoints com p mrna mutation and medical betrayal internet archive link https web archive org web 20260401105658 https www thefocalpoints com p mrna mutation and medical betrayal share promote comment with nostr https dissentwatch com boost boost post id 1120725",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "f011902d9187"
+      },
+      {
+        "headline": "Political Polarization Particularly Strong In The US",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/political/political-polarization-particularly-strong-us",
+        "publishedAt": "2026-04-01T10:48:23.000Z",
+        "description": "political polarization particularly strong in the us from zerohedge the share of people who consider themselves on the far left or far right of the political spectrum is particularly high in the united states according to a survey by statista consumer insights as statista s tristan gaudiat details below among u s respondents surveyed between january and december 2025 12 percent placed apr 1st 2026 5 45am edt source link https www zerohedge com political political polarization particularly strong us internet archive link https web archive org web 20260401104430 https www zerohedge com political political polarization particularly strong us share promote comment with nostr https dissentwatch com boost boost post id 1120713",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "be736396d7e5"
+      },
+      {
+        "headline": "📊 Bitcoin’s drawdown is ‘less dramatic’ this cycle, Fidelity says",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/bitcoin-drawdown-much-less-dramatic-this-cycle-fidelity",
+        "publishedAt": "2026-04-01T11:24:35.000Z",
+        "description": "bitcoin s drawdown is less dramatic this cycle fidelity says a recent bitcoin drawdown may indicate a more mature market with lower volatility the drawdown is shallower than previous cycles suggesting increased institutional confidence this could be a sign that the market has stabilized and investor sentiment is improving reduced volatility may lead to increased adoption and investment in bitcoin https cointelegraph com news bitcoin drawdown much less dramatic this cycle fidelity utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss bitcoin privacy ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin s drawdown is less dramatic this cycle tip7fdf666e5e30732b517abed737c8fef8",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "19450632c624"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 49
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 101
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 63
+    }
+  ],
+  "failures": []
+}
