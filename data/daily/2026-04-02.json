@@ -1,0 +1,584 @@
+{
+  "date": "2026-04-02",
+  "generatedAt": "2026-04-02T11:21:12.292Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23897934771",
+    "commitSha": "bf3f136df1f0a59c566a798bc43cd4261e04918a"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 420,
+    "dedupDropped": 125
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📊 Former FTX head of engineering fined $3.7M to resolve CFTC lawsuit",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/ftx-nishad-singh-cftc-fine-trading-ban",
+        "publishedAt": "2026-04-02T10:42:32.000Z",
+        "description": "former ftx head of engineering fined 3 7m to resolve cftc lawsuit singh cooperated with authorities to avoid significant prison time he faced legal action from the sec cftc and us department of justice over ftx s collapse the exact terms of his cooperation are not publicly disclosed no further updates on singh s current status or potential penalties have been reported https cointelegraph com news ftx nishad singh cftc fine trading ban utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss regulation content summarized tip jar lnoffsetmockamount100memotip for former ftx head of engineering fined 3 7m to resotipb3780e554f2fc755ed7044770cc1482f",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "359d7658d09f"
+      },
+      {
+        "headline": "Samsung’s QuickStar update lets you customize your Quick Settings like never before",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/one-ui-8-5-quickstar-good-lock-update-3654315",
+        "publishedAt": "2026-04-02T11:05:12.000Z",
+        "description": "samsung s quickstar update lets you customize your quick settings like never before https www androidauthority com one ui 8 5 quickstar good lock update 3654315",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "99584e8bf94d"
+      },
+      {
+        "headline": "📊 Non-custodial wallet provider Safe unveils security network to turn SAFE tokens into economic good",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/396147/non-custodial-wallet-safe-security-safenet-tokens",
+        "publishedAt": "2026-04-02T10:41:04.000Z",
+        "description": "non custodial wallet provider safe unveils security network to turn safe tokens into economic good safenet s goal is to protect users from common security threats in the bitcoin space the platform aims to prevent phishing schemes malicious code deployments and other types of attacks safenet s focus is on preventing transaction errors and ensuring secure user experience no specific details provided about how safenet achieves these goals https www theblock co post 396147 non custodial wallet safe security safenet tokens utm source rss utm medium rss https www theblock co rss xml self custody regulation privacy ai content summarized tip jar lnoffsetmockamount100memotip for non custodial wallet provider safe unveils securittipc735e4f010c9c5fa5e34ddff87a33a34",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "self-custody",
+          "regulation",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bfb85bc95765"
+      },
+      {
+        "headline": "[ dwebxr/aegis ] refactor: remove dead isAlreadyInTarget, add reason translation tests",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dwebxr/aegis/commit/15632b650b568dd8e1609b6e93491853bbbde608",
+        "publishedAt": "2026-04-02T11:02:25.000Z",
+        "description": "dwebxr aegis refactor remove dead isalreadyintarget add reason translation tests remove isalreadyintarget duplicated by parsetranslationresponse remove redundant isalreadyintarget check in engine ts add 5 tests reason json parsing plain text fallback already in target via parsetranslationresponse contentcard translatedreason display readme update test count to 6 356 co authored by claude opus 4 6 1m context https github com dwebxr aegis commit 15632b650b568dd8e1609b6e93491853bbbde608",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "5b94667cdca6"
+      },
+      {
+        "headline": "📊 Bitcoin dips, oil rises as Trump addresses nation on war in Iran",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/trump-is-going-to-give-a-key-address-about-iran",
+        "publishedAt": "2026-04-02T10:43:13.000Z",
+        "description": "bitcoin dips oil rises as trump addresses nation on war in iran us president donald trump stated the military is very close to ending its conflict in iran the statement led to a surge in oil prices with brent crude up 1 2 and west texas intermediate wti up 1 5 bitcoin price also increased rising by around 3 on the day no direct connection between trump s comments and bitcoin price movement was explicitly stated https cointelegraph com news trump is going to give a key address about iran utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss bitcoin ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin dips oil rises as trump addresses nation tip1f763dd54d04f3100ae0594589a1f076",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dd068371aa45"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Possible US Government iPhone Hacking Tool Leaked",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html",
+        "publishedAt": "2026-04-02T11:04:11.000Z",
+        "description": "possible us government iphone hacking tool leaked https www schneier com blog archives 2026 04 possible us government iphone hacking tool leaked html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fc99c4de7c78"
+      },
+      {
+        "headline": "Hawks Tame Warriors in Resurgent Performance",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://newsletter.tf/atlanta-hawks-beat-warriors-march-21-2026",
+        "publishedAt": "2026-04-02T10:52:03.000Z",
+        "description": "hawks tame warriors in resurgent performance atlanta hawks won against golden state warriors on march 21 2026 with dyson daniels scoring 28 points learn how this affects the hawks season hawkswin nbanews dysondaniels warriorsloss atlantasports https newsletter tf atlanta hawks beat warriors march 21 2026 https i ibb co dw5wmvdz 35b04ab1cde1 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b06fc8d61c47"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1203161",
+        "publishedAt": "2026-04-02T11:17:23.000Z",
+        "description": "v2ex ai android leader android 1 p7 kotlin compose mtu2mda3odu4mzu https www v2ex com t 1203161 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "aedb57f8f96b"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1120876",
+        "publishedAt": "2026-04-02T10:00:03.000Z",
+        "description": "trending right now iran rejects trump claim that it asked for a ceasefire photos videos from rt the us president is set to deliver a speech on the middle east war later tonight welcome to rt s live coverage of the us israeli war on iran and the wider turmoil across the middle east which continues to be affected by missile and drone strikes from both sides as the war on iran enters day join the discussion at https dissentwatch com boost boost post id 1120876 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "fe3efd5b5e27"
+      },
+      {
+        "headline": "This deserves more attention.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/chinese-medical-ai-revolution-beijing-hospitals-race-ahead",
+        "publishedAt": "2026-04-02T11:09:34.000Z",
+        "description": "this deserves more attention chinese medical ai revolution beijing deploys while the west debates chinese hospitals deploy ai diagnostic systems with 85 accuracy while western regulators remain stuck in committee the board s asia pacific research division reveals the growing gap https theboard world articles chinese medical ai revolution beijing hospitals race ahead https theboard world static og chinese medical ai revolution beijing hospitals race ahead png theboard china ai tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "china",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "3df5e046c770"
+      },
+      {
+        "headline": "📉 Crypto ATMs Face Ban In Massachusetts City Amid Scam Concerns",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinist.com/crypto-atms-face-ban-in-massachusetts-city-amid-scam-concerns",
+        "publishedAt": "2026-04-02T10:40:43.000Z",
+        "description": "crypto atms face ban in massachusetts city amid scam concerns haverhill massachusetts proposes a citywide ban on crypto atms and kiosks within 60 days non compliant operators face 300 daily fines city officials aim to address issues related to unregulated cryptocurrency businesses https bitcoinist com crypto atms face ban in massachusetts city amid scam concerns https bitcoinist com feed bitcoin privacy ai content summarized tip jar lnoffsetmockamount100memotip for crypto atms face ban in massachusetts city amid sctip9261e22566225fc51d959521399b3777",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "0f51f978c89a"
+      },
+      {
+        "headline": "2026/03/18 - Иноагент сын Тины Канделаки",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://ya.ru/search/touch?text=%D1%81%D1%8B%D0%BD+%D1%82%D0%B8%D0%BD%D1%8B+%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D0%B0%D0%BA%D0%B8+%D0%BB%D0%B5%D0%BE+lleo.me",
+        "publishedAt": "2026-04-02T11:11:43.000Z",
+        "description": "2026 03 18 ip 18 99 freebsd 8 2 lleo me dnevnik 2006 01 01 pozdravlau 3 1 tag search 20 tag search https lleo me dnevnik 2026 03 18 screenshot 20260318 002843 webp https ya ru search touch text d1 81 d1 8b d0 bd d1 82 d0 b8 d0 bd d1 8b d0 ba d0 b0 d0 bd d0 b4 d0 b5 d0 bb d0 b0 d0 ba d0 b8 d0 bb d0 b5 d0 be lleo me https lleo me dnevnik 2026 03 18 screenshot 20260318 002726 webp 24 15 lleo me de https tvcenter ru zvezdy 20 let lzhi kak vera glagoleva zastavila doch nazyvat papoy chuzhogo muzhchinu skryv imya nastoyaschego ottsa 12 tvcenter https lleo me dnevnik 2026 03 18",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4047a7b705fd"
+      },
+      {
+        "headline": "New York is determined to become a failed state.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/557c37b2545307a0184aa8eeaa91d2df4821dd881d48e80fe5c119d9d71e921c.jpg",
+        "publishedAt": "2026-04-02T11:08:59.000Z",
+        "description": "new york is determined to become a failed state imagine you bought a home decades ago stuck with new york through all it s graft corruption while saving for retirement this lowers the tax exempt threshold to 750 000 targeting real estate cash and investments while increasing the top tax rate to 50 it includes a new surcharge on realized capital gains exceeding 500 000 annually you hear that sucking sound that s people with functioning brains packing up and heading south florida real estate about to get an influx if this passes george bodine on x https blossom primal net 557c37b2545307a0184aa8eeaa91d2df4821dd881d48e80fe5c119d9d71e921c jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "68bcd5dd3d20"
+      },
+      {
+        "headline": "Nvidia's restarting RTX 3060 production, and it's good news for gamers, great news for homelabbers",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.xda-developers.com/nvidias-restarting-rtx-3060-production-good-news-gamers-homelabbers",
+        "publishedAt": "2026-04-02T11:00:20.000Z",
+        "description": "nvidia s restarting rtx 3060 production and it s good news for gamers great news for homelabbers https www xda developers com nvidias restarting rtx 3060 production good news gamers homelabbers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "38d48ccbb9f6"
+      },
+      {
+        "headline": "[ soapbox-pub/ditto ] Improve dialog UX on mobile: rounded corners, button spacing, keyboard awareness",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/soapbox-pub/ditto/commit/ad604eae6894e64f60d4472bda9cdc45b0a18f9d",
+        "publishedAt": "2026-04-02T11:00:20.000Z",
+        "description": "soapbox pub ditto improve dialog ux on mobile rounded corners button spacing keyboard awareness add rounded xl to dialog and alertdialog was sm rounded lg only add consistent gap 2 to footer buttons on mobile was no gap use w calc 100 2rem for mobile side margins push dialogs to top of viewport only when keyboard is visible via keyboard visible class on toggled by usekeyboardvisible mount usekeyboardvisible globally in mainlayout so the class is always available for css only consumers https github com soapbox pub ditto commit ad604eae6894e64f60d4472bda9cdc45b0a18f9d",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "166f156a33c3"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📊 Former FTX head of engineering fined $3.7M to resolve CFTC lawsuit",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/ftx-nishad-singh-cftc-fine-trading-ban",
+        "publishedAt": "2026-04-02T10:42:32.000Z",
+        "description": "former ftx head of engineering fined 3 7m to resolve cftc lawsuit singh cooperated with authorities to avoid significant prison time he faced legal action from the sec cftc and us department of justice over ftx s collapse the exact terms of his cooperation are not publicly disclosed no further updates on singh s current status or potential penalties have been reported https cointelegraph com news ftx nishad singh cftc fine trading ban utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss regulation content summarized tip jar lnoffsetmockamount100memotip for former ftx head of engineering fined 3 7m to resotipb3780e554f2fc755ed7044770cc1482f",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "regulation"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "359d7658d09f"
+      },
+      {
+        "headline": "Samsung’s QuickStar update lets you customize your Quick Settings like never before",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/one-ui-8-5-quickstar-good-lock-update-3654315",
+        "publishedAt": "2026-04-02T11:05:12.000Z",
+        "description": "samsung s quickstar update lets you customize your quick settings like never before https www androidauthority com one ui 8 5 quickstar good lock update 3654315",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "99584e8bf94d"
+      },
+      {
+        "headline": "📊 Non-custodial wallet provider Safe unveils security network to turn SAFE tokens into economic good",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theblock.co/post/396147/non-custodial-wallet-safe-security-safenet-tokens",
+        "publishedAt": "2026-04-02T10:41:04.000Z",
+        "description": "non custodial wallet provider safe unveils security network to turn safe tokens into economic good safenet s goal is to protect users from common security threats in the bitcoin space the platform aims to prevent phishing schemes malicious code deployments and other types of attacks safenet s focus is on preventing transaction errors and ensuring secure user experience no specific details provided about how safenet achieves these goals https www theblock co post 396147 non custodial wallet safe security safenet tokens utm source rss utm medium rss https www theblock co rss xml self custody regulation privacy ai content summarized tip jar lnoffsetmockamount100memotip for non custodial wallet provider safe unveils securittipc735e4f010c9c5fa5e34ddff87a33a34",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "self-custody",
+          "regulation",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bfb85bc95765"
+      },
+      {
+        "headline": "[ dwebxr/aegis ] refactor: remove dead isAlreadyInTarget, add reason translation tests",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/dwebxr/aegis/commit/15632b650b568dd8e1609b6e93491853bbbde608",
+        "publishedAt": "2026-04-02T11:02:25.000Z",
+        "description": "dwebxr aegis refactor remove dead isalreadyintarget add reason translation tests remove isalreadyintarget duplicated by parsetranslationresponse remove redundant isalreadyintarget check in engine ts add 5 tests reason json parsing plain text fallback already in target via parsetranslationresponse contentcard translatedreason display readme update test count to 6 356 co authored by claude opus 4 6 1m context https github com dwebxr aegis commit 15632b650b568dd8e1609b6e93491853bbbde608",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "5b94667cdca6"
+      },
+      {
+        "headline": "📊 Bitcoin dips, oil rises as Trump addresses nation on war in Iran",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cointelegraph.com/news/trump-is-going-to-give-a-key-address-about-iran",
+        "publishedAt": "2026-04-02T10:43:13.000Z",
+        "description": "bitcoin dips oil rises as trump addresses nation on war in iran us president donald trump stated the military is very close to ending its conflict in iran the statement led to a surge in oil prices with brent crude up 1 2 and west texas intermediate wti up 1 5 bitcoin price also increased rising by around 3 on the day no direct connection between trump s comments and bitcoin price movement was explicitly stated https cointelegraph com news trump is going to give a key address about iran utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss bitcoin ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin dips oil rises as trump addresses nation tip1f763dd54d04f3100ae0594589a1f076",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dd068371aa45"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/missile-interceptions-over-tel-aviv-mark-escalation-in-iran-israel-war",
+        "publishedAt": "2026-04-02T10:33:34.000Z",
+        "description": "good analysis on this from the board missile interceptions over tel aviv mark escalation in multiple iranian and hezbollah missile waves targeted tel aviv on march 4 2026 with israel s air defenses intercepting several projectiles amid intensifying https theboard world articles missile interceptions over tel aviv mark escalation in iran israel war https theboard world static og missile interceptions over tel aviv mark escalation in iran israel war png theboard iran israel war",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "israel",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cf0b9b71bfff"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 104
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 141
+    }
+  ],
+  "failures": []
+}
