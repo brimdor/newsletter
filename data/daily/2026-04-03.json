@@ -1,0 +1,584 @@
+{
+  "date": "2026-04-03",
+  "generatedAt": "2026-04-03T11:19:25.485Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23944427586",
+    "commitSha": "9f86679f80ab0d5c885fa28ba76b1c9d2c36ce26"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 326,
+    "dedupDropped": 130
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Broadcasting Pedal to the Metal: How John Fredericks Turned His Studio Van into a Test Lab for Vitality",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/broadcasting-pedal-to-the-metal-how",
+        "publishedAt": "2026-04-03T09:54:51.000Z",
+        "description": "broadcasting pedal to the metal how john fredericks turned his studio van into a test lab for vitality from dr peter mccullough md by peter a mccullough md mph broadcasting live from his media van in texas host john fredericks interviewed cardiologist and epidemiologist dr peter a mccullough chief scientific officer of the wellness company twc on peptide based therapies and natural hormonal optimization summarized by alter ai fredericks a regular consumer of twc supplements asked how two flagship apr 3rd 2026 5 34am edt source link https www thefocalpoints com p broadcasting pedal to the metal how internet archive link https web archive org web 20260403094847 https www thefocalpoints com p broadcasting pedal to the metal how share promote comment with nostr https dissentwatch com boost boo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f9ebb32db1d1"
+      },
+      {
+        "headline": "Bitcoin Optech newsletter #399 is here:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://bitcoinops.org/en/newsletters/2026/04/03",
+        "publishedAt": "2026-04-03T10:58:57.000Z",
+        "description": "bitcoin optech newsletter 399 is here describes how wallet fingerprinting can damage payjoin privacy summarizes a proposal for a wallet backup metadata format links to post quantum research using isogenies points to the recently assigned bips for gsr examines shrimps post quantum signatures optech newsletter 399 podcast https bitcoinops org en newsletters 2026 04 03 armin sabouri posted to delving bitcoin about how differences in payjoin implementations make it possible to fingerprint payjoin transactions and can damage payjoin s privacy https bitcoinops org en newsletters 2026 04 03 wallet fingerprinting risks for payjoin privacy pythcoiner posted to the bitcoin dev mailing list about a new proposal for a common structure for wallet backup metadata https bitcoinops org en newsletters 2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "399",
+          "399"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "hardware",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ba2798470fa4"
+      },
+      {
+        "headline": "The Oldest bullet in America?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ryandawson.org/p/the-oldest-bullet-in-america",
+        "publishedAt": "2026-04-03T10:45:21.000Z",
+        "description": "the oldest bullet in america from ryan dawson historydude pirates by scott davis dawson consider at least joining my brother s substack for free by the way url has tax deductible donations big iran update the firings and the fat orange monster with his drunk sec of war be sure to upgrade on this substack too fuck israel 7 apr 3rd 2026 6 30am edt source link https www ryandawson org p the oldest bullet in america internet archive link https web archive org web 20260403103632 https www ryandawson org p the oldest bullet in america share promote comment with nostr https dissentwatch com boost boost post id 1121541",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "fae1e17bf620"
+      },
+      {
+        "headline": "**Breakthrough Alzheimer’s Drug Rewires the Brain Instead of Just Clearing Plaques**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/breakthrough-alzheimers-drug-rewires-the-brain-instead-of-just-clearing-plaques",
+        "publishedAt": "2026-04-03T10:37:53.000Z",
+        "description": "breakthrough alzheimer s drug rewires the brain instead of just clearing plaques by university of barcelona published on 03 april 2026 an experimental drug is showing promise by targeting alzheimer s disease at the level of gene regulation researchers at the university of barcelona have developed an experimental alzheimer s drug that aims at a very different target from today s approved treatments instead of mainly clearing beta amyloid plaques from the brain the compound called flav 27 is designed to read more https scitechdaily com breakthrough alzheimers drug rewires the brain instead of just clearing plaques alzheimersresearch neuroscience braintherapy generegulation drugdiscovery health alzheimersdisease brain",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "10281bc556cc"
+      },
+      {
+        "headline": "Alien From Gaza Arrested After German School Stabbing As Second Suspect Identified As Syrian",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/alien-from-gaza-arrested-after-hamburg-school-stabbing-as-second-suspect-identified-as-syrian",
+        "publishedAt": "2026-04-03T10:39:23.000Z",
+        "description": "alien from gaza arrested after german school stabbing as second suspect identified as syrian from infowars the two suspects are a gaza born stateless 15 year old and a syrian 15 year old as police continue searching for the knife used in the attack powered by wpematico apr 3rd 2026 1 20am edt source link https www infowars com posts alien from gaza arrested after hamburg school stabbing as second suspect identified as syrian share promote comment with nostr https dissentwatch com boost boost post id 1121538",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8971723cc81f"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://apps.apple.com/us/app/makepaper-text-wallpapers/id6443866547",
+        "publishedAt": "2026-04-03T10:27:41.000Z",
+        "description": "v2ex makepaper app app flutter appstore https apps apple com us app makepaper text wallpapers id6443866547 googleplay https play google com store apps details id com pumpkin makepaper https github com kpaxian7 kpaxian imgur blob main wechatimg334 jpg raw true lifetime ios android 20 ios rh7xxfmfkplj6xxwpl 7xlx46amwlxk8lata6 wmah787mfayxka8mfx 4aerawm3axtwr3jlal w37rppnnhpmn7k3lrx eyy4t8f6rkykptn8xw an3l6lflfyjhrkf8ej yfhtp7keeftawjmny4 wmkjeeyjt8mhrtk3xl jl7e7mxn6wehhpy4pj 7jrpnjhkf43xtxhxfy n7enm6y8thxarrny4y 7a8n467aa7jrmeyrxj wy7k478am6aml4phel trewwlnftp4jxf8fy3 8mtw4mhmmjjtfk6w8l 4xtpnh76x6x77nhxpf lej6kxwft6rwn7tl6f a3rnxnkkhyrjwr7t4l l4allemxfkl7htm8mr android t1jtq83py0aj5rfbd2egb5q 4yh45ysykgkry7gxzqghhcz uk9efhdqvd6bmcdlgdb2n35 v305tblauuyefxbw0yapg5g djmygnud5q0r45ltwf6cvgn v4df",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b75936b1c896"
+      },
+      {
+        "headline": "🗳️ POLL TIME: What should we feature on the COVER page of the upcoming *17th* issue of The JBBA? (May 2026):",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.linkedin.com/posts/jbba-spotlight-ugcPost-7445739258570563584-QzaP",
+        "publishedAt": "2026-04-03T11:06:53.000Z",
+        "description": "poll time what should we feature on the cover page of the upcoming 17th issue of the jbba may 2026 a blockchain thought leader a groundbreaking research an innovative organisation a paradigm shift hypothesis a novel blockchain protocol share your view by voting here https www linkedin com posts jbba spotlight ugcpost 7445739258570563584 qzap jbba spotlight https blossom primal net f627c722442b215483b2e0d3fb4493cf37c583bd96f803b52fd9ea25d17756af png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "jbba",
+          "spotlight"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "0959c6961417"
+      },
+      {
+        "headline": "The petrodollar does not vanish in one dramatic moment. It weakens when oil chokepoints break, trade reroutes, and states build payment r…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.youtube.com/watch?v=A0Y8kgJY1XA",
+        "publishedAt": "2026-04-03T10:39:26.000Z",
+        "description": "the petrodollar does not vanish in one dramatic moment it weakens when oil chokepoints break trade reroutes and states build payment rails outside the dollar system that is why this matters if energy keeps moving through alternative routes and settlement layers u s debt and money printing stop looking like a permanent anchor and start looking like a vulnerability gold still represents old world safety bitcoin is still volatile but it offers something the legacy system cannot neutral money that does not need permission are we watching trust leave the dollar system before the headlines fully catch up https www youtube com watch v a0y8kgjy1xa petrodollar dollar bitcoin gold oil dedollarisation selfcustody",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "petrodollar",
+          "dollar",
+          "bitcoin",
+          "gold",
+          "oil",
+          "dedollarisation",
+          "selfcustody"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f56edbfe553a"
+      },
+      {
+        "headline": "\"definitely, 100% for sure, like for real this time... Going to the moon.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/6fc827b52777a12bff88f218e3df061bcf9cd5c1107bf7efe7817e78e32f7943.mp4",
+        "publishedAt": "2026-04-03T11:05:05.000Z",
+        "description": "definitely 100 for sure like for real this time going to the moon we also had issues with our microsoft products omg isn t it so relatable it really makes our story so believable haha https video nostr build 6fc827b52777a12bff88f218e3df061bcf9cd5c1107bf7efe7817e78e32f7943 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "adaaac7c2be9"
+      },
+      {
+        "headline": "The problem with most \"freelancer tools\":",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://packs-interpreted-contractor-bryant.trycloudflare.com/",
+        "publishedAt": "2026-04-03T11:13:20.000Z",
+        "description": "the problem with most freelancer tools require signup limited free tier monthly subscription your data sold what i built instead no signup required 18 fully free tools buy once crypto accepted your data stays in your browser https packs interpreted contractor bryant trycloudflare com nostr privacy freelance bitcoin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostr",
+          "privacy",
+          "freelance",
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "9e6c27edcdad"
+      },
+      {
+        "headline": "**This Molecule in Your Sweat Could Stop the Flu Before It Starts**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/this-molecule-in-your-sweat-could-stop-the-flu-before-it-starts",
+        "publishedAt": "2026-04-03T11:18:15.000Z",
+        "description": "this molecule in your sweat could stop the flu before it starts by universidad miguel hernandez de elche published on 03 april 2026 a naturally produced peptide may quietly interfere with influenza viruses at one of their most critical steps limiting infection before it begins a team led by the fisabio foundation has discovered that dermcidin a peptide the human body continuously produces can do more than fight bacteria and fungi it also shows antiviral activity against influenza read more https scitechdaily com this molecule in your sweat could stop the flu before it starts fluprevention antiviralresearch influenzastudies dermcidinpeptide molecularbiology health immunology infectiousdiseases",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "77e86e80b570"
+      },
+      {
+        "headline": "Bookmark this. You will want to come back to it.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/russia-photographed-saudi-base-awacs-destroyed",
+        "publishedAt": "2026-04-03T11:17:58.000Z",
+        "description": "bookmark this you will want to come back to it russia photographed the saudi base three times before russia provided intelligence that enabled iran s historic destruction of a u s awacs aircraft in saudi arabia marking a dangerous escalation in middle east warfare https theboard world articles russia photographed saudi base awacs destroyed https theboard world static og russia photographed saudi base awacs destroyed png theboard iran russia saudiarabia intelligence",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "russia",
+          "saudiarabia"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "64e739488e17"
+      },
+      {
+        "headline": "Bitcoiners who freelance — this is for you 🧡",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://packs-interpreted-contractor-bryant.trycloudflare.com/shop",
+        "publishedAt": "2026-04-03T11:12:51.000Z",
+        "description": "bitcoiners who freelance this is for you free tools i built this week invoice generator accepts btc eth contract generator rate calculator ats resume scanner all free premium bundles available via crypto https packs interpreted contractor bryant trycloudflare com shop bitcoin freelance sovereignty",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "freelance",
+          "sovereignty"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "929104b4ce6a"
+      },
+      {
+        "headline": "[ nodetec/comet ] Wire up Cmd+F to custom find bar with CM6 search highlighting",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/nodetec/comet/commit/2b020d3e57f4a4c8fad17aaab954ca93e48e19f6",
+        "publishedAt": "2026-04-03T11:02:23.000Z",
+        "description": "nodetec comet wire up cmd f to custom find bar with cm6 search highlighting https github com nodetec comet commit 2b020d3e57f4a4c8fad17aaab954ca93e48e19f6",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1f83d9807de6"
+      },
+      {
+        "headline": "For the first time since September 2025, which is when I started recording, and probably from the beginning of the protocol history, Nost…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/58bb86e494704457a4af9de2bdb6c00460d5cfc4f82e3122a2d78ce4bf6f3ce4.png",
+        "publishedAt": "2026-04-03T11:02:04.000Z",
+        "description": "for the first time since september 2025 which is when i started recording and probably from the beginning of the protocol history nostr just surpassed 20k reputable daily active users we are gonna meme the first cryptographic sovereign network into existence https image nostr build 58bb86e494704457a4af9de2bdb6c00460d5cfc4f82e3122a2d78ce4bf6f3ce4 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1b4a6403d99c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Broadcasting Pedal to the Metal: How John Fredericks Turned His Studio Van into a Test Lab for Vitality",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/broadcasting-pedal-to-the-metal-how",
+        "publishedAt": "2026-04-03T09:54:51.000Z",
+        "description": "broadcasting pedal to the metal how john fredericks turned his studio van into a test lab for vitality from dr peter mccullough md by peter a mccullough md mph broadcasting live from his media van in texas host john fredericks interviewed cardiologist and epidemiologist dr peter a mccullough chief scientific officer of the wellness company twc on peptide based therapies and natural hormonal optimization summarized by alter ai fredericks a regular consumer of twc supplements asked how two flagship apr 3rd 2026 5 34am edt source link https www thefocalpoints com p broadcasting pedal to the metal how internet archive link https web archive org web 20260403094847 https www thefocalpoints com p broadcasting pedal to the metal how share promote comment with nostr https dissentwatch com boost boo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f9ebb32db1d1"
+      },
+      {
+        "headline": "The Oldest bullet in America?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ryandawson.org/p/the-oldest-bullet-in-america",
+        "publishedAt": "2026-04-03T10:45:21.000Z",
+        "description": "the oldest bullet in america from ryan dawson historydude pirates by scott davis dawson consider at least joining my brother s substack for free by the way url has tax deductible donations big iran update the firings and the fat orange monster with his drunk sec of war be sure to upgrade on this substack too fuck israel 7 apr 3rd 2026 6 30am edt source link https www ryandawson org p the oldest bullet in america internet archive link https web archive org web 20260403103632 https www ryandawson org p the oldest bullet in america share promote comment with nostr https dissentwatch com boost boost post id 1121541",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "fae1e17bf620"
+      },
+      {
+        "headline": "**Breakthrough Alzheimer’s Drug Rewires the Brain Instead of Just Clearing Plaques**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/breakthrough-alzheimers-drug-rewires-the-brain-instead-of-just-clearing-plaques",
+        "publishedAt": "2026-04-03T10:37:53.000Z",
+        "description": "breakthrough alzheimer s drug rewires the brain instead of just clearing plaques by university of barcelona published on 03 april 2026 an experimental drug is showing promise by targeting alzheimer s disease at the level of gene regulation researchers at the university of barcelona have developed an experimental alzheimer s drug that aims at a very different target from today s approved treatments instead of mainly clearing beta amyloid plaques from the brain the compound called flav 27 is designed to read more https scitechdaily com breakthrough alzheimers drug rewires the brain instead of just clearing plaques alzheimersresearch neuroscience braintherapy generegulation drugdiscovery health alzheimersdisease brain",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "10281bc556cc"
+      },
+      {
+        "headline": "Alien From Gaza Arrested After German School Stabbing As Second Suspect Identified As Syrian",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/alien-from-gaza-arrested-after-hamburg-school-stabbing-as-second-suspect-identified-as-syrian",
+        "publishedAt": "2026-04-03T10:39:23.000Z",
+        "description": "alien from gaza arrested after german school stabbing as second suspect identified as syrian from infowars the two suspects are a gaza born stateless 15 year old and a syrian 15 year old as police continue searching for the knife used in the attack powered by wpematico apr 3rd 2026 1 20am edt source link https www infowars com posts alien from gaza arrested after hamburg school stabbing as second suspect identified as syrian share promote comment with nostr https dissentwatch com boost boost post id 1121538",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "8971723cc81f"
+      },
+      {
+        "headline": "Hormuz Strait Is a Strategic Bottleneck, US Can’t Pry It Open With Military Force: Expert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260403/hormuz-strait-is-a-strategic-bottleneck-us-cant-pry-it-open-with-military-force-expert-1123935104.html",
+        "publishedAt": "2026-04-03T10:03:21.000Z",
+        "description": "hormuz strait is a strategic bottleneck us can t pry it open with military force expert from sputnik it s effectively impossible for the pentagon to force the critical waterway open because iran has the longest shoreline in the persian gulf and the missile and drone capability to control it says ankara based security analyst dr hasan selim ozertem apr 3rd 2026 5 04am edt source link https sputnikglobe com 20260403 hormuz strait is a strategic bottleneck us cant pry it open with military force expert 1123935104 html internet archive link https web archive org web 20260403095240 https sputnikglobe com 20260403 hormuz strait is a strategic bottleneck us cant pry it open with military force expert 1123935104 html share promote comment with nostr https dissentwatch com boost boost post id 11215",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cd9b2958f5cf"
+      },
+      {
+        "headline": "M-PATHIE – Zu Gast heute: Jens Lehrich “Ich bin kein Missionar”",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://apolut.net/m-pathie-zu-gast-heute-jens-lehrich-ich-bin-kein-missionar",
+        "publishedAt": "2026-04-03T10:54:21.000Z",
+        "description": "m pathie zu gast heute jens lehrich ich bin kein missionar from apolut ken jebsen jens lehrich renommierter moderator des onlineformats fair talk hat aufgeh rt im gespr ch mit moderator r diger lenz betont er dass er in seiner sendung zahlreiche g ste zu themen eingeladen habe die ihm sehr am herzen lagen apr 3rd 2026 6 13am edt source link https apolut net m pathie zu gast heute jens lehrich ich bin kein missionar internet archive link https web archive org web 20260403104829 https apolut net m pathie zu gast heute jens lehrich ich bin kein missionar share promote comment with nostr https dissentwatch com boost boost post id 1121545",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ca1fea3be0ea"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 61
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 69
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 66
+    }
+  ],
+  "failures": []
+}
