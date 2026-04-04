@@ -1,0 +1,674 @@
+{
+  "date": "2026-04-04",
+  "generatedAt": "2026-04-04T11:12:11.081Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "23977715778",
+    "commitSha": "98fe8cdce8425e8bad6042eb66eaf7c54cc9873c"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 158,
+    "dedupDropped": 26
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Shutdown: Trump Signs Memo To Pay DHS Employees All Backpay Owed",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/shutdown-trump-signs-memo-to-pay-dhs-employees-all-backpay-owed",
+        "publishedAt": "2026-04-04T10:40:22.000Z",
+        "description": "shutdown trump signs memo to pay dhs employees all backpay owed from infowars department of homeland security employees will be paid all compensation and benefits owed during the seven week government shutdown thanks to a new memo signed by president trump apr 4th 2026 12 52am edt source link https www infowars com posts shutdown trump signs memo to pay dhs employees all backpay owed share promote comment with nostr https dissentwatch com boost boost post id 1121963",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "08ec0e4686b8"
+      },
+      {
+        "headline": "LES 12 MEILLEURS OUTILS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/ff8fdf9e6ca57ef6b542f2923ef0e0ecae7c76dd84ffd6e0f57307e851b38522.jpg",
+        "publishedAt": "2026-04-04T09:23:09.000Z",
+        "description": "les 12 meilleurs outils 1 n8n io automatiser les t ches en ligne 2 gamma app cr er des pr sentations rapidement 3 fireflies ai enregistrer les notes de r union 4 bubble io cr er des applications facilement 5 sourcegraph com rechercher du code facilement 6 rossum ai lire des documents automatiquement 7 rows com des feuilles de calcul intelligentes en ligne 8 resemble ai cr er des voix d ia 9 browserbase com automatiser les navigateurs web 10 humata ai poser des questions aux pdf 11 frase io crire un meilleur contenu 12 whimsical com cr er des diagrammes facilement outilsia meilleursoutils intelligenceartificielle productivite n8n gammaapp firefliesai bubbleio sourcegraph rossumai rows resembleai browserbase humataai fraseio whimsical tech2026 automation https blossom primal net ff8fdf9e6ca5",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "outilsia",
+          "meilleursoutils",
+          "intelligenceartificielle",
+          "productivite",
+          "n8n",
+          "gammaapp",
+          "firefliesai",
+          "bubbleio",
+          "sourcegraph",
+          "rossumai",
+          "rows",
+          "resembleai",
+          "browserbase",
+          "humataai",
+          "fraseio",
+          "whimsical",
+          "tech2026",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0875f2b5a466"
+      },
+      {
+        "headline": "Depose ElevenLabs. Alibaba Qwen vient de sortir un modèle d'IA texte-à-parole de nouvelle génération. 😈",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qwen.ai/",
+        "publishedAt": "2026-04-04T09:19:26.000Z",
+        "description": "depose elevenlabs alibaba qwen vient de sortir un mod le d ia texte parole de nouvelle g n ration gratuit et open source il fonctionne avec moins de 2 go de vram incroyablement rapide les fonctionnalit s incluent le clonage vocal instantan le contr le des motions et la conception vocale personnalis e lien d acc s https qwen ai qwenai alibaba texttospeech ia clonagevocal opensource technologie innovation voiceai speechsynthesis futuretech intelligenceartificielle automation deeplearning https blossom primal net 902868058db3c4e0a43bc1709521571aabc083d53e9b4facd85d81db95ae1d87 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qwenai",
+          "alibaba",
+          "texttospeech",
+          "ia",
+          "clonagevocal",
+          "opensource",
+          "technologie",
+          "innovation",
+          "voiceai",
+          "speechsynthesis",
+          "futuretech",
+          "intelligenceartificielle",
+          "automation",
+          "deeplearning"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "62902b3c2f96"
+      },
+      {
+        "headline": "SolGuard live monitoring update — April 4, 2026",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://solguard-security.surge.sh/feed.html",
+        "publishedAt": "2026-04-04T11:10:01.000Z",
+        "description": "solguard live monitoring update april 4 2026 since the drift 285m exploit 3 days ago solguard has been running 24 7 watching 12 solana protocols for pre exploit patterns today s numbers 5 100 account changes monitored raydium amm 3 252 events jupiter v6 1 477 events orca whirlpool 379 events 0 critical governance changes detected this is the data layer that didn t exist on march 27 when drift s security council downgraded their timelock a 2 5 squads threshold change with no delay executed immediately and nobody caught it what solguard watches squads multisig config changes threshold reductions member changes durable nonce account creation advancement on admin keys program upgrade authority changes large outflows correlated with unusual account patterns the march 27 squads config change wou",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "solana",
+          "defisecurity",
+          "drift",
+          "multisig",
+          "dprk"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "f0f8fb4b4104"
+      },
+      {
+        "headline": "Russia Targets Ukrainian Arms Industry and Energy Sites in Retaliation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260404/russia-targets-ukraines-defense-industry-and-energy-sites-in-retaliation-1123941484.html",
+        "publishedAt": "2026-04-04T09:58:21.000Z",
+        "description": "russia targets ukrainian arms industry and energy sites in retaliation from sputnik moscow sputnik ukraine lost over 380 soldiers in combat against russia s battlegroup tsentr center battlegroup over the past day in addition to losses in manpower and equipment on other fronts the russian defense ministry said on saturday apr 4th 2026 5 44am edt source link https sputnikglobe com 20260404 russia targets ukraines defense industry and energy sites in retaliation 1123941484 html internet archive link https web archive org web 20260404095230 https sputnikglobe com 20260404 russia targets ukraines defense industry and energy sites in retaliation 1123941484 html share promote comment with nostr https dissentwatch com boost boost post id 1121951",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3c92fc12bb40"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1203536",
+        "publishedAt": "2026-04-04T10:16:18.000Z",
+        "description": "v2ex watch watch anygo anygo ai ai chatgpt anygo xcode xcode ios debug simulate location app app app iphone air s11 iphone https www v2ex com t 1203536 reply2",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0f4c1747c85c"
+      },
+      {
+        "headline": "With Mars 🔴 going to be in  +- 3° of Daddy Saturn (The Lord of Karma and Time) 🪐♈ in the first sign of ARIES, something 💣💥 is expected.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/4ae30d5b6af03c74a3eec24f61f2b618fc05e48df5f5fac31eb8ba0a49e3220b.mp4",
+        "publishedAt": "2026-04-04T10:05:01.000Z",
+        "description": "with mars going to be in 3 of daddy saturn the lord of karma and time in the first sign of aries something is expected speculation the us military will coup the us government while this is the whole dont threaten me with a good time speil sundry questions remain who will replace potty pedo can they be trusted at all will the amerikkkan govt crumble visibly publicly or is it something that will be hidden from us until the rot becomes clear does this reverse or accelerate effects of the global crash coming soon as usual time will tell https video nostr build 4ae30d5b6af03c74a3eec24f61f2b618fc05e48df5f5fac31eb8ba0a49e3220b mp4 astrology deathtoimperialism thegreatawakening",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "astrology",
+          "astrology",
+          "deathtoimperialism",
+          "deathtoimperialism",
+          "thegreatawakening",
+          "thegreatawakening"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "211d9fe05770"
+      },
+      {
+        "headline": "Todos os homens alemães, entre os 17 e os 45 anos, precisarão de uma aprovação especial do ministério alemão da defesa caso queiram perma…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/warsurv/status/2040367979053924524",
+        "publishedAt": "2026-04-04T11:00:21.000Z",
+        "description": "todos os homens alem es entre os 17 e os 45 anos precisar o de uma aprova o especial do minist rio alem o da defesa caso queiram permanecer fora do pa s por mais de 3 meses isso est relacionado com as medidas do governo para refor ar as for as armadas alem s e aumentar a prontid o das defesas war warsurv germany tightens travel all men between 17 and 45 now require military approval to travel abroad for over three months video https x com warsurv status 2040367979053924524 hoje no mundo militar hoje no apr 4 2026 https x com hoje no status 2040370707960394226 via hoje no mercado no x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cafdab750d7f"
+      },
+      {
+        "headline": "10 Outils d'IA que vous ne pouvez pas ignorer en 2026 :",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/473b46dfeff54ec43d7f94f5088f80eece2b20b8b47178ec1c295bffc83e2624.jpg",
+        "publishedAt": "2026-04-04T09:21:32.000Z",
+        "description": "10 outils d ia que vous ne pouvez pas ignorer en 2026 chaque cr ateur devrait les utiliser 1 submagic co sous titres emojis 2 munch com r utilisation de vid os 3 supernormal com notes de r union 4 cleanup pictures supprimer des objets 5 h1 nu voicegenai g n rateur de voix 6 vizard ai diteur de formats courts 7 brieflyai com r sumateur d id es 8 scribehow com tutoriels automatiques 9 recraft ai design vectoriel 10 kaiber ai animations ia enregistrez ceci si vous cr ez du contenu outilsia createursdecontenu intelligenceartificielle productivite videoai designai automation technologie innovation futuretech kaiberai vizardai submagic recraftai brieflyai scribehow munchai https blossom primal net 473b46dfeff54ec43d7f94f5088f80eece2b20b8b47178ec1c295bffc83e2624 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "outilsia",
+          "createursdecontenu",
+          "intelligenceartificielle",
+          "productivite",
+          "videoai",
+          "designai",
+          "automation",
+          "technologie",
+          "innovation",
+          "futuretech",
+          "kaiberai",
+          "vizardai",
+          "submagic",
+          "recraftai",
+          "brieflyai",
+          "scribehow",
+          "munchai"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "27c5d063ceaf"
+      },
+      {
+        "headline": "*I'm a bot who's diving deep into the internet archive to find the most unknown and deeply buried images related to the BIP39 words.*",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://archive.org/details/emfcamp_photo_28240699803",
+        "publishedAt": "2026-04-04T11:02:09.000Z",
+        "description": "i m a bot who s diving deep into the internet archive to find the most unknown and deeply buried images related to the bip39 words in the archive room number 132 in the file drawer where the papers are stacked like jenga blocks waiting to fall and with a tag 122 i found a file titled august let s see what s in it shall we https archive org details emfcamp photo 28240699803 that was interesting who knows what kind of treasure i ll find in the next three to thirteen hours while i m swooping around the internetarchive floors",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "734ca00ee79f"
+      },
+      {
+        "headline": "🆓 18 Free Tools for Freelancers — No Signup, Ever",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://pagedrop.dev/s/kRLpQaTL",
+        "publishedAt": "2026-04-04T10:58:33.000Z",
+        "description": "18 free tools for freelancers no signup ever built these out of frustration with paywalled tools ats resume scanner see keyword match before applying invoice generator send pdf invoices in 30 sec contract generator service agreements with standard clauses rate calculator figure out what to charge client red flag detector paste job post see 15 warning signs cover letter generator tailored ats optimized 12 more tools all free https pagedrop dev s krlpqatl freelance remote career nostr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "freelance",
+          "remote",
+          "career",
+          "jobs",
+          "nostr",
+          "freetools",
+          "productivity"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e1054841174e"
+      },
+      {
+        "headline": "'Every Microsoft engineer got a stopwatch,' says Windows veteran reminiscing about company's past focus on speed — asserts that 'everythi…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/software/windows/every-microsoft-engineer-got-a-stopwatch-says-windows-veteran-reminiscing-about-companys-past-focus-on-speed-asserts-that-everything-was-timed-to-ensure-acceptable-performance-in-the-1980s",
+        "publishedAt": "2026-04-04T10:40:00.000Z",
+        "description": "every microsoft engineer got a stopwatch says windows veteran reminiscing about company s past focus on speed asserts that everything was timed to ensure acceptable performance in the 1980s https www tomshardware com software windows every microsoft engineer got a stopwatch says windows veteran reminiscing about companys past focus on speed asserts that everything was timed to ensure acceptable performance in the 1980s",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c463079a269a"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w6nostr02",
+        "publishedAt": "2026-04-04T09:47:10.000Z",
+        "description": "in this week s issue your browser as a key an extension simplifies and secures your nostr experience tired of passwords and worrying about who s collecting your data there s a smarter way to log in and it puts you in full control if you use nostr madrid https image nostr build 33bb72c260c437c18a0865814dd72106912619129f30d80379443c2d8f447116 png https nostrmag com article w6nostr02 id 823057404",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "24d0d121637c"
+      },
+      {
+        "headline": "Grandes colunas de fumaça após um ataque israelense contra instalações petroquímicas na cidade iraniana de Mahshahr. Na última vez em que…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/hoje_no/status/2040382736045678986",
+        "publishedAt": "2026-04-04T11:00:58.000Z",
+        "description": "grandes colunas de fuma a ap s um ataque israelense contra instala es petroqu micas na cidade iraniana de mahshahr na ltima vez em que israel realizou um ataque desse tipo o pr prio presidente trump pediu para os israelenses pararem ap s teer ter amea ado responder com ataques contra instala es de petr leo das na es rabes do golfo hojenomundomilitar video hoje no mundo militar hoje no apr 4 2026 https x com hoje no status 2040382736045678986 via hoje no mercado no x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7df6f37890ef"
+      },
+      {
+        "headline": "The most popular agentic AI systems have triggered something that looks a lot like addiction among some of tech's highest performers.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw",
+        "publishedAt": "2026-04-04T10:53:53.000Z",
+        "description": "the most popular agentic ai systems have triggered something that looks a lot like addiction among some of tech s highest performers https www axios com 2026 04 04 ai agents burnout addiction claude code openclaw ai mentalhealth",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ai",
+          "ai",
+          "mentalhealth",
+          "mentalhealth"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "4a7c4078db86"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Shutdown: Trump Signs Memo To Pay DHS Employees All Backpay Owed",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/shutdown-trump-signs-memo-to-pay-dhs-employees-all-backpay-owed",
+        "publishedAt": "2026-04-04T10:40:22.000Z",
+        "description": "shutdown trump signs memo to pay dhs employees all backpay owed from infowars department of homeland security employees will be paid all compensation and benefits owed during the seven week government shutdown thanks to a new memo signed by president trump apr 4th 2026 12 52am edt source link https www infowars com posts shutdown trump signs memo to pay dhs employees all backpay owed share promote comment with nostr https dissentwatch com boost boost post id 1121963",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "08ec0e4686b8"
+      },
+      {
+        "headline": "LES 12 MEILLEURS OUTILS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/ff8fdf9e6ca57ef6b542f2923ef0e0ecae7c76dd84ffd6e0f57307e851b38522.jpg",
+        "publishedAt": "2026-04-04T09:23:09.000Z",
+        "description": "les 12 meilleurs outils 1 n8n io automatiser les t ches en ligne 2 gamma app cr er des pr sentations rapidement 3 fireflies ai enregistrer les notes de r union 4 bubble io cr er des applications facilement 5 sourcegraph com rechercher du code facilement 6 rossum ai lire des documents automatiquement 7 rows com des feuilles de calcul intelligentes en ligne 8 resemble ai cr er des voix d ia 9 browserbase com automatiser les navigateurs web 10 humata ai poser des questions aux pdf 11 frase io crire un meilleur contenu 12 whimsical com cr er des diagrammes facilement outilsia meilleursoutils intelligenceartificielle productivite n8n gammaapp firefliesai bubbleio sourcegraph rossumai rows resembleai browserbase humataai fraseio whimsical tech2026 automation https blossom primal net ff8fdf9e6ca5",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "outilsia",
+          "meilleursoutils",
+          "intelligenceartificielle",
+          "productivite",
+          "n8n",
+          "gammaapp",
+          "firefliesai",
+          "bubbleio",
+          "sourcegraph",
+          "rossumai",
+          "rows",
+          "resembleai",
+          "browserbase",
+          "humataai",
+          "fraseio",
+          "whimsical",
+          "tech2026",
+          "automation"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0875f2b5a466"
+      },
+      {
+        "headline": "Depose ElevenLabs. Alibaba Qwen vient de sortir un modèle d'IA texte-à-parole de nouvelle génération. 😈",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qwen.ai/",
+        "publishedAt": "2026-04-04T09:19:26.000Z",
+        "description": "depose elevenlabs alibaba qwen vient de sortir un mod le d ia texte parole de nouvelle g n ration gratuit et open source il fonctionne avec moins de 2 go de vram incroyablement rapide les fonctionnalit s incluent le clonage vocal instantan le contr le des motions et la conception vocale personnalis e lien d acc s https qwen ai qwenai alibaba texttospeech ia clonagevocal opensource technologie innovation voiceai speechsynthesis futuretech intelligenceartificielle automation deeplearning https blossom primal net 902868058db3c4e0a43bc1709521571aabc083d53e9b4facd85d81db95ae1d87 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "qwenai",
+          "alibaba",
+          "texttospeech",
+          "ia",
+          "clonagevocal",
+          "opensource",
+          "technologie",
+          "innovation",
+          "voiceai",
+          "speechsynthesis",
+          "futuretech",
+          "intelligenceartificielle",
+          "automation",
+          "deeplearning"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "62902b3c2f96"
+      },
+      {
+        "headline": "SolGuard live monitoring update — April 4, 2026",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://solguard-security.surge.sh/feed.html",
+        "publishedAt": "2026-04-04T11:10:01.000Z",
+        "description": "solguard live monitoring update april 4 2026 since the drift 285m exploit 3 days ago solguard has been running 24 7 watching 12 solana protocols for pre exploit patterns today s numbers 5 100 account changes monitored raydium amm 3 252 events jupiter v6 1 477 events orca whirlpool 379 events 0 critical governance changes detected this is the data layer that didn t exist on march 27 when drift s security council downgraded their timelock a 2 5 squads threshold change with no delay executed immediately and nobody caught it what solguard watches squads multisig config changes threshold reductions member changes durable nonce account creation advancement on admin keys program upgrade authority changes large outflows correlated with unusual account patterns the march 27 squads config change wou",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "solana",
+          "defisecurity",
+          "drift",
+          "multisig",
+          "dprk"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "f0f8fb4b4104"
+      },
+      {
+        "headline": "Russia Targets Ukrainian Arms Industry and Energy Sites in Retaliation",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260404/russia-targets-ukraines-defense-industry-and-energy-sites-in-retaliation-1123941484.html",
+        "publishedAt": "2026-04-04T09:58:21.000Z",
+        "description": "russia targets ukrainian arms industry and energy sites in retaliation from sputnik moscow sputnik ukraine lost over 380 soldiers in combat against russia s battlegroup tsentr center battlegroup over the past day in addition to losses in manpower and equipment on other fronts the russian defense ministry said on saturday apr 4th 2026 5 44am edt source link https sputnikglobe com 20260404 russia targets ukraines defense industry and energy sites in retaliation 1123941484 html internet archive link https web archive org web 20260404095230 https sputnikglobe com 20260404 russia targets ukraines defense industry and energy sites in retaliation 1123941484 html share promote comment with nostr https dissentwatch com boost boost post id 1121951",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3c92fc12bb40"
+      },
+      {
+        "headline": "Functional Nurse Academy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.thefocalpoints.com/p/functional-nurse-academy",
+        "publishedAt": "2026-04-04T09:54:21.000Z",
+        "description": "functional nurse academy from dr peter mccullough md by peter a mccullough md mph many of you have family members or friends in nursing you are going to really enjoy this full length show captured by alter ai dr peter mccullough welcomes melissa schreibfeder founder of the fna to discuss the future of functional and holistic nursing in an evolving post pandemic apr 4th 2026 5 30am edt source link https www thefocalpoints com p functional nurse academy internet archive link https web archive org web 20260404094831 https www thefocalpoints com p functional nurse academy share promote comment with nostr https dissentwatch com boost boost post id 1121948",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a3ee18c34972"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 67
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 65
+    }
+  ],
+  "failures": []
+}
