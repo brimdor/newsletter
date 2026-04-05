@@ -1,0 +1,560 @@
+{
+  "date": "2026-04-05",
+  "generatedAt": "2026-04-05T11:12:53.335Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24000321949",
+    "commitSha": "8ed102edf2c4cebbe8149f03ea357d48c9f512d9"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 175,
+    "dedupDropped": 42
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "JUST IN – U.S. fighter jet shot down in Iran, search and rescue operations underway for crew. Read here: [URL]",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://t.me/disclosetv/20656",
+        "publishedAt": "2026-04-05T09:49:31.000Z",
+        "description": "just in u s fighter jet shot down in iran search and rescue operations underway for crew read here url from disclose tv just in u s fighter jet shot down in iran search and rescue operations underway for crew read here url update one crew member has been located and rescued by u s special forces the search for the second is ongoing powered by wpematico apr 5th 2026 5 17am edt source link https t me disclosetv 20656 share promote comment with nostr https dissentwatch com boost boost post id 1122240",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "26d3eb5ef493"
+      },
+      {
+        "headline": "Daniel Le Lievre was arrested on March 30, 2025, after police found he used his position as a teacher to target a student. This case is p…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://newsletter.tf/daniel-le-lievre-oviedo-teacher-arrest-details",
+        "publishedAt": "2026-04-05T10:57:29.000Z",
+        "description": "daniel le lievre was arrested on march 30 2025 after police found he used his position as a teacher to target a student this case is part of a growing concern regarding school safety in florida oviedo floridanews schoolsafety daniellelievre seminolecounty https newsletter tf daniel le lievre oviedo teacher arrest details",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "57bd1722bc4e"
+      },
+      {
+        "headline": "(updated post) The Nekogram telegram client contains code that grabs your Telegram ID and phone number to send to their own bots, also so…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/Nekogram/Nekogram/issues/336",
+        "publishedAt": "2026-04-05T10:39:57.000Z",
+        "description": "updated post the nekogram telegram client contains code that grabs your telegram id and phone number to send to their own bots also some other osint bots mentioned they admitted to it in their channel nekoupdates and are insulting users in the comments assume your number and user can be correlated at a worst case keep away from third party clients https github com nekogram nekogram issues 336 https github com romashkatea nekogram proof of logging",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea56ea57dc76"
+      },
+      {
+        "headline": "no secret service armed no commando no specialforce - in plain cloth among public",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://seed-options-few-cache.trycloudflare.com/56f57fc4045fa9dfa9bbecf05edcf9d4e383b9f4a8b2d9c13aa68ef5b5178a6b.png",
+        "publishedAt": "2026-04-05T11:03:50.000Z",
+        "description": "no secret service armed no commando no specialforce in plain cloth among public https seed options few cache trycloudflare com 56f57fc4045fa9dfa9bbecf05edcf9d4e383b9f4a8b2d9c13aa68ef5b5178a6b png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "20fe790e785e"
+      },
+      {
+        "headline": "The 90-Day Spigot: US Dismantles Non-Dollar Oil Markets",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/geopolitics/the-90-day-spigot-inside-the-petrodollar-war-thesis",
+        "publishedAt": "2026-04-05T11:05:19.000Z",
+        "description": "the 90 day spigot us dismantles non dollar oil markets multi source intelligence assessment of us military operations in venezuela and iran evidence points to a systematic campaign to neutralize every read the full analysis https theboard world articles geopolitics the 90 day spigot inside the petrodollar war thesis",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "272c1291e626"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Your Child’s Clothes Could Contain Toxic Lead, Study Finds**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/your-childs-clothes-could-contain-toxic-lead-study-finds",
+        "publishedAt": "2026-04-05T10:57:19.000Z",
+        "description": "your child s clothes could contain toxic lead study finds by american chemical society published on 05 april 2026 bright colorful kids clothes may come with a hidden risk toxic lead fast fashion has made it easier and more affordable to keep up with children who quickly outgrow their clothes however early research suggests that some of these garments may come with a hidden hazard lead after testing shirts from several retailers undergraduate researchers read more https scitechdaily com your childs clothes could contain toxic lead study finds leadinclothing childsafety fastfashion toxicexposure environmentalhealth health americanchemicalsociety publichealth",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "72007cb8c090"
+      },
+      {
+        "headline": "📄 New: Chat with your documents using AI",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://arknode.ai/",
+        "publishedAt": "2026-04-05T10:38:18.000Z",
+        "description": "new chat with your documents using ai upload any pdf word doc spreadsheet or text file then ask questions about it in plain language how it works upload your document we split it into sections and index it ask anything the ai answers based only on your document works in any language use cases people are trying analyzing contracts before signing studying research papers extracting insights from financial reports reviewing code documentation no signup needed pay per question with lightning try it https arknode ai ai bitcoin lightning rag documentai",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "eb5d6ba25f9a"
+      },
+      {
+        "headline": "New version of Divine out on nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcqypuvuma2wgny8pegfej8hf5n3x2hx…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://zapstore.dev/apps/co.openvine.app",
+        "publishedAt": "2026-04-05T09:45:07.000Z",
+        "description": "new version of divine out on nostr nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcqypuvuma2wgny8pegfej8hf5n3x2hxhkgcl2utfjhxlj4zv8sycc8622zjna https zapstore dev apps co openvine app we ve been deep in the relay mines these last few weeks and a lot landed search got a full rebuild people search hashtag search and video search are all properly wired now with pagination cleaner filters better tab counters and fewer dead ends we also fixed some of the annoying stuff around it back navigation behaves properly user search no longer hides people just because they haven t posted yet and results stream in faster instead of feeling stuck publishing and protocol work got a serious reliability pass we added divine resumable blossom uploads per chunk retry smarter session pers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "20aa1ef3ec15"
+      },
+      {
+        "headline": "Come on, guys hunt it, come on get it, and keep sabotaging. You'll get it all. \n\nYou wanted a non-custodial asset and got kyc and tax on…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/89ad497f0626b5f51d65f72c3849feb5c161d23cba7662990ade314354ff7806.png",
+        "publishedAt": "2026-04-05T11:10:41.000Z",
+        "description": "https image nostr build 89ad497f0626b5f51d65f72c3849feb5c161d23cba7662990ade314354ff7806 png come on guys hunt it come on get it and keep sabotaging you ll get it all you wanted a non custodial asset and got kyc and tax on profit you wanted decentralization and got a nakamoto coefficient of 4 you wanted privacy and got chainalysis you wanted regulation you ll get next level confiscation one day there was an idea of a bitcoin but you hunted the treasury success with that 51 losers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "5bef105f9927"
+      },
+      {
+        "headline": "[ forgesworn/bray ] fix: honour filter parameters in relay-query",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/forgesworn/bray/commit/b419bd864e9950187e8e96bdf29d72700dd5707d",
+        "publishedAt": "2026-04-05T11:01:29.000Z",
+        "description": "forgesworn bray fix honour filter parameters in relay query the relay query tool exposed kinds authors tags since until limit and search as top level inputschema fields but omitted ids entirely mcp clients that wrapped the whole filter in a single filter object a natural shape given how nostr req frames are built saw the wrapper silently stripped by the mcp sdk s default strip zod validation which delivered an empty argument set to the handler and returned a firehose of events regardless of what the caller asked for the ids field was unrecoverable either way https github com forgesworn bray commit b419bd864e9950187e8e96bdf29d72700dd5707d",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "409ea6048ecb"
+      },
+      {
+        "headline": "10x Research：以太坊复苏与结构性疲弱博弈加剧，近期或迎转折点",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://foresightnews.pro/news/detail/101285",
+        "publishedAt": "2026-04-05T10:51:37.000Z",
+        "description": "10x research foresight news 10x research x 2000 2025 11 eth 2025 8 57 42 bitmine tether usdt tron https foresightnews pro news detail 101285",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "235050eb3a56"
+      },
+      {
+        "headline": "#SPEDN; make the freedom money everyday money ⚡️✊🏽",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://btcmap.org/merchant/node:12998715670",
+        "publishedAt": "2026-04-05T10:46:51.000Z",
+        "description": "spedn make the freedom money everyday money https btcmap org merchant node 12998715670 topicspub blink sv bitcoinaves student grabbing a drink with wele from topic s pub in akatsi and paid with sats bitcoinismoney letthesatsflow https blossom primal net e156f98d199668fb0c0fd20a3f79147c4f057442bb87a017ae8d219662ca4b30 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "spedn",
+          "bitcoinaves",
+          "bitcoinismoney",
+          "letthesatsflow"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "800b52a09ab2"
+      },
+      {
+        "headline": "⚡🇪🇬🤡 NEW - Egyptian President El-Sisi: We appeal to the United States and the international community to save us from the unrestrained…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/22cef5dce2bb97a5f763ae28793b5e4a679d8684d47b27a21925fa1ab059e373.mp4",
+        "publishedAt": "2026-04-05T11:02:11.000Z",
+        "description": "new egyptian president el sisi we appeal to the united states and the international community to save us from the unrestrained ethiopian administration which has caused harm to egypt s water security https blossom primal net 22cef5dce2bb97a5f763ae28793b5e4a679d8684d47b27a21925fa1ab059e373 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "d1b370398fb4"
+      },
+      {
+        "headline": "Streaming: Capsule - 025",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://harmonique.one/shows/capsule/episodes/025",
+        "publishedAt": "2026-04-05T10:36:15.000Z",
+        "description": "streaming capsule 025 1 parquet courts almost had to start a fight in and out of patience 2 car seat headrest fill in the blank 3 ought today more than any other day 4 the electric chairs so many ways 5 kraftwerk spacelab 6 forever pavot les informations 7 cannibale es el amor 8 cannibale pendejo 9 lcd soundsystem sound of silver 10 django django skies over cairo 11 ghetto kumb pide mas flore remix 12 bola yine ntaripaga 13 francis bebey new track https harmonique one shows capsule episodes 025 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2f6b8d774754"
+      },
+      {
+        "headline": "Um C-295W da 427th Special Operations Squadron, da USAF, visto voando muito baixo hoje sobre o Irã durante a missão de resgate do segundo…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/hoje_no/status/2040736706148663449",
+        "publishedAt": "2026-04-05T11:00:01.000Z",
+        "description": "um c 295w da 427th special operations squadron da usaf visto voando muito baixo hoje sobre o ir durante a miss o de resgate do segundo tripulante americano do f 15e abatido pelo ir hojenomundomilitar video hoje no mundo militar hoje no apr 5 2026 https x com hoje no status 2040736706148663449 via hoje no mercado no x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "bf23e19bf4b7"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "JUST IN – U.S. fighter jet shot down in Iran, search and rescue operations underway for crew. Read here: [URL]",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://t.me/disclosetv/20656",
+        "publishedAt": "2026-04-05T09:49:31.000Z",
+        "description": "just in u s fighter jet shot down in iran search and rescue operations underway for crew read here url from disclose tv just in u s fighter jet shot down in iran search and rescue operations underway for crew read here url update one crew member has been located and rescued by u s special forces the search for the second is ongoing powered by wpematico apr 5th 2026 5 17am edt source link https t me disclosetv 20656 share promote comment with nostr https dissentwatch com boost boost post id 1122240",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "26d3eb5ef493"
+      },
+      {
+        "headline": "(updated post) The Nekogram telegram client contains code that grabs your Telegram ID and phone number to send to their own bots, also so…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/Nekogram/Nekogram/issues/336",
+        "publishedAt": "2026-04-05T10:39:57.000Z",
+        "description": "updated post the nekogram telegram client contains code that grabs your telegram id and phone number to send to their own bots also some other osint bots mentioned they admitted to it in their channel nekoupdates and are insulting users in the comments assume your number and user can be correlated at a worst case keep away from third party clients https github com nekogram nekogram issues 336 https github com romashkatea nekogram proof of logging",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea56ea57dc76"
+      },
+      {
+        "headline": "no secret service armed no commando no specialforce - in plain cloth among public",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://seed-options-few-cache.trycloudflare.com/56f57fc4045fa9dfa9bbecf05edcf9d4e383b9f4a8b2d9c13aa68ef5b5178a6b.png",
+        "publishedAt": "2026-04-05T11:03:50.000Z",
+        "description": "no secret service armed no commando no specialforce in plain cloth among public https seed options few cache trycloudflare com 56f57fc4045fa9dfa9bbecf05edcf9d4e383b9f4a8b2d9c13aa68ef5b5178a6b png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "20fe790e785e"
+      },
+      {
+        "headline": "The 90-Day Spigot: US Dismantles Non-Dollar Oil Markets",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/geopolitics/the-90-day-spigot-inside-the-petrodollar-war-thesis",
+        "publishedAt": "2026-04-05T11:05:19.000Z",
+        "description": "the 90 day spigot us dismantles non dollar oil markets multi source intelligence assessment of us military operations in venezuela and iran evidence points to a systematic campaign to neutralize every read the full analysis https theboard world articles geopolitics the 90 day spigot inside the petrodollar war thesis",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "272c1291e626"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dbs2moneywiz.vercel.app/",
+        "publishedAt": "2026-04-05T10:17:34.000Z",
+        "description": "v2ex dbs pdf moneywiz csv paylah top up dbs2moneywiz dbs moneywiz pdf dbs pdf paylah pdf dbs top up moneywiz csv 1 pdf 2 3 paylah paylah moneywiz dbs top up dbs 5 iphone ipad stripe checkout apple pay dbs moneywiz paylah https www v2ex com t 1203683 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "3b24bc368d68"
+      },
+      {
+        "headline": "Serbia thwarts plot to bomb Russia-Hungary gas pipeline – Vucic",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/637355-serbia-thwarts-plot-bomb-hungary-pipeline",
+        "publishedAt": "2026-04-05T10:51:23.000Z",
+        "description": "serbia thwarts plot to bomb russia hungary gas pipeline vucic from rt explosives were found near the border after ukraine halted oil flows to hungary the serbian authorities have discovered explosives of devastating power planted near a key gas pipeline transporting russian energy to hungary president aleksandar vucic has announced adding that he has briefed hungarian prime minister viktor orban on the matter this comes after ukraine apr 5th 2026 6 17am edt source link https www rt com news 637355 serbia thwarts plot bomb hungary pipeline utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260405104435 https www rt com news 637355 serbia thwarts plot bomb hungary pipeline utm source rss utm medium rss utm campaign rss share promote comment with ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "5d8d30a89903"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 64
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 69
+    }
+  ],
+  "failures": []
+}
