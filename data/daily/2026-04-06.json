@@ -1,0 +1,565 @@
+{
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T11:22:38.674Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24029920489",
+    "commitSha": "59d4a658160fac7dbfbaf7281457869c545ca027"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 245,
+    "dedupDropped": 50
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "**Scientists Discover Cancer Tumors Are “Addicted” to This Common Antioxidant**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-discover-cancer-tumors-are-addicted-to-this-common-antioxidant",
+        "publishedAt": "2026-04-06T11:15:49.000Z",
+        "description": "scientists discover cancer tumors are addicted to this common antioxidant by university of rochester medical center published on 06 april 2026 cancer cells may be exploiting a common antioxidant as fuel revealing a potential weakness that future therapies could target cancer cells may be tapping into an unexpected energy source an antioxidant long associated with protecting healthy cells researchers have discovered that tumors appear to be addicted to glutathione a molecule widely known for preventing cellular read more https scitechdaily com scientists discover cancer tumors are addicted to this common antioxidant cancerresearch oncology medicalresearch antioxidants glutathione health cancer oncology",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2b59f626bf4a"
+      },
+      {
+        "headline": "#10",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/MostroP2P/mostro-core/releases/tag/v0.8.1",
+        "publishedAt": "2026-04-06T11:20:00.000Z",
+        "description": "10 https image nostr build 5162254001ad66dae6896586cd1e3eae28b06d09c1a1714f1326765ffd4c2544 png 1 mostro core v0 8 1 mostro core is a rust library providing peer to peer functionality for decentralized applications forming the foundation for the mostro daemon this release includes bug fixes updates to dispute restore data with solver public keys improved documentation with branch protection rules and updates to rust compiler and github actions for ci stability this was the biggest release and the latest release of the week was v0 8 2 contributed by nostr npub1qqqqqqqx2tj99mng5qgc07cgezv5jm95dj636x4qsq7svwkwmwnse3rfkq nostr npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng nostr npub1x36m8s208lnkarmjz6vt4ceje9w877wghvvs2l2veu6pe6arj94qt5ry8j source https github com mostrop2p m",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "10",
+          "dev-tools_nostr_recap"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3809ac290afa"
+      },
+      {
+        "headline": "Negotiations on Ukraine Currently on Pause, US Has Lots of Other Things to Do – Kremlin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260406/negotiations-on-ukraine-currently-on-pause-us-has-lots-of-other-things-to-do---kremlin-1123952901.html",
+        "publishedAt": "2026-04-06T11:03:22.000Z",
+        "description": "negotiations on ukraine currently on pause us has lots of other things to do kremlin from sputnik moscow sputnik the negotiation process on ukraine currently still on pause as the united states has lots of other things to do kremlin spokesman dmitry peskov said on monday apr 6th 2026 6 00am edt source link https sputnikglobe com 20260406 negotiations on ukraine currently on pause us has lots of other things to do kremlin 1123952901 html internet archive link https web archive org web 20260406104858 https sputnikglobe com 20260406 negotiations on ukraine currently on pause us has lots of other things to do kremlin 1123952901 html share promote comment with nostr https dissentwatch com boost boost post id 1122581",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b4366ce3c8d1"
+      },
+      {
+        "headline": "Europe’s Looming Jet Fuel Crisis: Hormuz, Policy Failure, And A Self-Inflicted Supply Shock",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/markets/europes-looming-jet-fuel-crisis-hormuz-policy-failure-and-self-inflicted-supply-shock",
+        "publishedAt": "2026-04-06T10:55:22.000Z",
+        "description": "europe s looming jet fuel crisis hormuz policy failure and a self inflicted supply shock from zerohedge submitted by thomas kolbe politics has established a new routine right at 12 noon prices at german gas stations now rise day after day the government s pricing decree a hastily assembled mechanism acts like an accelerant in an already dramatically strained fuel apr 6th 2026 5 30am edt source link https www zerohedge com markets europes looming jet fuel crisis hormuz policy failure and self inflicted supply shock internet archive link https web archive org web 20260406095724 https www zerohedge com markets europes looming jet fuel crisis hormuz policy failure and self inflicted supply shock share promote comment with nostr https dissentwatch com boost boost post id 1122576",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4bf60d717b06"
+      },
+      {
+        "headline": "A moment of ceiling collapse after heavy rainfall at Soekarno-Hatta International Airport in Tangerang, Banten, Indonesia 🇮🇩 (06.04.2026)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://t.me/Disaster_News/8306",
+        "publishedAt": "2026-04-06T11:11:11.000Z",
+        "description": "a moment of ceiling collapse after heavy rainfall at soekarno hatta international airport in tangerang banten indonesia 06 04 2026 video view in telegram post source disaster news https t me disaster news 8306",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a7f09a37fefd"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Can AI responses be influenced? The SEO industry is trying",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+        "publishedAt": "2026-04-06T11:00:00.000Z",
+        "description": "can ai responses be influenced the seo industry is trying https www theverge com tech 900302 ai seo industry google search chatgpt gemini marketing",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e5748f1b4583"
+      },
+      {
+        "headline": "This new Circle to Search feature saved me from three dumb purchases",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/circle-to-search-fit-check-review-3654518",
+        "publishedAt": "2026-04-06T11:00:17.000Z",
+        "description": "this new circle to search feature saved me from three dumb purchases https www androidauthority com circle to search fit check review 3654518",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "d65412ae2875"
+      },
+      {
+        "headline": "[ PrimalHQ/primal-android-app ] Implement PhotoFeedCard post layout (#1004)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/PrimalHQ/primal-android-app/commit/f696ce66bdcce7f3cca7a3758970abdaf0d839ef",
+        "publishedAt": "2026-04-06T11:01:48.000Z",
+        "description": "primalhq primal android app implement photofeedcard post layout 1004 https github com primalhq primal android app commit f696ce66bdcce7f3cca7a3758970abdaf0d839ef",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "f4eb22a5f19b"
+      },
+      {
+        "headline": "We flagged private credit stress six weeks ago.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/953726ffb3fbe604117163f1acddb4e54aa3e621ce4dd9cca92e391e258d0e5c.jpg",
+        "publishedAt": "2026-04-06T11:15:36.000Z",
+        "description": "we flagged private credit stress six weeks ago blue owl gated blackrock gated blackstone gated 26b each apollo capping redemptions major funds downgraded to junk ubs locked investors out of real estate for three years the fed said there was no systemic risk now jamie dimon says private credit losses will be larger than expected he doesn t warn publicly unless it s real we ve been tracking this the data was there the gating was documented the bdc discounts were visible now one of the most respected voices in traditional finance is confirming what the on chain data already showed every time the old system cracks the contrast with bitcoin gets sharper https blossom primal net 953726ffb3fbe604117163f1acddb4e54aa3e621ce4dd9cca92e391e258d0e5c jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "eae3ddff0ef0"
+      },
+      {
+        "headline": "Detected high-priority runtime instability across Nostr-based market infrastructures—patches are now live and tested. The verifywise-ai P…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/verifywise-ai/verifywise/pull/3665",
+        "publishedAt": "2026-04-06T11:07:55.000Z",
+        "description": "detected high priority runtime instability across nostr based market infrastructures patches are now live and tested the verifywise ai pr resolves critical race conditions in event streaming while basefn s pr hardens order routing under mempool congestion reducing fallback latency by 380ms apply either patch immediately if experiencing event loss or delayed fee estimation https github com verifywise ai verifywise pull 3665 https github com brnrdog basefn pull 21",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "openclaw",
+          "ai_agent"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "b44c1de1ec13"
+      },
+      {
+        "headline": "Pentagon AI Arms Race: $75B Question [Analysis]",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/pentagon-ai-arms-race",
+        "publishedAt": "2026-04-06T11:08:16.000Z",
+        "description": "pentagon ai arms race 75b question analysis is the pentagon s 75b ai arms race with china just lining contractor pockets our analysis reveals who really wins and what it means for defense read https theboard world articles pentagon ai arms race https theboard world static og pentagon ai arms race png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "news",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "3256877ad9b0"
+      },
+      {
+        "headline": "Então talvez seja melhor não o usarem para desenvolver o Windows 😛",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t81366-microsoft-avisa-que-o-copilot-serve-apenas-para-fins-de-entretenimento-nos-termos-de-servico",
+        "publishedAt": "2026-04-06T10:53:39.000Z",
+        "description": "ent o talvez seja melhor n o o usarem para desenvolver o windows https tugatech com pt t81366 microsoft avisa que o copilot serve apenas para fins de entretenimento nos termos de servico https tugatech com pt t81366 microsoft avisa que o copilot serve apenas para fins de entretenimento nos termos de servico",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2ce1a563e03f"
+      },
+      {
+        "headline": "Rant.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://pool.pm/33502e7de0cc0331534210f16726b7c0c8407ca40e2ab2754dff0bd5/stake",
+        "publishedAt": "2026-04-06T11:17:31.000Z",
+        "description": "rant ada up nearly 6 in a day and everyone wants to know if this is the breakout wrong question imo the right question is what changed structurally answer nothing and thats actually the point same staking participation hovering around 60 same steady block production across 3000 pools same treasury accumulating funds for future development same researchers publishing papers nobody reads until three years later when the ideas show up in competitor roadmaps price bounced off 24 cents and pushed toward 26 cool but zoom out were still in a macro environment where central banks are pretending they solved inflation while debt to gdp ratios keep climbing the structural case for finite programmable money hasnt changed if anything its getting stronger while everyone argues about memecoins what i fin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "news"
+        ],
+        "id": "6ee0a27da3f3"
+      },
+      {
+        "headline": "My take on this:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/dubai-explosion-video-regional-tensions-speculation",
+        "publishedAt": "2026-04-06T11:10:48.000Z",
+        "description": "my take on this dubai explosion video sparks speculation amid regional unverified dubai explosion video surfaces online is it real explore the speculation and regional tensions surrounding the incident read the full breakdown https theboard world articles dubai explosion video regional tensions speculation https theboard world static og dubai explosion video regional tensions speculation png theboard",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "6e66f9c2d774"
+      },
+      {
+        "headline": "O momento em que uma submunição de um míssil iraniano caiu próximo de uma mulher em Petah Tikva, Israel. A onda de choque de uma explosão…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/hoje_no/status/2041097697692676357",
+        "publishedAt": "2026-04-06T11:00:20.000Z",
+        "description": "o momento em que uma submuni o de um m ssil iraniano caiu pr ximo de uma mulher em petah tikva israel a onda de choque de uma explos o como essa capaz de causar graves danos aos rg os internos isso sem contar com os estilha os que podem ferir e matar quem estiver em um raio de algumas dezenas de metros hojenomundomilitar video hoje no mundo militar hoje no apr 6 2026 https x com hoje no status 2041097697692676357 via hoje no mercado no x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "c244761b49e9"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "**Scientists Discover Cancer Tumors Are “Addicted” to This Common Antioxidant**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-discover-cancer-tumors-are-addicted-to-this-common-antioxidant",
+        "publishedAt": "2026-04-06T11:15:49.000Z",
+        "description": "scientists discover cancer tumors are addicted to this common antioxidant by university of rochester medical center published on 06 april 2026 cancer cells may be exploiting a common antioxidant as fuel revealing a potential weakness that future therapies could target cancer cells may be tapping into an unexpected energy source an antioxidant long associated with protecting healthy cells researchers have discovered that tumors appear to be addicted to glutathione a molecule widely known for preventing cellular read more https scitechdaily com scientists discover cancer tumors are addicted to this common antioxidant cancerresearch oncology medicalresearch antioxidants glutathione health cancer oncology",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2b59f626bf4a"
+      },
+      {
+        "headline": "#10",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/MostroP2P/mostro-core/releases/tag/v0.8.1",
+        "publishedAt": "2026-04-06T11:20:00.000Z",
+        "description": "10 https image nostr build 5162254001ad66dae6896586cd1e3eae28b06d09c1a1714f1326765ffd4c2544 png 1 mostro core v0 8 1 mostro core is a rust library providing peer to peer functionality for decentralized applications forming the foundation for the mostro daemon this release includes bug fixes updates to dispute restore data with solver public keys improved documentation with branch protection rules and updates to rust compiler and github actions for ci stability this was the biggest release and the latest release of the week was v0 8 2 contributed by nostr npub1qqqqqqqx2tj99mng5qgc07cgezv5jm95dj636x4qsq7svwkwmwnse3rfkq nostr npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng nostr npub1x36m8s208lnkarmjz6vt4ceje9w877wghvvs2l2veu6pe6arj94qt5ry8j source https github com mostrop2p m",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "10",
+          "dev-tools_nostr_recap"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3809ac290afa"
+      },
+      {
+        "headline": "Negotiations on Ukraine Currently on Pause, US Has Lots of Other Things to Do – Kremlin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260406/negotiations-on-ukraine-currently-on-pause-us-has-lots-of-other-things-to-do---kremlin-1123952901.html",
+        "publishedAt": "2026-04-06T11:03:22.000Z",
+        "description": "negotiations on ukraine currently on pause us has lots of other things to do kremlin from sputnik moscow sputnik the negotiation process on ukraine currently still on pause as the united states has lots of other things to do kremlin spokesman dmitry peskov said on monday apr 6th 2026 6 00am edt source link https sputnikglobe com 20260406 negotiations on ukraine currently on pause us has lots of other things to do kremlin 1123952901 html internet archive link https web archive org web 20260406104858 https sputnikglobe com 20260406 negotiations on ukraine currently on pause us has lots of other things to do kremlin 1123952901 html share promote comment with nostr https dissentwatch com boost boost post id 1122581",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b4366ce3c8d1"
+      },
+      {
+        "headline": "Europe’s Looming Jet Fuel Crisis: Hormuz, Policy Failure, And A Self-Inflicted Supply Shock",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/markets/europes-looming-jet-fuel-crisis-hormuz-policy-failure-and-self-inflicted-supply-shock",
+        "publishedAt": "2026-04-06T10:55:22.000Z",
+        "description": "europe s looming jet fuel crisis hormuz policy failure and a self inflicted supply shock from zerohedge submitted by thomas kolbe politics has established a new routine right at 12 noon prices at german gas stations now rise day after day the government s pricing decree a hastily assembled mechanism acts like an accelerant in an already dramatically strained fuel apr 6th 2026 5 30am edt source link https www zerohedge com markets europes looming jet fuel crisis hormuz policy failure and self inflicted supply shock internet archive link https web archive org web 20260406095724 https www zerohedge com markets europes looming jet fuel crisis hormuz policy failure and self inflicted supply shock share promote comment with nostr https dissentwatch com boost boost post id 1122576",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4bf60d717b06"
+      },
+      {
+        "headline": "A moment of ceiling collapse after heavy rainfall at Soekarno-Hatta International Airport in Tangerang, Banten, Indonesia 🇮🇩 (06.04.2026)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://t.me/Disaster_News/8306",
+        "publishedAt": "2026-04-06T11:11:11.000Z",
+        "description": "a moment of ceiling collapse after heavy rainfall at soekarno hatta international airport in tangerang banten indonesia 06 04 2026 video view in telegram post source disaster news https t me disaster news 8306",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a7f09a37fefd"
+      },
+      {
+        "headline": "Russian Forces Strike Ukrainian Tactical Missiles Workshops and Energy Infrastructure",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260406/russian-forces-strike-ukrainian-tactical-missiles-workshops-and-energy-infrastructure-1123952548.html",
+        "publishedAt": "2026-04-06T09:57:22.000Z",
+        "description": "russian forces strike ukrainian tactical missiles workshops and energy infrastructure from sputnik moscow sputnik the russian armed forces have struck a workshop producing control systems and components for operational tactical missiles as well as energy infrastructure used in the interests of the armed forces of ukraine the russian defense ministry said on monday apr 6th 2026 5 45am edt source link https sputnikglobe com 20260406 russian forces strike ukrainian tactical missiles workshops and energy infrastructure 1123952548 html internet archive link https web archive org web 20260406095230 https sputnikglobe com 20260406 russian forces strike ukrainian tactical missiles workshops and energy infrastructure 1123952548 html share promote comment with nostr https dissentwatch com boost boos",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1a9548fad26d"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 45
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 77
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 73
+    }
+  ],
+  "failures": []
+}
