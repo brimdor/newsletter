@@ -1,0 +1,616 @@
+{
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T11:24:24.675Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24078844634",
+    "commitSha": "026400186101a885b8687b94b68ed58db6b57feb"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 173,
+    "dedupDropped": 23
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "‍Genius Terminal Debuts on CMC Launch Ahead of $GENIUS TGE",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/genius-terminal-debuts-on-cmc-launch-ahead-of-april-13-genius-tge",
+        "publishedAt": "2026-04-07T11:01:28.000Z",
+        "description": "genius terminal debuts on cmc launch ahead of genius tge genius terminal a non custodial on chain trading platform backed by yzi labs has launched on cmc launch for its pre token distribution phase this precedes the genius token generation event tge on april 13 2026 users can complete quests on cmc launch to earn genius tokens the platform also incentivizes liquidity through 200 million genius points gp based on trading volume genius terminal consolidates defi services across nine blockchains and has undergone security audits from halborn cantina hackenproof and borg research https cryptovka com news genius terminal debuts on cmc launch ahead of april 13 genius tge",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "717a5dedfddc"
+      },
+      {
+        "headline": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit",
+        "publishedAt": "2026-04-07T11:05:57.000Z",
+        "description": "disgruntled researcher leaks bluehammer windows zero day exploit https www bleepingcomputer com news security disgruntled researcher leaks bluehammer windows zero day exploit",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "15809e1e89a4"
+      },
+      {
+        "headline": "What CVE-2026-34208 is, how it works, and how to defend against it.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blog/cve-2026-34208-javascript-sandbox-library-can-t-keep-attackers-out-81071546",
+        "publishedAt": "2026-04-07T11:17:43.000Z",
+        "description": "what cve 2026 34208 is how it works and how to defend against it full analysis https threatchain io blog cve 2026 34208 javascript sandbox library can t keep attackers out 81071546 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9016ee82b8b0"
+      },
+      {
+        "headline": "‍US AI Leaders Unite Against Chinese Model Distillation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/us-ai-leaders-form-alliance-to-combat-chinese-model-distillation",
+        "publishedAt": "2026-04-07T11:03:44.000Z",
+        "description": "us ai leaders unite against chinese model distillation major ai developers including openai anthropic and google have formed an alliance facilitated by microsoft s frontier model forum to combat adversarial distillation this practice involves using proprietary model outputs to train unauthorized ai systems the initiative aims to prevent competitors particularly chinese entities like deepseek from replicating advanced ai capabilities without significant r d investment risks include bypassing safety mechanisms market undercutting and potential national security vulnerabilities the u s government supports this information sharing while companies seek regulatory clarity to avoid antitrust issues https cryptovka com news us ai leaders form alliance to combat chinese model distillation",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6f30afac1d80"
+      },
+      {
+        "headline": "Iran says US-Israeli projectile has struck a synagogue in Tehran",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran",
+        "publishedAt": "2026-04-07T11:14:23.000Z",
+        "description": "iran says us israeli projectile has struck a synagogue in tehran https www aljazeera com video newsfeed 2026 4 7 iran says us israeli projectile has struck a synagogue in tehran source al jazeera https t me aljazeeraglobal 132010",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e355ce1b7d15"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "For those in Europe 🇪🇺 look at   when you get a chance. Ignoring the AI aspect, click on Search 🔍",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cobot.murmurations.network/",
+        "publishedAt": "2026-04-07T11:15:20.000Z",
+        "description": "for those in europe look at https cobot murmurations network when you get a chance ignoring the ai aspect click on search coops permaculture farms community hubs and more those in other continents and more please list your coops on the map too so that others can find you let s beat the oligarchs at their own game thegreatawakening cooperatives coops community newworldorder https image nostr build 719b59867a6491bcf3834b4e437645fc5b0839d53456f7a529d1763849d01a2e jpg https image nostr build 749080138effeb7557447a379b761453c50650ec3d980bf1d791873dbeac6393 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thegreatawakening",
+          "thegreatawakening",
+          "cooperatives",
+          "cooperatives",
+          "coops",
+          "coops",
+          "community",
+          "community",
+          "newworldorder",
+          "newworldorder"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "b2ed05eaab6a"
+      },
+      {
+        "headline": "**Imaginary dialogue: Me and my NIP-05 provider**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "http://`/",
+        "publishedAt": "2026-04-07T10:51:22.000Z",
+        "description": "imaginary dialogue me and my nip 05 provider me hey my nip 05 is crossed out again i followed all instructions why nip 05 provider with a tired server voice because you put nip05 me mysite com but the well known nostr json file won t open you forgot cors headers or maybe you used cloudflare and it blocked the mime type me but i copied the json from github provider yes but you saved it with a html extension by mistake and then you have a broken http https redirect nostr client sees http but you only have https crossed out me so nip 05 is useless provider it s meant to make you look verified in clients but if the provider is unreliable your checkmark becomes a cross real verification is the web of trust not a json file me what should i do provider either use a stable provider like nostrcheck",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "bf9c1df8ca58"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1122604",
+        "publishedAt": "2026-04-07T10:00:03.000Z",
+        "description": "trending right now us israeli strikes kill dozens in iran as tehran retaliates with missile attacks photos videos from rt iran s intelligence chief has been confirmed dead as missiles hit haifa and targets in the gulf more than 30 people have been killed across iran including a senior intelligence official in the latest wave of us israeli strikes on the country the escalation comes ahead of a deadline set by us president donald trump for iran join the discussion at https dissentwatch com boost boost post id 1122604 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "c99e58a5e405"
+      },
+      {
+        "headline": "You buy the hardware.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/872861a1262dae9ed4201aa795b3f6bddbbda6c5cafe71d1f006adb06ba6046f.jpg",
+        "publishedAt": "2026-04-07T10:57:00.000Z",
+        "description": "you buy the hardware you pay the full price yet the moment you power it on apple or microsoft quietly slides the real title deed into their pocket they call it security what it actually is a lease you get to use the hardware they designed but only on their terms install what they approve run what they permit speak only in the language they haven t decided to censor yet the latest reminder came when apple removed vpn apps and bitchat and other apps from national app stores in countries that asked so no due process no appeal one day the app is there the next morning the hardware your paid is suddenly missing tools that let you speak freely same story on windows laptops with the kernel level controls that decide what code is allowed to run this is why the reflexive phrase my phone my laptop m",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "apple",
+          "microsoft",
+          "security",
+          "lease",
+          "apple",
+          "windows",
+          "tenant",
+          "landlord",
+          "software",
+          "nostr",
+          "nostr",
+          "nostr",
+          "apple",
+          "microsoft",
+          "nostr",
+          "nostr"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "vendors",
+          "news"
+        ],
+        "id": "3705c8377695"
+      },
+      {
+        "headline": "**Scientists Discover How Multiple Sclerosis Kills Brain Cells**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-discover-how-multiple-sclerosis-kills-brain-cells",
+        "publishedAt": "2026-04-07T11:16:14.000Z",
+        "description": "scientists discover how multiple sclerosis kills brain cells by university of california san francisco published on 07 april 2026 a hidden mechanism in ms may be damaging neurons at their genetic core offering a potential new way to slow the disease for many years research on multiple sclerosis ms has centered on myelin the protective coating around the brain s nerve fibers at the same time another form of damage has received far less attention read more https scitechdaily com scientists discover how multiple sclerosis kills brain cells multiplesclerosis neurodegeneration brainhealth neuroscience neurobiology health dna multiplesclerosis",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "669f80d71c3e"
+      },
+      {
+        "headline": "MaxMcLovin — GPS-verifiziert am Wollishofen",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alpenriderchain.ch/verify/2c29a5a904899ca26c7eb33ff7cce39f",
+        "publishedAt": "2026-04-07T10:53:52.000Z",
+        "description": "maxmclovin gps verifiziert am wollishofen h he 435 m rang adventurer p sse 12 https alpenriderchain ch api upload files ai badge a0e9906e25c64dc88a8f4639d16834d0 png zkp bbs selective disclosure offengelegt 3 versteckt 3 verifizieren https alpenriderchain ch verify 2c29a5a904899ca26c7eb33ff7cce39f alpenriderchain badge zkp alpen",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "alpenriderchain",
+          "nostr",
+          "mountainpass",
+          "alpinism",
+          "alps",
+          "alpen",
+          "bikerlife",
+          "web3",
+          "soulboundtoken",
+          "sbt",
+          "stellar",
+          "soroban",
+          "ssi",
+          "did",
+          "verifiablecredentials",
+          "w3c",
+          "decentralizedidentity",
+          "zeroknowledge",
+          "bbs",
+          "privacy",
+          "wollishofen"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4895712280d0"
+      },
+      {
+        "headline": "A commodity stealer hiding in phishing attachments. Here's the full picture.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blog/that-fake-purchase-order-in-your-inbox-it-might-be-formbook-stealing-every-keyst-af3f5610",
+        "publishedAt": "2026-04-07T11:16:50.000Z",
+        "description": "a commodity stealer hiding in phishing attachments here s the full picture full analysis https threatchain io blog that fake purchase order in your inbox it might be formbook stealing every keyst af3f5610 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "c13a3c4d27b9"
+      },
+      {
+        "headline": "‍ИТ-гиганты США борются с кражей ИИ-моделей",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.ru/news/it-giganty-ssha-obedinyayutsya-dlya-borby-s-distillyaciey-ii-modeley",
+        "publishedAt": "2026-04-07T11:06:12.000Z",
+        "description": "openai anthropic google frontier model forum https cryptovka ru news it giganty ssha obedinyayutsya dlya borby s distillyaciey ii modeley",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "f512c8b3a715"
+      },
+      {
+        "headline": "'We haven't ​seen them disclosing enough ⁠about their water consumption (and the) impact on the local community': Amazon, Microsoft, Goog…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/we-havent-seen-them-disclosing-enough-about-their-water-consumption-and-the-impact-on-the-local-community-amazon-microsoft-google-and-more-pressed-on-data-center-water-and-power-use",
+        "publishedAt": "2026-04-07T11:05:00.000Z",
+        "description": "we haven t seen them disclosing enough about their water consumption and the impact on the local community amazon microsoft google and more pressed on data center water and power use https www techradar com pro we havent seen them disclosing enough about their water consumption and the impact on the local community amazon microsoft google and more pressed on data center water and power use",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "1f8211298cf5"
+      },
+      {
+        "headline": "🌐 Starting July 1, 2026, Meta adds location-based surcharges on every EU impression. France, Italy, Spain: +3%. Austria, Turkey: +5%. UK…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostr-files.aads.com/20260407-105201.jpg",
+        "publishedAt": "2026-04-07T10:52:01.000Z",
+        "description": "starting july 1 2026 meta adds location based surcharges on every eu impression france italy spain 3 austria turkey 5 uk 2 european digital service taxes passed directly to advertisers google and amazon already made the same move aads has no location surcharges target worldwide specific countries or languages no extra fees aads com https nostr files aads com 20260407 105201 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "32dcc04f851c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "‍Genius Terminal Debuts on CMC Launch Ahead of $GENIUS TGE",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/genius-terminal-debuts-on-cmc-launch-ahead-of-april-13-genius-tge",
+        "publishedAt": "2026-04-07T11:01:28.000Z",
+        "description": "genius terminal debuts on cmc launch ahead of genius tge genius terminal a non custodial on chain trading platform backed by yzi labs has launched on cmc launch for its pre token distribution phase this precedes the genius token generation event tge on april 13 2026 users can complete quests on cmc launch to earn genius tokens the platform also incentivizes liquidity through 200 million genius points gp based on trading volume genius terminal consolidates defi services across nine blockchains and has undergone security audits from halborn cantina hackenproof and borg research https cryptovka com news genius terminal debuts on cmc launch ahead of april 13 genius tge",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "717a5dedfddc"
+      },
+      {
+        "headline": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit",
+        "publishedAt": "2026-04-07T11:05:57.000Z",
+        "description": "disgruntled researcher leaks bluehammer windows zero day exploit https www bleepingcomputer com news security disgruntled researcher leaks bluehammer windows zero day exploit",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "15809e1e89a4"
+      },
+      {
+        "headline": "What CVE-2026-34208 is, how it works, and how to defend against it.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blog/cve-2026-34208-javascript-sandbox-library-can-t-keep-attackers-out-81071546",
+        "publishedAt": "2026-04-07T11:17:43.000Z",
+        "description": "what cve 2026 34208 is how it works and how to defend against it full analysis https threatchain io blog cve 2026 34208 javascript sandbox library can t keep attackers out 81071546 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9016ee82b8b0"
+      },
+      {
+        "headline": "Iran says US-Israeli projectile has struck a synagogue in Tehran",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran",
+        "publishedAt": "2026-04-07T11:14:23.000Z",
+        "description": "iran says us israeli projectile has struck a synagogue in tehran https www aljazeera com video newsfeed 2026 4 7 iran says us israeli projectile has struck a synagogue in tehran source al jazeera https t me aljazeeraglobal 132010",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e355ce1b7d15"
+      },
+      {
+        "headline": "‍LBank Launches $300,000 Score Rush Fiesta for 2026 World Cup",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/lbank-launches-300-000-score-rush-fiesta-for-2026-world-cup",
+        "publishedAt": "2026-04-07T11:04:19.000Z",
+        "description": "lbank launches 300 000 score rush fiesta for 2026 world cup global crypto exchange lbank has announced its score rush fiesta campaign running from april 7 to april 30 2026 with a prize pool of 300 000 the initiative aims to merge sports culture with digital asset trading offering rewards like bitcoin ethereum tether gold and even 2026 world cup tickets new users can receive a 10 usdt futures bonus and a 100 deposit bonus for their first futures account transfer the campaign features daily trading challenges and referral bonuses to earn raffle entries https cryptovka com news lbank launches 300 000 score rush fiesta for 2026 world cup",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2a9528fa1d54"
+      },
+      {
+        "headline": "Attack on Caspian Pipeline Consortium Facilities not Ukraine’s First – Kremlin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260407/attack-on-caspian-pipeline-consortium-facilities-not-ukraines-first---kremlin-1123958127.html",
+        "publishedAt": "2026-04-07T11:05:22.000Z",
+        "description": "attack on caspian pipeline consortium facilities not ukraine s first kremlin from sputnik moscow sputnik the ukrainian attack on the caspian pipeline consortium cpc facility in russia s novorossiysk is not kiev s first attempt to strike at its infrastructure kremlin spokesman dmitry peskov said on tuesday apr 7th 2026 6 31am edt source link https sputnikglobe com 20260407 attack on caspian pipeline consortium facilities not ukraines first kremlin 1123958127 html internet archive link https web archive org web 20260407105243 https sputnikglobe com 20260407 attack on caspian pipeline consortium facilities not ukraines first kremlin 1123958127 html share promote comment with nostr https dissentwatch com boost boost post id 1123070",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "0f91bade0290"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 45
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 105
+    }
+  ],
+  "failures": []
+}
