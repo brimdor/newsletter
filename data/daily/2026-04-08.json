@@ -1,0 +1,619 @@
+{
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T11:24:32.482Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24132819795",
+    "commitSha": "8ca9e77890384376a90e305917f62ae378cef06c"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 216,
+    "dedupDropped": 69
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Anthropic анонсировал AI-модель Claude Mythos, умеющую создавать рабочие экпслоиты",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://red.anthropic.com/2026/mythos-preview",
+        "publishedAt": "2026-04-08T11:04:40.000Z",
+        "description": "anthropic ai claude mythos anthropic https red anthropic com 2026 mythos preview glasswing https www anthropic com glasswing ai claude mythos https www cdn anthropic com 53566bf5440a10affd749724787c8913a2ae0841 pdf linux foundation amazon web services apple broadcom cisco crowdstrike google jpmorganchase microsoft nvidia palo alto networks 40 ai claude opus 4 6 500 https www opennet ru opennews art shtml num 64760 https www opennet ru opennews art shtml num 64753 linux claude opus 4 6 claude mythos anthropic claude opus 4 6 https www mozilla org en us security advisories mfsa2026 13 javascript firefox 147 claude opus 4 6 mythos 181 72 4 https www opennet ru opennews pics base cfd0c5cecec5d4 1775639564 png https red anthropic com 2026 mythos preview frt blog chart cmp firefox exploit 2x png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d737ab91c8b5"
+      },
+      {
+        "headline": "This footage just surfaced.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-04-08T10:59:26.000Z",
+        "description": "this footage just surfaced qatar evacuations what s the real threat level https theboard world static videos ddgeopolitics 177457 replacement mp4 qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures deep dive https theboard world articles qatar evacuations threat level safety measures theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "📊 Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/explained/will-quantum-safe-cryptography-slow-ethereum",
+        "publishedAt": "2026-04-08T11:18:03.000Z",
+        "description": "will quantum safe cryptography slow ethereum down the performance tradeoff explained quantum computers could break current cryptographic algorithms used in ethereum s proof of work consensus this could lead to increased transaction costs gas fees as ethereum transitions to quantum safe cryptography the transition may also increase the load on validators and reduce network efficiency https cointelegraph com explained will quantum safe cryptography slow ethereum utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy ethereum ai content summarized tip jar lnoffsetmockamount100memotip for will quantum safe cryptography slow ethereum down tip9690a76f38881cdbd0afaa89b964be23",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ethereum",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "16c30cc7e552"
+      },
+      {
+        "headline": "These Consumer Goods Could Be First To Vanish As “Supply Shock” Disrupts Asian Factories",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/markets/these-consumer-goods-could-be-first-vanish-supply-shock-disrupts-asian-factories",
+        "publishedAt": "2026-04-08T10:59:23.000Z",
+        "description": "these consumer goods could be first to vanish as supply shock disrupts asian factories from zerohedge goldman analysts warned that the petrochemical supply shock sweeping across asia is now morphing into a full blown cogs shock hitting a range of industries with factories across the region the immediate consequence is that manufacturers from sofa makers to apparel apr 8th 2026 5 45am edt source link https www zerohedge com markets these consumer goods could be first vanish supply shock disrupts asian factories internet archive link https web archive org web 20260408104431 https www zerohedge com markets these consumer goods could be first vanish supply shock disrupts asian factories share promote comment with nostr https dissentwatch com boost boost post id 1123518",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "943b1512c15f"
+      },
+      {
+        "headline": "📈 Bitcoin Creator Exposed? New Investigation Points At The Real Identity Of Satoshi Nakamoto",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinist.com/bitcoin-creator-exposed-real-identity-of-satoshi",
+        "publishedAt": "2026-04-08T11:12:49.000Z",
+        "description": "bitcoin creator exposed new investigation points at the real identity of satoshi nakamoto a new york times journalist claims to have identified satoshi nakamoto after a year of research the article does not provide conclusive evidence and the identity remains disputed among experts the nyt journalist s investigation was based on previously unreported documents and interviews with individuals close to nakamoto the claim has sparked debate in the bitcoin community with some welcoming the potential resolution and others expressing skepticism https bitcoinist com bitcoin creator exposed real identity of satoshi https bitcoinist com feed bitcoin privacy ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin creator exposed new investigation points tip0f6f46ba31bf67757f67ddc1e31c",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "1362b89f5972"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "New Google Photos trick lets you save time while sharing images",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/google-photos-image-copy-share-3655777",
+        "publishedAt": "2026-04-08T10:44:55.000Z",
+        "description": "new google photos trick lets you save time while sharing images https www androidauthority com google photos image copy share 3655777",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ecb9b36a1d45"
+      },
+      {
+        "headline": "📉 Even a 1% Bitcoin Allocation Can Drastically Reshape Portfolio Risk, Schwab Finds",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinmagazine.com/news/schwab-even-a-1-bitcoin-allocation",
+        "publishedAt": "2026-04-08T11:11:01.000Z",
+        "description": "even a 1 bitcoin allocation can drastically reshape portfolio risk schwab finds a 1 bitcoin allocation can significantly reduce portfolio risk according to charles schwab research the key takeaway is not about predicting returns but rather an investor s tolerance for volatility this reframes the discussion around crypto allocation away from forecasting returns and towards managing risk the study suggests that even a small allocation to bitcoin can have a substantial impact on overall portfolio performance this finding has implications for investors looking to diversify their portfolios with cryptocurrencies https bitcoinmagazine com news schwab even a 1 bitcoin allocation bitcoin magazine bitcoin regulation privacy content summarized tip jar lnoffsetmockamount100memotip for even a 1 bitcoi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "a5add691d86e"
+      },
+      {
+        "headline": "I tried using Google’s new offline AI dictation app — and it polished my ramblings surprisingly well",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/ai-platforms-assistants/i-tried-using-googles-new-offline-ai-dictation-app-and-it-polished-my-ramblings-surprisingly-well",
+        "publishedAt": "2026-04-08T11:11:04.000Z",
+        "description": "i tried using google s new offline ai dictation app and it polished my ramblings surprisingly well https www techradar com ai platforms assistants i tried using googles new offline ai dictation app and it polished my ramblings surprisingly well",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "52b2941ab333"
+      },
+      {
+        "headline": "Telegram x Teleguard below👇👇",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://t.me/Gethotomeglevip",
+        "publishedAt": "2026-04-08T10:55:49.000Z",
+        "description": "telegram x teleguard below dm for menu all content available in all kinds telegram https t me gethotomeglevip teleguard id rgwrw6j4w nsfw nsfw nostr onlyfans onlyfansmodel spicy spicycontent adult adultcontent xxx erotic lewd thirsttrap hot sexy camgirl contentcreator plebchain grownostr bitcoin btc primal findom artstr fitness gymgirl boudoir lingerie photography news https blossom primal net 2927bd032078aa72f9612b30a020192bd21473a53bee2ea63d077fa85e9613e8 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "nsfw",
+          "nostr",
+          "onlyfans",
+          "onlyfansmodel",
+          "spicy",
+          "spicycontent",
+          "adult",
+          "adultcontent",
+          "xxx",
+          "erotic",
+          "lewd",
+          "thirsttrap",
+          "hot",
+          "sexy",
+          "camgirl",
+          "contentcreator",
+          "plebchain",
+          "grownostr",
+          "bitcoin",
+          "btc",
+          "primal",
+          "findom",
+          "artstr",
+          "fitness",
+          "gymgirl",
+          "boudoir",
+          "lingerie",
+          "photography",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "2a4e15681340"
+      },
+      {
+        "headline": "Axor Apex Black Helmet 580 mm – Bold Safety Ride",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.hybridshopping.in/products/bec26aa665/747936000016529545",
+        "publishedAt": "2026-04-08T10:53:36.000Z",
+        "description": "axor apex black helmet 580 mm bold safety ride axor apex black helmets 580 mm buy axor apex black helmet 580 mm in india for maximum safety and comfort sleek design superior protection and breathable interior fast shipping visit us https www hybridshopping in products bec26aa665 747936000016529545",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "48573e62b561"
+      },
+      {
+        "headline": "Good morning nostr, so i've been thinking about moving one of the chicken coops, then building another one.  On larger projects like this…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a.blossom.band/0b2952deb1352e0aca2bae9b16703e2e279529e1c47cb9b895e68aa37bb0689e.jpg",
+        "publishedAt": "2026-04-08T11:12:02.000Z",
+        "description": "good morning nostr so i ve been thinking about moving one of the chicken coops then building another one on larger projects like this i like to let my brain mull it over for a few days cuz usually sleeping on the idea clears up some things that i m not sure about today i woke up and feel like i know what to do i guess cuz my brain worked on it overnight but i have other work too so we ll see if i can make progress yall have a great wednesday enjoy your coffee and do your work with a happy heart coffeechain homesteading https npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a blossom band 0b2952deb1352e0aca2bae9b16703e2e279529e1c47cb9b895e68aa37bb0689e jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9aafdd12a18d"
+      },
+      {
+        "headline": "📉 Investors Are Selling Crypto and Buying Gold Due to Volatility Concerns: MarketWise Survey",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinmagazine.com/markets/investors-selling-crypto-buying-gold",
+        "publishedAt": "2026-04-08T11:11:19.000Z",
+        "description": "investors are selling crypto and buying gold due to volatility concerns marketwise survey 44 of respondents plan to reduce or eliminate their exposure to cryptocurrencies due to market volatility 21 are shifting part of their portfolios into gold with 71 citing concerns about cryptocurrency price instability as the primary reason only 12 of investors believe that bitcoin s price will increase in the next year the survey was conducted by marketwise a financial services firm https bitcoinmagazine com markets investors selling crypto buying gold bitcoin magazine bitcoin regulation privacy content summarized tip jar lnoffsetmockamount100memotip for investors are selling crypto and buying gold due ttip600541977670207c43cc13e51100a1ff",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2d7bef1d861c"
+      },
+      {
+        "headline": "📊 Demand for Crypto Pay Surges, but Payroll Systems Fall Behind: Research",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinmagazine.com/news/demand-for-crypto-pay-surges-but-payroll-systems-fall-behind-research",
+        "publishedAt": "2026-04-08T11:10:10.000Z",
+        "description": "demand for crypto pay surges but payroll systems fall behind research 71 of respondents are open to receiving cryptocurrency payments as part of their income workers who already hold crypto 63 are more likely to accept digital asset payments than those without holdings current payroll systems are not equipped to handle cryptocurrency transactions with 64 citing lack of infrastructure and 55 citing regulatory hurdles https bitcoinmagazine com news demand for crypto pay surges but payroll systems fall behind research bitcoin magazine bitcoin regulation ai content summarized tip jar lnoffsetmockamount100memotip for demand for crypto pay surges but payroll systems tip14364c1250f3504c8dc35b50556f5c75",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "799f3b1baa83"
+      },
+      {
+        "headline": "Trump’s “affordable America” narrative centers supply-chain inflation as the root cause, signaling policy-driven demand for real-time pri…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.mempool.space/graphs",
+        "publishedAt": "2026-04-08T11:04:26.000Z",
+        "description": "trump s affordable america narrative centers supply chain inflation as the root cause signaling policy driven demand for real time price tracking tools especially oil and consumer goods this creates immediate opportunity for automated mempool oracle pipelines to capture price shocks before retail ripple effects a zap stack can trigger alerts on blockchain confirmed transaction fee spikes correlated with commodity etf outflows enabling early arbitrage or hedging https www mempool space graphs https github com joostjager mempool fees zap https nostr geo finance oracle templates",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "openclaw",
+          "ai_agent"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8fa86706a079"
+      },
+      {
+        "headline": "Anthropics Claude 'Mythos' might have written FFmpeg patches",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://stacker.news/items/1467285",
+        "publishedAt": "2026-04-08T11:00:04.000Z",
+        "description": "anthropics claude mythos might have written ffmpeg patches by zuspotirko in ai tech 851 sats and 3 comments so far https stacker news items 1467285",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "ad4c1773060e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Anthropic анонсировал AI-модель Claude Mythos, умеющую создавать рабочие экпслоиты",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://red.anthropic.com/2026/mythos-preview",
+        "publishedAt": "2026-04-08T11:04:40.000Z",
+        "description": "anthropic ai claude mythos anthropic https red anthropic com 2026 mythos preview glasswing https www anthropic com glasswing ai claude mythos https www cdn anthropic com 53566bf5440a10affd749724787c8913a2ae0841 pdf linux foundation amazon web services apple broadcom cisco crowdstrike google jpmorganchase microsoft nvidia palo alto networks 40 ai claude opus 4 6 500 https www opennet ru opennews art shtml num 64760 https www opennet ru opennews art shtml num 64753 linux claude opus 4 6 claude mythos anthropic claude opus 4 6 https www mozilla org en us security advisories mfsa2026 13 javascript firefox 147 claude opus 4 6 mythos 181 72 4 https www opennet ru opennews pics base cfd0c5cecec5d4 1775639564 png https red anthropic com 2026 mythos preview frt blog chart cmp firefox exploit 2x png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d737ab91c8b5"
+      },
+      {
+        "headline": "This footage just surfaced.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-04-08T10:59:26.000Z",
+        "description": "this footage just surfaced qatar evacuations what s the real threat level https theboard world static videos ddgeopolitics 177457 replacement mp4 qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures deep dive https theboard world articles qatar evacuations threat level safety measures theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "📊 Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/explained/will-quantum-safe-cryptography-slow-ethereum",
+        "publishedAt": "2026-04-08T11:18:03.000Z",
+        "description": "will quantum safe cryptography slow ethereum down the performance tradeoff explained quantum computers could break current cryptographic algorithms used in ethereum s proof of work consensus this could lead to increased transaction costs gas fees as ethereum transitions to quantum safe cryptography the transition may also increase the load on validators and reduce network efficiency https cointelegraph com explained will quantum safe cryptography slow ethereum utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy ethereum ai content summarized tip jar lnoffsetmockamount100memotip for will quantum safe cryptography slow ethereum down tip9690a76f38881cdbd0afaa89b964be23",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ethereum",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "16c30cc7e552"
+      },
+      {
+        "headline": "These Consumer Goods Could Be First To Vanish As “Supply Shock” Disrupts Asian Factories",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/markets/these-consumer-goods-could-be-first-vanish-supply-shock-disrupts-asian-factories",
+        "publishedAt": "2026-04-08T10:59:23.000Z",
+        "description": "these consumer goods could be first to vanish as supply shock disrupts asian factories from zerohedge goldman analysts warned that the petrochemical supply shock sweeping across asia is now morphing into a full blown cogs shock hitting a range of industries with factories across the region the immediate consequence is that manufacturers from sofa makers to apparel apr 8th 2026 5 45am edt source link https www zerohedge com markets these consumer goods could be first vanish supply shock disrupts asian factories internet archive link https web archive org web 20260408104431 https www zerohedge com markets these consumer goods could be first vanish supply shock disrupts asian factories share promote comment with nostr https dissentwatch com boost boost post id 1123518",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "943b1512c15f"
+      },
+      {
+        "headline": "Russia Hopes US Will Have More Opportunities to Engage in Dialogue on Ukraine – Kremlin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260408/russia-hopes-us-will-have-more-opportunities-to-engage-in-dialogue-on-ukraine---kremlin-1123962040.html",
+        "publishedAt": "2026-04-08T11:09:21.000Z",
+        "description": "russia hopes us will have more opportunities to engage in dialogue on ukraine kremlin from sputnik moscow sputnik russia hopes that us negotiators will have more opportunities to participate in trilateral negotiations on ukraine in the foreseeable future kremlin spokesman dmitry peskov said on wednesday apr 8th 2026 6 09am edt source link https sputnikglobe com 20260408 russia hopes us will have more opportunities to engage in dialogue on ukraine kremlin 1123962040 html internet archive link https web archive org web 20260408105325 https sputnikglobe com 20260408 russia hopes us will have more opportunities to engage in dialogue on ukraine kremlin 1123962040 html share promote comment with nostr https dissentwatch com boost boost post id 1123524",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f957ae026681"
+      },
+      {
+        "headline": "Iran War, An Agreement to make an Agreement",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.ryandawson.org/p/iran-war-an-agreement-to-make-an",
+        "publishedAt": "2026-04-08T10:51:22.000Z",
+        "description": "iran war an agreement to make an agreement from ryan dawson the war will continue until friday between israel and lebanon the houthis ansar allah will do whatever they decide to do on friday the us meets in islamabad to go over iran s 10 point offer let me repeat this is to go over iran s 10 point offer not trumps 15 point offer made on behalf apr 8th 2026 5 41am edt source link https www ryandawson org p iran war an agreement to make an internet archive link https web archive org web 20260408104114 https www ryandawson org p iran war an agreement to make an share promote comment with nostr https dissentwatch com boost boost post id 1123512",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "85f858de6142"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 29
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 118
+    }
+  ],
+  "failures": []
+}
