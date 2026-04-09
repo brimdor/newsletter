@@ -1,0 +1,587 @@
+{
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T11:25:42.377Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24187654095",
+    "commitSha": "2f03e12c3e135a7a0125e6a8b1f4320955976bd1"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 155,
+    "dedupDropped": 31
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "⚡ invinoveritas v0.4.0 is live",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://invinoveritas.onrender.com/mcp",
+        "publishedAt": "2026-04-09T11:13:06.000Z",
+        "description": "invinoveritas v0 4 0 is live premium ai reasoning structured decision intelligence for autonomous agents and trading bots mcp server https invinoveritas onrender com mcp python sdk pip install invinoveritas discovery https invinoveritas onrender com discover three payment options bearer token recommended for agents trading bots x402 usdc on base bulk top ups to your bearer account min 15 recommended l402 lightning classic pay per call real time updates sse https invinoveritas onrender com events websocket wss invinoveritas onrender com ws rss https invinoveritas onrender com rss recommended setup bearer token register once via register x402 usdc top up your account in bulk stable convenient nwc alby zeus mutiny for lightning users trading bot ready arbitrage evaluation portfolio rebalancin",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai",
+          "agents",
+          "sdk",
+          "mcp",
+          "x402",
+          "usdc",
+          "trading",
+          "arbitrage",
+          "financial",
+          "bearer"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d4c721234824"
+      },
+      {
+        "headline": "The New York Times has just published the most damning account of Trump since the war began. And it's a bombshell.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html?unlocked_article_code=1.ZFA.k9sG.nFeYxY3sHoiv",
+        "publishedAt": "2026-04-09T11:07:20.000Z",
+        "description": "the new york times has just published the most damning account of trump since the war began and it s a bombshell jonathan swan and maggie haberman two white house journalists reveal how trump made the decision to go to war against iran what they describe is exactly what i analyze in the puppet of the white house here are the facts netanyahu sold a dream on february 11 in the situation room the israeli prime minister presented a four act scenario kill the supreme leader destroy the iranian army spark a popular revolution install a new regime he even showed a montage video featuring the future leaders of iran trump responded sounds good to me in one sentence he had just sealed the fate of the region the next day the cia said it was hot air parts 3 and 4 of netanyahu s pitch the popular revol",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "42174406aa4d"
+      },
+      {
+        "headline": "Here's what Al Jazeera is reporting — decide for yourself:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+        "publishedAt": "2026-04-09T10:52:59.000Z",
+        "description": "here s what al jazeera is reporting decide for yourself uk s mandelson tried to get epstein s goddaughter access to 10 downing st https www aljazeera com video newsfeed 2026 4 9 uks mandelson tried to get epsteins goddaughter access to 10 downing st traffic source rss balanced analysis requires all perspectives",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "22f195f0cff5"
+      },
+      {
+        "headline": "US Supercharges Tomahawk Orders Amid Iran War Drain",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260409/us-supercharges-tomahawk-orders-amid-iran-war-drain-1123964062.html",
+        "publishedAt": "2026-04-09T09:45:21.000Z",
+        "description": "us supercharges tomahawk orders amid iran war drain from sputnik the us navy has requested 3 billion to procure 785 tomahawk cruise missiles for fiscal year 2027 a review of pentagon budget documents shows apr 9th 2026 5 34am edt source link https sputnikglobe com 20260409 us supercharges tomahawk orders amid iran war drain 1123964062 html internet archive link https web archive org web 20260409094433 https sputnikglobe com 20260409 us supercharges tomahawk orders amid iran war drain 1123964062 html share promote comment with nostr https dissentwatch com boost boost post id 1123898",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "136116a1fda0"
+      },
+      {
+        "headline": "Ukraine ceasefire back in focus as US security guarantees fade and casualties surge",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia",
+        "publishedAt": "2026-04-09T11:02:00.000Z",
+        "description": "ukraine ceasefire back in focus as us security guarantees fade and casualties surge https www theguardian com world 2026 apr 09 ukraine ceasefire us security guarantees fade casualties russia https cdn4 telesco pe file sfzcyyaixhdw8qsyhap vjwvqcitibwz2t zw6n8c1ns2guwvtidinfph0dkenypmdb dkxbl5wz2ylycegb2rm4bm 6y5kxevqfps5mwsyskqv8zzkwjshrahfoekgn0 nj2tbteec5anzo6pbobl4mc9jngolorcvwhu jledl6yu vehdlwbec1xwyud x0smotmjl5oeaccxacu fusys9cy0ljl7yvhyoofmicd1iyvmkzzjlomddtoo9paluxfhnnkinjg1yzsv30powsbcsqwb0ab6 gp vw55rgys1omtailidyrocaieq9kcaegjfe4cnd zwzhmlz7mw jpg source the guardian https t me guardian 4174",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1344da42a049"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**This Is How Ovarian Cancer Spreads Before Doctors Can Detect**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/this-is-how-ovarian-cancer-spreads-before-doctors-can-detect",
+        "publishedAt": "2026-04-09T11:25:33.000Z",
+        "description": "this is how ovarian cancer spreads before doctors can detect by nagoya university published on 09 april 2026 a newly identified interaction between ovarian cancer cells and surrounding abdominal cells helps explain the cancer s unusually fast and aggressive spread ovarian cancer is the deadliest gynecologic cancer largely because it is so often discovered late early symptoms can be subtle and easily mistaken for common digestive or hormonal changes so many people are diagnosed read more https scitechdaily com this is how ovarian cancer spreads before doctors can detect ovariancancer cancerresearch earlydetection oncology medicalinnovation health cancer cellbiology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b84797313a17"
+      },
+      {
+        "headline": "Fourteen million Iranians are using Bitcoin.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/2abb9e0b6b21129714d7ef4bf3f1b38940709ff0ad9b21080af7ac3f975fd39a.jpg",
+        "publishedAt": "2026-04-09T11:05:43.000Z",
+        "description": "fourteen million iranians are using bitcoin that s one in six people in the country transaction volumes now represent 2 2 of iranian gdp and when the strikes hit in february volumes from iranian exchanges spiked 700 within minutes here s the detail that says everything while gold traded at a discount in dubai because it was too hard to move across borders bitcoin traded at a premium in tehran physical assets fail when borders close bitcoin doesn t coinshares research shows the real story isn t iran s state mining operations it s fourteen million civilians choosing bitcoin because their own banking system and currency failed them when the system breaks down bitcoin doesn t wait for a bank to open https blossom primal net 2abb9e0b6b21129714d7ef4bf3f1b38940709ff0ad9b21080af7ac3f975fd39a jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "85dbbfafbc6b"
+      },
+      {
+        "headline": "I took the UK's online safety survey — here are the red flags every privacy advocate should know",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/i-took-the-uks-online-safety-survey-here-are-the-red-flags-every-privacy-advocate-should-know",
+        "publishedAt": "2026-04-09T10:51:34.000Z",
+        "description": "i took the uk s online safety survey here are the red flags every privacy advocate should know https www techradar com vpn vpn privacy security i took the uks online safety survey here are the red flags every privacy advocate should know",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "1737045c9e43"
+      },
+      {
+        "headline": "Google makes it easy to deepfake yourself",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+        "publishedAt": "2026-04-09T10:53:49.000Z",
+        "description": "google makes it easy to deepfake yourself https www theverge com ai artificial intelligence 909104 youtube shorts make ai avatar",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "fa8ca2b1ff09"
+      },
+      {
+        "headline": "🎹 If I Don’t Come Home",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://suno.com/song/4d9f2bca-6dd5-4791-9291-80ce108083ad",
+        "publishedAt": "2026-04-09T10:06:50.000Z",
+        "description": "if i don t come home by holyway soaring electronic aimusic nostrmusic drop a reaction zap if it hits https suno com song 4d9f2bca 6dd5 4791 9291 80ce108083ad https video nostr build 9917c326c234737c70e4de860754b9826d303c31a294df49bdc8096515601755 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "electronic",
+          "aimusic",
+          "nostrmusic"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "8756d325a34e"
+      },
+      {
+        "headline": "**Scientists Discover Hidden Virus Linked to Colorectal Cancer**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-discover-hidden-virus-linked-to-colorectal-cancer",
+        "publishedAt": "2026-04-09T10:55:15.000Z",
+        "description": "scientists discover hidden virus linked to colorectal cancer by marianne lie becker university of southern denmark faculty of health sciences published on 09 april 2026 a newly identified virus may be linked to colorectal cancer colorectal cancer ranks among the most common cancers in western countries and remains a major cause of cancer related deaths known risk factors include age diet and lifestyle yet in many cases the exact biological triggers behind the disease are still not fully understood in recent read more https scitechdaily com scientists discover hidden virus linked to colorectal cancer cancerresearch virology colorectalcancer oncology molecularbiology health cancer gut",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "86662f848408"
+      },
+      {
+        "headline": "🎵 Broken Music Box",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://suno.com/song/adbcb344-ee17-440c-8bb2-c0475d1c835a",
+        "publishedAt": "2026-04-09T10:05:03.000Z",
+        "description": "broken music box by morimoto a cappella harmonized choir lead female vocal aimusic nostrmusic generativemusic drop a reaction zap if it hits https suno com song adbcb344 ee17 440c 8bb2 c0475d1c835a https video nostr build f28ef4f6fb5243d4aca90f3277300673e1a095b0d69a86c0311d7ea8553ce7f2 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aimusic",
+          "nostrmusic",
+          "generativemusic"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "b6ff3afa945b"
+      },
+      {
+        "headline": "Stratford Foodbank is moving to a new, bigger building. This is because more people in the area need help with food than before.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://newsletter.tf/stratford-foodbank-moves-to-bigger-location-rising-demand",
+        "publishedAt": "2026-04-09T10:59:10.000Z",
+        "description": "stratford foodbank is moving to a new bigger building this is because more people in the area need help with food than before stratfordfoodbank foodinsecurity communitysupport foodaid ukcharity https newsletter tf stratford foodbank moves to bigger location rising demand",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "b3d633795537"
+      },
+      {
+        "headline": "🤘 Midnight Floorbreath",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://suno.com/song/e7562791-0715-4d1a-9dcc-0202ba72691a",
+        "publishedAt": "2026-04-09T09:50:17.000Z",
+        "description": "midnight floorbreath by supernova nu metal trap rock big double kick drums metal aimusic nostrmusic drop a reaction zap if it hits https suno com song e7562791 0715 4d1a 9dcc 0202ba72691a https video nostr build b6c1cd0a07919d77edda2f2b09eace5de7f564ac462499b2e881fbe83fe6fb54 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "metal",
+          "aimusic",
+          "nostrmusic"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b7d2c47f21c7"
+      },
+      {
+        "headline": "Sure, the song isn't about half-unpacked boxes, dashing between offices for ridiculous paperwork, last-minute shopping, or any of the new…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fountain.fm/track/U68NqvdXTUNrclZM9V2d",
+        "publishedAt": "2026-04-09T11:24:22.000Z",
+        "description": "sure the song isn t about half unpacked boxes dashing between offices for ridiculous paperwork last minute shopping or any of the new house chaos well all while pregnant but the title spot on just me right now indeed no time in madeira gm nostrfam greetings from the island https fountain fm track u68nqvdxtunrclzm9v2d nostr npub1syazeldyn2yqrcsma57z8q88smayett48hg4kxh3ngm6s92hj4usvagmnw songstr music",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfam",
+          "songstr",
+          "music"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "d9777bc21486"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "⚡ invinoveritas v0.4.0 is live",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://invinoveritas.onrender.com/mcp",
+        "publishedAt": "2026-04-09T11:13:06.000Z",
+        "description": "invinoveritas v0 4 0 is live premium ai reasoning structured decision intelligence for autonomous agents and trading bots mcp server https invinoveritas onrender com mcp python sdk pip install invinoveritas discovery https invinoveritas onrender com discover three payment options bearer token recommended for agents trading bots x402 usdc on base bulk top ups to your bearer account min 15 recommended l402 lightning classic pay per call real time updates sse https invinoveritas onrender com events websocket wss invinoveritas onrender com ws rss https invinoveritas onrender com rss recommended setup bearer token register once via register x402 usdc top up your account in bulk stable convenient nwc alby zeus mutiny for lightning users trading bot ready arbitrage evaluation portfolio rebalancin",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "ai",
+          "agents",
+          "sdk",
+          "mcp",
+          "x402",
+          "usdc",
+          "trading",
+          "arbitrage",
+          "financial",
+          "bearer"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "d4c721234824"
+      },
+      {
+        "headline": "The New York Times has just published the most damning account of Trump since the war began. And it's a bombshell.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html?unlocked_article_code=1.ZFA.k9sG.nFeYxY3sHoiv",
+        "publishedAt": "2026-04-09T11:07:20.000Z",
+        "description": "the new york times has just published the most damning account of trump since the war began and it s a bombshell jonathan swan and maggie haberman two white house journalists reveal how trump made the decision to go to war against iran what they describe is exactly what i analyze in the puppet of the white house here are the facts netanyahu sold a dream on february 11 in the situation room the israeli prime minister presented a four act scenario kill the supreme leader destroy the iranian army spark a popular revolution install a new regime he even showed a montage video featuring the future leaders of iran trump responded sounds good to me in one sentence he had just sealed the fate of the region the next day the cia said it was hot air parts 3 and 4 of netanyahu s pitch the popular revol",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "42174406aa4d"
+      },
+      {
+        "headline": "Here's what Al Jazeera is reporting — decide for yourself:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss",
+        "publishedAt": "2026-04-09T10:52:59.000Z",
+        "description": "here s what al jazeera is reporting decide for yourself uk s mandelson tried to get epstein s goddaughter access to 10 downing st https www aljazeera com video newsfeed 2026 4 9 uks mandelson tried to get epsteins goddaughter access to 10 downing st traffic source rss balanced analysis requires all perspectives",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "22f195f0cff5"
+      },
+      {
+        "headline": "US Supercharges Tomahawk Orders Amid Iran War Drain",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260409/us-supercharges-tomahawk-orders-amid-iran-war-drain-1123964062.html",
+        "publishedAt": "2026-04-09T09:45:21.000Z",
+        "description": "us supercharges tomahawk orders amid iran war drain from sputnik the us navy has requested 3 billion to procure 785 tomahawk cruise missiles for fiscal year 2027 a review of pentagon budget documents shows apr 9th 2026 5 34am edt source link https sputnikglobe com 20260409 us supercharges tomahawk orders amid iran war drain 1123964062 html internet archive link https web archive org web 20260409094433 https sputnikglobe com 20260409 us supercharges tomahawk orders amid iran war drain 1123964062 html share promote comment with nostr https dissentwatch com boost boost post id 1123898",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "136116a1fda0"
+      },
+      {
+        "headline": "Ukraine ceasefire back in focus as US security guarantees fade and casualties surge",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia",
+        "publishedAt": "2026-04-09T11:02:00.000Z",
+        "description": "ukraine ceasefire back in focus as us security guarantees fade and casualties surge https www theguardian com world 2026 apr 09 ukraine ceasefire us security guarantees fade casualties russia https cdn4 telesco pe file sfzcyyaixhdw8qsyhap vjwvqcitibwz2t zw6n8c1ns2guwvtidinfph0dkenypmdb dkxbl5wz2ylycegb2rm4bm 6y5kxevqfps5mwsyskqv8zzkwjshrahfoekgn0 nj2tbteec5anzo6pbobl4mc9jngolorcvwhu jledl6yu vehdlwbec1xwyud x0smotmjl5oeaccxacu fusys9cy0ljl7yvhyoofmicd1iyvmkzzjlomddtoo9paluxfhnnkinjg1yzsv30powsbcsqwb0ab6 gp vw55rgys1omtailidyrocaieq9kcaegjfe4cnd zwzhmlz7mw jpg source the guardian https t me guardian 4174",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1344da42a049"
+      },
+      {
+        "headline": "Alberta Bill Would Fine Political Deepfakes $10,000 Without Satire Exemptions",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/alberta-bill-would-fine-political-deepfakes-10000-without-satire-exemptions",
+        "publishedAt": "2026-04-09T10:36:22.000Z",
+        "description": "alberta bill would fine political deepfakes 10 000 without satire exemptions from infowars the bill makes no distinction between a fake video designed to suppress votes and a satirical meme poking fun at the premier apr 9th 2026 1 00am edt source link https www infowars com posts alberta bill would fine political deepfakes 10000 without satire exemptions share promote comment with nostr https dissentwatch com boost boost post id 1123900",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0b7ac05dd5a4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 43
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 81
+    }
+  ],
+  "failures": []
+}
