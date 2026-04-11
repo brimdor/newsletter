@@ -1,0 +1,567 @@
+{
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T11:13:16.587Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24281259125",
+    "commitSha": "0f21ba2a6c32e9b0869e8c13506ace3e769761ed"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 126,
+    "dedupDropped": 15
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Immich Kiosk turns any screen into a photo display",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.xda-developers.com/turned-old-tablet-into-immich-powered-photo-display",
+        "publishedAt": "2026-04-11T10:26:47.000Z",
+        "description": "immich kiosk turns any screen into a photo display no processing happens on the tablet it is just a display for the image output in fact you won t even have much of configuration options since all of that is done through a config file my tablet which feels sluggish for practically everything can handle this within the browser just fine it loads quickly transitions are smooth and it doesn t crash what else can you ask for any old tablet that at least has a browser on it can run this kiosk mode view of immich photos albums people memories and a lot more good to see in the config that you can limit it to specific albums or people only or hide specific albums or people so the admin will just need to apply their mind to that side of things another alternative to this is immich public proxy whic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "immich",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "85b1a8e88f5f"
+      },
+      {
+        "headline": "‍Bank of England to Assess AI Cybersecurity Risks from Anthropic's Mythos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/bank-of-england-to-assess-ai-cybersecurity-risks-from-anthropic",
+        "publishedAt": "2026-04-11T11:02:12.000Z",
+        "description": "bank of england to assess ai cybersecurity risks from anthropic s mythos the bank of england is holding high level discussions with financial institutions to evaluate the operational implications of anthropic s mythos ai model this follows international concerns about advanced ai introducing cybersecurity vulnerabilities in global financial infrastructure regulators are worried that novel ai capabilities could compromise cryptographic keys automate phishing or exploit smart contract vulnerabilities the bank of england aims to determine if current safety protocols are sufficient against evolving generative intelligence mirroring similar sessions by u s and canadian regulators https cryptovka com news bank of england to assess ai cybersecurity risks from anthropic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "7ed9db46567b"
+      },
+      {
+        "headline": "UAE’s Mishal Kanoo on relations with Iran, America’s Gulf bases, Iran’s control of the Strait of Hormuz",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/podcast/637951-mishal-kanoo-uae-dubai-gcc",
+        "publishedAt": "2026-04-11T10:57:23.000Z",
+        "description": "uae s mishal kanoo on relations with iran america s gulf bases iran s control of the strait of hormuz from rt on this episode of going underground we speak to one of the uae s most prominent businessmen mishal kanoo the chairman of the kanoo group he discusses headlines such as the dubai dream is over in the western media and the motivation for this coverage against the city the desire among the uae s leadership circles for apr 11th 2026 6 19am edt source link https www rt com podcast 637951 mishal kanoo uae dubai gcc utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260411105634 https www rt com podcast 637951 mishal kanoo uae dubai gcc utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boos",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f1fa5c43dc8c"
+      },
+      {
+        "headline": "OpenAI CEO’s home hit with Molotov cocktail",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638028-openai-ceo-home-molotov",
+        "publishedAt": "2026-04-11T09:51:22.000Z",
+        "description": "openai ceo s home hit with molotov cocktail from rt the suspect was arrested after he also appeared at the company s san francisco headquarters and threatened to burn it down the home of openai ceo sam altman was struck with a molotov cocktail on friday san francisco police said in a statement later confirmed by altman the individual was later arrested after appearing at the apr 11th 2026 5 38am edt source link https www rt com news 638028 openai ceo home molotov utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1124776",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0b156b580176"
+      },
+      {
+        "headline": "We need a regional agreement for the Strait of Hormuz",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
+        "publishedAt": "2026-04-11T11:04:54.000Z",
+        "description": "we need a regional agreement for the strait of hormuz a governing arrangement for the strait can and must be developed based on law and fact https www aljazeera com opinions 2026 4 11 we need a regional agreement for the strait of hormuz traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "934cf568ed14"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "FYI",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor",
+        "publishedAt": "2026-04-11T10:55:09.000Z",
+        "description": "fyi https www bleepingcomputer com news security supply chain attack at cpuid pushes malware with cpu z hwmonitor",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "e4e877b1f0d8"
+      },
+      {
+        "headline": "Middle East AI Arms Race: Key Players & Risks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/middle-east-ai-arms-race-risks",
+        "publishedAt": "2026-04-11T10:58:50.000Z",
+        "description": "middle east ai arms race key players risks explore the middle east ai arms race key players rapid militarization and potential risks of ai powered defense systems learn about escalation read https theboard world articles middle east ai arms race risks https theboard world static og middle east ai arms race risks png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "news",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8f7c26bf8f22"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w15bitcoin02",
+        "publishedAt": "2026-04-11T11:09:17.000Z",
+        "description": "in this week s issue breaking what happened this week in the bitcoin world bitcoin just had one of its most schizophrenic weeks in 2026 a u s iran ceasefire rocket propelled btc past 72 000 only for etf outflows and a brutal short squeeze to leave traders gasping for air meanwhile michael saylor declared the four year cycle dead peter schiff demanded a public debate while predicting 10 000 btc and the sec got hacked again if you thought crypto was boring this week proved you wrong https image nostr build 122457713303171e6c05b9c219407120dfce31270d7d12d86841f8574e001ce5 jpg author nm team https nostrmag com article w15bitcoin02 id 230432023",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "bitcoin",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0664a7ca3412"
+      },
+      {
+        "headline": "Streaming: Capsule - 038",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://harmonique.one/shows/capsule/episodes/038",
+        "publishedAt": "2026-04-11T11:10:21.000Z",
+        "description": "streaming capsule 038 1 little simz gorilla 2 doechii denial is a river 3 althea donna uptown top ranking 4 hollie cook milk honey 5 bobbi humphrey chicago damn https harmonique one shows capsule episodes 038 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a423d24b805b"
+      },
+      {
+        "headline": "‍Банк Англии оценит риски ИИ-модели Mythos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.ru/news/bank-anglii-ocenit-riski-ii-modeli-mythos-dlya-finansovogo-sektora",
+        "publishedAt": "2026-04-11T11:03:53.000Z",
+        "description": "mythos mythos anthropic https cryptovka ru news bank anglii ocenit riski ii modeli mythos dlya finansovogo sektora",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "3a38e71816a0"
+      },
+      {
+        "headline": "[ sandwichfarm/nostr-watch ] hotfix: relay dedup family-scope (#886)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/sandwichfarm/nostr-watch/commit/c7804b4e57313cf67ef79d63d9c4f717a862da94",
+        "publishedAt": "2026-04-11T11:01:26.000Z",
+        "description": "sandwichfarm nostr watch hotfix relay dedup family scope 886 test 17 01 add split outcome reproduction scaffolding to hostname dedup test ts add phase 17 section separator comment block add dedupsnapshot type for structured dedup branch capture add capturededupsnapshot helper runs relayhostnamededup re queries db family state classifies branchhypothesis post hoc add scaffolding test canonical lumina rocks hotel vs umbra vertex pair seeded with matching nip 11 logs json snapshots for phase 17 03 diagnosis https github com sandwichfarm nostr watch commit c7804b4e57313cf67ef79d63d9c4f717a862da94",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "39db2c96da10"
+      },
+      {
+        "headline": "[ nogringo/nostr-mail-client ] feat: use display name as sender in outgoing emails",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/nogringo/nostr-mail-client/commit/febe10817531ae9ce7e44251f4fd857a9467769c",
+        "publishedAt": "2026-04-11T11:00:24.000Z",
+        "description": "nogringo nostr mail client feat use display name as sender in outgoing emails extract sender name with fallback chain displayname name nip 05 local part null capitalize name and nip 05 local part https github com nogringo nostr mail client commit febe10817531ae9ce7e44251f4fd857a9467769c",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "fbcbcd19b0a8"
+      },
+      {
+        "headline": "\"The Bank of England is to warn City chiefs about the risk of a new artificial intelligence model it is feared could break into the finan…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.telegraph.co.uk/business/2026/04/10/bank-of-england-raises-alarm-over-threat-from-ai-too-danger",
+        "publishedAt": "2026-04-11T10:58:34.000Z",
+        "description": "the bank of england is to warn city chiefs about the risk of a new artificial intelligence model it is feared could break into the financial system and wreak havoc officials will meet top bank and insurance bosses to discuss how they are preparing for the threat posed by claude mythos a new ai system from anthropic https www telegraph co uk business 2026 04 10 bank of england raises alarm over threat from ai too danger",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "860d08dd798e"
+      },
+      {
+        "headline": "#烧鸟",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sns-video-bd.xhscdn.com/stream/1/110/114/01e9d9dfcc52137b010370019d7b12ae5f_114.mp4?sign=414d9a498b0c6eb709f4508e0a002d59&t=69da1f6f",
+        "publishedAt": "2026-04-11T10:16:47.000Z",
+        "description": "https sns video bd xhscdn com stream 1 110 114 01e9d9dfcc52137b010370019d7b12ae5f 114 mp4 sign 414d9a498b0c6eb709f4508e0a002d59 t 69da1f6f",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "烧鸟"
+        ],
+        "hasExternalLink": true,
+        "score": 44,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "73feed1bd1e7"
+      },
+      {
+        "headline": "最近就是仿佛被家产下蛊了一样干了2w",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://wxw.moe/@luyansairai0714/116385563279547529",
+        "publishedAt": "2026-04-11T10:28:23.000Z",
+        "description": "2w aru 6030 luyansairai0714 wxw moe nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyrag2f3qfcxy22f7ar587dznafqnk3sdfj4dx2najs9xy5qmdl0lk23adpg https wxw moe luyansairai0714 116385563279547529",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 42,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "65e0c71a4ee4"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Immich Kiosk turns any screen into a photo display",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.xda-developers.com/turned-old-tablet-into-immich-powered-photo-display",
+        "publishedAt": "2026-04-11T10:26:47.000Z",
+        "description": "immich kiosk turns any screen into a photo display no processing happens on the tablet it is just a display for the image output in fact you won t even have much of configuration options since all of that is done through a config file my tablet which feels sluggish for practically everything can handle this within the browser just fine it loads quickly transitions are smooth and it doesn t crash what else can you ask for any old tablet that at least has a browser on it can run this kiosk mode view of immich photos albums people memories and a lot more good to see in the config that you can limit it to specific albums or people only or hide specific albums or people so the admin will just need to apply their mind to that side of things another alternative to this is immich public proxy whic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "immich",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "85b1a8e88f5f"
+      },
+      {
+        "headline": "‍Bank of England to Assess AI Cybersecurity Risks from Anthropic's Mythos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/bank-of-england-to-assess-ai-cybersecurity-risks-from-anthropic",
+        "publishedAt": "2026-04-11T11:02:12.000Z",
+        "description": "bank of england to assess ai cybersecurity risks from anthropic s mythos the bank of england is holding high level discussions with financial institutions to evaluate the operational implications of anthropic s mythos ai model this follows international concerns about advanced ai introducing cybersecurity vulnerabilities in global financial infrastructure regulators are worried that novel ai capabilities could compromise cryptographic keys automate phishing or exploit smart contract vulnerabilities the bank of england aims to determine if current safety protocols are sufficient against evolving generative intelligence mirroring similar sessions by u s and canadian regulators https cryptovka com news bank of england to assess ai cybersecurity risks from anthropic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "7ed9db46567b"
+      },
+      {
+        "headline": "UAE’s Mishal Kanoo on relations with Iran, America’s Gulf bases, Iran’s control of the Strait of Hormuz",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/podcast/637951-mishal-kanoo-uae-dubai-gcc",
+        "publishedAt": "2026-04-11T10:57:23.000Z",
+        "description": "uae s mishal kanoo on relations with iran america s gulf bases iran s control of the strait of hormuz from rt on this episode of going underground we speak to one of the uae s most prominent businessmen mishal kanoo the chairman of the kanoo group he discusses headlines such as the dubai dream is over in the western media and the motivation for this coverage against the city the desire among the uae s leadership circles for apr 11th 2026 6 19am edt source link https www rt com podcast 637951 mishal kanoo uae dubai gcc utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260411105634 https www rt com podcast 637951 mishal kanoo uae dubai gcc utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boos",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f1fa5c43dc8c"
+      },
+      {
+        "headline": "OpenAI CEO’s home hit with Molotov cocktail",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638028-openai-ceo-home-molotov",
+        "publishedAt": "2026-04-11T09:51:22.000Z",
+        "description": "openai ceo s home hit with molotov cocktail from rt the suspect was arrested after he also appeared at the company s san francisco headquarters and threatened to burn it down the home of openai ceo sam altman was struck with a molotov cocktail on friday san francisco police said in a statement later confirmed by altman the individual was later arrested after appearing at the apr 11th 2026 5 38am edt source link https www rt com news 638028 openai ceo home molotov utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1124776",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0b156b580176"
+      },
+      {
+        "headline": "We need a regional agreement for the Strait of Hormuz",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
+        "publishedAt": "2026-04-11T11:04:54.000Z",
+        "description": "we need a regional agreement for the strait of hormuz a governing arrangement for the strait can and must be developed based on law and fact https www aljazeera com opinions 2026 4 11 we need a regional agreement for the strait of hormuz traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "934cf568ed14"
+      },
+      {
+        "headline": "Intelligence-grade analysis used to cost $50,000/year.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/",
+        "publishedAt": "2026-04-11T11:03:50.000Z",
+        "description": "intelligence grade analysis used to cost 50 000 year the board 5 000 sources monitored in real time ai powered newsroom free to read https theboard world https theboard world static og default png v 2 theboard osint intelligence news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "theboard",
+          "osint",
+          "intelligence",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a2e1875beeb4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 86
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 25
+    }
+  ],
+  "failures": []
+}
