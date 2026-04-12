@@ -1,0 +1,608 @@
+{
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T11:16:08.200Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24305428988",
+    "commitSha": "69d1871297fae2c73261fec01459ef2a26b54d6b"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 258,
+    "dedupDropped": 34
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📊 AI agents reshaping crypto development, trading and risk, with Cambrian and Ethereum Foundation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theblock.co/post/397076/ai-agents-reshaping-crypto-development-trading-and-risk-with-cambrian-and-ethereum-foundation",
+        "publishedAt": "2026-04-12T10:49:43.000Z",
+        "description": "ai agents reshaping crypto development trading and risk with cambrian and ethereum foundation ai is being used to automate cryptocurrency trading and optimize investment strategies researchers are exploring the use of ai in developing decentralized finance defi platforms and smart contracts ai powered tools are enhancing security and scalability for blockchain networks reducing transaction times and increasing trust some experts predict that ai will play a key role in creating new financial systems such as decentralized exchanges and lending protocols others warn about the risks of relying too heavily on ai in crypto citing potential vulnerabilities to manipulation and bias https www theblock co post 397076 ai agents reshaping crypto development trading and risk with cambrian and ethereum ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ethereum",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9841ccbe408e"
+      },
+      {
+        "headline": "📊 Polymarket bets removed from Google News after brief appearance: Report",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report",
+        "publishedAt": "2026-04-12T10:51:13.000Z",
+        "description": "polymarket bets removed from google news after brief appearance report polymarket links briefly appeared in google news results for event driven queries the links were later removed from mainstream outlets cause of removal not specified event driven queries often involve bitcoin nostr related topics https cointelegraph com news polymarket google news removed error report utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss ai content summarized tip jar lnoffsetmockamount100memotip for polymarket bets removed from google news after britipaf3d45c80ca2f69f267b66c464ca56c6",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f64ff2b6e3de"
+      },
+      {
+        "headline": "📊 Messaging push notifications are a privacy attack surface, says Durov",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/messaging-notifications-privacy-attack-durov",
+        "publishedAt": "2026-04-12T10:52:43.000Z",
+        "description": "messaging push notifications are a privacy attack surface says durov law enforcement can retrieve deleted signal messages through device push notification logs this raises concerns about user privacy and security the incident highlights the potential risks of relying on third party messaging apps for sensitive communication note no further information provided so no additional bullet points https cointelegraph com news messaging notifications privacy attack durov utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy content summarized tip jar lnoffsetmockamount100memotip for messaging push notifications are a privacy attack tip60a6d974d28e32e1243a90c6b19787fc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a3ad8c973b92"
+      },
+      {
+        "headline": "📊 US President Trump faces renewed backlash as Trump-linked tokens crash",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/trump-backlash-crypto-tokens-crash",
+        "publishedAt": "2026-04-12T10:52:04.000Z",
+        "description": "us president trump faces renewed backlash as trump linked tokens crash democratic lawmakers accuse trump backed crypto projects of being scams crypto investors label such projects as political corruption no further details on specific projects are provided https cointelegraph com news trump backlash crypto tokens crash utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy content summarized tip jar lnoffsetmockamount100memotip for us president trump faces renewed backlash as trumptipff282828bcdf8af28b71ad9d8581c7bb",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "076eb4670c73"
+      },
+      {
+        "headline": "📉 US down to 'last chance' to pass CLARITY Act before 2030: Lummis",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/us-clarity-act-crypto-regulations-cynthia-lummis-senator",
+        "publishedAt": "2026-04-12T10:51:02.000Z",
+        "description": "us down to last chance to pass clarity act before 2030 lummis us senator cynthia lummis urges swift passage of the clarity act to avoid jeopardizing the us financial future no specific details on the act s content or implications are provided in this statement the mention of the clarity act implies a potential connection to cryptocurrency regulation or oversight https cointelegraph com news us clarity act crypto regulations cynthia lummis senator utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy ai content summarized tip jar lnoffsetmockamount100memotip for us down to last chance to pass clarity act befortip9b7edc3457cf4a69288d0b8dcc25d3a0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "0c0ae828eb90"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key — Google authors both the HID sp…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/software/linux/linux-7-0-adds-three-new-ai-agent-keycodes-for-upcoming-laptops",
+        "publishedAt": "2026-04-12T11:00:00.000Z",
+        "description": "linux 7 0 enables three new ai specific keys for keyboards an apparent expansion beyond the copilot key google authors both the hid spec and the kernel patch https www tomshardware com software linux linux 7 0 adds three new ai agent keycodes for upcoming laptops",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b46d9a2b7570"
+      },
+      {
+        "headline": "📊 Are Quantum Computers A Threat To XRP Holders? Pundit Breaks Down The Possibilities",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinist.com/quantum-computers-threat-xrp",
+        "publishedAt": "2026-04-12T10:48:12.000Z",
+        "description": "are quantum computers a threat to xrp holders pundit breaks down the possibilities new research explores the impact of quantum computers on cryptocurrency security particularly for xrp holders analysis reveals varying exposure levels to quantum computer risks across different accounts experts warn that widespread adoption of quantum computers could compromise certain types of wallets and exchanges the study s findings may have implications for investors and users in the crypto space https bitcoinist com quantum computers threat xrp https bitcoinist com feed mining ai content summarized tip jar lnoffsetmockamount100memotip for are quantum computers a threat to xrp holders puntipbfd728a1ba80992af24d462ada8ce125",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mining",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "6bea20a1bfc3"
+      },
+      {
+        "headline": "5 ways this Google Maps AI feature helps avoid tourist traps",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/google-maps-ai-feature-avoid-tourist-traps-3655428",
+        "publishedAt": "2026-04-12T11:00:21.000Z",
+        "description": "5 ways this google maps ai feature helps avoid tourist traps https www androidauthority com google maps ai feature avoid tourist traps 3655428",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2217c71aa0ba"
+      },
+      {
+        "headline": "#3",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/aljazceru/awesome-nostr",
+        "publishedAt": "2026-04-12T11:00:00.000Z",
+        "description": "3 https image nostr build e674f9d29a310d10815edbc15d37596d3e94efba33f5257ce5ce707743613ee9 png nostr is growing fast according to https github com aljazceru awesome nostr there are now over 140 nostr clients and over 450 nostr apps running in more than 40 countries around the globe according to https nostrarchives com analytics top 3 popular clients primal web 859 users 8 8k notes primal android 703 users 10 3k notes nostur 534 users 67 8k notes top 3 popular relays relay damus io 188 0k users relay momostr pink 179 8k users relay primal net 156 2k users according to https stats andotherstuff org publishing users last week 579 7k 63 3 new publishing users last week 228 0k 56 1 all time zap count 6 66m all time zap btc amount 42 35 btc all time zap senders 174 7k according to https npub wor",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "3",
+          "eco-growth_nostr_recap"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "0a0eebbfaa15"
+      },
+      {
+        "headline": "📈 Ethereum Boom: 284K New Users Flood Network In Q1",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinist.com/ethereum-boom-284k-new-users-flood-network-in-q1",
+        "publishedAt": "2026-04-12T10:48:40.000Z",
+        "description": "ethereum boom 284k new users flood network in q1 ethereum processed 200 million transactions in q1 2026 a 43 increase from the previous quarter this marks the highest transaction volume for any quarter in ethereum s history new user growth accelerated to 284 000 first time participants https bitcoinist com ethereum boom 284k new users flood network in q1 https bitcoinist com feed regulation privacy ethereum ai content summarized tip jar lnoffsetmockamount100memotip for ethereum boom 284k new users flood network in q1tipaea44ea4e50c8a7d4de4f5122b33d4f3",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "regulation",
+          "privacy",
+          "ethereum",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "a3cb7e19ecc7"
+      },
+      {
+        "headline": "160 West Underpass",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://live.staticflickr.com/65535/52259697122_f302a2f0ff_k.jpg",
+        "publishedAt": "2026-04-12T11:09:58.000Z",
+        "description": "160 west underpass round trip walk of the entire animas river trail in durango co i started early morning at the northern trailhead oxbow park and preserve and walked south until reaching the end at dallabetta park it took me about 3 hours to walk the 8 3 miles to the end before turning around to head back to oxbow park https live staticflickr com 65535 52259697122 f302a2f0ff k jpg photostr photography hikesandwalks animasrivertrail",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photostr",
+          "photography",
+          "hikesandwalks",
+          "animasrivertrail"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "99faa483c995"
+      },
+      {
+        "headline": "📉 Crypto Market Structure Bill Enters Crucial Stage, Coinbase CEO Says “It’s Time”",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinist.com/crypto-bill-crucial-as-coinbase-ceo-says-its-time",
+        "publishedAt": "2026-04-12T10:47:31.000Z",
+        "description": "crypto market structure bill enters crucial stage coinbase ceo says it s time us lawmakers return to capitol hill next week to vote on the crypto market structure bill bill aims to regulate cryptocurrency trading and exchanges in the us industry experts warn of potential negative impacts on innovation and user adoption if the bill passes bill s specifics are still unclear with some arguing it could lead to increased regulatory oversight https bitcoinist com crypto bill crucial as coinbase ceo says its time https bitcoinist com feed regulation privacy content summarized tip jar lnoffsetmockamount100memotip for crypto market structure bill enters crucial stage tipa74e44690bd6e108698f10227619f746",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "regulation",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "18daf333897e"
+      },
+      {
+        "headline": "📊 Bitcoin Capital Rotation Trend Shows Rare Signal For First Time This Bear Market",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinist.com/bitcoin-capital-rotation-trend-shows-rare-signal",
+        "publishedAt": "2026-04-12T10:47:04.000Z",
+        "description": "bitcoin capital rotation trend shows rare signal for first time this bear market bitcoin price dropped below 73 000 on sat apr 11th on chain analyst suggests investors increasing exposure to btc as a hedge no specific reason given for the drop in price increase in investor exposure could be a bullish sign https bitcoinist com bitcoin capital rotation trend shows rare signal https bitcoinist com feed bitcoin regulation privacy ai content summarized tip jar lnoffsetmockamount100memotip for bitcoin capital rotation trend shows rare signal ftip0e5be574ffd3be08fe86b3882c4cc6f8",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a969d6755138"
+      },
+      {
+        "headline": "📊 TD Cowen Initiates Coverage on Bitcoin Treasury Companies, Frames PBTC Sector as Investable Equity Category",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinmagazine.com/news/td-cowen-initiates-coverage-on-bitcoin",
+        "publishedAt": "2026-04-12T10:45:11.000Z",
+        "description": "td cowen initiates coverage on bitcoin treasury companies frames pbtc sector as investable equity category td cowen initiates coverage on three public bitcoin treasury firms predicts bitcoin price will hit 140 000 this year frames the public bitcoin treasury pbtc sector as an investable equity category no specific details on the companies or their valuations are provided https bitcoinmagazine com news td cowen initiates coverage on bitcoin bitcoin magazine bitcoin regulation privacy macro content summarized tip jar lnoffsetmockamount100memotip for td cowen initiates coverage on bitcoin treasury cotipdafb3c2a914524709edf13874c6ad6d8",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "regulation",
+          "privacy",
+          "macro"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dfd19750cf11"
+      },
+      {
+        "headline": "The city where i live is on spring season, the apamates trees are giving us a beautiful pink all over the city so i made this video:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub17amtesfzwxl8nlr3ke2l8jl7kw52z60n8msnxh7vps3g9xgpmf9qx5nldk.blossom.band/5477ba805cd1a84e52c206958cd012752eeae76ac27dd088286cc3a2c21a2b57.mp4",
+        "publishedAt": "2026-04-12T11:00:37.000Z",
+        "description": "the city where i live is on spring season the apamates trees are giving us a beautiful pink all over the city so i made this video https npub17amtesfzwxl8nlr3ke2l8jl7kw52z60n8msnxh7vps3g9xgpmf9qx5nldk blossom band 5477ba805cd1a84e52c206958cd012752eeae76ac27dd088286cc3a2c21a2b57 mp4 turn sound on to enjoy photography photostr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photography",
+          "photostr"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "4eb03e3c4112"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📊 AI agents reshaping crypto development, trading and risk, with Cambrian and Ethereum Foundation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theblock.co/post/397076/ai-agents-reshaping-crypto-development-trading-and-risk-with-cambrian-and-ethereum-foundation",
+        "publishedAt": "2026-04-12T10:49:43.000Z",
+        "description": "ai agents reshaping crypto development trading and risk with cambrian and ethereum foundation ai is being used to automate cryptocurrency trading and optimize investment strategies researchers are exploring the use of ai in developing decentralized finance defi platforms and smart contracts ai powered tools are enhancing security and scalability for blockchain networks reducing transaction times and increasing trust some experts predict that ai will play a key role in creating new financial systems such as decentralized exchanges and lending protocols others warn about the risks of relying too heavily on ai in crypto citing potential vulnerabilities to manipulation and bias https www theblock co post 397076 ai agents reshaping crypto development trading and risk with cambrian and ethereum ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ethereum",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "9841ccbe408e"
+      },
+      {
+        "headline": "📊 Polymarket bets removed from Google News after brief appearance: Report",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report",
+        "publishedAt": "2026-04-12T10:51:13.000Z",
+        "description": "polymarket bets removed from google news after brief appearance report polymarket links briefly appeared in google news results for event driven queries the links were later removed from mainstream outlets cause of removal not specified event driven queries often involve bitcoin nostr related topics https cointelegraph com news polymarket google news removed error report utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss ai content summarized tip jar lnoffsetmockamount100memotip for polymarket bets removed from google news after britipaf3d45c80ca2f69f267b66c464ca56c6",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "f64ff2b6e3de"
+      },
+      {
+        "headline": "📊 Messaging push notifications are a privacy attack surface, says Durov",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/messaging-notifications-privacy-attack-durov",
+        "publishedAt": "2026-04-12T10:52:43.000Z",
+        "description": "messaging push notifications are a privacy attack surface says durov law enforcement can retrieve deleted signal messages through device push notification logs this raises concerns about user privacy and security the incident highlights the potential risks of relying on third party messaging apps for sensitive communication note no further information provided so no additional bullet points https cointelegraph com news messaging notifications privacy attack durov utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy content summarized tip jar lnoffsetmockamount100memotip for messaging push notifications are a privacy attack tip60a6d974d28e32e1243a90c6b19787fc",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a3ad8c973b92"
+      },
+      {
+        "headline": "📊 US President Trump faces renewed backlash as Trump-linked tokens crash",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/trump-backlash-crypto-tokens-crash",
+        "publishedAt": "2026-04-12T10:52:04.000Z",
+        "description": "us president trump faces renewed backlash as trump linked tokens crash democratic lawmakers accuse trump backed crypto projects of being scams crypto investors label such projects as political corruption no further details on specific projects are provided https cointelegraph com news trump backlash crypto tokens crash utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy content summarized tip jar lnoffsetmockamount100memotip for us president trump faces renewed backlash as trumptipff282828bcdf8af28b71ad9d8581c7bb",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "076eb4670c73"
+      },
+      {
+        "headline": "📉 US down to 'last chance' to pass CLARITY Act before 2030: Lummis",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cointelegraph.com/news/us-clarity-act-crypto-regulations-cynthia-lummis-senator",
+        "publishedAt": "2026-04-12T10:51:02.000Z",
+        "description": "us down to last chance to pass clarity act before 2030 lummis us senator cynthia lummis urges swift passage of the clarity act to avoid jeopardizing the us financial future no specific details on the act s content or implications are provided in this statement the mention of the clarity act implies a potential connection to cryptocurrency regulation or oversight https cointelegraph com news us clarity act crypto regulations cynthia lummis senator utm source rss feed utm medium rss utm campaign rss partner inbound https cointelegraph com rss privacy ai content summarized tip jar lnoffsetmockamount100memotip for us down to last chance to pass clarity act befortip9b7edc3457cf4a69288d0b8dcc25d3a0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "ai"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "0c0ae828eb90"
+      },
+      {
+        "headline": "📊 Crypto bill negotiations enter critical week as lawmakers return amid pressure to resolve stablecoin rewards",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theblock.co/post/397092/crypto-bill-negotiations-critical-week-lawmakers-return-resolve-stablecoin-rewards",
+        "publishedAt": "2026-04-12T10:49:28.000Z",
+        "description": "crypto bill negotiations enter critical week as lawmakers return amid pressure to resolve stablecoin rewards stablecoin rewards face uncertain treatment under proposed legislation lawmakers seek clarity on regulatory framework for decentralized finance defi assets potential implications for users of stablecoins including tax obligations and access to financial services industry stakeholders push for clear guidelines to avoid regulatory uncertainty https www theblock co post 397092 crypto bill negotiations critical week lawmakers return resolve stablecoin rewards utm source rss utm medium rss https www theblock co rss xml content summarized tip jar lnoffsetmockamount100memotip for crypto bill negotiations enter critical week as latip6fb6ead5ea98ea7be5c9c280705270e5",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fd0b2e898e77"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 138
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 86
+    }
+  ],
+  "failures": []
+}
