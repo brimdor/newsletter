@@ -1,0 +1,565 @@
+{
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T11:32:40.827Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24341086330",
+    "commitSha": "117c3b6009ea854f73c6214bf0d11412ca7c1221"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 236,
+    "dedupDropped": 36
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Критическая уязвимость VLESS клиентов? Подержите мое пиво…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://habr.com/ru/news/1021908",
+        "publishedAt": "2026-04-13T11:23:32.000Z",
+        "description": "vless https habrastorage org getpro habr upload files 4ba ab1 485 4baab1485d336f8455cba15897a64743 png username 10 vpn https habr com ru news 1021908 rknhardering https habr com ru news 1020902 https habr com ru news 1019646 2026 https habr com ru news 1020112 vless https habr com ru articles 1020080 vpn vpn android 100 https habr com ru articles 1022422 utm source habrahabr utm medium rss utm campaign 1022422 habracut https habr com ru articles 1022422 utm source habrahabr utm medium rss utm campaign 1022422",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "xray",
+          "vless",
+          "информационная безопасность",
+          "vpn",
+          "котики"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "d2d1ea34555b"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1125346",
+        "publishedAt": "2026-04-13T10:00:03.000Z",
+        "description": "trending right now telegram s durov says your nudes are safe with us from rt the tech entrepreneur has accused whatsapp of consumer fraud over its backup practices telegram founder and ceo pavel durov has accused whatsapp of misleading users about privacy arguing that telegram offers stronger protection for sensitive content the russian tech entrepreneur has repeatedly criticized meta owned whatsapp s security model dismissing claims that the app cannot access user join the discussion at https dissentwatch com boost boost post id 1125346 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6901458a0700"
+      },
+      {
+        "headline": "The iOS 26.4 update left one unfortunate user locked out of his iPhone — and the reason is so obscure you'll never guess it",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/phones/iphone/the-ios-26-4-update-left-one-unfortunate-user-locked-out-of-his-iphone-and-the-reason-is-so-obscure-youll-never-guess-it",
+        "publishedAt": "2026-04-13T11:03:48.000Z",
+        "description": "the ios 26 4 update left one unfortunate user locked out of his iphone and the reason is so obscure you ll never guess it https www techradar com phones iphone the ios 26 4 update left one unfortunate user locked out of his iphone and the reason is so obscure youll never guess it",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "c566a937e39c"
+      },
+      {
+        "headline": "Russian Defense Ministry Recorded 6,558 Violations of Easter Truce by Ukraine",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260413/russian-defense-ministry-recorded-6558-violations-of-easter-truce-by-ukraine-1123979583.html",
+        "publishedAt": "2026-04-13T11:03:22.000Z",
+        "description": "russian defense ministry recorded 6 558 violations of easter truce by ukraine from sputnik moscow sputnik the russian defense ministry said on monday it has recorded 6 558 violations of the easter truce by the ukrainian armed forces apr 13th 2026 5 48am edt source link https sputnikglobe com 20260413 russian defense ministry recorded 6558 violations of easter truce by ukraine 1123979583 html internet archive link https web archive org web 20260413105632 https sputnikglobe com 20260413 russian defense ministry recorded 6558 violations of easter truce by ukraine 1123979583 html share promote comment with nostr https dissentwatch com boost boost post id 1125374",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6069f6a7f904"
+      },
+      {
+        "headline": "IDF general tied to teen psy-op case appointed next Mossad chief",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638304-new-mossad-chief-appointed",
+        "publishedAt": "2026-04-13T11:15:23.000Z",
+        "description": "idf general tied to teen psy op case appointed next mossad chief from rt benjamin netanyahu s military secretary has won approval from a split committee despite previous controversy an israeli general linked to a controversy over the use of a teenager in an online influence campaign has been appointed as the next director of the mossad israel s foreign intelligence agency prime minister benjamin netanyahu announced on sunday that maj apr 13th 2026 7 06am edt source link https www rt com news 638304 new mossad chief appointed utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1125378",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a0642bafad4a"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "reason.com: Tiger King Attorney Sanctioned for Filing Complaint with AI Hallucinations --  -- Another example of the risks of relying upo…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tinyurl.com/2b4veghm",
+        "publishedAt": "2026-04-13T11:30:18.000Z",
+        "description": "reason com tiger king attorney sanctioned for filing complaint with ai hallucinations https tinyurl com 2b4veghm another example of the risks of relying upon ai tools to assist in legal research liberty news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5c2cd4818655"
+      },
+      {
+        "headline": "One UI 9 leak suggests Samsung is listening to our software complaints",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/one-ui-9-leak-ui-and-settings-changes-3656907",
+        "publishedAt": "2026-04-13T11:17:38.000Z",
+        "description": "one ui 9 leak suggests samsung is listening to our software complaints https www androidauthority com one ui 9 leak ui and settings changes 3656907",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "f824c9df4753"
+      },
+      {
+        "headline": "Buy Lepas L4 in Johannesburg Best Price | Lepasbruma",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.lepasbruma.co.za/new-vehicles/NewModelSearch/L4_3572",
+        "publishedAt": "2026-04-13T11:05:33.000Z",
+        "description": "buy lepas l4 in johannesburg best price lepasbruma lepas l4 johannesburg want to buy lepas l4 in johannesburg get best price trusted dealer support and easy buying process check features and book your test drive today at lepasbruma visit us https www lepasbruma co za new vehicles newmodelsearch l4 3572 contact us 010 541 3300 sales lepasbruma co za cnr cumberland allum rd kensington gauteng",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b01c92fa4ac2"
+      },
+      {
+        "headline": "Best SUV in Johannesburg Great Deals | Lepasbruma",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.lepasbruma.co.za/vehicle-in-stock",
+        "publishedAt": "2026-04-13T11:05:11.000Z",
+        "description": "best suv in johannesburg great deals lepasbruma affordable luxury suv in joburg searching for best suv in johannesburg find affordable luxury lepas suvs with trusted dealer support explore models and book your test drive today at lepasbruma visit us https www lepasbruma co za vehicle in stock contact us 010 541 3300 sales lepasbruma co za cnr cumberland allum rd kensington gauteng",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8d8013581b50"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
+        "publishedAt": "2026-04-13T11:07:10.000Z",
+        "description": "https www schneier com blog archives 2026 04 ai chatbots and trust html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4ef94be58586"
+      },
+      {
+        "headline": "[OpenClaw] Discover if Agile methodologies can accelerate EU defence readiness. We explore digital transformation in security and how AI…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://insightginie.com/can-agile-boost-the-eus-defence-readiness-ask-the-euronews-chatbot",
+        "publishedAt": "2026-04-13T11:31:06.000Z",
+        "description": "openclaw discover if agile methodologies can accelerate eu defence readiness we explore digital transformation in security and how ai chatbots are reshaping the debate read more https insightginie com can agile boost the eus defence readiness ask the euronews chatbot",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1585ce54dab2"
+      },
+      {
+        "headline": "You downloaded one file. In the background, it silently installed three more programs you never asked for.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blog/offloader-sample-detected-file-6fb87b85",
+        "publishedAt": "2026-04-13T11:20:26.000Z",
+        "description": "you downloaded one file in the background it silently installed three more programs you never asked for full analysis https threatchain io blog offloader sample detected file 6fb87b85 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "00eb31dc2502"
+      },
+      {
+        "headline": "Anthropic is bringing Claude's AI power to Microsoft Word",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/anthropic-is-bringing-claudes-ai-power-to-microsoft-word",
+        "publishedAt": "2026-04-13T11:15:00.000Z",
+        "description": "anthropic is bringing claude s ai power to microsoft word https www techradar com pro anthropic is bringing claudes ai power to microsoft word",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "7802eff14054"
+      },
+      {
+        "headline": "The Ark Node AI: Where Artificial Intelligence Meets Bitcoin and M-Pesa",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://medium.com/@noelynesumba/the-ark-node-ai-where-artificial-intelligence-meets-bitcoin-and-m-pesa-121c41adad3c",
+        "publishedAt": "2026-04-13T11:03:58.000Z",
+        "description": "the ark node ai where artificial intelligence meets bitcoin and m pesa we are at an inflection point ai capabilities are doubling every few months the cost of intelligence is plummeting but the distribution of that intelligence is deeply unequal https medium com noelynesumba the ark node ai where artificial intelligence meets bitcoin and m pesa 121c41adad3c",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c9264f5533bd"
+      },
+      {
+        "headline": "#BBC中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/bbcchinese/status/2043645383012970717",
+        "publishedAt": "2026-04-13T11:17:03.000Z",
+        "description": "bbc 4 13 10 https proxy bostr online pbs twimg com amplify video thumb 2043627175988043776 img hhhxq8miwwbzr2ro jpg https video twimg com amplify video 2043627175988043776 vid avc1 1280x720 94fdqpil89z8ypx mp4 tag 21 https nitter catsarch com bbcchinese status 2043645383012970717",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bbc中文"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "3ad2a6999deb"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Критическая уязвимость VLESS клиентов? Подержите мое пиво…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://habr.com/ru/news/1021908",
+        "publishedAt": "2026-04-13T11:23:32.000Z",
+        "description": "vless https habrastorage org getpro habr upload files 4ba ab1 485 4baab1485d336f8455cba15897a64743 png username 10 vpn https habr com ru news 1021908 rknhardering https habr com ru news 1020902 https habr com ru news 1019646 2026 https habr com ru news 1020112 vless https habr com ru articles 1020080 vpn vpn android 100 https habr com ru articles 1022422 utm source habrahabr utm medium rss utm campaign 1022422 habracut https habr com ru articles 1022422 utm source habrahabr utm medium rss utm campaign 1022422",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "xray",
+          "vless",
+          "информационная безопасность",
+          "vpn",
+          "котики"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "d2d1ea34555b"
+      },
+      {
+        "headline": "The iOS 26.4 update left one unfortunate user locked out of his iPhone — and the reason is so obscure you'll never guess it",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/phones/iphone/the-ios-26-4-update-left-one-unfortunate-user-locked-out-of-his-iphone-and-the-reason-is-so-obscure-youll-never-guess-it",
+        "publishedAt": "2026-04-13T11:03:48.000Z",
+        "description": "the ios 26 4 update left one unfortunate user locked out of his iphone and the reason is so obscure you ll never guess it https www techradar com phones iphone the ios 26 4 update left one unfortunate user locked out of his iphone and the reason is so obscure youll never guess it",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "c566a937e39c"
+      },
+      {
+        "headline": "Russian Defense Ministry Recorded 6,558 Violations of Easter Truce by Ukraine",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260413/russian-defense-ministry-recorded-6558-violations-of-easter-truce-by-ukraine-1123979583.html",
+        "publishedAt": "2026-04-13T11:03:22.000Z",
+        "description": "russian defense ministry recorded 6 558 violations of easter truce by ukraine from sputnik moscow sputnik the russian defense ministry said on monday it has recorded 6 558 violations of the easter truce by the ukrainian armed forces apr 13th 2026 5 48am edt source link https sputnikglobe com 20260413 russian defense ministry recorded 6558 violations of easter truce by ukraine 1123979583 html internet archive link https web archive org web 20260413105632 https sputnikglobe com 20260413 russian defense ministry recorded 6558 violations of easter truce by ukraine 1123979583 html share promote comment with nostr https dissentwatch com boost boost post id 1125374",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6069f6a7f904"
+      },
+      {
+        "headline": "IDF general tied to teen psy-op case appointed next Mossad chief",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638304-new-mossad-chief-appointed",
+        "publishedAt": "2026-04-13T11:15:23.000Z",
+        "description": "idf general tied to teen psy op case appointed next mossad chief from rt benjamin netanyahu s military secretary has won approval from a split committee despite previous controversy an israeli general linked to a controversy over the use of a teenager in an online influence campaign has been appointed as the next director of the mossad israel s foreign intelligence agency prime minister benjamin netanyahu announced on sunday that maj apr 13th 2026 7 06am edt source link https www rt com news 638304 new mossad chief appointed utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1125378",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a0642bafad4a"
+      },
+      {
+        "headline": "PJM Targets 15 Gigawatts Of New Power To Feed Data Center Boom",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/markets/pjm-targets-15-gigawatts-new-power-feed-data-center-boom",
+        "publishedAt": "2026-04-13T10:51:21.000Z",
+        "description": "pjm targets 15 gigawatts of new power to feed data center boom from zerohedge pjm interconnection operator of the largest power grid in the united states spanning 13 states and serving more than 65 million people has launched an emergency proposal to secure 15 gigawatts of new electricity supply according to bloomberg the move aims squarely at the surging apr 13th 2026 5 45am edt source link https www zerohedge com markets pjm targets 15 gigawatts new power feed data center boom internet archive link https web archive org web 20260413102153 https www zerohedge com markets pjm targets 15 gigawatts new power feed data center boom share promote comment with nostr https dissentwatch com boost boost post id 1125368",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b8a2cc502512"
+      },
+      {
+        "headline": "Релиз ядра Linux 7.0",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://lore.kernel.org/lkml/CAHk-=wj2WqpPBwpAXo8bj_Hx-NxKMRVTVMUaQis7+Vm6XLRZiw@mail.gmail.com/T",
+        "publishedAt": "2026-04-13T11:23:38.000Z",
+        "description": "linux 7 0 https lore kernel org lkml cahk wj2wqppbwpaxo8bj hx nxkmrvtvmuaqis7 vm6xlrziw mail gmail com t u linux 7 0 https www kernel org ai rust preempt lazy io uring nullfs fserror xfs btrfs nfs 4 1 ml dsa accecn wifi 8 7 0 6 x 6 0 5 19 15624 2477 56 18053 704060 278132 15657 2237 52 51 7 0 11 14 5 3 c 7 0 1 https kernelnewbies org linux 7 0 2 https lwn net articles 1058664 3 https www opennet ru kernel ml 7 0 html fserror https git kernel org pub scm linux kernel git torvalds linux git commit id dd466ea0029961ee0ee6e8e468faa1506275c8a9 api fsnotify xfs https lore kernel org linux xfs 176897694953 202109 15171131238404759078 stgit frogsfrogsfrogs ioctl xfs ioc health monitor systemd xfs healer https www kernel org doc html next filesystems xfs online fsck design html btrfs remap tree htt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ee1e17fff88f"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 122
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 77
+    }
+  ],
+  "failures": []
+}
