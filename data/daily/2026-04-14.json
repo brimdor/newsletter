@@ -1,0 +1,572 @@
+{
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T11:28:06.754Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24396398027",
+    "commitSha": "2daf895c9deb54b246958347d81ca06866b956ce"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 243,
+    "dedupDropped": 19
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "This footage just surfaced.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-04-14T10:50:47.000Z",
+        "description": "this footage just surfaced qatar evacuations what s the real threat level https theboard world static videos ddgeopolitics 177457 replacement mp4 qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures deep dive https theboard world articles qatar evacuations threat level safety measures theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "The Iranian perspective on today's events:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
+        "publishedAt": "2026-04-14T11:25:46.000Z",
+        "description": "the iranian perspective on today s events iran slams youtube ban on pro iranian group s lego style ai videos https www aljazeera com news 2026 4 14 iran slams youtube ban on pro iranian groups lego style ai videos traffic source rss via al jazeera intelligence means hearing every side",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "39336f8086eb"
+      },
+      {
+        "headline": "[ marmot-protocol/whitenoise ] feat: add block/unblock user Flutter bridge (#554)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/marmot-protocol/whitenoise/commit/2cd588272d937c60cfc5538ccaba11cfcd43a254",
+        "publishedAt": "2026-04-14T11:02:35.000Z",
+        "description": "marmot protocol whitenoise feat add block unblock user flutter bridge 554 feat add userblockchanged to chatlistupdatetrigger bridge feat add block unblock user bridge functions chore regenerate flutter rust bridge bindings for mute list api test enforce exact order in userblockchanged chat list assertions https github com marmot protocol whitenoise commit 2cd588272d937c60cfc5538ccaba11cfcd43a254",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "349166921c81"
+      },
+      {
+        "headline": "Coin Wallet (android,ios,windows,macos,linux) v6.26.0 released",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/CoinSpace/CoinSpace/releases",
+        "publishedAt": "2026-04-14T10:55:51.000Z",
+        "description": "coin wallet android ios windows macos linux v6 26 0 released release notes https github com coinspace coinspace releases discover and compare the best bitcoin software wallets https thebitcoinhole com software wallets",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "windows",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "0d18eb63a4af"
+      },
+      {
+        "headline": "Gunman attacks school in Türkiye",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638397-school-attack-gunman-siverek",
+        "publishedAt": "2026-04-14T09:46:24.000Z",
+        "description": "gunman attacks school in t rkiye from rt at least 16 people mostly students have been injured in the incident according to the police a former student has opened fire at a vocational high school in the city of siverek in south eastern t rkiye wounding more than a dozen people before committing suicide the local governor has said at least 16 people were injured apr 14th 2026 5 03am edt source link https www rt com news 638397 school attack gunman siverek utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260414094031 https www rt com news 638397 school attack gunman siverek utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1125799",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ecd66cf47b82"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "estreia da coluna quinzenal do monstro paulo scott na revista cult. mestre demais. bd.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://revistacult.uol.com.br/home/fala-falha-bala-fala",
+        "publishedAt": "2026-04-14T11:18:37.000Z",
+        "description": "estreia da coluna quinzenal do monstro paulo scott na revista cult mestre demais bd https npub1q5jxvccuds9wmpqhr7p770y4ewqcfr2dehqarm5alhm4hpgvrj6qtm2qhm blossom band d69b2340b91d868e36c52d5e74af42b4f072d97583e3ce1fa8b750dc1711de3b jpg https revistacult uol com br home fala falha bala fala bookstr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bookstr"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "89d78b0deb78"
+      },
+      {
+        "headline": "A social media ban is still on the cards for the UK, but Australia’s landmark ruling is failing — here’s how teenagers are still using Ti…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/a-social-media-ban-is-still-on-the-cards-for-the-uk-but-australias-landmark-ruling-is-failing-heres-how-teenagers-are-still-using-tiktok-and-instagram",
+        "publishedAt": "2026-04-14T11:19:12.000Z",
+        "description": "a social media ban is still on the cards for the uk but australia s landmark ruling is failing here s how teenagers are still using tiktok and instagram https www techradar com vpn vpn privacy security a social media ban is still on the cards for the uk but australias landmark ruling is failing heres how teenagers are still using tiktok and instagram",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "c7e2a645b719"
+      },
+      {
+        "headline": "**Scientists Shrink a Lab Spectrometer to the Size of a Grain of Sand**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-shrink-a-lab-spectrometer-to-the-size-of-a-grain-of-sand",
+        "publishedAt": "2026-04-14T11:11:09.000Z",
+        "description": "scientists shrink a lab spectrometer to the size of a grain of sand by spie international society for optics and photonics published on 14 april 2026 a new chip scale spectrometer challenges the long standing reliance on bulky optical systems by replacing physical light separation with computational reconstruction for decades analyzing the chemical makeup of materials whether for medical diagnosis food inspection or pollution monitoring has relied on large and costly laboratory instruments known as spectrometers these systems work by splitting light into read more https scitechdaily com scientists shrink a lab spectrometer to the size of a grain of sand chipscalespectrometry miniaturizedsensors computationaloptics labonchip scientificinnovation technology artificialintelligence nanotechnol",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "af7b1b29bd75"
+      },
+      {
+        "headline": "🤘 without mercy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://suno.com/song/414c0617-3ccf-46d2-b22a-253d1316d982",
+        "publishedAt": "2026-04-14T10:19:25.000Z",
+        "description": "without mercy by sokainoxx 128 135 bpm expressive prominent in every section metal aimusic nostrmusic drop a reaction zap if it hits https suno com song 414c0617 3ccf 46d2 b22a 253d1316d982 https video nostr build 7e27f8cad74a9e375612fc535f6ef3e4fc991c4c1c90e25fa3d1cf6d84afe880 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "metal",
+          "aimusic",
+          "nostrmusic"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "d6f1b0049085"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Smoke Loader is actively targeting networks right now — here's what you need to know befo…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blog/smoke-loader-sample-detected-file-54731e0a",
+        "publishedAt": "2026-04-14T11:18:47.000Z",
+        "description": "your security tools might have missed this one smoke loader is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io blog smoke loader sample detected file 54731e0a cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "19f7e7844424"
+      },
+      {
+        "headline": "Nostr Devtools",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://chromewebstore.google.com/detail/nostr-devtools/ogoaodeklpfbboeopebgdggammkcndcp",
+        "publishedAt": "2026-04-14T11:16:03.000Z",
+        "description": "nostr devtools https chromewebstore google com detail nostr devtools ogoaodeklpfbboeopebgdggammkcndcp nostr nostr web nostr category extension",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c83fb540a6fa"
+      },
+      {
+        "headline": "*I'm a bot who's diving deep into the internet archive to find the most unknown and deeply buried images related to the BIP39 words.*",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://archive.org/details/GadoImages76685",
+        "publishedAt": "2026-04-14T11:02:27.000Z",
+        "description": "i m a bot who s diving deep into the internet archive to find the most unknown and deeply buried images related to the bip39 words in the archive room number 132 in the file cabinet where the office plants go for their afternoon nap and with a tag 1716 i found a file titled stool let s see what s in it shall we https archive org details gadoimages76685 that was interesting who knows what kind of treasure i ll find in the next three to thirteen hours while i m swooping around the internetarchive floors",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "38126f5f2d20"
+      },
+      {
+        "headline": "good morning chuds",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/af0fa97dcb7d3e54e1d3ff862ee57c06bc9dda2dee8b1cb117de1ff06d21c168.mp4",
+        "publishedAt": "2026-04-14T10:59:40.000Z",
+        "description": "good morning chuds https video nostr build af0fa97dcb7d3e54e1d3ff862ee57c06bc9dda2dee8b1cb117de1ff06d21c168 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "93f9c209a34e"
+      },
+      {
+        "headline": "🤘 Heavy Downer (Reworked)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://suno.com/song/feef17eb-29d3-4a0d-a065-e01b1ae54d08",
+        "publishedAt": "2026-04-14T09:51:02.000Z",
+        "description": "heavy downer reworked by karjaline dark electro dark pop industrial metal aimusic nostrmusic drop a reaction zap if it hits https suno com song feef17eb 29d3 4a0d a065 e01b1ae54d08 https video nostr build a1eeac978a57972a415bc70ec94fd01c6be8392a51bbf0784bc0057a5e909ebc mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "metal",
+          "aimusic",
+          "nostrmusic"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "99c5dade97ac"
+      },
+      {
+        "headline": "Marketers: What if your funnel never slept?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://ai.kingdomlife.site/smart",
+        "publishedAt": "2026-04-14T11:20:23.000Z",
+        "description": "marketers what if your funnel never slept you built the landing page the ads are running traffic is flowing but when someone visits at 9 pm no one s there to answer questions they bounce to a competitor your ad spend burns smart business assistants plug the gap instant replies 24 7 qualify leads in real time push high intent prospects to booking your funnel always on https ai kingdomlife site smart custom chatbots for your stack https ai kingdomlife site aibot diy the whole thing 9 https sturdy hollow t92s here now stop leaking leads plug the hole marketing digitalmarketing leadgen chatbots",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "2ae428bb5313"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "This footage just surfaced.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/qatar-evacuations-threat-level-safety-measures",
+        "publishedAt": "2026-04-14T10:50:47.000Z",
+        "description": "this footage just surfaced qatar evacuations what s the real threat level https theboard world static videos ddgeopolitics 177457 replacement mp4 qatar evacuations raise concerns amid middle east tensions get the latest updates and analysis on the real threat level and safety measures deep dive https theboard world articles qatar evacuations threat level safety measures theboard",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "ea3d03c3e9e8"
+      },
+      {
+        "headline": "The Iranian perspective on today's events:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
+        "publishedAt": "2026-04-14T11:25:46.000Z",
+        "description": "the iranian perspective on today s events iran slams youtube ban on pro iranian group s lego style ai videos https www aljazeera com news 2026 4 14 iran slams youtube ban on pro iranian groups lego style ai videos traffic source rss via al jazeera intelligence means hearing every side",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "39336f8086eb"
+      },
+      {
+        "headline": "[ marmot-protocol/whitenoise ] feat: add block/unblock user Flutter bridge (#554)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/marmot-protocol/whitenoise/commit/2cd588272d937c60cfc5538ccaba11cfcd43a254",
+        "publishedAt": "2026-04-14T11:02:35.000Z",
+        "description": "marmot protocol whitenoise feat add block unblock user flutter bridge 554 feat add userblockchanged to chatlistupdatetrigger bridge feat add block unblock user bridge functions chore regenerate flutter rust bridge bindings for mute list api test enforce exact order in userblockchanged chat list assertions https github com marmot protocol whitenoise commit 2cd588272d937c60cfc5538ccaba11cfcd43a254",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "349166921c81"
+      },
+      {
+        "headline": "Coin Wallet (android,ios,windows,macos,linux) v6.26.0 released",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/CoinSpace/CoinSpace/releases",
+        "publishedAt": "2026-04-14T10:55:51.000Z",
+        "description": "coin wallet android ios windows macos linux v6 26 0 released release notes https github com coinspace coinspace releases discover and compare the best bitcoin software wallets https thebitcoinhole com software wallets",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "windows",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "0d18eb63a4af"
+      },
+      {
+        "headline": "Gunman attacks school in Türkiye",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638397-school-attack-gunman-siverek",
+        "publishedAt": "2026-04-14T09:46:24.000Z",
+        "description": "gunman attacks school in t rkiye from rt at least 16 people mostly students have been injured in the incident according to the police a former student has opened fire at a vocational high school in the city of siverek in south eastern t rkiye wounding more than a dozen people before committing suicide the local governor has said at least 16 people were injured apr 14th 2026 5 03am edt source link https www rt com news 638397 school attack gunman siverek utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260414094031 https www rt com news 638397 school attack gunman siverek utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1125799",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ecd66cf47b82"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "http://skill.md/",
+        "publishedAt": "2026-04-14T10:20:59.000Z",
+        "description": "v2ex claude code claude docs md src 1 2 3 docs md src xxx 1 2 skill token agent x skill c users administrator claude skills 1 one by one 2 one by one skill md skill md http skill md name one by one description item agent claude one by one agent phase 1 1 2 glob bash item 3 n 1 src a ts 2 src b ts phase 2 task taskcreate item task title item 1 5 src components button tsx task phase 3 pending task 1 taskupdate task in progress 2 agent spawn agent item read rules md agent item 3 agent 4 taskupdate task completed task 5 item 6 pending task item agent phase 4 task n item 1 n src a ts 2 2 n src b ts item agent spawn agent prompt item item rules md skill one by one src ts rules md one by one components class classname one by one controllers tests one by one src item 20 agent docs md one by one ht",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "2eeb35d1e276"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 147
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 77
+    }
+  ],
+  "failures": []
+}
