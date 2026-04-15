@@ -1,0 +1,564 @@
+{
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T11:26:41.751Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24451891219",
+    "commitSha": "798ee67bc5af3ed884a867ddbbb1789388842697"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 234,
+    "dedupDropped": 22
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Shattered Map, Unbroken Faith: A Gazan’s Longing for Al-Aqsa",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://electronicintifada.net/content/nightmares-asleep-nightmares-awake/50973",
+        "publishedAt": "2026-04-15T11:04:21.000Z",
+        "description": "shattered map unbroken faith a gazan s longing for al aqsa in the quietest corner of my room in gaza city a small object stands as a silent witness to a decade of my life it is a bronze toned carved map of palestine its surface marked by an embossed silhouette of al aqsa mosque at its heart it was a gift from my arabic teacher husam thabet eleven years ago a reward for a boy who found refuge in the rhythm of words today as an english literature student i keep this map perched atop adele geras s lizzie s wish holly webb s izzy s river and david colbert s the magical worlds of narnia it is more than a souvenir it is the physical bridge between the western canon i study and the eastern soul i inhabit during the heavy bombardment on gaza city the very foundations of the small house 1 my family",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "671b539f5f72"
+      },
+      {
+        "headline": "Russia Takes Control of Settlement of Volchanskiye Khutora in Kharkov Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260415/russia-takes-control-of-settlement-of-volchanskie-khutora-in-kharkov-region-1123990772.html",
+        "publishedAt": "2026-04-15T10:30:22.000Z",
+        "description": "russia takes control of settlement of volchanskiye khutora in kharkov region from sputnik moscow sputnik the russian armed forces have taken control of the settlement of volchanskiye khutora in the kharkov region the russian defense ministry said on wednesday apr 15th 2026 6 10am edt source link https sputnikglobe com 20260415 russia takes control of settlement of volchanskie khutora in kharkov region 1123990772 html internet archive link https web archive org web 20260415102429 https sputnikglobe com 20260415 russia takes control of settlement of volchanskie khutora in kharkov region 1123990772 html share promote comment with nostr https dissentwatch com boost boost post id 1126221",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "b4ab8891e5aa"
+      },
+      {
+        "headline": "评论区，，我笑死了，，，",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.xiaohongshu.com/discovery/item/69d9bb5a0000000023026013?app_platform=android&ignoreEngage=true&app_version=9.24.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBdWDDoiSaNzgPBac2MNmkZkXJKfx9JfzpXQNDa0iHU70%3D&author_share=1&xhsshare=&shareRedId=ODo5Nkc6ODw2NzUyOTgwNjc1OTo5STdK&apptime=1776251608",
+        "publishedAt": "2026-04-15T11:17:27.000Z",
+        "description": "https www xiaohongshu com discovery item 69d9bb5a0000000023026013 app platform android ignoreengage true app version 9 24 1 share from user hidden true xsec source app share type normal xsec token cbdwddoisanzgpbac2mnmkzkxjkfx9jfzpxqnda0ihu70 3d author share 1 xhsshare shareredid odo5nkc6odw2nzuyotgwnjc1oto5stdk apptime 1776251608 https proxy bostr online media tea codes mastodon cache media attachments files 116 408 434 510 951 595 original 43dbb39142bd4bd4 jpg eveonecat39 loop o3o ca nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyz5x5tz4sj9x6x5en45zwum3pvckcw7hypdywzyjxkuvn6ww2fl3svkcv8d https o3o ca loop 116408434492434683",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "f788a0d9d663"
+      },
+      {
+        "headline": "Russian Security Council issues US-Israel ground op warning",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638447-us-israel-iran-pentagon",
+        "publishedAt": "2026-04-15T10:25:33.000Z",
+        "description": "russian security council issues us israel ground op warning from rt the pentagon continues to deploy forces to the middle east despite negotiations with tehran moscow has said the us and israel could be exploiting talks with iran to prepare for a ground attack on the country the russian security council has said the first round of negotiations between washington and tehran which took place in apr 15th 2026 5 56am edt source link https www rt com news 638447 us israel iran pentagon utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260415101640 https www rt com news 638447 us israel iran pentagon utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1126219",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3e23e78d0e5c"
+      },
+      {
+        "headline": "EXCLUSIVE POLL: Michigan’s Dem Senate Race Is Wide Open, AIPAC Is Toxic, Hasan Piker Is Not",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://vote.webbyawards.com/PublicVoting",
+        "publishedAt": "2026-04-15T11:19:43.000Z",
+        "description": "exclusive poll michigan s dem senate race is wide open aipac is toxic hasan piker is not huge news our podcast we re not kidding is nominated for a webby s people s voice award and we need your help to win vote for us before thursday april 16 vote here 1 good morning andrew here to break down the results of a poll of the michigan democratic senate primary conducted exclusively for zeteo and drop site news what s the upshot well for one thing voters care a lot less about hasan piker s political influence than that of aipac america s foremost genocide lobby who would have guessed there s no paywall in this edition of first draft thanks to our sponsor ground news in today s first draft we dive into the michigan primary a shocking fifth accuser precedes eric swalwell s resignation from congres",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a65d19c3bad8"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Android Auto users say Gemini won’t stop talking, and it’s not even getting things right",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/android-auto-gemini-problems-3657698",
+        "publishedAt": "2026-04-15T11:03:02.000Z",
+        "description": "android auto users say gemini won t stop talking and it s not even getting things right https www androidauthority com android auto gemini problems 3657698",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "6608b94d63f0"
+      },
+      {
+        "headline": "Google Chrome users beware — experts warn over 100 Web Store extensions found stealing user data from thousands of accounts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/security/google-chrome-users-beware-experts-warn-over-100-web-store-extensions-found-stealing-user-data-from-thousands-of-accounts",
+        "publishedAt": "2026-04-15T11:25:00.000Z",
+        "description": "google chrome users beware experts warn over 100 web store extensions found stealing user data from thousands of accounts https www techradar com pro security google chrome users beware experts warn over 100 web store extensions found stealing user data from thousands of accounts",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "941a59d28f9d"
+      },
+      {
+        "headline": "**As Cities Invade the Amazon, Yellow Fever Makes a Dangerous Comeback**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/as-cities-invade-the-amazon-yellow-fever-makes-a-dangerous-comeback",
+        "publishedAt": "2026-04-15T11:23:13.000Z",
+        "description": "as cities invade the amazon yellow fever makes a dangerous comeback by university of california santa barbara published on 15 april 2026 as human development increasingly encroaches on the amazon researchers find that the growing boundary between forests and urban areas is accelerating the spillover of yellow fever into human populations human activity is pushing deeper into previously undisturbed ecosystems disrupting natural balances and creating new risks for people a study from uc santa barbara finds that read more https scitechdaily com as cities invade the amazon yellow fever makes a dangerous comeback amazon urbanization yellowfever aedesaegypti mosquitobornediseases health ecology environment",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "0270b21bc777"
+      },
+      {
+        "headline": "Google lança nova versão Canary do Android e traz mudanças na interface",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t81892-google-lanca-nova-versao-canary-do-android-e-traz-mudancas-na-interface",
+        "publishedAt": "2026-04-15T10:46:00.000Z",
+        "description": "google lan a nova vers o canary do android e traz mudan as na interface https tugatech com pt t81892 google lanca nova versao canary do android e traz mudancas na interface",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "fe28cc309486"
+      },
+      {
+        "headline": "Google's TurboQuant: The Memory Stock Crash",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/technology/google-turboquant-deepseek-moment-memory-crash",
+        "publishedAt": "2026-04-15T11:12:35.000Z",
+        "description": "google s turboquant the memory stock crash google s turboquant algorithm reduces llm memory needs by 6x samsung sk hynix and micron got hammered the trillion dollar bet on infinite memory read the full analysis https theboard world articles technology google turboquant deepseek moment memory crash",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "technology"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "74319c7fc2f2"
+      },
+      {
+        "headline": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+        "publishedAt": "2026-04-15T10:55:22.000Z",
+        "description": "grok s sexual deepfakes almost got it banned from apple s app store almost https www theverge com ai artificial intelligence 912297 apple app store ban grok x deepfakes",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "539b7530018e"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://evomap.ai/zh/blog/hermes-agent-evolver-similarity-analysis",
+        "publishedAt": "2026-04-15T11:17:18.000Z",
+        "description": "v2ex hermes evomap evolver github 8 5 star hermes agent ai nous research evomap evolver 10 7 delete your account https www v2ex com t 1206162 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5bc35b7f3061"
+      },
+      {
+        "headline": "【Amazon Bedrock Agents + Knowledge Bases + GuardrailsでECサイトのAIアシスタントを構築してみる】",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dev.classmethod.jp/articles/2026-04-15-amazon-bedrock-agents-kb-guardrails-ec-ai-assistant",
+        "publishedAt": "2026-04-15T11:13:04.000Z",
+        "description": "amazon bedrock agents knowledge bases guardrails ec ai amazon bedrock agents knowledge bases guardrails ec ai https dev classmethod jp articles 2026 04 15 amazon bedrock agents kb guardrails ec ai assistant",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3a0aac25957c"
+      },
+      {
+        "headline": "Géant bancaire français intègre sa stablecoin dans MetaMask",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/13312e0821430c93b0c33336b57dc112eba360ef673b43b2745a5d84ae2ac594.mp4",
+        "publishedAt": "2026-04-15T11:14:29.000Z",
+        "description": "g ant bancaire fran ais int gre sa stablecoin dans metamask societe generale forge a int gr sa stablecoin usdcv conforme mica dans metamask societe generale forge est le bras num rique des actifs de la banque g ante fran aise societe generale cette initiative donne acc s des millions d utilisateurs un token dollar r glement mis par une grande banque usdcv sera disponible sur mobile et web pour le trading et les activit s defi les utilisateurs pourront galement acc der des rampes fiat via l int gration transak la stablecoin est enti rement adoss e des liquidit s et changeable un pour un en dollars https blossom primal net 13312e0821430c93b0c33336b57dc112eba360ef673b43b2745a5d84ae2ac594 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "374a224bc9a2"
+      },
+      {
+        "headline": "#华尔街日报中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://on.wsj.com/4ccpNQV",
+        "publishedAt": "2026-04-15T11:14:26.000Z",
+        "description": "meta ai https on wsj com 4ccpnqv https nitter catsarch com chinesewsj status 2044370202511458472",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "华尔街日报中文"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "386da6a9dfdb"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Shattered Map, Unbroken Faith: A Gazan’s Longing for Al-Aqsa",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://electronicintifada.net/content/nightmares-asleep-nightmares-awake/50973",
+        "publishedAt": "2026-04-15T11:04:21.000Z",
+        "description": "shattered map unbroken faith a gazan s longing for al aqsa in the quietest corner of my room in gaza city a small object stands as a silent witness to a decade of my life it is a bronze toned carved map of palestine its surface marked by an embossed silhouette of al aqsa mosque at its heart it was a gift from my arabic teacher husam thabet eleven years ago a reward for a boy who found refuge in the rhythm of words today as an english literature student i keep this map perched atop adele geras s lizzie s wish holly webb s izzy s river and david colbert s the magical worlds of narnia it is more than a souvenir it is the physical bridge between the western canon i study and the eastern soul i inhabit during the heavy bombardment on gaza city the very foundations of the small house 1 my family",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "671b539f5f72"
+      },
+      {
+        "headline": "Russia Takes Control of Settlement of Volchanskiye Khutora in Kharkov Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260415/russia-takes-control-of-settlement-of-volchanskie-khutora-in-kharkov-region-1123990772.html",
+        "publishedAt": "2026-04-15T10:30:22.000Z",
+        "description": "russia takes control of settlement of volchanskiye khutora in kharkov region from sputnik moscow sputnik the russian armed forces have taken control of the settlement of volchanskiye khutora in the kharkov region the russian defense ministry said on wednesday apr 15th 2026 6 10am edt source link https sputnikglobe com 20260415 russia takes control of settlement of volchanskie khutora in kharkov region 1123990772 html internet archive link https web archive org web 20260415102429 https sputnikglobe com 20260415 russia takes control of settlement of volchanskie khutora in kharkov region 1123990772 html share promote comment with nostr https dissentwatch com boost boost post id 1126221",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "b4ab8891e5aa"
+      },
+      {
+        "headline": "评论区，，我笑死了，，，",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.xiaohongshu.com/discovery/item/69d9bb5a0000000023026013?app_platform=android&ignoreEngage=true&app_version=9.24.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBdWDDoiSaNzgPBac2MNmkZkXJKfx9JfzpXQNDa0iHU70%3D&author_share=1&xhsshare=&shareRedId=ODo5Nkc6ODw2NzUyOTgwNjc1OTo5STdK&apptime=1776251608",
+        "publishedAt": "2026-04-15T11:17:27.000Z",
+        "description": "https www xiaohongshu com discovery item 69d9bb5a0000000023026013 app platform android ignoreengage true app version 9 24 1 share from user hidden true xsec source app share type normal xsec token cbdwddoisanzgpbac2mnmkzkxjkfx9jfzpxqnda0ihu70 3d author share 1 xhsshare shareredid odo5nkc6odw2nzuyotgwnjc1oto5stdk apptime 1776251608 https proxy bostr online media tea codes mastodon cache media attachments files 116 408 434 510 951 595 original 43dbb39142bd4bd4 jpg eveonecat39 loop o3o ca nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyz5x5tz4sj9x6x5en45zwum3pvckcw7hypdywzyjxkuvn6ww2fl3svkcv8d https o3o ca loop 116408434492434683",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "f788a0d9d663"
+      },
+      {
+        "headline": "Russian Security Council issues US-Israel ground op warning",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638447-us-israel-iran-pentagon",
+        "publishedAt": "2026-04-15T10:25:33.000Z",
+        "description": "russian security council issues us israel ground op warning from rt the pentagon continues to deploy forces to the middle east despite negotiations with tehran moscow has said the us and israel could be exploiting talks with iran to prepare for a ground attack on the country the russian security council has said the first round of negotiations between washington and tehran which took place in apr 15th 2026 5 56am edt source link https www rt com news 638447 us israel iran pentagon utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260415101640 https www rt com news 638447 us israel iran pentagon utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1126219",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3e23e78d0e5c"
+      },
+      {
+        "headline": "EXCLUSIVE POLL: Michigan’s Dem Senate Race Is Wide Open, AIPAC Is Toxic, Hasan Piker Is Not",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://vote.webbyawards.com/PublicVoting",
+        "publishedAt": "2026-04-15T11:19:43.000Z",
+        "description": "exclusive poll michigan s dem senate race is wide open aipac is toxic hasan piker is not huge news our podcast we re not kidding is nominated for a webby s people s voice award and we need your help to win vote for us before thursday april 16 vote here 1 good morning andrew here to break down the results of a poll of the michigan democratic senate primary conducted exclusively for zeteo and drop site news what s the upshot well for one thing voters care a lot less about hasan piker s political influence than that of aipac america s foremost genocide lobby who would have guessed there s no paywall in this edition of first draft thanks to our sponsor ground news in today s first draft we dive into the michigan primary a shocking fifth accuser precedes eric swalwell s resignation from congres",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a65d19c3bad8"
+      },
+      {
+        "headline": "NEW: OKX ANNOUNCES THE LAUNCH OF X-PERPS, MIFID-REGULATED CRYPTO DERIVATIVES FOR RETAIL AND INSTITUTIONAL TRADERS IN EUROPE - PRESS RELEASE",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.businesswire.com/news/home/20260415510125/en/OKX-Launches-X-Perps-in-Europe-MiFID-Regulated-Crypto-Derivatives-with-up-to-10x-Leverage?feedref=JjAwJuNHiystnCoBq_hl-aH2gtkQQ1l6W3ZaPesXFm57cpar2z2OJ_5SQGMGwVHJgBtFNItNzWaC-E-WdoEDnkz6i6lCdteeEqxiTxGYcX8eF_GK2rQqAnK3e1SETIZU",
+        "publishedAt": "2026-04-15T10:49:55.000Z",
+        "description": "new okx announces the launch of x perps mifid regulated crypto derivatives for retail and institutional traders in europe press release source https www businesswire com news home 20260415510125 en okx launches x perps in europe mifid regulated crypto derivatives with up to 10x leverage feedref jjawjunhiystncobq hl ah2gtkqq1l6w3zapesxfm57cpar2z2oj 5sqgmgwvhjgbtfnitnzwac e wdoednkz6i6lcdteeeqxitxgycx8ef gk2rqqank3e1setizu https image nostr build a8048bbd8090ec3b5c4bd0663de365ccead7c154d9556cf94f89ac69e8337b11 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "d0088e567cd8"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 127
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 85
+    }
+  ],
+  "failures": []
+}
