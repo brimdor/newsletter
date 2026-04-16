@@ -1,0 +1,583 @@
+{
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T11:28:36.190Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24507706660",
+    "commitSha": "f711bd9c7b595b01dd6ed5f9e069b08aa16d3c89"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 207,
+    "dedupDropped": 16
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Wer auf #Nostr einen Messenger sucht, sollte sich 0xchat anschauen.\n\nDie App ist Open Source, läuft auf Android, iOS, macOS, Linux und Wi…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/5dad66b36c467e1395f55019af971be08be08d4e15d83c2c3ea109653a39adc3.jpg",
+        "publishedAt": "2026-04-16T10:54:55.000Z",
+        "description": "https image nostr build 5dad66b36c467e1395f55019af971be08be08d4e15d83c2c3ea109653a39adc3 jpg wer auf nostr einen messenger sucht sollte sich 0xchat anschauen die app ist open source l uft auf android ios macos linux und windows und braucht keine telefonnummer stattdessen loggst du dich mit deinem nostr account ein aktuell wurde 0xchat im m rz 2026 weiter verbessert schnellere bild und voice uploads bessere datei fallbacks mehr stabilit t auf linux windows und generell ein runderes setup spannend f r einsteiger gift wrapped dms statt nur klassischer nostr dms secret chats f r mehr privatsph re private gruppen und nip 29 gruppen audio video calls unifiedpush auf android sogar cashu lightning direkt in der app wichtig ffentliche channels sind nett f r community f r echte privatsph re sind pri",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostr",
+          "oxchat",
+          "nostrmessenger",
+          "privacy",
+          "bitcoin",
+          "lightning",
+          "opensource",
+          "nostr",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 79,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6201ebd35785"
+      },
+      {
+        "headline": "⚡💻 NEW - Microsoft is facing fresh questions about the security and privacy of Windows Recall.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/2bb668b6bbed96437984ed738a3caeeed6272540a02119c803b59178c1ca7871.jpg",
+        "publishedAt": "2026-04-16T10:49:31.000Z",
+        "description": "new microsoft is facing fresh questions about the security and privacy of windows recall the ai powered feature on copilot pcs periodically captures screenshots of a user s screen and stores them locally this creates a searchable record of everything viewed or typed microsoft redesigned recall with encryption secure enclaves and windows hello authentication after earlier criticism security researcher alexander hagenah has now released totalrecall reloaded a tool that can extract and display the captured screenshots and data it works by injecting into the process that renders recall information after authentication microsoft says the tool does not bypass its protections or represent a security vulnerability as it requires the device to already be unlocked by the user https blossom primal ne",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "64d0b7ec1a98"
+      },
+      {
+        "headline": "⚡💾 NEW - Microsoft just made two useful storage upgrades, the old 32 GB limit on FAT32 formatting is gone.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/f9307d296969ffbac7b937cb68d19d5ffd8baabb125bd046e7959e30b28c485f.jpg",
+        "publishedAt": "2026-04-16T10:56:46.000Z",
+        "description": "new microsoft just made two useful storage upgrades the old 32 gb limit on fat32 formatting is gone you can now create fat32 volumes up to 2 tb straight from command prompt this makes it much easier to format large external drives usb sticks and memory cards plus the storage page in settings now loads faster and feels much smoother when you have multiple drives or very large volumes connected these changes are available right now for insiders in the dev and beta channels https blossom primal net f9307d296969ffbac7b937cb68d19d5ffd8baabb125bd046e7959e30b28c485f jpg https blossom primal net 275a5bd555b0430376cc67b4f10139b462dd08a7ed5cf42fe917eac77d2ded22 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "237be9ce2ab4"
+      },
+      {
+        "headline": "Por 6 votos a 4, parlamentares de esquerda barraram o relatório da CPI do Crime Organizado, que pedia o indiciamento de ministros do STF…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=1498273518328862",
+        "publishedAt": "2026-04-16T10:56:31.000Z",
+        "description": "https blossom espelhator girino org 903db6f3001af28a543d2fd5982b46b14722a31cde96a6641113d2f646a84f19 jpg por 6 votos a 4 parlamentares de esquerda barraram o relat rio da cpi do crime organizado que pedia o indiciamento de ministros do stf alexandre de moraes dias toffoli e gilmar mendes e do procurador geral da rep blica paulo gonet a contradi o clara os mesmos que criticam opera es em favelas alegando que a pol cia n o mira no colarinho branco s o os que agora estendem um tapete vermelho para blindar a c pula do poder em bras lia as repetidas iniciativas da esquerda para proteger magistrados provam que a indigna o contra o sistema seletiva para eles o crime de colarinho branco s deve ser combatido quando n o envolve seus aliados de conveni ncia source https www facebook com photo fbid 14",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8e8f8ac850a4"
+      },
+      {
+        "headline": "One-paragraph Reddit nailer.\n\nSource:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=10162883701583247",
+        "publishedAt": "2026-04-16T10:54:16.000Z",
+        "description": "https blossom espelhator girino org 957e1afda55f0defa312ce1ebaf2040b29b62d9f2607f9287e5b6afd1fecc2f9 jpg one paragraph reddit nailer source https www facebook com photo fbid 10162883701583247",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "cb4adfe3f6ee"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Hidden “Trade Winds” Inside Cells Could Explain Cancer Spread**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/hidden-trade-winds-inside-cells-could-explain-cancer-spread",
+        "publishedAt": "2026-04-16T11:12:51.000Z",
+        "description": "hidden trade winds inside cells could explain cancer spread by oregon health science university published on 16 april 2026 cells have their own hidden wind system that rapidly moves proteins and could change cancer research researchers at oregon health 38 science university have identified a previously unknown system inside cells that works like internal trade winds rapidly carrying essential proteins to the cell s leading edge this discovery is changing how scientists understand cell movement read more https scitechdaily com hidden trade winds inside cells could explain cancer spread cellbiology molecularbiology cancerresearch oncology metastasis biology cancer cellbiology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "bca3326b2df4"
+      },
+      {
+        "headline": "GoogleのAI広告システム「AI Max」が正式版に移行、動的検索広告や自動作成アセットからの自動アップグレードが決定",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://gigazine.net/news/20260416-dynamic-search-ads-ai-max",
+        "publishedAt": "2026-04-16T10:51:41.000Z",
+        "description": "google ai ai max https gigazine net news 20260416 dynamic search ads ai max gigazine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gigazine"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ecf5a25b0f33"
+      },
+      {
+        "headline": "OnePlus confirms Elite performance, upgraded battery for its upcoming iPad Pro killer",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/oneplus-pad-4-snapdragon-8-elite-gen-5-official-teaser-3658078",
+        "publishedAt": "2026-04-16T11:00:18.000Z",
+        "description": "oneplus confirms elite performance upgraded battery for its upcoming ipad pro killer https www androidauthority com oneplus pad 4 snapdragon 8 elite gen 5 official teaser 3658078",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d783d32428a1"
+      },
+      {
+        "headline": "‍Adam Back Advocates for Optional Quantum-Proof Bitcoin Upgrades",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/adam-back-advocates-for-optional-quantum-proof-bitcoin-upgrades",
+        "publishedAt": "2026-04-16T10:46:41.000Z",
+        "description": "adam back advocates for optional quantum proof bitcoin upgrades blockstream ceo adam back proposed optional network upgrades to defend against quantum computing threats this approach contrasts with bip 361 which suggests a phased soft fork to freeze coins in vulnerable addresses back emphasized a controlled transition is safer than crisis reaction the debate is fueled by rapid quantum computing advancements with estimates suggesting a system with fewer than 1 200 logical qubits could compromise current encryption approximately 6 9 million btc are held in vulnerable addresses alternative strategies like bitmex research s canary fund are also being explored https cryptovka com news adam back advocates for optional quantum proof bitcoin upgrades",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2bac31cc977f"
+      },
+      {
+        "headline": "‍Crypto and AI Convergence: Key Industry Insights for April 16th",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/crypto-and-ai-convergence-key-industry-insights-for-april-16th",
+        "publishedAt": "2026-04-16T10:59:44.000Z",
+        "description": "crypto and ai convergence key industry insights for april 16th the digital economy s evolution is increasingly driven by the intersection of decentralized finance and artificial intelligence current market analysis indicates that while some sectors face bearish sentiments strategic investors are focusing on innovative infrastructure for returns blockchain is seen as a crucial element in scaling ai with proponents arguing that crypto networks redefine traditional finance and technology frameworks privacy is identified as a key prerequisite for the widespread adoption of blockchain integrated ai agents especially for institutional users traditional brands like allbirds are integrating ai to optimize operations binance square s founder shared strategies for navigating market volatility emphas",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "news"
+        ],
+        "id": "65b803f4561c"
+      },
+      {
+        "headline": "⚡🇮🇹💶 ARCHIVE - One SINGLE person printed 27% of all fake euros in Europe from his GARAGE",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/ba8f2e937007ba9117c3c3f214ba054ed1e842831855d90c539c31bb3784c3fc.mp4",
+        "publishedAt": "2026-04-16T10:46:43.000Z",
+        "description": "archive one single person printed 27 of all fake euros in europe from his garage italian police raided a house in naples and found a printing lab hidden behind the garage to get inside he built a fake wall on rails behind a cabinet that opened with a homemade electronic switch behind it was an industrial production line with 31 digital printing machines running nonstop he printed 11 million in fake 20 50 and 100 bills 8 million had already been sold across europe mostly through france police found another 3 million in finished notes ready to ship the european central bank confirmed the fakes were so good even the holograms looked real 10 countries reported finding his bills before they tracked them all back to one guy in naples one man in a garage was responsible for more than a quarter of",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "news"
+        ],
+        "id": "7dc4f74a7129"
+      },
+      {
+        "headline": "Hackers used hundreds of compromised hotel accounts to steal sensitive data on millions of guests and leaked some of it on Telegram, rais…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.techradar.com/pro/security/millions-of-hotel-goers-may-have-been-exposed-after-hackers-steal-data-and-leak-it-on-telegram",
+        "publishedAt": "2026-04-16T10:30:19.000Z",
+        "description": "hackers used hundreds of compromised hotel accounts to steal sensitive data on millions of guests and leaked some of it on telegram raising a major cybersecurity concern https www techradar com pro security millions of hotel goers may have been exposed after hackers steal data and leak it on telegram",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e175af873645"
+      },
+      {
+        "headline": "For $58 on a hacking forum, anyone can buy full remote control of your computer. Camera, keyboard, files — everything.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/remcosrat-sample-detected-preinterest-exe-4a2bc726",
+        "publishedAt": "2026-04-16T11:21:16.000Z",
+        "description": "for 58 on a hacking forum anyone can buy full remote control of your computer camera keyboard files everything full analysis https threatchain io remcosrat sample detected preinterest exe 4a2bc726 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "83fe9479da39"
+      },
+      {
+        "headline": "Microsoft's next-gen Surface devices don't sound exciting going by rumors — and I worry they'll be poor value even compared to MacBooks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/computing/windows-laptops/microsofts-next-gen-surface-devices-dont-sound-exciting-going-by-rumors-and-i-worry-theyll-be-poor-value-even-compared-to-macbooks",
+        "publishedAt": "2026-04-16T11:16:22.000Z",
+        "description": "microsoft s next gen surface devices don t sound exciting going by rumors and i worry they ll be poor value even compared to macbooks https www techradar com computing windows laptops microsofts next gen surface devices dont sound exciting going by rumors and i worry theyll be poor value even compared to macbooks",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ac18b65f4c33"
+      },
+      {
+        "headline": "Oklahoma farmer arrested and jailed for trespassing during AI data center town hall — removed by officers after going a few seconds over…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/oklahoma-farmer-arrested-and-jailed-for-trespassing-during-ai-data-center-town-hall-removed-by-officers-after-going-a-few-seconds-over-allotted-speaking-time-trying-to-hand-paperwork-to-counselors",
+        "publishedAt": "2026-04-16T11:10:48.000Z",
+        "description": "oklahoma farmer arrested and jailed for trespassing during ai data center town hall removed by officers after going a few seconds over allotted speaking time trying to hand paperwork to counselors https www tomshardware com tech industry big tech oklahoma farmer arrested and jailed for trespassing during ai data center town hall removed by officers after going a few seconds over allotted speaking time trying to hand paperwork to counselors",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "46a64da02af6"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Wer auf #Nostr einen Messenger sucht, sollte sich 0xchat anschauen.\n\nDie App ist Open Source, läuft auf Android, iOS, macOS, Linux und Wi…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/5dad66b36c467e1395f55019af971be08be08d4e15d83c2c3ea109653a39adc3.jpg",
+        "publishedAt": "2026-04-16T10:54:55.000Z",
+        "description": "https image nostr build 5dad66b36c467e1395f55019af971be08be08d4e15d83c2c3ea109653a39adc3 jpg wer auf nostr einen messenger sucht sollte sich 0xchat anschauen die app ist open source l uft auf android ios macos linux und windows und braucht keine telefonnummer stattdessen loggst du dich mit deinem nostr account ein aktuell wurde 0xchat im m rz 2026 weiter verbessert schnellere bild und voice uploads bessere datei fallbacks mehr stabilit t auf linux windows und generell ein runderes setup spannend f r einsteiger gift wrapped dms statt nur klassischer nostr dms secret chats f r mehr privatsph re private gruppen und nip 29 gruppen audio video calls unifiedpush auf android sogar cashu lightning direkt in der app wichtig ffentliche channels sind nett f r community f r echte privatsph re sind pri",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostr",
+          "oxchat",
+          "nostrmessenger",
+          "privacy",
+          "bitcoin",
+          "lightning",
+          "opensource",
+          "nostr",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 79,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "windows",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6201ebd35785"
+      },
+      {
+        "headline": "⚡💻 NEW - Microsoft is facing fresh questions about the security and privacy of Windows Recall.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/2bb668b6bbed96437984ed738a3caeeed6272540a02119c803b59178c1ca7871.jpg",
+        "publishedAt": "2026-04-16T10:49:31.000Z",
+        "description": "new microsoft is facing fresh questions about the security and privacy of windows recall the ai powered feature on copilot pcs periodically captures screenshots of a user s screen and stores them locally this creates a searchable record of everything viewed or typed microsoft redesigned recall with encryption secure enclaves and windows hello authentication after earlier criticism security researcher alexander hagenah has now released totalrecall reloaded a tool that can extract and display the captured screenshots and data it works by injecting into the process that renders recall information after authentication microsoft says the tool does not bypass its protections or represent a security vulnerability as it requires the device to already be unlocked by the user https blossom primal ne",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "64d0b7ec1a98"
+      },
+      {
+        "headline": "⚡💾 NEW - Microsoft just made two useful storage upgrades, the old 32 GB limit on FAT32 formatting is gone.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/f9307d296969ffbac7b937cb68d19d5ffd8baabb125bd046e7959e30b28c485f.jpg",
+        "publishedAt": "2026-04-16T10:56:46.000Z",
+        "description": "new microsoft just made two useful storage upgrades the old 32 gb limit on fat32 formatting is gone you can now create fat32 volumes up to 2 tb straight from command prompt this makes it much easier to format large external drives usb sticks and memory cards plus the storage page in settings now loads faster and feels much smoother when you have multiple drives or very large volumes connected these changes are available right now for insiders in the dev and beta channels https blossom primal net f9307d296969ffbac7b937cb68d19d5ffd8baabb125bd046e7959e30b28c485f jpg https blossom primal net 275a5bd555b0430376cc67b4f10139b462dd08a7ed5cf42fe917eac77d2ded22 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "237be9ce2ab4"
+      },
+      {
+        "headline": "Por 6 votos a 4, parlamentares de esquerda barraram o relatório da CPI do Crime Organizado, que pedia o indiciamento de ministros do STF…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=1498273518328862",
+        "publishedAt": "2026-04-16T10:56:31.000Z",
+        "description": "https blossom espelhator girino org 903db6f3001af28a543d2fd5982b46b14722a31cde96a6641113d2f646a84f19 jpg por 6 votos a 4 parlamentares de esquerda barraram o relat rio da cpi do crime organizado que pedia o indiciamento de ministros do stf alexandre de moraes dias toffoli e gilmar mendes e do procurador geral da rep blica paulo gonet a contradi o clara os mesmos que criticam opera es em favelas alegando que a pol cia n o mira no colarinho branco s o os que agora estendem um tapete vermelho para blindar a c pula do poder em bras lia as repetidas iniciativas da esquerda para proteger magistrados provam que a indigna o contra o sistema seletiva para eles o crime de colarinho branco s deve ser combatido quando n o envolve seus aliados de conveni ncia source https www facebook com photo fbid 14",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8e8f8ac850a4"
+      },
+      {
+        "headline": "One-paragraph Reddit nailer.\n\nSource:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=10162883701583247",
+        "publishedAt": "2026-04-16T10:54:16.000Z",
+        "description": "https blossom espelhator girino org 957e1afda55f0defa312ce1ebaf2040b29b62d9f2607f9287e5b6afd1fecc2f9 jpg one paragraph reddit nailer source https www facebook com photo fbid 10162883701583247",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "cb4adfe3f6ee"
+      },
+      {
+        "headline": "BBC unveils ‘devastating’ wave of job cuts amid financial strain",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638490-bbc-jobs-axed-costs",
+        "publishedAt": "2026-04-16T10:24:24.000Z",
+        "description": "bbc unveils devastating wave of job cuts amid financial strain from rt the uk s public broadcaster faces a mounting crisis worsened by a recent lawsuit from donald trump british state broadcaster the bbc is set to cut between 1 800 and 2 000 jobs about 10 of its workforce as part of efforts to reduce operating expenses interim director general rhodri talfan davies who assumed the role apr 16th 2026 6 07am edt source link https www rt com news 638490 bbc jobs axed costs utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260416101236 https www rt com news 638490 bbc jobs axed costs utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1126666",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "0b1318a59d1b"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 100
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 91
+    }
+  ],
+  "failures": []
+}
