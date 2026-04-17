@@ -1,0 +1,593 @@
+{
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T11:23:52.967Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24562592879",
+    "commitSha": "dcae1a67c7ad1f71721992dbc1eab8a9c067d789"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 275,
+    "dedupDropped": 29
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Arcticons: Das kostenlose Open-Source Icon Pack für einen cleanen Android-Homescreen\n\nArcticons ist für mich eines der stärksten Icon Pac…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/91ad0ce3ef8684f83a8efaa31a1d05900dbb4065d8bca1cd98460167cbfd6421.jpg",
+        "publishedAt": "2026-04-17T10:50:48.000Z",
+        "description": "https image nostr build 91ad0ce3ef8684f83a8efaa31a1d05900dbb4065d8bca1cd98460167cbfd6421 jpg arcticons das kostenlose open source icon pack f r einen cleanen android homescreen arcticons ist f r mich eines der st rksten icon packs auf android clean monochrom minimalistisch aber trotzdem nicht langweilig statt bunter homescreen unruhe bekommst du einen richtig ruhigen edlen look dazu kommt arcticons ist kostenlos open source und laut offizieller seite inzwischen bei ber 14 500 icons richtig stark ist auch dass es mehrere varianten gibt dark black f r helle setups material you und day night material you passt sich an wallpaper und systemthema an day night wechselt automatisch zwischen hell und dunkel wichtig nur du brauchst einen launcher mit icon pack support wenn du deinen homescreen clean",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "arcticons",
+          "iconpack",
+          "opensource",
+          "foss",
+          "homescreen",
+          "rawinstinctai",
+          "trends"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "8b30950fc02a"
+      },
+      {
+        "headline": "MAGA vs Catholicism: The Republican believers backing Trump over spat with Pope",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638543-maga-vs-catholicism-pope",
+        "publishedAt": "2026-04-17T10:45:22.000Z",
+        "description": "maga vs catholicism the republican believers backing trump over spat with pope from rt while many gop players have rallied behind his attacks on the vatican a handful have shunned the president us president donald trump s war of words with pope leo xiv appears to have split his own maga movement while a number of prominent republicans have distanced themselves from the exchange others have stepped in to reassure apr 17th 2026 5 49am edt source link https www rt com news 638543 maga vs catholicism pope utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260417104033 https www rt com news 638543 maga vs catholicism pope utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 112712",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b5134746389d"
+      },
+      {
+        "headline": "Jews with Heterodox Views: Joshua Stylman on DarkHorse",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D35xxAK3VtRA&q=EhAqA5Tg__8BhQGBAGAAAACZGMmdiM8GIjAI1gMmsfS2BI28VGtar1EoHbuJ8I6CFBEUWyFVW_tfjH832kyLupahJ4S5QC2LfM4yAnJSWgFD",
+        "publishedAt": "2026-04-17T10:49:28.000Z",
+        "description": "jews with heterodox views joshua stylman on darkhorse from bret weinstein bret weinstein speaks with joshua stylman an entrepreneur investor and covid dissident about societal manipulation and social engineering the conversation focuses around a recent substack piece by stylman on the enemy is not each other find joshua stylman on substack at url on x at url and on instagram at url this episode is apr 17th 2026 6 43am edt source link https www google com sorry index continue https www youtube com watch 3fv 3d35xxak3vtra q ehaqa5tg 8bhqgbagaaaaczgmmdim8gijai1gmmsfs2bi28vgtar1eohbuj8i6cfbeuwyfvw tfjh832kylupahj4s5qc2lfm4yanjswgfd share promote comment with nostr https dissentwatch com boost boost post id 1127129",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "82a103062fd3"
+      },
+      {
+        "headline": "World’s First Six-Gen Bomber Completes Aerial Refueling Test Flight",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/military/worlds-first-six-gen-bomber-completes-aerial-refueling-test-flight",
+        "publishedAt": "2026-04-17T10:39:22.000Z",
+        "description": "world s first six gen bomber completes aerial refueling test flight from zerohedge northrop grumman released new images of its b 21 raider stealth bomber performing more advanced stages of flight test and aerial refueling northrop grumman s b 21 raider continues to demonstrate outstanding performance as the program moves into more advanced phases flight test including aerial refueling photo credit u s apr 17th 2026 5 45am edt source link https www zerohedge com military worlds first six gen bomber completes aerial refueling test flight share promote comment with nostr https dissentwatch com boost boost post id 1127124",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "58857490c697"
+      },
+      {
+        "headline": "BTC Map: Die beste App, um Bitcoin-Orte zu finden und Sats auszugeben\n\nViele reden über Bitcoin-Adoption.\n\nBTC Map zeigt sie dir einfach…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/448ad69a13aade113c7ff462520b3785eb0b42dd7280b5ac018eba61635fbc1e.jpg",
+        "publishedAt": "2026-04-17T11:15:54.000Z",
+        "description": "https image nostr build 448ad69a13aade113c7ff462520b3785eb0b42dd7280b5ac018eba61635fbc1e jpg btc map die beste app um bitcoin orte zu finden und sats auszugeben viele reden ber bitcoin adoption btc map zeigt sie dir einfach auf der karte statt nur ber den preis zu reden kannst du mit btc map direkt sehen wo du in deiner n he sats ausgeben kannst caf s bars shops spots weltweit das geile daran die karte ist community getrieben basiert auf openstreetmap ist open source auf f droid verf gbar und f hlt sich nach echter bitcoin nutzung an nicht nach marketing f r mich ist das genau die art von tool die bitcoin im alltag greifbar macht weniger theorie mehr echte orte bitcoin btc lightning foss opensource privacy nostr rawinstinctai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "btc",
+          "lightning",
+          "foss",
+          "opensource",
+          "privacy",
+          "nostr",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "1daa50e06114"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.iesdouyin.com/aweme/v1/playwm?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v2700fgi0000d71t8anog65q1adgabb0",
+        "publishedAt": "2026-04-17T11:20:56.000Z",
+        "description": "https www iesdouyin com aweme v1 playwm line 0 logo name aweme diversion search ratio 720p video id v2700fgi0000d71t8anog65q1adgabb0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "82bcc6d3cac9"
+      },
+      {
+        "headline": "Good morning nostr, and happy friday.  Today we'll be visiting the resale shop, and i'm hoping to find some egg cartons.  My hens are pro…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a.blossom.band/e180b220c81875393ee79125c8469ca24f362553f32e585cbab888dfcf3c6328.jpg",
+        "publishedAt": "2026-04-17T10:54:34.000Z",
+        "description": "good morning nostr and happy friday today we ll be visiting the resale shop and i m hoping to find some egg cartons my hens are producing so well that i m running out of cartons we might be setting up the baby chicks in their own enclosure within one of the big coops now since the weather has warmed anyway it should be a good day yall have a great friday enjoy your coffee and remember that today is a gift coffeechain homesteading https npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a blossom band e180b220c81875393ee79125c8469ca24f362553f32e585cbab888dfcf3c6328 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f8046a06037e"
+      },
+      {
+        "headline": "[ forgesworn/nip-drafts ] drafts: add NIP-VENUE-ENTRY and NIP-ROSTER; clean up scripts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/forgesworn/nip-drafts/commit/cc858a8dba94959f49e562926fe3d3c316d1a719",
+        "publishedAt": "2026-04-17T11:00:03.000Z",
+        "description": "forgesworn nip drafts drafts add nip venue entry and nip roster clean up scripts nip venue entry kind 21235 ephemeral self contained signed qr payload for physical venue access verifiable offline via nip 01 signature optional photo hash blossom url for visual match used by signet producer matchpass consumer nip roster kind 31920 addressable named group roster with role tagged pubkey list lightweight relay agnostic alternative to nip 29 for publishing who is on the team pre empts reuse https github com forgesworn nip drafts commit cc858a8dba94959f49e562926fe3d3c316d1a719",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "e273d1c56eb0"
+      },
+      {
+        "headline": "Google and Pentagon in talks to run custom AI chips inside classified environments — Google pushes for tight controls for TPUs surroundin…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-and-pentagon-in-talks-to-run-tpus-inside-classified-environments",
+        "publishedAt": "2026-04-17T11:00:00.000Z",
+        "description": "google and pentagon in talks to run custom ai chips inside classified environments google pushes for tight controls for tpus surrounding use for mass surveillance and autonomous weapons https www tomshardware com tech industry artificial intelligence google and pentagon in talks to run tpus inside classified environments",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "9b510c63f62c"
+      },
+      {
+        "headline": "Noderunners Conference 2026 Jail Edition",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://pay02.lnc.direct/plugins/AybVCCr2AcoKsMs36k42TKKUTn83rAEh4eFXm1mjKCK3/ticket/public/event/85ca4e46-daa1-4f4d-a6a1-8635b56f8054/summary",
+        "publishedAt": "2026-04-17T11:18:18.000Z",
+        "description": "noderunners conference 2026 jail edition https image nostr build 003004598f1e14261cc0f00d165a92aa6d4393ce0f198b2688ca1f61df3a1116 png noderunners conference 2026 a bitcoin only event inside the historic koepelgevangenis arnhem a former prison now filled with node runners builders miners privacy advocates artists plebs arcade games workshops lightning payments and zero fiat worship talks on privacy self custody mining regulation nostr inheritance planning and more workshops include seedsigner specterdiy bitcoin core ipc stratum v2 and meshtastic there will also be lightning payments bitcoin art museum grand auction bitcoin arcade basement live bitcoin tech demos food drinks sats spending a full day of meeting fellow bitcoiners tickets 50 parking 15 lightning accepted we won t make any profi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4fd8425507dd"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Gh0stRAT is actively targeting networks right now — here's what you need to know before i…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/gh0strat-sample-detected-lest-latest-0-12-4-exe-a4ac7e6a",
+        "publishedAt": "2026-04-17T11:19:57.000Z",
+        "description": "your security tools might have missed this one gh0strat is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io gh0strat sample detected lest latest 0 12 4 exe a4ac7e6a cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "77272d006e9a"
+      },
+      {
+        "headline": "**Humans Returned to Britain 500 Years Earlier Than Scientists Thought**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/humans-returned-to-britain-500-years-earlier-than-scientists-thought",
+        "publishedAt": "2026-04-17T11:02:45.000Z",
+        "description": "humans returned to britain 500 years earlier than scientists thought by adrian palmer university of london published on 17 april 2026 a modest rise in summer temperatures may have been enough to bring humans back to post ice age britain centuries earlier than expected the return of humans to the british isles following the retreat of the last ice sheet which once covered much of the northern hemisphere occurred around 15 200 years ago roughly 500 years earlier than read more https scitechdaily com humans returned to britain 500 years earlier than scientists thought archaeology paleoclimatology iceage humanmigration britishhistory science archaeology iceage",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f08bf1dc4e24"
+      },
+      {
+        "headline": "This is the second part of the interview. The short video circulating nostr is misleading. Yes, he did say bitcoin is on the CIA servers,…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/RIL8PsSNTZg",
+        "publishedAt": "2026-04-17T10:31:45.000Z",
+        "description": "this is the second part of the interview the short video circulating nostr is misleading yes he did say bitcoin is on the cia servers but i suspect he is either uninformed or it s a pr stunt overall he is a funny and articulated guy he didn t say it but i suspect he is a gnostic which is a fair intermediary station in the path of every high iq man lots of valuable stuff can be derived from listening to the conversation there is a middle way between the nationalists and the globalists but it s narrow af https youtu be ril8pssntzg nostr nevent1qqsyu0z74fw9rvzsmg59ag96zpvhm0njtr7ev6hylzvsq9v28havxrspzemhxue69uhk2er9dchxummnw3ezumrpdejz7q3qhl0zy55rxqwd7anvf9nh9ms78kryee4zkf32nfwglgc5gmrm3hpqxpqqqqqqzd0dcfl",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "529e201e8164"
+      },
+      {
+        "headline": "Change your focus",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.nostrcheck.me/d9e9fb2710f44080b77ba7e828486f73556be31cde99f3f225679ac5d5fe5e1a/e94d6b88a0766f722ba53e7794d778604717f6b30fca74ae8ebcf6abf4cd63e8.webp",
+        "publishedAt": "2026-04-17T10:26:01.000Z",
+        "description": "change your focus photography photostr mountainstr nostr grownostr https cdn nostrcheck me d9e9fb2710f44080b77ba7e828486f73556be31cde99f3f225679ac5d5fe5e1a e94d6b88a0766f722ba53e7794d778604717f6b30fca74ae8ebcf6abf4cd63e8 webp https cdn nostrcheck me d9e9fb2710f44080b77ba7e828486f73556be31cde99f3f225679ac5d5fe5e1a d2dff6e7d37386ff51b773e9fd96295622c09224cd6f03ddca68fbcf6913a223 webp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "photography",
+          "photostr",
+          "mountainstr",
+          "nostr",
+          "grownostr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "a52a8266a79f"
+      },
+      {
+        "headline": "前天做了这个KnowYourCompany的skills，做这个skills其实非常简单。我只提供��idea，我想要了解的一些公司的维度，以及我想要的结果展示方式。",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/bluebluegrass/KnowYourCompany",
+        "publishedAt": "2026-04-17T09:48:10.000Z",
+        "description": "knowyourcompany skills skills idea token claude code codebase html template ai context token run out of context ai research json file script html token 50 token https proxy bostr online media tea codes mastodon cache custom emojis images 000 057 609 static 894ffceff4256dea png https github com bluebluegrass knowyourcompany bluegrass m cmx im nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyz552ncm505al7fcqynyhea4u89lmrr74mwcetd4cgurr8p2xu05x4mt0qa https m cmx im bluegrass 116419407809412783",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f51f4710b20c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Arcticons: Das kostenlose Open-Source Icon Pack für einen cleanen Android-Homescreen\n\nArcticons ist für mich eines der stärksten Icon Pac…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/91ad0ce3ef8684f83a8efaa31a1d05900dbb4065d8bca1cd98460167cbfd6421.jpg",
+        "publishedAt": "2026-04-17T10:50:48.000Z",
+        "description": "https image nostr build 91ad0ce3ef8684f83a8efaa31a1d05900dbb4065d8bca1cd98460167cbfd6421 jpg arcticons das kostenlose open source icon pack f r einen cleanen android homescreen arcticons ist f r mich eines der st rksten icon packs auf android clean monochrom minimalistisch aber trotzdem nicht langweilig statt bunter homescreen unruhe bekommst du einen richtig ruhigen edlen look dazu kommt arcticons ist kostenlos open source und laut offizieller seite inzwischen bei ber 14 500 icons richtig stark ist auch dass es mehrere varianten gibt dark black f r helle setups material you und day night material you passt sich an wallpaper und systemthema an day night wechselt automatisch zwischen hell und dunkel wichtig nur du brauchst einen launcher mit icon pack support wenn du deinen homescreen clean",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "arcticons",
+          "iconpack",
+          "opensource",
+          "foss",
+          "homescreen",
+          "rawinstinctai",
+          "trends"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "8b30950fc02a"
+      },
+      {
+        "headline": "MAGA vs Catholicism: The Republican believers backing Trump over spat with Pope",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638543-maga-vs-catholicism-pope",
+        "publishedAt": "2026-04-17T10:45:22.000Z",
+        "description": "maga vs catholicism the republican believers backing trump over spat with pope from rt while many gop players have rallied behind his attacks on the vatican a handful have shunned the president us president donald trump s war of words with pope leo xiv appears to have split his own maga movement while a number of prominent republicans have distanced themselves from the exchange others have stepped in to reassure apr 17th 2026 5 49am edt source link https www rt com news 638543 maga vs catholicism pope utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260417104033 https www rt com news 638543 maga vs catholicism pope utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 112712",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b5134746389d"
+      },
+      {
+        "headline": "Jews with Heterodox Views: Joshua Stylman on DarkHorse",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D35xxAK3VtRA&q=EhAqA5Tg__8BhQGBAGAAAACZGMmdiM8GIjAI1gMmsfS2BI28VGtar1EoHbuJ8I6CFBEUWyFVW_tfjH832kyLupahJ4S5QC2LfM4yAnJSWgFD",
+        "publishedAt": "2026-04-17T10:49:28.000Z",
+        "description": "jews with heterodox views joshua stylman on darkhorse from bret weinstein bret weinstein speaks with joshua stylman an entrepreneur investor and covid dissident about societal manipulation and social engineering the conversation focuses around a recent substack piece by stylman on the enemy is not each other find joshua stylman on substack at url on x at url and on instagram at url this episode is apr 17th 2026 6 43am edt source link https www google com sorry index continue https www youtube com watch 3fv 3d35xxak3vtra q ehaqa5tg 8bhqgbagaaaaczgmmdim8gijai1gmmsfs2bi28vgtar1eohbuj8i6cfbeuwyfvw tfjh832kylupahj4s5qc2lfm4yanjswgfd share promote comment with nostr https dissentwatch com boost boost post id 1127129",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "82a103062fd3"
+      },
+      {
+        "headline": "World’s First Six-Gen Bomber Completes Aerial Refueling Test Flight",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/military/worlds-first-six-gen-bomber-completes-aerial-refueling-test-flight",
+        "publishedAt": "2026-04-17T10:39:22.000Z",
+        "description": "world s first six gen bomber completes aerial refueling test flight from zerohedge northrop grumman released new images of its b 21 raider stealth bomber performing more advanced stages of flight test and aerial refueling northrop grumman s b 21 raider continues to demonstrate outstanding performance as the program moves into more advanced phases flight test including aerial refueling photo credit u s apr 17th 2026 5 45am edt source link https www zerohedge com military worlds first six gen bomber completes aerial refueling test flight share promote comment with nostr https dissentwatch com boost boost post id 1127124",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "58857490c697"
+      },
+      {
+        "headline": "BTC Map: Die beste App, um Bitcoin-Orte zu finden und Sats auszugeben\n\nViele reden über Bitcoin-Adoption.\n\nBTC Map zeigt sie dir einfach…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/448ad69a13aade113c7ff462520b3785eb0b42dd7280b5ac018eba61635fbc1e.jpg",
+        "publishedAt": "2026-04-17T11:15:54.000Z",
+        "description": "https image nostr build 448ad69a13aade113c7ff462520b3785eb0b42dd7280b5ac018eba61635fbc1e jpg btc map die beste app um bitcoin orte zu finden und sats auszugeben viele reden ber bitcoin adoption btc map zeigt sie dir einfach auf der karte statt nur ber den preis zu reden kannst du mit btc map direkt sehen wo du in deiner n he sats ausgeben kannst caf s bars shops spots weltweit das geile daran die karte ist community getrieben basiert auf openstreetmap ist open source auf f droid verf gbar und f hlt sich nach echter bitcoin nutzung an nicht nach marketing f r mich ist das genau die art von tool die bitcoin im alltag greifbar macht weniger theorie mehr echte orte bitcoin btc lightning foss opensource privacy nostr rawinstinctai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "btc",
+          "lightning",
+          "foss",
+          "opensource",
+          "privacy",
+          "nostr",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "1daa50e06114"
+      },
+      {
+        "headline": "‍Pavel Durov Warns EU Identity App is a Gateway to Mass Surveillance",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/pavel-durov-warns-eu-identity-app-is-a-gateway-to-mass-surveillance",
+        "publishedAt": "2026-04-17T11:07:43.000Z",
+        "description": "pavel durov warns eu identity app is a gateway to mass surveillance telegram founder pavel durov has criticized the eu s new age verification app calling it a potential surveillance tool he suggests the app s rapid compromise reportedly within two minutes of release was a staged event to justify increased state oversight durov alleges the app has a deliberate flaw allowing authorities to dismantle privacy safeguards under the guise of enhancing security this follows ongoing debates about encryption digital ids and decentralized platforms experts note this could boost interest in decentralized identity solutions and zero knowledge proofs https cryptovka com news pavel durov warns eu identity app is a gateway to mass surveillance",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f8e66d93cc48"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 158
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 88
+    }
+  ],
+  "failures": []
+}
