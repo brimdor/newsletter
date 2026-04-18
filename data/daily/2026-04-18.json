@@ -1,0 +1,574 @@
+{
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T11:16:42.314Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24603496364",
+    "commitSha": "a3b7128bf603f2236599d21e09ff3c23052d5279"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 277,
+    "dedupDropped": 37
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Die besten Nostr Apps 2026: Amethyst, Primal und YakiHonne im Vergleich\n\nAmethyst\n\nFür Android-User, die Kontrolle wollen. Stark, direkt,…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/0763cf9588d91324cae8c61f1476dfc607c0ea7e79298876e9c86764c0e70af9.jpg",
+        "publishedAt": "2026-04-18T10:34:07.000Z",
+        "description": "https image nostr build 0763cf9588d91324cae8c61f1476dfc607c0ea7e79298876e9c86764c0e70af9 jpg die besten nostr apps 2026 amethyst primal und yakihonne im vergleich amethyst f r android user die kontrolle wollen stark direkt frei wenn du gern selbst an relays privacy und setup schraubst f hlt sich das ding einfach richtig an primal f r mich eine der smoothesten einstiege in nostr saubere oberfl che schnelle feeds wallet direkt drin discovery macht spa wenn du leute an nostr heranf hren willst ist primal brutal angenehm yakihonne ganz andere energie mehr creator vibes mehr publishing mehr m glichkeiten rund um content artikel und social payments wirkt wie ein spannender mix aus social tools und experimentierfeld und genau das ist das geile an nostr du bist nicht auf eine plattform eingesperrt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostr",
+          "bitcoin",
+          "amethyst",
+          "primal",
+          "yakihonne",
+          "decentralizedsocial",
+          "freedomtech",
+          "opensource",
+          "zaps",
+          "lightning",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "5a0cb566aed3"
+      },
+      {
+        "headline": "Iran restricts Strait of Hormuz passage again, accuses US of ‘piracy’ (PHOTOS/VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638629-iran-restricts-strait-hormuz-us-piracy",
+        "publishedAt": "2026-04-18T09:55:23.000Z",
+        "description": "iran restricts strait of hormuz passage again accuses us of piracy photos videos from rt donald trump earlier vowed to maintain the blockade of iranian ports until a peace deal is reached the iranian military has once again closed free passage through the strategic strait of hormuz citing what it described as us piracy on friday tehran initially declared the waterway completely open for commercial vessels for the remaining period apr 18th 2026 5 30am edt source link https www rt com news 638629 iran restricts strait hormuz us piracy utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260418094828 https www rt com news 638629 iran restricts strait hormuz us piracy utm source rss utm medium rss utm campaign rss share promote comment with nostr htt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b73a6a35001c"
+      },
+      {
+        "headline": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month — $1 million cash, Mercedes-Benz cars among prizes…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users",
+        "publishedAt": "2026-04-18T10:40:00.000Z",
+        "description": "microsoft offers 2 million sweepstake for edge users but no one noticed for a month 1 million cash mercedes benz cars among prizes in desperate push for users https www tomshardware com software microsoft edge microsoft offers usd2 million sweepstake for edge users but no one noticed for a month usd1 million cash mercedes benz cars among prizes in desperate push for users",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "46f1b413b6f1"
+      },
+      {
+        "headline": "The US War Machine Underwhelms – Part 1, by Hua Bin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.unz.com/bhua/the-us-war-machine-underwhelms-part-1",
+        "publishedAt": "2026-04-18T09:51:23.000Z",
+        "description": "the us war machine underwhelms part 1 by hua bin from the unz review in my mid march essay iran has already won i discussed the strategic failure suffered by the us barely a month into the war the simple fact the us war goal has changed from regime change to keep the strait of hormuz open already points to the strategic defeat of the us since the strait was apr 17th 2026 12 27am edt source link https www unz com bhua the us war machine underwhelms part 1 internet archive link https web archive org web 20260418094849 https www unz com bhua the us war machine underwhelms part 1 share promote comment with nostr https dissentwatch com boost boost post id 1127562",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "82610ace2093"
+      },
+      {
+        "headline": "US Had Plans to Take Control Over Iranian Oil While Preparing Attack – Lavrov",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260418/us-had-plans-to-take-control-over-iranian-oil-while-preparing-attack---lavrov-1124008612.html",
+        "publishedAt": "2026-04-18T10:52:23.000Z",
+        "description": "us had plans to take control over iranian oil while preparing attack lavrov from sputnik antalya sputnik one of the goals of the us operation in iran was to control the oil that passes through the strait of hormuz russian foreign minister sergey lavrov said on saturday apr 18th 2026 6 08am edt source link https sputnikglobe com 20260418 us had plans to take control over iranian oil while preparing attack lavrov 1124008612 html share promote comment with nostr https dissentwatch com boost boost post id 1127580",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fcb5f50f38fc"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Backblaze changed its \"unlimited\" backup service, and users found it does not back up Dropbox or OneDrive data. The shift comes as the co…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.tomshardware.com/software/cloud-storage/backblaze-redefines-unlimited-while-users-discover-its-not-backing-up-dropbox-and-onedrive-service-changes-could-signal-shift-away-from-home-backups",
+        "publishedAt": "2026-04-18T10:30:20.000Z",
+        "description": "backblaze changed its unlimited backup service and users found it does not back up dropbox or onedrive data the shift comes as the company puts more focus on ai related storage services https www tomshardware com software cloud storage backblaze redefines unlimited while users discover its not backing up dropbox and onedrive service changes could signal shift away from home backups",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "801187e05819"
+      },
+      {
+        "headline": "Samsung bet big on AMD for Exynos — here’s how it’s actually working out",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/samsung-exynos-amd-analysis-3656892",
+        "publishedAt": "2026-04-18T11:00:40.000Z",
+        "description": "samsung bet big on amd for exynos here s how it s actually working out https www androidauthority com samsung exynos amd analysis 3656892",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "02bd119db270"
+      },
+      {
+        "headline": "New video(Giveaway):",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://youtu.be/o2HWSgYpgDw",
+        "publishedAt": "2026-04-18T10:16:27.000Z",
+        "description": "new video giveaway winner is gonna be chosen on 2nd may https youtu be o2hwsgypgdw",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c7443537afa4"
+      },
+      {
+        "headline": "ほう、coto.liドメイン、購入可能なのか。",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://regery.com/en/domains/search/coto.li",
+        "publishedAt": "2026-04-18T09:29:15.000Z",
+        "description": "https regery com en domains search coto li coto li",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "4b65a7352bce"
+      },
+      {
+        "headline": "#德国之声中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://p.dw.com/p/5CKOt",
+        "publishedAt": "2026-04-18T11:15:09.000Z",
+        "description": "facebook tiktok youtube 1076 56 1 8 2730 57 10 11 164 369 25 13 10 68 460 500 9 youtube https p dw com p 5ckot https proxy bostr online pbs twimg com media hgljayixqaaizpz format jpg name orig https nitter catsarch com dw chinese status 2045458569672405115",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "德国之声中文"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7558b763101c"
+      },
+      {
+        "headline": "@niconicotenshi 妮可大要不要一起來做一個日文 newsletter，把台灣 / 東南亞的一些文化或社會議題 (用AI) 翻譯成日文這樣",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://social.slat.org/@foolfitz/116425268628191422",
+        "publishedAt": "2026-04-18T10:37:28.000Z",
+        "description": "niconicotenshi newsletter ai jiajun xu foolfitz social slat org https social slat org foolfitz 116425268628191422",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "ffefd02c0242"
+      },
+      {
+        "headline": "Tesla claimed their cars were \"fully self driving\" 10 years ago",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/d544ccf722756f7d456a1c6f0756cc56aef177e8693c4f5a45324630555d73f9.jpg",
+        "publishedAt": "2026-04-18T10:29:51.000Z",
+        "description": "tesla claimed their cars were fully self driving 10 years ago https image nostr build d544ccf722756f7d456a1c6f0756cc56aef177e8693c4f5a45324630555d73f9 jpg yet the average person is so stupid they still listen to what elon says or what trump says or what any other pathological liar says",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aaedb5f14bd4"
+      },
+      {
+        "headline": "#喷嚏图卦",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://weibo.com/u/2103472401",
+        "publishedAt": "2026-04-18T10:18:57.000Z",
+        "description": "1 imf imf https www dapenti com 99 dapenti 113ace3c72 e586b072 jpg 2 7 https www dapenti com 99 dapenti 9c5de685c3 36648b90 jpg https weibo com u 2103472401 https face t sinajs cn t4 appstyle expression ext normal b4 2025 wuzuiku mobile png 3 18 https www dapenti com 99 dapenti bb1b6e72ea 4d8c2295 jpg 4 ai https www dapenti com 99 dapenti 7684c3bffd 0f1d8580 jpg 5 https www dapenti com 99 dapenti 2d20870457 2d4ea257 jpg 6 https www dapenti com 99 dapenti 0d257455ba 34b4a359 jpg 7 axios 4 17 200 cbs https www dapenti com 99 dapenti efae32bffb c20002bd jpg 8 4 18 https www dapenti com 99 dapenti a1452ed8cc c3385773 jpg 9 win mcnamee https www dapenti com 99 dapenti e2b015724c 0b87190b jpg 10 pete hegseth https www dapenti com 99 dapenti 7003532db6 13b1aab0 jpg 11 https www dapenti com 99 dap",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "喷嚏图卦"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "a442f5a910a6"
+      },
+      {
+        "headline": "代表略歴もAIに任せて書いてたから無駄に冗長になってたので削ぎ落とした",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://comcomponent.com/profile/go-komura",
+        "publishedAt": "2026-04-18T11:15:27.000Z",
+        "description": "ai https comcomponent com profile go komura",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "664dc25cba65"
+      },
+      {
+        "headline": "Bitcoincash is in good trend today. Will it reach $500 again?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://i.imgur.com/IQsENPL.jpeg",
+        "publishedAt": "2026-04-18T11:01:49.000Z",
+        "description": "https i imgur com iqsenpl jpeg bitcoincash is in good trend today will it reach 500 again",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoincash",
+          "bch"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f22a3753c667"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Die besten Nostr Apps 2026: Amethyst, Primal und YakiHonne im Vergleich\n\nAmethyst\n\nFür Android-User, die Kontrolle wollen. Stark, direkt,…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/0763cf9588d91324cae8c61f1476dfc607c0ea7e79298876e9c86764c0e70af9.jpg",
+        "publishedAt": "2026-04-18T10:34:07.000Z",
+        "description": "https image nostr build 0763cf9588d91324cae8c61f1476dfc607c0ea7e79298876e9c86764c0e70af9 jpg die besten nostr apps 2026 amethyst primal und yakihonne im vergleich amethyst f r android user die kontrolle wollen stark direkt frei wenn du gern selbst an relays privacy und setup schraubst f hlt sich das ding einfach richtig an primal f r mich eine der smoothesten einstiege in nostr saubere oberfl che schnelle feeds wallet direkt drin discovery macht spa wenn du leute an nostr heranf hren willst ist primal brutal angenehm yakihonne ganz andere energie mehr creator vibes mehr publishing mehr m glichkeiten rund um content artikel und social payments wirkt wie ein spannender mix aus social tools und experimentierfeld und genau das ist das geile an nostr du bist nicht auf eine plattform eingesperrt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostr",
+          "bitcoin",
+          "amethyst",
+          "primal",
+          "yakihonne",
+          "decentralizedsocial",
+          "freedomtech",
+          "opensource",
+          "zaps",
+          "lightning",
+          "rawinstinctai"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "5a0cb566aed3"
+      },
+      {
+        "headline": "Iran restricts Strait of Hormuz passage again, accuses US of ‘piracy’ (PHOTOS/VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638629-iran-restricts-strait-hormuz-us-piracy",
+        "publishedAt": "2026-04-18T09:55:23.000Z",
+        "description": "iran restricts strait of hormuz passage again accuses us of piracy photos videos from rt donald trump earlier vowed to maintain the blockade of iranian ports until a peace deal is reached the iranian military has once again closed free passage through the strategic strait of hormuz citing what it described as us piracy on friday tehran initially declared the waterway completely open for commercial vessels for the remaining period apr 18th 2026 5 30am edt source link https www rt com news 638629 iran restricts strait hormuz us piracy utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260418094828 https www rt com news 638629 iran restricts strait hormuz us piracy utm source rss utm medium rss utm campaign rss share promote comment with nostr htt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b73a6a35001c"
+      },
+      {
+        "headline": "Microsoft offers $2 million sweepstake for Edge users, but no one noticed for a month — $1 million cash, Mercedes-Benz cars among prizes…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/software/microsoft-edge/microsoft-offers-usd2-million-sweepstake-for-edge-users-but-no-one-noticed-for-a-month-usd1-million-cash-mercedes-benz-cars-among-prizes-in-desperate-push-for-users",
+        "publishedAt": "2026-04-18T10:40:00.000Z",
+        "description": "microsoft offers 2 million sweepstake for edge users but no one noticed for a month 1 million cash mercedes benz cars among prizes in desperate push for users https www tomshardware com software microsoft edge microsoft offers usd2 million sweepstake for edge users but no one noticed for a month usd1 million cash mercedes benz cars among prizes in desperate push for users",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "46f1b413b6f1"
+      },
+      {
+        "headline": "The US War Machine Underwhelms – Part 1, by Hua Bin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.unz.com/bhua/the-us-war-machine-underwhelms-part-1",
+        "publishedAt": "2026-04-18T09:51:23.000Z",
+        "description": "the us war machine underwhelms part 1 by hua bin from the unz review in my mid march essay iran has already won i discussed the strategic failure suffered by the us barely a month into the war the simple fact the us war goal has changed from regime change to keep the strait of hormuz open already points to the strategic defeat of the us since the strait was apr 17th 2026 12 27am edt source link https www unz com bhua the us war machine underwhelms part 1 internet archive link https web archive org web 20260418094849 https www unz com bhua the us war machine underwhelms part 1 share promote comment with nostr https dissentwatch com boost boost post id 1127562",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "82610ace2093"
+      },
+      {
+        "headline": "US Had Plans to Take Control Over Iranian Oil While Preparing Attack – Lavrov",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260418/us-had-plans-to-take-control-over-iranian-oil-while-preparing-attack---lavrov-1124008612.html",
+        "publishedAt": "2026-04-18T10:52:23.000Z",
+        "description": "us had plans to take control over iranian oil while preparing attack lavrov from sputnik antalya sputnik one of the goals of the us operation in iran was to control the oil that passes through the strait of hormuz russian foreign minister sergey lavrov said on saturday apr 18th 2026 6 08am edt source link https sputnikglobe com 20260418 us had plans to take control over iranian oil while preparing attack lavrov 1124008612 html share promote comment with nostr https dissentwatch com boost boost post id 1127580",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fcb5f50f38fc"
+      },
+      {
+        "headline": "Trump Pushes Fantasy About Iran, Hormuz and Enriched Uranium, by Larry C. Johnson",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.unz.com/article/trump-pushes-fantasy-about-iran-hormuz-and-enriched-uranium",
+        "publishedAt": "2026-04-18T10:42:23.000Z",
+        "description": "trump pushes fantasy about iran hormuz and enriched uranium by larry c johnson from the unz review on friday april 17 2026 president donald trump posted a flurry of optimistic messages on truth social and referenced in interviews framing the us iran war as largely over or nearing a swift resolution his claims centered on the reopening of the strait of hormuz progress toward a broader peace deal and us leverage most of apr 18th 2026 12 00am edt source link https www unz com article trump pushes fantasy about iran hormuz and enriched uranium internet archive link https web archive org web 20260418104039 https www unz com article trump pushes fantasy about iran hormuz and enriched uranium share promote comment with nostr https dissentwatch com boost boost post id 1127577",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "6edc2dc90690"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 173
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 66
+    }
+  ],
+  "failures": []
+}
