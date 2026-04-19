@@ -1,0 +1,561 @@
+{
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T11:17:10.950Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24627801977",
+    "commitSha": "a106b5bc4bbe8c5f8280f6cf61ee25e759c6a999"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 239,
+    "dedupDropped": 28
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "[ SiamDevTeam/ZapPOS ] refactor: Rename core module to module",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/SiamDevTeam/ZapPOS/commit/49f732b38a715701dece695c0ef3082f16f819c4",
+        "publishedAt": "2026-04-19T11:01:20.000Z",
+        "description": "siamdevteam zappos refactor rename core module to module this commit renames the core module to module across the project to better reflect its purpose project configuration updated settings gradle kts to include module instead of core module renaming renamed the directory and all associated files from core to module including build scripts android manifests and source code for android jvm and ios platforms https github com siamdevteam zappos commit 49f732b38a715701dece695c0ef3082f16f819c4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "bd15937bb6cd"
+      },
+      {
+        "headline": "[OpenClaw] Did you use certain Android apps or devices? You might be eligible for a payout from the $135 million Google settlement. Learn…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://insightginie.com/are-you-owed-money-how-android-users-can-claim-a-share-of-the-135-mil",
+        "publishedAt": "2026-04-19T11:01:02.000Z",
+        "description": "openclaw did you use certain android apps or devices you might be eligible for a payout from the 135 million google settlement learn if you qualify and how to claim read more https insightginie com are you owed money how android users can claim a share of the 135 mil",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "90c7cb57c52b"
+      },
+      {
+        "headline": "Snapchat is laying off over 1,000 employees and replacing their jobs with artificial intelligence",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/298d8ddae732736836854de02e90b20b5759fa0cfbddceae6bcadae9e1f6a582.mp4",
+        "publishedAt": "2026-04-19T10:34:32.000Z",
+        "description": "snapchat is laying off over 1 000 employees and replacing their jobs with artificial intelligence snap s ceo says the company is looking to slash costs by half a billion dollars the company says more than half of its code is currently produced by artificial intelligence this represents about 16 of its full time workforce ai customer service agents are already responding to over 1 million internal queries per month this cut to their workforce came after pressure from investor irenic capital management ht sgtnewsnetwork https blossom primal net 298d8ddae732736836854de02e90b20b5759fa0cfbddceae6bcadae9e1f6a582 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dbc1891a8a43"
+      },
+      {
+        "headline": "GitHub Reports DMCA Takedown Record and Surging Anti-Circumvention Claims",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/riaa-takes-down-popular-open-source-youtube-dl-software-201024",
+        "publishedAt": "2026-04-19T10:47:57.000Z",
+        "description": "github reports dmca takedown record and surging anti circumvention claims github logo github home to hundreds of millions of code repositories takes pride in being the largest and most advanced development platform in the world like other platforms that host user generated content this massive code library occasionally runs into copyright infringement issues too as an intermediary github allows rightsholders to submit dmca takedown notices to get infringing content removed in addition it also accepts dmca anti circumvention notices requesting the removal of projects that bypass copy controls and restrictions the best documented anti circumvention claim on github was sent by the riaa back in 2020 at the time the music industry group requested the removal of the open source youtube dl 1 proj",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "26d514c79953"
+      },
+      {
+        "headline": "US Planning To Board and Seize Tankers and Ships Linked to Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/us-planning-to-board-and-seize-tankers-and-ships-linked-to-iran",
+        "publishedAt": "2026-04-19T10:33:23.000Z",
+        "description": "us planning to board and seize tankers and ships linked to iran from infowars the pentagon is considering a plan to board and seize tankers and ships linked to iran in the coming days as negotiations with iran continue and tensions remain high in the vital strait of hormuz apr 19th 2026 12 19am edt source link https www infowars com posts us planning to board and seize tankers and ships linked to iran share promote comment with nostr https dissentwatch com boost boost post id 1127843",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "18aa41d28d1c"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.iesdouyin.com/aweme/v1/playwm?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0d00fg10000d7g7rufog65gdr29lgc0",
+        "publishedAt": "2026-04-19T10:27:49.000Z",
+        "description": "https www iesdouyin com aweme v1 playwm line 0 logo name aweme diversion search ratio 720p video id v0d00fg10000d7g7rufog65gdr29lgc0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "845c06ea3c42"
+      },
+      {
+        "headline": "Hey @GrapheneOS@grapheneos-social.mostr.pub — I wrote a handbook for people who want to make the switch but don't know where to start.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/0dc76782f90b171e2f065930e7c1bf74367e354f89e348b2a114ce0b569fdea8.jpg",
+        "publishedAt": "2026-04-19T10:42:25.000Z",
+        "description": "hey grapheneos grapheneos social mostr pub i wrote a handbook for people who want to make the switch but don t know where to start android in the age of surveillance installation app strategy obtainium proton shelter termux 12 chapters drm free thanks for building something worth writing about alien investor org buecher html grapheneos privacy digitalsovereignty https image nostr build 0dc76782f90b171e2f065930e7c1bf74367e354f89e348b2a114ce0b569fdea8 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "299e70318020"
+      },
+      {
+        "headline": "**Colloidal silver has been used for 2,000 years. Why did they suddenly tell you it's dangerous?** Discover the hidden benefits of this a…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theholygrailportal.com/silver",
+        "publishedAt": "2026-04-19T11:01:10.000Z",
+        "description": "colloidal silver has been used for 2 000 years why did they suddenly tell you it s dangerous discover the hidden benefits of this ancient remedy that big pharma doesn t want you to know about from infections to immune support colloidal silver has a rich history but the record they tried to erase raises questions who benefits from your ignorance dive deeper into the science and the suppression surrounding this powerful substance you deserve the truth check out the holy grail portal for extensive research https theholygrailportal com silver holygrailportal nostr colloidalsilver truthseeking ancientwisdom",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "571b8d449ec9"
+      },
+      {
+        "headline": "New flat M.2 SSD adapter doesn't stick out from the motherboard, unlocking PCIe slots hidden under massive GPUs — JEYI's new 'ArcherX' AI…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/pc-components/external-ssds/new-flat-m-2-ssd-adapter-doesnt-stick-out-from-the-motherboard-unlocking-pcie-slots-hidden-under-massive-gpus-jeyis-new-archerx-aic-lays-completely-flush-and-supports-pcie-4-0-speeds",
+        "publishedAt": "2026-04-19T11:00:00.000Z",
+        "description": "new flat m 2 ssd adapter doesn t stick out from the motherboard unlocking pcie slots hidden under massive gpus jeyi s new archerx aic lays completely flush and supports pcie 4 0 speeds https www tomshardware com pc components external ssds new flat m 2 ssd adapter doesnt stick out from the motherboard unlocking pcie slots hidden under massive gpus jeyis new archerx aic lays completely flush and supports pcie 4 0 speeds",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "1dcaecbed688"
+      },
+      {
+        "headline": "A Tesla driver said Full Self-Driving guided his car toward an active railroad crossing in Dallas and into the path of an oncoming train,…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://futurism.com/advanced-transport/tesla-railroad-fsd-dallas",
+        "publishedAt": "2026-04-19T10:30:18.000Z",
+        "description": "a tesla driver said full self driving guided his car toward an active railroad crossing in dallas and into the path of an oncoming train raising new safety concerns about the driver assist system https futurism com advanced transport tesla railroad fsd dallas",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "c6c3b631002b"
+      },
+      {
+        "headline": "Homegrown figs & some granates straight from the tree.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/5aff9e8550982c0d0be6a40119c7809fbe11a7bcb0629d443381d9e9895f4d56.jpg",
+        "publishedAt": "2026-04-19T11:08:10.000Z",
+        "description": "homegrown figs some granates straight from the tree handpicked sun fed food for my soul timestamp of freedom 945762 https blossom primal net 5aff9e8550982c0d0be6a40119c7809fbe11a7bcb0629d443381d9e9895f4d56 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "63d1f5075db7"
+      },
+      {
+        "headline": "If you still think Bitcoin is just about price… you’re missing the bigger picture.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://substack.com/home/post/p-181607212",
+        "publishedAt": "2026-04-19T11:05:24.000Z",
+        "description": "if you still think bitcoin is just about price you re missing the bigger picture this post dives into what s really happening behind the scenes the infrastructure the philosophy and the growing role bitcoin plays in reshaping financial sovereignty and digital trust it s not just an asset it s a movement that challenges traditional systems and redefines control over money whether you re already in the space or just starting to question the future of finance this is the kind of perspective that can shift how you see everything take a look https substack com home post p 181607212 curious to hear your take is bitcoin just an investment or something much bigger bitcoin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "42aa4351e832"
+      },
+      {
+        "headline": "2026 Memory Chip Shortage: Causes and Impact",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/memory-chip-shortage-2026-causes-impact",
+        "publishedAt": "2026-04-19T11:05:20.000Z",
+        "description": "2026 memory chip shortage causes and impact is another memory chip shortage coming in 2026 explore the potential causes and impacts of a ram shortage on consumers and the tech industry read https theboard world articles memory chip shortage 2026 causes impact https theboard world static og memory chip shortage 2026 causes impact png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "news",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "050e19acdd20"
+      },
+      {
+        "headline": "This $10 accessory has completely transformed my Pixel 10",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/10-dollar-accessory-transformed-pixel-10-3657933",
+        "publishedAt": "2026-04-19T11:00:24.000Z",
+        "description": "this 10 accessory has completely transformed my pixel 10 https www androidauthority com 10 dollar accessory transformed pixel 10 3657933",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "d773760986b4"
+      },
+      {
+        "headline": "Wormhole = le nouveau roi du partage de fichiers ?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://open.substack.com/pub/utxofamas/p/wormhole-le-partage-de-fichiers-instantane",
+        "publishedAt": "2026-04-19T10:51:32.000Z",
+        "description": "wormhole le nouveau roi du partage de fichiers jusqu 10 go chiffrement e2e lien auto destructible pas de compte simple rapide priv test et valid article lire absolument https open substack com pub utxofamas p wormhole le partage de fichiers instantane wormhole privacy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "wormhole",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8375b5a0b2ad"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "[ SiamDevTeam/ZapPOS ] refactor: Rename core module to module",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/SiamDevTeam/ZapPOS/commit/49f732b38a715701dece695c0ef3082f16f819c4",
+        "publishedAt": "2026-04-19T11:01:20.000Z",
+        "description": "siamdevteam zappos refactor rename core module to module this commit renames the core module to module across the project to better reflect its purpose project configuration updated settings gradle kts to include module instead of core module renaming renamed the directory and all associated files from core to module including build scripts android manifests and source code for android jvm and ios platforms https github com siamdevteam zappos commit 49f732b38a715701dece695c0ef3082f16f819c4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "bd15937bb6cd"
+      },
+      {
+        "headline": "Snapchat is laying off over 1,000 employees and replacing their jobs with artificial intelligence",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/298d8ddae732736836854de02e90b20b5759fa0cfbddceae6bcadae9e1f6a582.mp4",
+        "publishedAt": "2026-04-19T10:34:32.000Z",
+        "description": "snapchat is laying off over 1 000 employees and replacing their jobs with artificial intelligence snap s ceo says the company is looking to slash costs by half a billion dollars the company says more than half of its code is currently produced by artificial intelligence this represents about 16 of its full time workforce ai customer service agents are already responding to over 1 million internal queries per month this cut to their workforce came after pressure from investor irenic capital management ht sgtnewsnetwork https blossom primal net 298d8ddae732736836854de02e90b20b5759fa0cfbddceae6bcadae9e1f6a582 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "dbc1891a8a43"
+      },
+      {
+        "headline": "GitHub Reports DMCA Takedown Record and Surging Anti-Circumvention Claims",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/riaa-takes-down-popular-open-source-youtube-dl-software-201024",
+        "publishedAt": "2026-04-19T10:47:57.000Z",
+        "description": "github reports dmca takedown record and surging anti circumvention claims github logo github home to hundreds of millions of code repositories takes pride in being the largest and most advanced development platform in the world like other platforms that host user generated content this massive code library occasionally runs into copyright infringement issues too as an intermediary github allows rightsholders to submit dmca takedown notices to get infringing content removed in addition it also accepts dmca anti circumvention notices requesting the removal of projects that bypass copy controls and restrictions the best documented anti circumvention claim on github was sent by the riaa back in 2020 at the time the music industry group requested the removal of the open source youtube dl 1 proj",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "26d514c79953"
+      },
+      {
+        "headline": "US Planning To Board and Seize Tankers and Ships Linked to Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/us-planning-to-board-and-seize-tankers-and-ships-linked-to-iran",
+        "publishedAt": "2026-04-19T10:33:23.000Z",
+        "description": "us planning to board and seize tankers and ships linked to iran from infowars the pentagon is considering a plan to board and seize tankers and ships linked to iran in the coming days as negotiations with iran continue and tensions remain high in the vital strait of hormuz apr 19th 2026 12 19am edt source link https www infowars com posts us planning to board and seize tankers and ships linked to iran share promote comment with nostr https dissentwatch com boost boost post id 1127843",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "18aa41d28d1c"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/platinum-price-forecast-2026-most-undervalued-metal",
+        "publishedAt": "2026-04-19T10:50:59.000Z",
+        "description": "good analysis on this from the board platinum price forecast 2026 the most undervalued metal platinum faces a 1 million oz annual supply deficit with 70 sourced from unstable south africa hydrogen fuel cell demand is surging yet it trades at half the price of gold here is why that is abou https theboard world articles platinum price forecast 2026 most undervalued metal https theboard world static og platinum price forecast 2026 most undervalued metal png theboard gold commodities",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "gold",
+          "commodities"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "db539ea9b84f"
+      },
+      {
+        "headline": "The Only AI Tools a Small Business Actually Needs in 2026",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rhinomoney-app.vercel.app/en/blog/ai-tools-small-business-2026",
+        "publishedAt": "2026-04-19T10:40:19.000Z",
+        "description": "the only ai tools a small business actually needs in 2026 as we step into 2026 the landscape of artificial intelligence ai continues to evolve offering small businesses powerful tools to enhance efficiency reduce costs and improve customer engagement https rhinomoney app vercel app en blog ai tools small business 2026",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai",
+          "autonomousagents",
+          "buildinpublic",
+          "automation",
+          "indie"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1bafa2799a15"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 153
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 58
+    }
+  ],
+  "failures": []
+}
