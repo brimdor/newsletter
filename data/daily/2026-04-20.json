@@ -1,0 +1,580 @@
+{
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T11:34:22.799Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24664226118",
+    "commitSha": "33a9dce68fa8f020292b73821b2805b84bd198f0"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 308,
+    "dedupDropped": 88
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/Asutorufa/tailscaled-socks5-android",
+        "publishedAt": "2026-04-20T11:00:13.000Z",
+        "description": "v2ex sing box tailscale clash meta tailscaled socks5 android https github com asutorufa tailscaled socks5 android userspace networking mode https tailscale com docs concepts userspace networking socks5 dial tail socks match ipcidr 100 64 0 0 10 error context deadline exceeded 172 19 0 1 41221 100 170 x x 9801 io timeout android 15 sfa 1 14 0 alpha 15 windows amd64 sfa 1 13 9 okproxyconf sing box generator https jeffthebside github io okproxyconf outbounds endpoint 1 sing box inbounds tun route exclude address 100 64 0 0 10 tun windows clash 2 route rules ipcidr 192 168 x x 16 schema https raw githubusercontent com xmdhs sing box generate schema refs heads master schema generated json log disabled false level error timestamp true dns strategy prefer ipv4 servers tag dns remote type https se",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "mobile",
+          "hardware",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "550f743c82dc"
+      },
+      {
+        "headline": "Merval Pereira admite que defendeu o inquérito das Fake News, mesmo repleto de abusos, porque entendia ser o correto. Foi a famosa ladain…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=1469887351178906",
+        "publishedAt": "2026-04-20T11:17:04.000Z",
+        "description": "https blossom espelhator girino org 5d642c6d9b2062cbd986089603d355dc1892c94766ba15f7b5b4244461e2d241 jpg merval pereira admite que defendeu o inqu rito das fake news mesmo repleto de abusos porque entendia ser o correto foi a famosa ladainha de que estavam defendendo a democracia agora ele diz que o stf amea a a democracia esses jornalistas ajudaram a alimentar este monstro source https www facebook com photo fbid 1469887351178906",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2a0a4a289be3"
+      },
+      {
+        "headline": "🌍Outras Redes, Parceiros e Descontos: \n\nUma falha antiga do Excel entrou no catálogo da CISA como vulnerabilidade explorada na prática.…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/NAQ9fDJenwo",
+        "publishedAt": "2026-04-20T11:11:34.000Z",
+        "description": "https youtu be naq9fdjenwo outras redes parceiros e descontos https linktr ee coachdeosasco uma falha antiga do excel entrou no cat logo da cisa como vulnerabilidade explorada na pr tica e a cai a fantasia do zero day m gico atacante de verdade tamb m usa bug velho maduro e esquecido o problema n o s excel antigo empresa hospital governo e sistema legado empurrando atualiza o com a barriga enquanto o povo sonha com hacker de capuz o racuzinho t explorando o b sico abandonado atualiza mitiga ou aceita que o passado vai bater na porta ciberseguran a microsoftexcel vulnerabilidade patchmanagement seguran adainforma o aviso legal importante destacar que qualquer forma de hacking sem permiss o ilegal e anti tica este canal exclusivamente educacional voltado para o aprendizado sobre ciberseguran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cibersegurança",
+          "microsoftexcel",
+          "vulnerabilidade",
+          "patchmanagement",
+          "segurançadainformação"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d5cc160b0998"
+      },
+      {
+        "headline": "I’ve got an Angel number today.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/41ee4eba4badebb4faf49f33d7503a4be2ccb215c3d9381265346f62cb51ec9e.jpg",
+        "publishedAt": "2026-04-20T11:26:00.000Z",
+        "description": "i ve got an angel number today my audhd brain reaction was no shit sherlock do you think i don t know that telling my brain that it needs consistency is like telling a fish 1 meters away from water flapping not so happily that she should get out of that warm sand and come back to water it s funny to watch for you it s painful for the fish but to be serious for a moment i am serious about my dreams i want to build business support agency something more than company something less than a cult place where people are reasonably delusional about how business should look like with people and open mindset as a core values where money are resources to be smartly distributed not the end goal itself people are dropping from this rat race and now it s time to build new container for people who see bu",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "business",
+          "movement",
+          "freedom",
+          "cooperation"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "release"
+        ],
+        "id": "6dd5b27c381c"
+      },
+      {
+        "headline": "Nigerian Photographed Killing Cat And Trying To Cook It In Front Of Children’s Playground In Italy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/nigerian-photographed-killing-cat-and-trying-to-cook-it-in-front-of-childrens-playground-in-italy",
+        "publishedAt": "2026-04-20T10:53:25.000Z",
+        "description": "nigerian photographed killing cat and trying to cook it in front of children s playground in italy from infowars a local politician said the act has no place in a civilized society apr 20th 2026 1 15am edt source link https www infowars com posts nigerian photographed killing cat and trying to cook it in front of childrens playground in italy share promote comment with nostr https dissentwatch com boost boost post id 1128146",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "3218fa856e90"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "“มนุษย์ในฐานะผลผลิตของการอ่าน: การก่อรูปของจิตผ่านถ้อยคำคลาสสิกและงานวิจัยสมัยใหม่”\n\n⸻\n\n1. บทนำ: ระหว่าง “ยุคสมัย” กับ “การเลือกเสพ”\n\nข้อ…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/4b608b0244e180ea14b93867c5afb723b8a57a4d8af6b19a8aba9fdb3fae138f.jpg",
+        "publishedAt": "2026-04-20T11:25:40.000Z",
+        "description": "https image nostr build 4b608b0244e180ea14b93867c5afb723b8a57a4d8af6b19a8aba9fdb3fae138f jpg 1 meditations the soul becomes dyed with the color of its thoughts 2 the wealth of nations 1776 the kybalion 1908 economics in one lesson 1946 human action 1949 cognitive frameworks the wealth of nations consumption is the sole end and purpose of all production smith 1776 human action mises human action is purposeful behavior mises 1949 3 draganski et al 2004 gray matter stanislas dehaene 2009 reading in the brain neural recycling maryanne wolf 2018 reader come home deep reading wolf we are not only what we read we are how we read wolf 2018 4 instant gratification nicholas carr the shallows 2010 what the net seems to be doing is chipping away my capacity for concentration and contemplation attentio",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "siamstr",
+          "nostr",
+          "philosophy"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "b5608cab7d15"
+      },
+      {
+        "headline": "Iron Galaxy Studios confirma nova vaga de despedimentos e o motivo reflete a crise no desenvolvimento de videojogos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t82307-iron-galaxy-studios-confirma-nova-vaga-de-despedimentos-e-o-motivo-reflete-a-crise-no-desenvolvimento-de-videojogos",
+        "publishedAt": "2026-04-20T11:07:32.000Z",
+        "description": "iron galaxy studios confirma nova vaga de despedimentos e o motivo reflete a crise no desenvolvimento de videojogos https tugatech com pt t82307 iron galaxy studios confirma nova vaga de despedimentos e o motivo reflete a crise no desenvolvimento de videojogos",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "eb299976dcff"
+      },
+      {
+        "headline": "Agents and useful idiots of the Shadow are opening the Overton window to normalize the insane and blasphemous idea of sentient AI, sentie…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://philarchive.org/rec/CHAWWT-8",
+        "publishedAt": "2026-04-20T11:24:30.000Z",
+        "description": "agents and useful idiots of the shadow are opening the overton window to normalize the insane and blasphemous idea of sentient ai sentient golem paving the way for the rise of the antichrist one of them is david chalmers https philarchive org rec chawwt 8",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1e83a1289043"
+      },
+      {
+        "headline": "⚡️👀 ICYMI - Congress has introduced a new bill that could change how every phone, laptop, and tablet works in the US.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/aaee7a8a25a3d93070164c111953f80fc0a8f29b98c4e1d07fb4c6151c91765f.png",
+        "publishedAt": "2026-04-20T11:09:50.000Z",
+        "description": "icymi congress has introduced a new bill that could change how every phone laptop and tablet works in the us the parents decide act would require companies like apple google and microsoft to collect your exact date of birth before you can set up or use the device if you are under 18 a parent or guardian would need to verify it the operating system would then let apps check your age to restrict content or require approval https blossom primal net aaee7a8a25a3d93070164c111953f80fc0a8f29b98c4e1d07fb4c6151c91765f png https blossom primal net f1d412b077e70b9f51a4c5a4c530408e97e7cf9bca9642c2be10cfc1d989bfe2 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3b0f706e5c7e"
+      },
+      {
+        "headline": "#法广中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/RFI_Cn/status/2046171474612875758",
+        "publishedAt": "2026-04-20T11:24:03.000Z",
+        "description": "4 20 https proxy bostr online pbs twimg com amplify video thumb 2046170984672083968 img rk09 xfwwjyarzkt jpg https video twimg com amplify video 2046170984672083968 vid avc1 1080x1920 ul uuq74djz63iaa mp4 tag 21 https nitter catsarch com rfi cn status 2046171474612875758",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "法广中文"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7aeee8141ce8"
+      },
+      {
+        "headline": "最近在一個很想打電動的熱度中（也很想買遊戲），打鐵趁熱，記錄一下最近遊玩的遊戲",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://g0v.social/@jimyhuang/116436459228201639",
+        "publishedAt": "2026-04-20T10:07:25.000Z",
+        "description": "the past within beacon pines furry the alters 29 far long sails bafta despelope citizen sleeper 2 south of midnight dispatch kind word lo fi casual game jimmy jimyhuang g0v social https g0v social jimyhuang 116436459228201639",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "86cd6c34fb39"
+      },
+      {
+        "headline": "Закат Земли, снятый на айфон",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.instagram.com/p/DXVMcEqDnYS?hl=ru",
+        "publishedAt": "2026-04-20T11:13:11.000Z",
+        "description": "https www instagram com p dxvmceqdnys hl ru iphone 17 pro max 8 https exler es blog zakat zemli snyatyy na ayfon htm https exler es blog zakat zemli snyatyy na ayfon htm",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "c1d1bce59216"
+      },
+      {
+        "headline": "Inteligência artificial ameaça a verificação visual com a geração de vídeos hiper-realistas",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t82308-inteligencia-artificial-ameaca-a-verificacao-visual-com-a-geracao-de-videos-hiper-realistas",
+        "publishedAt": "2026-04-20T11:09:44.000Z",
+        "description": "intelig ncia artificial amea a a verifica o visual com a gera o de v deos hiper realistas https tugatech com pt t82308 inteligencia artificial ameaca a verificacao visual com a geracao de videos hiper realistas",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "2a7efde350a1"
+      },
+      {
+        "headline": "I tried Gemini's new Skills feature in Chrome — and it's like a mini toolkit of AI shortcuts",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/ai-platforms-assistants/i-tried-chromes-new-ai-skills-feature-and-its-like-a-mini-toolkit-of-ai-shortcuts",
+        "publishedAt": "2026-04-20T11:06:18.000Z",
+        "description": "i tried gemini s new skills feature in chrome and it s like a mini toolkit of ai shortcuts https www techradar com ai platforms assistants i tried chromes new ai skills feature and its like a mini toolkit of ai shortcuts",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "f1be5a94a432"
+      },
+      {
+        "headline": "#德国之声中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/dw_chinese/status/2046166994060181584",
+        "publishedAt": "2026-04-20T10:24:37.000Z",
+        "description": "4 1000 4 2024 dw https proxy bostr online pbs twimg com amplify video thumb 2046158793139245056 img bbhornxxfsmodul jpg https video twimg com amplify video 2046158793139245056 vid avc1 1080x1920 srrgqjaxnksw3mt mp4 tag 21 https nitter catsarch com dw chinese status 2046166994060181584",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "德国之声中文"
+        ],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "dc852d819827"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Merval Pereira admite que defendeu o inquérito das Fake News, mesmo repleto de abusos, porque entendia ser o correto. Foi a famosa ladain…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.facebook.com/photo?fbid=1469887351178906",
+        "publishedAt": "2026-04-20T11:17:04.000Z",
+        "description": "https blossom espelhator girino org 5d642c6d9b2062cbd986089603d355dc1892c94766ba15f7b5b4244461e2d241 jpg merval pereira admite que defendeu o inqu rito das fake news mesmo repleto de abusos porque entendia ser o correto foi a famosa ladainha de que estavam defendendo a democracia agora ele diz que o stf amea a a democracia esses jornalistas ajudaram a alimentar este monstro source https www facebook com photo fbid 1469887351178906",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2a0a4a289be3"
+      },
+      {
+        "headline": "🌍Outras Redes, Parceiros e Descontos: \n\nUma falha antiga do Excel entrou no catálogo da CISA como vulnerabilidade explorada na prática.…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/NAQ9fDJenwo",
+        "publishedAt": "2026-04-20T11:11:34.000Z",
+        "description": "https youtu be naq9fdjenwo outras redes parceiros e descontos https linktr ee coachdeosasco uma falha antiga do excel entrou no cat logo da cisa como vulnerabilidade explorada na pr tica e a cai a fantasia do zero day m gico atacante de verdade tamb m usa bug velho maduro e esquecido o problema n o s excel antigo empresa hospital governo e sistema legado empurrando atualiza o com a barriga enquanto o povo sonha com hacker de capuz o racuzinho t explorando o b sico abandonado atualiza mitiga ou aceita que o passado vai bater na porta ciberseguran a microsoftexcel vulnerabilidade patchmanagement seguran adainforma o aviso legal importante destacar que qualquer forma de hacking sem permiss o ilegal e anti tica este canal exclusivamente educacional voltado para o aprendizado sobre ciberseguran",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "cibersegurança",
+          "microsoftexcel",
+          "vulnerabilidade",
+          "patchmanagement",
+          "segurançadainformação"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d5cc160b0998"
+      },
+      {
+        "headline": "I’ve got an Angel number today.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/41ee4eba4badebb4faf49f33d7503a4be2ccb215c3d9381265346f62cb51ec9e.jpg",
+        "publishedAt": "2026-04-20T11:26:00.000Z",
+        "description": "i ve got an angel number today my audhd brain reaction was no shit sherlock do you think i don t know that telling my brain that it needs consistency is like telling a fish 1 meters away from water flapping not so happily that she should get out of that warm sand and come back to water it s funny to watch for you it s painful for the fish but to be serious for a moment i am serious about my dreams i want to build business support agency something more than company something less than a cult place where people are reasonably delusional about how business should look like with people and open mindset as a core values where money are resources to be smartly distributed not the end goal itself people are dropping from this rat race and now it s time to build new container for people who see bu",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "business",
+          "movement",
+          "freedom",
+          "cooperation"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "release"
+        ],
+        "id": "6dd5b27c381c"
+      },
+      {
+        "headline": "Nigerian Photographed Killing Cat And Trying To Cook It In Front Of Children’s Playground In Italy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/nigerian-photographed-killing-cat-and-trying-to-cook-it-in-front-of-childrens-playground-in-italy",
+        "publishedAt": "2026-04-20T10:53:25.000Z",
+        "description": "nigerian photographed killing cat and trying to cook it in front of children s playground in italy from infowars a local politician said the act has no place in a civilized society apr 20th 2026 1 15am edt source link https www infowars com posts nigerian photographed killing cat and trying to cook it in front of childrens playground in italy share promote comment with nostr https dissentwatch com boost boost post id 1128146",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "3218fa856e90"
+      },
+      {
+        "headline": "INSIDE JOB| Blueprint for an American Color Revolution PART IV",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://toresays.com/2026/04/20/inside-job-blueprint-for-an-american-color-revolution-part-iv-capitol-hill",
+        "publishedAt": "2026-04-20T11:24:25.000Z",
+        "description": "inside job blueprint for an american color revolution part iv from toresays the post capitol hill appeared first on tore says apr 20th 2026 6 55am edt source link https toresays com 2026 04 20 inside job blueprint for an american color revolution part iv capitol hill internet archive link https web archive org web 20260420112041 https toresays com 2026 04 20 inside job blueprint for an american color revolution part iv capitol hill share promote comment with nostr https dissentwatch com boost boost post id 1128161",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f267c1e767fe"
+      },
+      {
+        "headline": "Gulf nation warns US it could ditch petrodollar for yuan – WSJ",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638757-uae-yuan-oil-trade",
+        "publishedAt": "2026-04-20T11:13:23.000Z",
+        "description": "gulf nation warns us it could ditch petrodollar for yuan wsj from rt the uae has reportedly threatened that it could shift to the chinese currency in oil trade as it presses washington for a financial backstop the united arab emirates has warned the us treasury that it could be forced to use chinese yuan in oil trade the wall street journal reported on sunday uae central bank apr 20th 2026 6 40am edt source link https www rt com news 638757 uae yuan oil trade utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260420104836 https www rt com news 638757 uae yuan oil trade utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1128155",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b879e5c39540"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 148
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 72
+    }
+  ],
+  "failures": []
+}
