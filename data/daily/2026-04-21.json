@@ -1,0 +1,575 @@
+{
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T11:29:52.901Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24719923142",
+    "commitSha": "f69f3d9d398512968e91de851430493dd0017bd4"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 209,
+    "dedupDropped": 27
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "US and Iranian negotiators set to arrive in Pakistan for new talks as ceasefire nears expiry (PHOTOS, VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638802-us-iran-talks-second-round",
+        "publishedAt": "2026-04-21T10:57:22.000Z",
+        "description": "us and iranian negotiators set to arrive in pakistan for new talks as ceasefire nears expiry photos videos from rt donald trump has threatened tehran with overwhelming military force saying lots of bombs will start going off if no deal is reached iranian and us negotiators are set to arrive in pakistan for a second round of talks as a shaky ceasefire is due to expire according to sources cited by both us and iranian apr 21st 2026 6 04am edt source link https www rt com news 638802 us iran talks second round utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260421104431 https www rt com news 638802 us iran talks second round utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post i",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4d4d219448f7"
+      },
+      {
+        "headline": "Meta plans to cut 15,800 jobs to fund AI. Amazon, Block already slashed workforces. The paradox: AI companies are destroying the consumer…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/meta-20-percent-layoffs-ai-cannibalizing-tech",
+        "publishedAt": "2026-04-21T11:07:09.000Z",
+        "description": "meta plans to cut 15 800 jobs to fund ai amazon block already slashed workforces the paradox ai companies are destroying the consumers who buy their products meta s 20 layoffs ai is eating its creators sourced deep dive https theboard world articles meta 20 percent layoffs ai cannibalizing tech https theboard world static og meta 20 percent layoffs ai cannibalizing tech png theboard ai tech",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d3e512a2c76c"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.forbes.com/sites/zakdoffman/2026/04/20/google-starts-scanning-all-your-photos-as-new-update-goes-live",
+        "publishedAt": "2026-04-21T10:29:07.000Z",
+        "description": "https www forbes com sites zakdoffman 2026 04 20 google starts scanning all your photos as new update goes live",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "638e464c0245"
+      },
+      {
+        "headline": "#Nostur TestFlight updates (build 491-493)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostur.com/testflight",
+        "publishedAt": "2026-04-21T11:28:27.000Z",
+        "description": "nostur testflight updates build 491 493 added support for custom emojis added muted words list added private zaps fixed missing lightning strike animation when zapping from profile improve voice message audio format detection fixed animated gif webp playback hangs improved dm relay detection and setup added always black background theme don t show flip camera button on macos optimized relay connectivity optimized dm file handling added relay information sheet on relay feeds fixed backtick code rendering issues added more fiat currencies and setting override fixed relay feeds not loading avoid too many concurrent relay requests improved many levels deep nested quotes rendering https nostur com screenshots c nostur desktop png testflight https nostur com testflight source code https nostur c",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostur",
+          "nostur"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "878046dbca6b"
+      },
+      {
+        "headline": "Russian Forces Liberate Grishino Settlement in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260421/russian-forces-liberate-grishino-settlement-in-donetsk-peoples-republic---mod-1124018316.html",
+        "publishedAt": "2026-04-21T11:05:23.000Z",
+        "description": "russian forces liberate grishino settlement in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of grishino in the donetsk people s republic dpr the russian defense ministry said on tuesday apr 21st 2026 6 15am edt source link https sputnikglobe com 20260421 russian forces liberate grishino settlement in donetsk peoples republic mod 1124018316 html internet archive link https web archive org web 20260421105243 https sputnikglobe com 20260421 russian forces liberate grishino settlement in donetsk peoples republic mod 1124018316 html share promote comment with nostr https dissentwatch com boost boost post id 1128586",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c333ca34ff3b"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "#华尔街日报中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://on.wsj.com/4ez4SJl",
+        "publishedAt": "2026-04-21T10:14:44.000Z",
+        "description": "ceo iphone ai https on wsj com 4ez4sjl https nitter catsarch com chinesewsj status 2046529403576877468",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "华尔街日报中文"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "a9afa85b7cfb"
+      },
+      {
+        "headline": "Good morning nostr, we woke up to the sound of rain pattering on the roof, and that sound always makes me want to stay in bed.  But I'm u…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a.blossom.band/9fc224543c02cdc06d58353a03d47a9861f9c4af0733f13d3217d5d9048c14f4.jpg",
+        "publishedAt": "2026-04-21T11:15:24.000Z",
+        "description": "good morning nostr we woke up to the sound of rain pattering on the roof and that sound always makes me want to stay in bed but i m up and sipping on some hot coffee we have a few errands in town then i ll see what things i can mark off my list i might throw out some more daikon radish seeds just because the rain has made them pop up everywhere from the seeds i threw out a few weeks ago the chickens and rabbits love the greens plus we add some to salads sometimes anyway yall have a great tuesday enjoy your coffee and do your work with a happy heart coffeechain homesteading https npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a blossom band 9fc224543c02cdc06d58353a03d47a9861f9c4af0733f13d3217d5d9048c14f4 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4e70ac55443b"
+      },
+      {
+        "headline": "A biohacker said they sequenced their own genome at home using a $3,200 sequencer, an M3 Ultra Mac Studio, and Claude. Each run reportedl…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/biohacker-claims-to-have-sequenced-their-own-genome-at-the-kitchen-table-with-m3-ultra-mac-studio-claude-and-a-usd3-200-sequencer-diy-project-requires-100gb-of-data-storage-per-run-oodles-of-ram",
+        "publishedAt": "2026-04-21T10:30:20.000Z",
+        "description": "a biohacker said they sequenced their own genome at home using a 3 200 sequencer an m3 ultra mac studio and claude each run reportedly needed about 100gb of storage and large amounts of ram https www tomshardware com tech industry artificial intelligence biohacker claims to have sequenced their own genome at the kitchen table with m3 ultra mac studio claude and a usd3 200 sequencer diy project requires 100gb of data storage per run oodles of ram",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "4e2c9ca20b00"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1128503",
+        "publishedAt": "2026-04-21T10:00:04.000Z",
+        "description": "trending right now tim cook stepping down as apple ceo from rt hardware chief john ternus is set to take over on september 1 tim cook will step down as apple s chief executive on september 1 ending a nearly 15 year run at the helm of the iphone maker and handing over to senior hardware executive john ternus cook took over as ceo in august 2011 after steve join the discussion at https dissentwatch com boost boost post id 1128503 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "cloud",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c9edeb0c8bf6"
+      },
+      {
+        "headline": "📰 Apple TV est désormais disponible sur Amazon Prime Video",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.01net.com/actualites/apple-tv-desormais-accessible-prime-video.html",
+        "publishedAt": "2026-04-21T11:30:00.000Z",
+        "description": "apple tv est d sormais disponible sur amazon prime video https www 01net com actualites apple tv desormais accessible prime video html news 20minutes",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "68a7e25e9deb"
+      },
+      {
+        "headline": "**Scientists Uncover Dangerous Connection Between Serotonin and Heart Valve Disease**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-uncover-dangerous-connection-between-serotonin-and-heart-valve-disease",
+        "publishedAt": "2026-04-21T11:19:43.000Z",
+        "description": "scientists uncover dangerous connection between serotonin and heart valve disease by scitechdaily com published on 21 april 2026 new findings reveal a potential connection between serotonin activity and the progression of a widespread heart valve disorder serotonin is best known for its role in mood but new research suggests it may also influence how certain heart valve diseases progress a large multicenter study has found that this common brain chemical could contribute to read more https scitechdaily com scientists uncover dangerous connection between serotonin and heart valve disease science research cardiology hearthealth serotonin health cardiology columbiauniversityirvingmedicalcenter",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "37b62588132a"
+      },
+      {
+        "headline": "📊 Tagging Progress: 23.9% (1768 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/b629cee7e396f4932eb7bac202dca93f1741ebc27de1d30c77dd4f4175164787.mp4",
+        "publishedAt": "2026-04-21T11:08:36.000Z",
+        "description": "https blossom primal net b629cee7e396f4932eb7bac202dca93f1741ebc27de1d30c77dd4f4175164787 mp4 tagging progress 23 9 1768 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "e5b59b43c75a"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Socks5Systemz is actively targeting networks right now — here's what you need to know bef…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/socks5systemz-sample-detected-file-b2d256a1",
+        "publishedAt": "2026-04-21T11:20:17.000Z",
+        "description": "your security tools might have missed this one socks5systemz is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io socks5systemz sample detected file b2d256a1 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "2b5acf86f5c6"
+      },
+      {
+        "headline": "Danger sur l'App Store : Apple a laissé passer 26 applications iOS malveillantes",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.01net.com/actualites/danger-app-store-apple-laisse-passer-26-applications-ios-malveillantes.html",
+        "publishedAt": "2026-04-21T11:09:20.000Z",
+        "description": "danger sur l app store apple a laiss passer 26 applications ios malveillantes https www 01net com actualites danger app store apple laisse passer 26 applications ios malveillantes html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "14371b4e2bab"
+      },
+      {
+        "headline": "La NSA utilise en secret Mythos Preview, le modèle le plus puissant d'Anthropic, l'entreprise officiellement bannie par le Pentagone qui…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://intelligence-artificielle.developpez.com/actu/382337/La-NSA-utilise-en-secret-Mythos-Preview-le-modele-le-plus-puissant-d-Anthropic-l-entreprise-officiellement-bannie-par-le-Pentagone-qui-est-censee-representer-un-risque-pour-la-securite-nationale",
+        "publishedAt": "2026-04-21T11:08:30.000Z",
+        "description": "la nsa utilise en secret mythos preview le mod le le plus puissant d anthropic l entreprise officiellement bannie par le pentagone qui est cens e repr senter un risque pour la s curit nationale https intelligence artificielle developpez com actu 382337 la nsa utilise en secret mythos preview le modele le plus puissant d anthropic l entreprise officiellement bannie par le pentagone qui est censee representer un risque pour la securite nationale",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a4a29aa7698f"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "US and Iranian negotiators set to arrive in Pakistan for new talks as ceasefire nears expiry (PHOTOS, VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638802-us-iran-talks-second-round",
+        "publishedAt": "2026-04-21T10:57:22.000Z",
+        "description": "us and iranian negotiators set to arrive in pakistan for new talks as ceasefire nears expiry photos videos from rt donald trump has threatened tehran with overwhelming military force saying lots of bombs will start going off if no deal is reached iranian and us negotiators are set to arrive in pakistan for a second round of talks as a shaky ceasefire is due to expire according to sources cited by both us and iranian apr 21st 2026 6 04am edt source link https www rt com news 638802 us iran talks second round utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260421104431 https www rt com news 638802 us iran talks second round utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post i",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 72,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4d4d219448f7"
+      },
+      {
+        "headline": "Meta plans to cut 15,800 jobs to fund AI. Amazon, Block already slashed workforces. The paradox: AI companies are destroying the consumer…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/meta-20-percent-layoffs-ai-cannibalizing-tech",
+        "publishedAt": "2026-04-21T11:07:09.000Z",
+        "description": "meta plans to cut 15 800 jobs to fund ai amazon block already slashed workforces the paradox ai companies are destroying the consumers who buy their products meta s 20 layoffs ai is eating its creators sourced deep dive https theboard world articles meta 20 percent layoffs ai cannibalizing tech https theboard world static og meta 20 percent layoffs ai cannibalizing tech png theboard ai tech",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "d3e512a2c76c"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.forbes.com/sites/zakdoffman/2026/04/20/google-starts-scanning-all-your-photos-as-new-update-goes-live",
+        "publishedAt": "2026-04-21T10:29:07.000Z",
+        "description": "https www forbes com sites zakdoffman 2026 04 20 google starts scanning all your photos as new update goes live",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "638e464c0245"
+      },
+      {
+        "headline": "#Nostur TestFlight updates (build 491-493)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostur.com/testflight",
+        "publishedAt": "2026-04-21T11:28:27.000Z",
+        "description": "nostur testflight updates build 491 493 added support for custom emojis added muted words list added private zaps fixed missing lightning strike animation when zapping from profile improve voice message audio format detection fixed animated gif webp playback hangs improved dm relay detection and setup added always black background theme don t show flip camera button on macos optimized relay connectivity optimized dm file handling added relay information sheet on relay feeds fixed backtick code rendering issues added more fiat currencies and setting override fixed relay feeds not loading avoid too many concurrent relay requests improved many levels deep nested quotes rendering https nostur com screenshots c nostur desktop png testflight https nostur com testflight source code https nostur c",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostur",
+          "nostur"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "878046dbca6b"
+      },
+      {
+        "headline": "Russian Forces Liberate Grishino Settlement in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260421/russian-forces-liberate-grishino-settlement-in-donetsk-peoples-republic---mod-1124018316.html",
+        "publishedAt": "2026-04-21T11:05:23.000Z",
+        "description": "russian forces liberate grishino settlement in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of grishino in the donetsk people s republic dpr the russian defense ministry said on tuesday apr 21st 2026 6 15am edt source link https sputnikglobe com 20260421 russian forces liberate grishino settlement in donetsk peoples republic mod 1124018316 html internet archive link https web archive org web 20260421105243 https sputnikglobe com 20260421 russian forces liberate grishino settlement in donetsk peoples republic mod 1124018316 html share promote comment with nostr https dissentwatch com boost boost post id 1128586",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c333ca34ff3b"
+      },
+      {
+        "headline": "#纽约时报中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cn.nytimes.com/world/20260421/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks?utm%5C_source=tw-nytimeschinese&utm%5C_medium=social&utm%5C_campaign=cur",
+        "publishedAt": "2026-04-21T10:14:58.000Z",
+        "description": "https cn nytimes com world 20260421 facing hard liners at home and bluster from trump iran sends mixed signals on peace talks utm source tw nytimeschinese utm medium social utm campaign cur https nitter catsarch com nytchinese status 2046528619539746915",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "纽约时报中文"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3fd4902cd23a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 124
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 58
+    }
+  ],
+  "failures": []
+}
