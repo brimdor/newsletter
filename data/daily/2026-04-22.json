@@ -1,0 +1,576 @@
+{
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T11:29:03.632Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24775801813",
+    "commitSha": "c537ec54c0fb60bb5634b8a4b122475aa69920c8"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 217,
+    "dedupDropped": 29
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "‍MacSync Stealer Targets macOS Users for Crypto Wallet Access",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/macsync-stealer-malware-targets-macos-users-to-drain-crypto-wallets",
+        "publishedAt": "2026-04-22T10:48:19.000Z",
+        "description": "macsync stealer targets macos users for crypto wallet access security researchers have identified macsync stealer v1 1 2 a high risk trojan targeting macos users the malware uses social engineering masquerading as applescript pop ups to trick users into providing administrative passwords the stolen data includes cryptocurrency wallet seed phrases and private keys browser credentials keychain entries and critical infrastructure keys ssh aws k8s this sophisticated attack poses a significant threat to individuals and developers in the blockchain and cloud sectors users are advised to avoid unverified scripts rotate credentials revoke keychain items and transfer assets to hardware wallets or new addresses if a compromise is suspected https cryptovka com news macsync stealer malware targets mac",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 82,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "92134e988337"
+      },
+      {
+        "headline": "Trump’s war on Iran a strategic ‘disaster’ – expert (VIDEO)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638903-us-iran-war-disaster-parsi",
+        "publishedAt": "2026-04-22T10:54:27.000Z",
+        "description": "trump s war on iran a strategic disaster expert video from rt the conflict has left us credibility damaged and its president weaker at home the quincy institute s trita parsi has told rt the war with iran has been a strategic disaster for the us leaving president donald trump in a weaker position at home and damaging american credibility quincy institute co founder trita parsi has told apr 22nd 2026 6 35am edt source link https www rt com news 638903 us iran war disaster parsi utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260422104921 https www rt com news 638903 us iran war disaster parsi utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1129009",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3087e4823855"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1128579",
+        "publishedAt": "2026-04-22T10:00:03.000Z",
+        "description": "trending right now us and iranian negotiators set to arrive in pakistan for new talks as ceasefire nears expiry photos videos from rt donald trump has threatened tehran with overwhelming military force saying lots of bombs will start going off if no deal is reached iranian and us negotiators are set to arrive in pakistan for a second round of talks as a shaky ceasefire is due to expire according to sources cited by both us and iranian join the discussion at https dissentwatch com boost boost post id 1128579 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1d2acd34a26d"
+      },
+      {
+        "headline": "Database and analytics vendors are again building natural-language query tools, now with LLMs. AWS and Snowflake are among the companies…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/llms_natural_langauge_systems_new",
+        "publishedAt": "2026-04-22T10:30:22.000Z",
+        "description": "database and analytics vendors are again building natural language query tools now with llms aws and snowflake are among the companies pushing text to sql systems while researchers warn business users can get wrong results https go theregister com feed www theregister com 2026 04 22 llms natural langauge systems new",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d6d146a7d760"
+      },
+      {
+        "headline": "Our report is ready. This is a previous report from the 3 meetups we realized and in Saturday, April 25 we are going to the BCH meetup nu…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://open.substack.com/pub/alberdioni8406/p/maputo-bch-adoption-report-3-meetups?r=7o3a4",
+        "publishedAt": "2026-04-22T11:03:34.000Z",
+        "description": "our report is ready this is a previous report from the 3 meetups we realized and in saturday april 25 we are going to the bch meetup number 4 read here https open substack com pub alberdioni8406 p maputo bch adoption report 3 meetups utm source share utm medium android r 7o3a4 enjoy https blossom primal net ca095694c342e2003cf641be0a8f5ec31acdb1fdb556910bab0642683810e0ce jpg https blossom primal net 20476940a7e93a98250eeb40bf28c345aecc5c05fb6cbb7d26e3555f01a89144 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoincash",
+          "bch"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c8e34fea30b2"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Google just fixed one of the biggest Gemini for Home problems, bringing back a feature users say they 'really missed'",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/home/smart-home/google-just-fixed-one-of-the-biggest-gemini-for-home-problems-bringing-back-a-feature-users-say-they-really-missed",
+        "publishedAt": "2026-04-22T11:21:06.000Z",
+        "description": "google just fixed one of the biggest gemini for home problems bringing back a feature users say they really missed https www techradar com home smart home google just fixed one of the biggest gemini for home problems bringing back a feature users say they really missed",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "64161b4a91b6"
+      },
+      {
+        "headline": "Heiman Smart Photoelectric Fire Alarm is 9% OFF.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://smarthomecompared.com/smoke-alarms",
+        "publishedAt": "2026-04-22T11:01:15.000Z",
+        "description": "heiman smart photoelectric fire alarm is 9 off now 39 98 reg 43 98 more smoke co detectors deals at https smarthomecompared com smoke alarms smarthome",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "8fd540db0e1e"
+      },
+      {
+        "headline": "**Scientists Say This Fungus Could Survive the Trip to Mars**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-say-this-fungus-could-survive-the-trip-to-mars",
+        "publishedAt": "2026-04-22T11:28:58.000Z",
+        "description": "scientists say this fungus could survive the trip to mars by american society for microbiology published on 22 april 2026 some earth based microbes may be tougher than expected raising new questions about survival beyond our planet scientists have long viewed fungi as tough survivors but new research suggests some may be capable of enduring an even more extreme test the journey from earth to mars in a study published in applied and environmental microbiology researchers read more https scitechdaily com scientists say this fungus could survive the trip to mars fungi extremophiles astrobiology microbiology marsmission space americansocietyformicrobiology astrobiology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "b27adcb1e803"
+      },
+      {
+        "headline": "Mythos accessed by unauthorized users as Anthropic says 'We’re investigating' — Cracks may be showing in Project Glasswing as unknown use…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/security/mythos-accessed-by-unauthorized-users-as-anthropic-says-were-investigating-cracks-may-be-showing-in-project-glasswing-as-unknown-users-access-model-via-third-parties",
+        "publishedAt": "2026-04-22T11:10:25.000Z",
+        "description": "mythos accessed by unauthorized users as anthropic says we re investigating cracks may be showing in project glasswing as unknown users access model via third parties https www techradar com pro security mythos accessed by unauthorized users as anthropic says were investigating cracks may be showing in project glasswing as unknown users access model via third parties",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "0e3ee6f9d0a2"
+      },
+      {
+        "headline": "**The Universe Is Expanding Too Fast and Scientists Can’t Explain Why**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/the-universe-is-expanding-too-fast-and-scientists-cant-explain-why",
+        "publishedAt": "2026-04-22T10:48:12.000Z",
+        "description": "the universe is expanding too fast and scientists can t explain why by association of universities for research in astronomy aura published on 22 april 2026 the most precise measurement yet shows the universe is expanding faster than expected deepening the hubble tension the result hints that something may be missing from our current understanding of the cosmos an international team of astronomers has produced one of the most accurate measurements so far of how quickly the nearby universe is expanding read more https scitechdaily com the universe is expanding too fast and scientists cant explain why cosmology astrophysics hubbleconstant darkenergy bigbang space astronomy astrophysics",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8dfff7d06bd0"
+      },
+      {
+        "headline": "📊 Tagging Progress: 23.9% (1769 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/a7d03e7b68d6bfb93cbbe8bcc7ee2711c8a57eb928be7369a4753e91c31cbe21.mp4",
+        "publishedAt": "2026-04-22T11:12:29.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band a7d03e7b68d6bfb93cbbe8bcc7ee2711c8a57eb928be7369a4753e91c31cbe21 mp4 tagging progress 23 9 1769 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "67724dbbf4dd"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
+        "publishedAt": "2026-04-22T11:29:08.000Z",
+        "description": "actu tech the hacker news le malware lotus wiper cible les syst mes nerg tiques v n zu liens dans une attaque destructrice des chercheurs en cybers curit ont d couvert un effaceur de donn es in dit utilis dans des attaques visant le venezuela fin 2025 et d but 2026 surnomm lotus wiper ce nouveau malware a t employ dans une campagne destructrice ciblant le secteur de l nergie et des services publics au venezuela selon les analyses de kaspersky publi le 22 avril 2026 12 55 nostfr https blogger googleusercontent com img b r29vz2xl avvxsehanfdcr 4asg41zj98h tyryig7xzgwhycgpxhcvuvax 31cdunrmrup9rbfzk0u0ai97i5pulapu4eprobqazvxt kx3u80dtojzyppoogzucumbzgaczzhisujoexmfo08htxqtbkaybri7jdbkffmatjhhm4ude2rdspyc11ckgenulbnq7zhyh8m t s1600 wiper malware jpg https thehackernews com 2026 04 lotus wiper m",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3dde21942fa6"
+      },
+      {
+        "headline": "Pay attention to this.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/middle-east-ai-arms-race-risks",
+        "publishedAt": "2026-04-22T11:24:01.000Z",
+        "description": "pay attention to this middle east ai arms race key players risks explore the middle east ai arms race key players rapid militarization and potential risks of ai powered defense systems learn about escalation https theboard world articles middle east ai arms race risks https theboard world static og middle east ai arms race risks png theboard military defense ai tech",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense",
+          "ai",
+          "tech"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8f7c26bf8f22"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Gafgyt is actively targeting networks right now — here's what you need to know before it…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/gafgyt-sample-detected-sh4-df0f35be",
+        "publishedAt": "2026-04-22T11:22:17.000Z",
+        "description": "your security tools might have missed this one gafgyt is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io gafgyt sample detected sh4 df0f35be cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "06b786e1c2dc"
+      },
+      {
+        "headline": "Remix7531 and Luis Schwab joined Optech to discuss Newsletter #401:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://bitcoinops.org/en/podcast/2026/04/21",
+        "publishedAt": "2026-04-22T11:06:35.000Z",
+        "description": "remix7531 and luis schwab joined optech to discuss newsletter 401 nested musig2 for k of n multisignature lightning nodes formal verification of secp256k1 modular scalar multiplication changes to services and client software including utreexo software and others and more you can listen on our website https bitcoinops org en podcast 2026 04 21 spotify https open spotify com episode 4a7d3nr1mdvgi1zpa6pzzc apple podcasts https podcasts apple com us podcast bitcoin optech newsletter 401 recap id1674626983 i 1000763037535",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "401"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "20bf6c21c4f9"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "‍MacSync Stealer Targets macOS Users for Crypto Wallet Access",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/macsync-stealer-malware-targets-macos-users-to-drain-crypto-wallets",
+        "publishedAt": "2026-04-22T10:48:19.000Z",
+        "description": "macsync stealer targets macos users for crypto wallet access security researchers have identified macsync stealer v1 1 2 a high risk trojan targeting macos users the malware uses social engineering masquerading as applescript pop ups to trick users into providing administrative passwords the stolen data includes cryptocurrency wallet seed phrases and private keys browser credentials keychain entries and critical infrastructure keys ssh aws k8s this sophisticated attack poses a significant threat to individuals and developers in the blockchain and cloud sectors users are advised to avoid unverified scripts rotate credentials revoke keychain items and transfer assets to hardware wallets or new addresses if a compromise is suspected https cryptovka com news macsync stealer malware targets mac",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 82,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "cloud",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "92134e988337"
+      },
+      {
+        "headline": "Trump’s war on Iran a strategic ‘disaster’ – expert (VIDEO)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/638903-us-iran-war-disaster-parsi",
+        "publishedAt": "2026-04-22T10:54:27.000Z",
+        "description": "trump s war on iran a strategic disaster expert video from rt the conflict has left us credibility damaged and its president weaker at home the quincy institute s trita parsi has told rt the war with iran has been a strategic disaster for the us leaving president donald trump in a weaker position at home and damaging american credibility quincy institute co founder trita parsi has told apr 22nd 2026 6 35am edt source link https www rt com news 638903 us iran war disaster parsi utm source rss utm medium rss utm campaign rss internet archive link https web archive org web 20260422104921 https www rt com news 638903 us iran war disaster parsi utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1129009",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3087e4823855"
+      },
+      {
+        "headline": "**TRENDING RIGHT NOW**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://dissentwatch.com/boost?boost_post_id=1128579",
+        "publishedAt": "2026-04-22T10:00:03.000Z",
+        "description": "trending right now us and iranian negotiators set to arrive in pakistan for new talks as ceasefire nears expiry photos videos from rt donald trump has threatened tehran with overwhelming military force saying lots of bombs will start going off if no deal is reached iranian and us negotiators are set to arrive in pakistan for a second round of talks as a shaky ceasefire is due to expire according to sources cited by both us and iranian join the discussion at https dissentwatch com boost boost post id 1128579 boost nostr headline more trending content most reactions https tinyurl com dw react most popular https tinyurl com dw like most discussed https tinyurl com dw comment most shared https tinyurl com dw repost most zapped https tinyurl com dw zapped",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1d2acd34a26d"
+      },
+      {
+        "headline": "Our report is ready. This is a previous report from the 3 meetups we realized and in Saturday, April 25 we are going to the BCH meetup nu…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://open.substack.com/pub/alberdioni8406/p/maputo-bch-adoption-report-3-meetups?r=7o3a4",
+        "publishedAt": "2026-04-22T11:03:34.000Z",
+        "description": "our report is ready this is a previous report from the 3 meetups we realized and in saturday april 25 we are going to the bch meetup number 4 read here https open substack com pub alberdioni8406 p maputo bch adoption report 3 meetups utm source share utm medium android r 7o3a4 enjoy https blossom primal net ca095694c342e2003cf641be0a8f5ec31acdb1fdb556910bab0642683810e0ce jpg https blossom primal net 20476940a7e93a98250eeb40bf28c345aecc5c05fb6cbb7d26e3555f01a89144 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoincash",
+          "bch"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c8e34fea30b2"
+      },
+      {
+        "headline": "“The identified Iliad text in the recent dig belongs to the catalogue of ships in Book II of the epic poem (…). It contains a famous pass…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.independent.co.uk/news/science/archaeology/egypt-mummy-homer-iliad-gut-b2961509.html",
+        "publishedAt": "2026-04-22T10:40:39.000Z",
+        "description": "the identified iliad text in the recent dig belongs to the catalogue of ships in book ii of the epic poem it contains a famous passage listing the greek forces massing before troy https www independent co uk news science archaeology egypt mummy homer iliad gut b2961509 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "b8734765f388"
+      },
+      {
+        "headline": "Alternative européenne à Microsoft Office : Euro-Office, réponse crédible ou énième projet sans avenir ? #ue #opensource #onlyoffice vs #…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.usine-digitale.fr/souverainete/alternative-europeenne-a-microsoft-office-euro-office-reponse-credible-ou-enieme-projet-sans-avenir.SSHRYQJR2RGTHPUQCQNSRHXVW4.html",
+        "publishedAt": "2026-04-22T11:19:16.000Z",
+        "description": "alternative europ enne microsoft office euro office r ponse cr dible ou ni me projet sans avenir ue opensource onlyoffice vs eurooffice https www usine digitale fr souverainete alternative europeenne a microsoft office euro office reponse credible ou enieme projet sans avenir sshryqjr2rgthpuqcqnsrhxvw4 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ue",
+          "opensource",
+          "onlyoffice",
+          "eurooffice"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "aa0bba04d246"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 77
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 110
+    }
+  ],
+  "failures": []
+}
