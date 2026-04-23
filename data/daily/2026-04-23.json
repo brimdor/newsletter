@@ -1,0 +1,563 @@
+{
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T11:29:41.749Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24832716068",
+    "commitSha": "c88d50cb5388355ff68bf8bd398fb7370583f257"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 229,
+    "dedupDropped": 23
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Researchers said Palo Alto Networks built Zealot, a multi-agent AI proof of concept that can scan cloud systems, exploit weaknesses, and…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers",
+        "publishedAt": "2026-04-23T10:30:16.000Z",
+        "description": "researchers said palo alto networks built zealot a multi agent ai proof of concept that can scan cloud systems exploit weaknesses and remove data with little human oversight https www securityweek com ai can autonomously hack cloud systems with minimal oversight researchers",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "169c75bacb90"
+      },
+      {
+        "headline": "‍Chinese Student Trafficked for 30,000 USDT Amidst Southeast Asian Scam Hub Crisis",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/chinese-student-trafficked-to-myanmar-scam-hub-for-30-000-usdt",
+        "publishedAt": "2026-04-23T11:09:40.000Z",
+        "description": "chinese student trafficked for 30 000 usdt amidst southeast asian scam hub crisis a 19 year old chinese university student was reportedly trafficked to a fraudulent compound on the myanmar china border after attending thailand s songkran festival her family received a ransom demand of 30 000 usdt approximately 27 500 usd for her release despite the ransom payment the student remains in detention due to strict compound policies and internal organizational delays chinese police have launched an investigation this case highlights the risks of telecommunications fraud hubs in the golden triangle which exploit blockchain technology and stablecoins for illicit transactions https cryptovka com news chinese student trafficked to myanmar scam hub for 30 000 usdt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3c3a618a329a"
+      },
+      {
+        "headline": "📰 Bitcoin : Le gouvernement américain exploite un nœud BTC pour tester la sécurité du réseau",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://journalducoin.com/bitcoin/armee-americaine-teste-bitcoin",
+        "publishedAt": "2026-04-23T11:06:43.000Z",
+        "description": "bitcoin le gouvernement am ricain exploite un n ud btc pour tester la s curit du r seau https journalducoin com bitcoin armee americaine teste bitcoin cryptomonnaie bitcoin rwa defi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ec3eea8d7c14"
+      },
+      {
+        "headline": "Russian Troops Hit Ukrainian Military Energy and Transport Infrastructure Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260423/russian-troops-hit-ukrainian-military-energy-and-transport-infrastructure-facilities-1124028550.html",
+        "publishedAt": "2026-04-23T10:05:23.000Z",
+        "description": "russian troops hit ukrainian military energy and transport infrastructure facilities from sputnik moscow sputnik russian air defense systems have downed 10 guided aerial bombs and 418 uavs of the ukrainian armed forces russian troops attacked ukrainian energy and transport infrastructure facilities the russian defense ministry said on thursday apr 23rd 2026 5 24am edt source link https sputnikglobe com 20260423 russian troops hit ukrainian military energy and transport infrastructure facilities 1124028550 html internet archive link https web archive org web 20260423094934 https sputnikglobe com 20260423 russian troops hit ukrainian military energy and transport infrastructure facilities 1124028550 html share promote comment with nostr https dissentwatch com boost boost post id 1129469",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3acee11b05a8"
+      },
+      {
+        "headline": "[ PrimalHQ/primal-android-app ] Cache popular users, follow packs and feeds for Explore Home (#1028)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/PrimalHQ/primal-android-app/commit/7d1e129a14d6dcb594e032e527b3d518e15bea87",
+        "publishedAt": "2026-04-23T11:03:10.000Z",
+        "description": "primalhq primal android app cache popular users follow packs and feeds for explore home 1028 https github com primalhq primal android app commit 7d1e129a14d6dcb594e032e527b3d518e15bea87",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "ffb091341325"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Wero tourne sur des serveurs Amazon : la souveraineté a un problème",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.frandroid.com/services/banque-en-ligne/3075049_wero-tourne-sur-des-serveurs-amazon-la-souverainete-a-un-probleme",
+        "publishedAt": "2026-04-23T10:59:07.000Z",
+        "description": "wero tourne sur des serveurs amazon la souverainet a un probl me https www frandroid com services banque en ligne 3075049 wero tourne sur des serveurs amazon la souverainete a un probleme nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "368ca52073a4"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/wh131462/video-companion-extension",
+        "publishedAt": "2026-04-23T10:18:09.000Z",
+        "description": "v2ex video companion chrome bug star issue github https github com wh131462 video companion extension chrome video companion https chromewebstore google com detail video companion nmkklhdipnadeimbnimllidjgccbifhm 1 b 2 0 5x 16x pip web fullscreen fullscreen m3u8 i18n pr https raw githubusercontent com wh131462 video companion extension master docs snapshots contextmenu png https www v2ex com t 1208079 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "d00df790b175"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.nicovideo.jp/watch/sm201996",
+        "publishedAt": "2026-04-23T11:24:38.000Z",
+        "description": "https www nicovideo jp watch sm201996 ref nicoiphone other",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "cc47e7d3fc38"
+      },
+      {
+        "headline": "Actu Tech | Numerama",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.numerama.com/tech/2238981-google-devoile-les-tpu-8t-et-tpu-8i-les-puces-qui-lui-donnent-un-gros-avantage-en-ia.html",
+        "publishedAt": "2026-04-23T11:03:52.000Z",
+        "description": "actu tech numerama google d voile les tpu 8t et tpu 8i les puces qui lui donnent un gros avantage en ia google vient de pr senter la 8 g n ration de ses puces maison d di es l intelligence artificielle les tpu 8t et tpu 8i le g ant du web mise sur deux puces et s pare la phase d apprentissage et la phase d ex cution pour la premi re fois afin d optimiser les co ts et d augmenter sa capacit tre ind pendant du reste de l industrie nvidia compris publi le 23 avril 2026 12 58 nostfr https www numerama com tech 2238981 google devoile les tpu 8t et tpu 8i les puces qui lui donnent un gros avantage en ia html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b2d78392e8ab"
+      },
+      {
+        "headline": "🚨👤 JINKUSU REND LE KYC BIOMÉTRIQUE INUTILE !",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1m96vd4uma3jy5jrtueuajsggyjf3mpwjlz4rc8z8v53vkkx63x7samnfcg.blossom.band/7cc1237070a15d5d5f03e54fe4e14bf499270eb7da3db07bac517c4327456d0a.jpg",
+        "publishedAt": "2026-04-23T11:06:29.000Z",
+        "description": "jinkusu rend le kyc biom trique inutile https npub1m96vd4uma3jy5jrtueuajsggyjf3mpwjlz4rc8z8v53vkkx63x7samnfcg blossom band 7cc1237070a15d5d5f03e54fe4e14bf499270eb7da3db07bac517c4327456d0a jpg un outil appel jinkusu cam permet maintenant aux pirates de faire une chose tr s simple et tr s dangereuse avec juste une photo de vous vol e dans une fuite de donn es ils cr ent une fausse vid o en direct ultra r aliste o ils mettent leur visage la place du v tre tout a l air vrai les mouvements les yeux qui clignent la voix ils peuvent l utiliser quand une banque ou un exchange vous demande de vous filmer pour v rifier votre identit binance coinbase kraken okx et les applications bancaires mobiles sont vis es directement votre identit peut tre vol e pour des arnaques ou des pr ts frauduleux ce qui t",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kyc",
+          "kyc"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "2529470069c9"
+      },
+      {
+        "headline": "Are you a technical photographer or an artist?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alejandromaestre.com/en/diario/are-you-a-technical-photographer-or-an-artist",
+        "publishedAt": "2026-04-23T11:24:39.000Z",
+        "description": "are you a technical photographer or an artist opinion https alejandromaestre com en diario are you a technical photographer or an artist https alejandromaestre com media blog video cover 108 84 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "opinion"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "3cdb71e9753e"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.0% (1774 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/b93e35c6b122026535d62e7a1ba431dec10000536df9e906edaa9b61f9967b11.mp4",
+        "publishedAt": "2026-04-23T11:14:50.000Z",
+        "description": "https blossom primal net b93e35c6b122026535d62e7a1ba431dec10000536df9e906edaa9b61f9967b11 mp4 tagging progress 24 0 1774 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "46e12c0a351e"
+      },
+      {
+        "headline": "The U.S. military is testing a Bitcoin node as part of a cybersecurity effort, Admiral Paparo said. The current work does not include Bit…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://crypto.news/why-the-u-s-military-is-testing-a-bitcoin-node-now",
+        "publishedAt": "2026-04-23T11:15:07.000Z",
+        "description": "the u s military is testing a bitcoin node as part of a cybersecurity effort admiral paparo said the current work does not include bitcoin mining https crypto news why the u s military is testing a bitcoin node now",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ac67c23e85bf"
+      },
+      {
+        "headline": "Steel stories and heavy metal masterpieces. 🎨🚂 Taking a deep dive into the archives of @artcrimes_official (graffiti.org) to celebrate…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.graffiti.org/trains/trains_393",
+        "publishedAt": "2026-04-23T11:28:13.000Z",
+        "description": "steel stories and heavy metal masterpieces taking a deep dive into the archives of artcrimes official graffiti org to celebrate the legends featured in train gallery 393 from clean lines to complex burns these artists have turned the transit system into a rolling gallery of style huge respect to the writers pushing the culture forward featured artists smilie smilie shish shish bg183 bg183tatscru epic ibm zear zear one mbt sak1 mbteam sakmbt risk sern fc slin2 slin2fc whether it s a whole car or a quick panel the dedication to the craft is undeniable leave comments if any errors email your graffiti to yo graffiti org https www graffiti org trains trains 393 https blossom primal net f431c172dd61fceef0e5f3cfba055242d634d80329b90b908c7108dac9cb04e9 png https blossom primal net 0f6c57f4a79a2aac",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "graffiti",
+          "artcrimes",
+          "traingraffiti",
+          "artstr"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "373d2ffa25a4"
+      },
+      {
+        "headline": "Données de santé des Français : adieu Microsoft, bonjour Scaleway",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.01net.com/actualites/donnees-de-sante-des-francais-adieu-microsoft-bonjour-scaleway.html",
+        "publishedAt": "2026-04-23T11:22:06.000Z",
+        "description": "donn es de sant des fran ais adieu microsoft bonjour scaleway https www 01net com actualites donnees de sante des francais adieu microsoft bonjour scaleway html nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "596b582f21b8"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Researchers said Palo Alto Networks built Zealot, a multi-agent AI proof of concept that can scan cloud systems, exploit weaknesses, and…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers",
+        "publishedAt": "2026-04-23T10:30:16.000Z",
+        "description": "researchers said palo alto networks built zealot a multi agent ai proof of concept that can scan cloud systems exploit weaknesses and remove data with little human oversight https www securityweek com ai can autonomously hack cloud systems with minimal oversight researchers",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "169c75bacb90"
+      },
+      {
+        "headline": "‍Chinese Student Trafficked for 30,000 USDT Amidst Southeast Asian Scam Hub Crisis",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/chinese-student-trafficked-to-myanmar-scam-hub-for-30-000-usdt",
+        "publishedAt": "2026-04-23T11:09:40.000Z",
+        "description": "chinese student trafficked for 30 000 usdt amidst southeast asian scam hub crisis a 19 year old chinese university student was reportedly trafficked to a fraudulent compound on the myanmar china border after attending thailand s songkran festival her family received a ransom demand of 30 000 usdt approximately 27 500 usd for her release despite the ransom payment the student remains in detention due to strict compound policies and internal organizational delays chinese police have launched an investigation this case highlights the risks of telecommunications fraud hubs in the golden triangle which exploit blockchain technology and stablecoins for illicit transactions https cryptovka com news chinese student trafficked to myanmar scam hub for 30 000 usdt",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3c3a618a329a"
+      },
+      {
+        "headline": "📰 Bitcoin : Le gouvernement américain exploite un nœud BTC pour tester la sécurité du réseau",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://journalducoin.com/bitcoin/armee-americaine-teste-bitcoin",
+        "publishedAt": "2026-04-23T11:06:43.000Z",
+        "description": "bitcoin le gouvernement am ricain exploite un n ud btc pour tester la s curit du r seau https journalducoin com bitcoin armee americaine teste bitcoin cryptomonnaie bitcoin rwa defi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ec3eea8d7c14"
+      },
+      {
+        "headline": "Russian Troops Hit Ukrainian Military Energy and Transport Infrastructure Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260423/russian-troops-hit-ukrainian-military-energy-and-transport-infrastructure-facilities-1124028550.html",
+        "publishedAt": "2026-04-23T10:05:23.000Z",
+        "description": "russian troops hit ukrainian military energy and transport infrastructure facilities from sputnik moscow sputnik russian air defense systems have downed 10 guided aerial bombs and 418 uavs of the ukrainian armed forces russian troops attacked ukrainian energy and transport infrastructure facilities the russian defense ministry said on thursday apr 23rd 2026 5 24am edt source link https sputnikglobe com 20260423 russian troops hit ukrainian military energy and transport infrastructure facilities 1124028550 html internet archive link https web archive org web 20260423094934 https sputnikglobe com 20260423 russian troops hit ukrainian military energy and transport infrastructure facilities 1124028550 html share promote comment with nostr https dissentwatch com boost boost post id 1129469",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3acee11b05a8"
+      },
+      {
+        "headline": "#纽约时报中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cn.nytimes.com/world/20260423/anti-trumpism-europe-spain-italy-ukraine?utm%5C_source=tw-nytimeschinese&utm%5C_medium=social&utm%5C_campaign=cur",
+        "publishedAt": "2026-04-23T11:15:33.000Z",
+        "description": "https cn nytimes com world 20260423 anti trumpism europe spain italy ukraine utm source tw nytimeschinese utm medium social utm campaign cur https nitter catsarch com nytchinese status 2047261951907258435",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "纽约时报中文"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e6117f67fcf8"
+      },
+      {
+        "headline": "Dang, almost passable for good UI. Like one or 2 updates away from high fidelity app",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac.blossom.band/ffa7168b248c5f33d31fa18a048a3dcd2912005e2f1d2d0b35551fcd2bc851d6.png",
+        "publishedAt": "2026-04-23T10:30:25.000Z",
+        "description": "dang almost passable for good ui like one or 2 updates away from high fidelity app https npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac blossom band ffa7168b248c5f33d31fa18a048a3dcd2912005e2f1d2d0b35551fcd2bc851d6 png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "09242e68e729"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 110
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 96
+    }
+  ],
+  "failures": []
+}
