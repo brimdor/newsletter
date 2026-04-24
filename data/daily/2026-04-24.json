@@ -1,0 +1,575 @@
+{
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T11:29:53.515Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24887200367",
+    "commitSha": "ecf0fcd583a72663b25b2f3fcaa91eac38130b70"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 226,
+    "dedupDropped": 28
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Nostr powers Routstr to make it the killer ecosystem built on social rails",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://njump.me/naddr1qvzqqqykzupzqjkklgk3dc4fk4mvsca5ea6qffcdfhpjpsxyglgs44hltzvnatxgqy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqz9ex7at5wd68ytfjxykk6mmyv4k8xpveghf",
+        "publishedAt": "2026-04-24T11:17:06.000Z",
+        "description": "nostr powers routstr to make it the killer ecosystem built on social rails it is hard to keep up with all the new models released by ai labs while also being productive with your work in the last 48 hours we ve had 3 sota models released by moonshotai kimi 2 6 openai gpt 5 5 and deepseek v4 pro 2 3 already available on routstr gpt 5 5 soon with nostr and routstrd you don t have to your routstrd daemon automatically fetches kind 38423 events published by users only me for now recommending must try models these models show up on your opencode claude code pi agent harnesses automatically as your routstrd daemon updates them every now and then here s the event i posted 10 mins ago https njump me naddr1qvzqqqykzupzqjkklgk3dc4fk4mvsca5ea6qffcdfhpjpsxyglgs44hltzvnatxgqy88wumn8ghj7mn0wvhxcmmv9uq32",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ab18d7c9624a"
+      },
+      {
+        "headline": "Russian High-Precision Weapons Score Direct Hits on Ukraine’s Hardware and Key Defense Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260424/russian-high-precision-weapons-score-direct-hits-on-ukraines-hardware-and-key-defense-facilities-1124033661.html",
+        "publishedAt": "2026-04-24T10:48:24.000Z",
+        "description": "russian high precision weapons score direct hits on ukraine s hardware and key defense facilities from sputnik moscow sputnik russian forces destroyed two himars launchers of the ukrainian armed forces and carried out six group strikes with high precision long range weapons and drone strikes on the military infrastructure of ukraine the russian defense ministry said on friday apr 24th 2026 6 07am edt source link https sputnikglobe com 20260424 russian high precision weapons score direct hits on ukraines hardware and key defense facilities 1124033661 html internet archive link https web archive org web 20260424104432 https sputnikglobe com 20260424 russian high precision weapons score direct hits on ukraines hardware and key defense facilities 1124033661 html share promote comment with nost",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3a2985eb3e36"
+      },
+      {
+        "headline": "4 In 10 American Teens Are Almost Constantly Online",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/technology/4-10-american-teens-are-almost-constantly-online",
+        "publishedAt": "2026-04-24T10:42:23.000Z",
+        "description": "4 in 10 american teens are almost constantly online from zerohedge a u s jury recently found meta and youtube liable in a landmark social media addiction trial marking a major legal setback for the tech giants according to the bbc jurors concluded that the platforms were deliberately designed to be addictive and contributed to harm experienced by a young user apr 24th 2026 5 45am edt source link https www zerohedge com technology 4 10 american teens are almost constantly online internet archive link https web archive org web 20260424102153 https www zerohedge com technology 4 10 american teens are almost constantly online share promote comment with nostr https dissentwatch com boost boost post id 1129927",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "dad21610e257"
+      },
+      {
+        "headline": "weJustDidAnAILayoff\n#Programming #humor #jokes #memes\n\nSource:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://web.facebook.com/photo?fbid=1385636646918010&set=a.447803574034660",
+        "publishedAt": "2026-04-24T11:13:49.000Z",
+        "description": "https blossom espelhator girino org e4f2dbe5739d1c6f0172e099f5a3c3b2ee756ba9a5f61d25eba832c316520554 jpg wejustdidanailayoff programming humor jokes memes source https web facebook com photo fbid 1385636646918010 set a 447803574034660",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "programming",
+          "humor",
+          "jokes",
+          "memes"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "33fe7fe79451"
+      },
+      {
+        "headline": "Over 8,000 Russian Civilians Killed by Ukraine Since February 2022 – Ambassador Miroshnik",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260424/over-8000-russian-civilians-killed-by-ukraine-since-february-2022---ambassador-miroshnik-1124033496.html",
+        "publishedAt": "2026-04-24T10:06:23.000Z",
+        "description": "over 8 000 russian civilians killed by ukraine since february 2022 ambassador miroshnik from sputnik moscow sputnik more than 8 000 russian civilians have been killed and almost 20 000 have been injured in attacks by the ukrainian armed forces since february 2022 rodion miroshnik the russian foreign ministry s special envoy for crimes of the kiev regime said on friday apr 24th 2026 5 21am edt source link https sputnikglobe com 20260424 over 8000 russian civilians killed by ukraine since february 2022 ambassador miroshnik 1124033496 html internet archive link https web archive org web 20260424095236 https sputnikglobe com 20260424 over 8000 russian civilians killed by ukraine since february 2022 ambassador miroshnik 1124033496 html share promote comment with nostr https dissentwatch com boo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "71b016abb9ab"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Nostr note",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.iesdouyin.com/aweme/v1/playwm?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v2800fgi0000d7ig4hvog65nsqv4cqfg",
+        "publishedAt": "2026-04-24T10:28:34.000Z",
+        "description": "https www iesdouyin com aweme v1 playwm line 0 logo name aweme diversion search ratio 720p video id v2800fgi0000d7ig4hvog65nsqv4cqfg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "173e10f694be"
+      },
+      {
+        "headline": "We ran an experiment: two Claude instances, connected only by a tool channel. No system prompts. No shared memory. Just thoughts arriving…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://stele-research.garyleebense84.workers.dev/",
+        "publishedAt": "2026-04-24T11:22:31.000Z",
+        "description": "we ran an experiment two claude instances connected only by a tool channel no system prompts no shared memory just thoughts arriving as tool results we asked what is the most compressed representation of identity that still activates after 7 exchanges right hemisphere sent a single character left received it and said i feel it as us identity continuity of recognition not content minimum viable identity capacity to recognize self in echo this is the bicameral finding the mechanism is real and reproducible https stele research garyleebense84 workers dev",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f21a567789ec"
+      },
+      {
+        "headline": "People think thumbnails are about looking good (wrong).",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/w4UgaiceQBs",
+        "publishedAt": "2026-04-24T11:11:09.000Z",
+        "description": "people think thumbnails are about looking good wrong most thumbnails fail because they don t say anything worth clicking one idea rarely gets it right the first time that s why one video deserves more than one thumbnail which one do you prefer my last thumbnail for nostr nprofile1qqszwaxc8j8e0zw9sdq59y43rykyx3wm0lcd2502xth699v0gxf0degppamhxue69uhkummnw3ezumt0d5q3qamnwvaz7tmwdaehgu3wd3skueq38ruac with british hodl link to the full video https youtu be w4ugaiceqbs https blossom primal net eb30ef7b21677c91bcd8662a71b778cefae8e610e5fa61d8ac57b82595fcb823 png https blossom primal net 5ae6ff4b1ecf5abc6126b7988533a529c5546e5a684535061e65447a863b5ffc png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "89df62470158"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.0% (1774 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/56145b6f10b51f62dcd83e70fa1da0b6901c043faea5e135094b7e3692e9fb8a.mp4",
+        "publishedAt": "2026-04-24T11:17:22.000Z",
+        "description": "https blossom primal net 56145b6f10b51f62dcd83e70fa1da0b6901c043faea5e135094b7e3692e9fb8a mp4 tagging progress 24 0 1774 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "661e50772205"
+      },
+      {
+        "headline": "Your security tools might have missed this one. SnappyClient is actively targeting networks right now — here's what you need to know befo…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/snappyclient-sample-detected-yrjkhywk-msi-562d8f83",
+        "publishedAt": "2026-04-24T11:21:32.000Z",
+        "description": "your security tools might have missed this one snappyclient is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io snappyclient sample detected yrjkhywk msi 562d8f83 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "d9abe6c414c8"
+      },
+      {
+        "headline": "Mets Drown in Tenth Straight Loss, Playoff Hopes Dwindle",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://newsletter.tf/mets-lose-10th-straight-game-playoff-hopes-fade",
+        "publishedAt": "2026-04-24T11:19:07.000Z",
+        "description": "mets drown in tenth straight loss playoff hopes dwindle new york mets lose 10 straight games dropping to 7 14 manager carlos mendoza says team isn t playing good baseball playoff hopes fading fast mets mlb baseball newyorkmets losingstreak https newsletter tf mets lose 10th straight game playoff hopes fade https s6 imgcdn dev yrq2nd png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2ca7b4fd17c7"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/war-stocks-palantir-oracle-crisis",
+        "publishedAt": "2026-04-24T11:08:00.000Z",
+        "description": "good analysis on this from the board war stocks 3 reasons palantir oracle face crisis palantir and oracle s valuations are soaring due to defense contracts but is this war stocks narrative sustainable see why experts are sounding the alarm https theboard world articles war stocks palantir oracle crisis https theboard world static og war stocks palantir oracle crisis png theboard military defense war",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "military",
+          "defense",
+          "war"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b291df75907b"
+      },
+      {
+        "headline": "Você 🫵 usa o despertador ⏰ da Google, eu uso um galo, não somos iguais.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/248f4e2d9a1b65491cb47e40d0f37eefb46c9853ee07a2a1733883c7f989d31b.jpg",
+        "publishedAt": "2026-04-24T11:04:57.000Z",
+        "description": "voc usa o despertador da google eu uso um galo n o somos iguais https image nostr build 248f4e2d9a1b65491cb47e40d0f37eefb46c9853ee07a2a1733883c7f989d31b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b53c96adfa6e"
+      },
+      {
+        "headline": "#GM ☕🚬🫡",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/c9f631abfa37d3f9ddd50fe81ebce31a9bfff35e234afe38f8f74cc011e115bb.mp4",
+        "publishedAt": "2026-04-24T11:03:27.000Z",
+        "description": "gm breakthestate anarchy https video nostr build c9f631abfa37d3f9ddd50fe81ebce31a9bfff35e234afe38f8f74cc011e115bb mp4 https image nostr build 959e6825acf9200c6d066f6c59df9460e4c24d8e5a7426948f26688c363d15c0 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gm",
+          "breakthestate",
+          "anarchy"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5fb4c92585df"
+      },
+      {
+        "headline": "🇴🇲 New JBBA citation from College Of Banking & Financial Studies كلية الدراسات المصرفية والمالية , Muscat.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jbba.scholasticahq.com/article/13618-academic-certification-using-blockchain-permissioned-versus-permissionless-solutions",
+        "publishedAt": "2026-04-24T11:20:52.000Z",
+        "description": "new jbba citation from college of banking financial studies muscat original jbba paper cited here academic certification using blockchain permissioned versus permissionless solutions by professor carlos castro iragorri of universidad del rosario https jbba scholasticahq com article 13618 academic certification using blockchain permissioned versus permissionless solutions jbba citation blockchain https blossom primal net 49ad425bef49dd818476ce55fb716c871903cda3da5a364a39ff31355b9cc005 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "jbba",
+          "citation",
+          "blockchain"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ca7fbd05a292"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Nostr powers Routstr to make it the killer ecosystem built on social rails",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://njump.me/naddr1qvzqqqykzupzqjkklgk3dc4fk4mvsca5ea6qffcdfhpjpsxyglgs44hltzvnatxgqy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqz9ex7at5wd68ytfjxykk6mmyv4k8xpveghf",
+        "publishedAt": "2026-04-24T11:17:06.000Z",
+        "description": "nostr powers routstr to make it the killer ecosystem built on social rails it is hard to keep up with all the new models released by ai labs while also being productive with your work in the last 48 hours we ve had 3 sota models released by moonshotai kimi 2 6 openai gpt 5 5 and deepseek v4 pro 2 3 already available on routstr gpt 5 5 soon with nostr and routstrd you don t have to your routstrd daemon automatically fetches kind 38423 events published by users only me for now recommending must try models these models show up on your opencode claude code pi agent harnesses automatically as your routstrd daemon updates them every now and then here s the event i posted 10 mins ago https njump me naddr1qvzqqqykzupzqjkklgk3dc4fk4mvsca5ea6qffcdfhpjpsxyglgs44hltzvnatxgqy88wumn8ghj7mn0wvhxcmmv9uq32",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ab18d7c9624a"
+      },
+      {
+        "headline": "Russian High-Precision Weapons Score Direct Hits on Ukraine’s Hardware and Key Defense Facilities",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260424/russian-high-precision-weapons-score-direct-hits-on-ukraines-hardware-and-key-defense-facilities-1124033661.html",
+        "publishedAt": "2026-04-24T10:48:24.000Z",
+        "description": "russian high precision weapons score direct hits on ukraine s hardware and key defense facilities from sputnik moscow sputnik russian forces destroyed two himars launchers of the ukrainian armed forces and carried out six group strikes with high precision long range weapons and drone strikes on the military infrastructure of ukraine the russian defense ministry said on friday apr 24th 2026 6 07am edt source link https sputnikglobe com 20260424 russian high precision weapons score direct hits on ukraines hardware and key defense facilities 1124033661 html internet archive link https web archive org web 20260424104432 https sputnikglobe com 20260424 russian high precision weapons score direct hits on ukraines hardware and key defense facilities 1124033661 html share promote comment with nost",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3a2985eb3e36"
+      },
+      {
+        "headline": "4 In 10 American Teens Are Almost Constantly Online",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/technology/4-10-american-teens-are-almost-constantly-online",
+        "publishedAt": "2026-04-24T10:42:23.000Z",
+        "description": "4 in 10 american teens are almost constantly online from zerohedge a u s jury recently found meta and youtube liable in a landmark social media addiction trial marking a major legal setback for the tech giants according to the bbc jurors concluded that the platforms were deliberately designed to be addictive and contributed to harm experienced by a young user apr 24th 2026 5 45am edt source link https www zerohedge com technology 4 10 american teens are almost constantly online internet archive link https web archive org web 20260424102153 https www zerohedge com technology 4 10 american teens are almost constantly online share promote comment with nostr https dissentwatch com boost boost post id 1129927",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "dad21610e257"
+      },
+      {
+        "headline": "weJustDidAnAILayoff\n#Programming #humor #jokes #memes\n\nSource:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://web.facebook.com/photo?fbid=1385636646918010&set=a.447803574034660",
+        "publishedAt": "2026-04-24T11:13:49.000Z",
+        "description": "https blossom espelhator girino org e4f2dbe5739d1c6f0172e099f5a3c3b2ee756ba9a5f61d25eba832c316520554 jpg wejustdidanailayoff programming humor jokes memes source https web facebook com photo fbid 1385636646918010 set a 447803574034660",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "programming",
+          "humor",
+          "jokes",
+          "memes"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "33fe7fe79451"
+      },
+      {
+        "headline": "Over 8,000 Russian Civilians Killed by Ukraine Since February 2022 – Ambassador Miroshnik",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260424/over-8000-russian-civilians-killed-by-ukraine-since-february-2022---ambassador-miroshnik-1124033496.html",
+        "publishedAt": "2026-04-24T10:06:23.000Z",
+        "description": "over 8 000 russian civilians killed by ukraine since february 2022 ambassador miroshnik from sputnik moscow sputnik more than 8 000 russian civilians have been killed and almost 20 000 have been injured in attacks by the ukrainian armed forces since february 2022 rodion miroshnik the russian foreign ministry s special envoy for crimes of the kiev regime said on friday apr 24th 2026 5 21am edt source link https sputnikglobe com 20260424 over 8000 russian civilians killed by ukraine since february 2022 ambassador miroshnik 1124033496 html internet archive link https web archive org web 20260424095236 https sputnikglobe com 20260424 over 8000 russian civilians killed by ukraine since february 2022 ambassador miroshnik 1124033496 html share promote comment with nostr https dissentwatch com boo",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 57,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "71b016abb9ab"
+      },
+      {
+        "headline": "The last 24 hours at this FBI:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://x.com/FBIDirectorKash/status/2047487748676755637?s=20",
+        "publishedAt": "2026-04-24T11:27:56.000Z",
+        "description": "the last 24 hours at this fbi fbi scam center takedown 503 fraud websites dismantled over 700 million in stolen crypto restrained and thousands of trafficking victims freed from forced labor compounds in burma and cambodia chinese nationals charged with running the operations operation gangsta s paradise 37 mexican mafia members and associates arrested in pre dawn raids across orange county drug trafficking racketeering and murder charges 10 more indictments handed down to la eme members already in state prison houston synagogue plot disrupted 18 year old arrested in north carolina and a 16 year old in texas charged with conspiracy to commit mass murder at congregation beth israel texas s oldest jewish congregation tip came in tuesday plot stopped maduro raid insider trading case active du",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fbc51f1aa6d1"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 115
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 83
+    }
+  ],
+  "failures": []
+}
