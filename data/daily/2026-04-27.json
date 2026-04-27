@@ -1,0 +1,585 @@
+{
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T11:37:45.923Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "24992757358",
+    "commitSha": "b960b3f0c4b69298ac98064d9ced7ea583b00b20"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 253,
+    "dedupDropped": 42
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/val1813/kaiwu)%EF%BC%88%E4%B8%80%E4%B8%AA%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%99%A8%EF%BC%89%EF%BC%8C%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E2%80%94%E2%80%94**",
+        "publishedAt": "2026-04-27T10:22:57.000Z",
+        "description": "v2ex local llm coding agent coding agent kaiwu https github com val1813 kaiwu local llm think ollama lm studio cursor codex hermes cursor codex token hermes windows wsl2 api claude 1 opus 1m compact 8g 16g k hermes 2 cc cursor hermes wsl2 windows web search api seo 3 cc codex tool 8b cc 4 api 8b 14b a 5 1t markdown 6 api kaiwu lm turbo 8b opus cc llm llm gate moe llm agentless icse 2025 llm swe bench kwcode gate locator generator verifier pytest bm25 ast codecompass context fastapi bm25 100 import 85 85 76 2 99 4 1 bm25 top 20 2 ast 2 3 bug tree sitter rank bm25 sqlite embedding docker python js ts java go rust ee mcp neurips 2025 wlbs 12 7 5 5 ab gate 3 cursor hermes bing ddg verifier 2 bing cn bing com http cn bing com duckduckgo context api key searxng bm25 ast 99 4 patch pytest 2 proje",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9fe4b8f8f429"
+      },
+      {
+        "headline": "A PackageKit race condition called Pack2TheRoot lets unprivileged Linux users gain root access during package installation, according to…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access",
+        "publishedAt": "2026-04-27T10:30:17.000Z",
+        "description": "a packagekit race condition called pack2theroot lets unprivileged linux users gain root access during package installation according to securityweek https www securityweek com easily exploitable pack2theroot linux vulnerability leads to root access",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "352883122a6d"
+      },
+      {
+        "headline": "LBN438 : La main éthérée du souffle de l'abîme divin",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://share.google/Uj5iD6lDHrDNt1uS6",
+        "publishedAt": "2026-04-27T11:28:51.000Z",
+        "description": "lbn438 la main th r e du souffle de l ab me divin https blossom primal net fe583e8e898cc7cec8e5585ddcd7934c067aac22cf639156542ac5eac39fb86e png lbn 438 une n buleuse obscure situ e dans la constellation du dragon se trouve environ 1 200 ann es lumi re de la terre au sein du complexe de nuages mol culaires du dragon figurant dans le catalogue des n buleuses brillantes de lynds elle est paradoxalement class e comme n buleuse brillante bien qu tant en r alit une n buleuse obscure ce qui se manifeste par l obscurcissement des toiles d arri re plan sa caract ristique principale est sa morphologie remarquable des bandes de poussi re dessinent une base en forme de paume tandis que des bandes de poussi re allong es s tendent comme des doigts voquant l illusion d une main de dieu ou d une main fant",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrfr",
+          "nostrfr",
+          "astronomie",
+          "astronomie",
+          "astrophotographie",
+          "astrophotographie",
+          "espace",
+          "espace"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4b0fa673f4c7"
+      },
+      {
+        "headline": "Advanced Nostr Search",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://advancednostrsearch.vercel.app/",
+        "publishedAt": "2026-04-27T11:16:02.000Z",
+        "description": "advanced nostr search https advancednostrsearch vercel app",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "7d1991697126"
+      },
+      {
+        "headline": "Google DeepMind signed an agreement with South Korea to open its first AI campus in Seoul. The site will support joint AI research, skill…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/google-deepmind-ai-campus-seoul",
+        "publishedAt": "2026-04-27T11:30:17.000Z",
+        "description": "google deepmind signed an agreement with south korea to open its first ai campus in seoul the site will support joint ai research skills training and work with local startups and tech firms https thenextweb com news google deepmind ai campus seoul",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c2ac321e79c5"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "That 'free software' download just exfiltrated every password, cookie, and autofill entry on your machine in under 5 seconds.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/vidar-sample-detected-file-a3357377",
+        "publishedAt": "2026-04-27T11:21:45.000Z",
+        "description": "that free software download just exfiltrated every password cookie and autofill entry on your machine in under 5 seconds full analysis https threatchain io vidar sample detected file a3357377 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "0a79f3dc960c"
+      },
+      {
+        "headline": "Good morning nostr, it'll be a busy day as usual, we still havent finished mowing and there are some repairs to be done in the shop.  Yes…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a.blossom.band/2d900ed569fa58c2ad2a8b496d284729096e0d97e14abf81e828bf2697f6d169.jpg",
+        "publishedAt": "2026-04-27T11:32:24.000Z",
+        "description": "good morning nostr it ll be a busy day as usual we still havent finished mowing and there are some repairs to be done in the shop yesterday i harvested the rest of the onions and placed them in a cardboard box to dry a bit also i think we found the first snake that fell victim to our wandering guinea monsters it was in a place near the cabin where the guineas hang out and i ve heard guineas will kill a snake when they see one anyway yall have a great monday enjoy your coffee and do your work with a happy heart coffeechain homesteading https npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a blossom band 2d900ed569fa58c2ad2a8b496d284729096e0d97e14abf81e828bf2697f6d169 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cd8402c62f7e"
+      },
+      {
+        "headline": "บทความเชิงลึก: บิตคอยน์คืออะไร และทำงานอย่างไร\n\n(เรียบเรียงโดยอิงจาก สมนึก ไรท์ ชิฟท์+ ขยายด้วยงานวิจัย หนังสือ และทฤษฎีเชิงลึก)\n\n⸻\n\n1. บ…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/39e956fa61b3b593038b23178ba2389cb049c051c7ac8ce22d17b549ce11f58c.jpg",
+        "publishedAt": "2026-04-27T11:23:34.000Z",
+        "description": "https image nostr build 39e956fa61b3b593038b23178ba2389cb049c051c7ac8ce22d17b549ce11f58c jpg 1 whitepaper satoshi nakamoto 2008 peer to peer cryptographic proof andreas m antonopoulos mastering bitcoin bitcoin consensus shared reality bitcoin truth system 2 bitcoin distributed systems leslie lamport byzantine generals problem bitcoin proof of work 3 blockchain blockchain hash hash hash arvind narayanan bitcoin and cryptocurrency technologies blockchain append only ledger time ordered truth 4 proof of work nick szabo bit gold bitcoin energy cost thermodynamic security 5 1 private key digital signature cryptography elliptic curve 2 double spending 3 mempool 4 5 proof of work 6 sergio demian lerner finality bitcoin probabilistic 6 halving 210 000 21 bitcoin fiat money the bitcoin standard sai",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "siamstr",
+          "nostr",
+          "bitcoin",
+          "btc"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aec5b94d90b8"
+      },
+      {
+        "headline": "#BBC中文",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/bbcchinese/status/2048718805409706466",
+        "publishedAt": "2026-04-27T11:14:09.000Z",
+        "description": "bbc 4 26 1 59 30 31 https proxy bostr online pbs twimg com amplify video thumb 2048696852711911424 img 7d2qxvw8nxtotbdd jpg https video twimg com amplify video 2048696852711911424 vid avc1 720x1280 4vlothopqphbvpua mp4 tag 21 https nitter catsarch com bbcchinese status 2048718805409706466",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bbc中文"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "15a52c4eae88"
+      },
+      {
+        "headline": "Best iPhone Charger: Cable, Wireless, MagSafe, and More",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.wired.com/story/best-iphone-charger",
+        "publishedAt": "2026-04-27T11:08:00.000Z",
+        "description": "best iphone charger cable wireless magsafe and more https www wired com story best iphone charger",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "61faea064c24"
+      },
+      {
+        "headline": "godaddy 这种垃圾公司怎么还没倒闭啊😅",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation",
+        "publishedAt": "2026-04-27T11:27:24.000Z",
+        "description": "godaddy https anchor host godaddy gave a domain to a stranger without any documentation https anchor host godaddy gave a domain to a stranger without any documentation powerfullz verified star nya one nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqypuapzx40kx0fv7755gqxqzpckhvvlrfq5wxa7nyprpxx9ukr85hqafr3m3 https nya one notes alko8vt62bqw1n8i",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "02928818fac1"
+      },
+      {
+        "headline": "MF DOOM + Nujabes - Metaphorical villainy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://v.nostr.build/iJpaDRwexz2LoFlg.mp4",
+        "publishedAt": "2026-04-27T10:52:20.000Z",
+        "description": "mf doom nujabes metaphorical villainy full album https v nostr build ijpadrwexz2loflg mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "da866942f1fe"
+      },
+      {
+        "headline": "It was an honor to witness @cubanjulioneira at @ChiBTCollective",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/ca5271421a8d7dd4ecbb8d9d16a48b570ea34d0bf5d89988eff1edd0bc7d2b31.jpg",
+        "publishedAt": "2026-04-27T10:45:11.000Z",
+        "description": "it was an honor to witness cubanjulioneira at chibtcollective forkandcoin bbq meetup yesterday unbox his btc cards golden key series 4 global supply 420 boxes thank you so much julio for sharing the experience box and gifting us the set is beautiful and i can t wait to use these 1 420 shears to do some based cuts we re all hooked and looking forward to having trading card nights great work bitcoinliferaft https blossom primal net ca5271421a8d7dd4ecbb8d9d16a48b570ea34d0bf5d89988eff1edd0bc7d2b31 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4bcadc035b25"
+      },
+      {
+        "headline": "Comments section under shitcoiner videos on YouTube is simultaneously a cringe fest and a meme gold mine. 😂",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/9b60da93c70621cfed80086e258a1f35625827ab92b1d8a71eb29923da083624.jpg",
+        "publishedAt": "2026-04-27T10:23:43.000Z",
+        "description": "comments section under shitcoiner videos on youtube is simultaneously a cringe fest and a meme gold mine https blossom primal net 9b60da93c70621cfed80086e258a1f35625827ab92b1d8a71eb29923da083624 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "082e62b29bcc"
+      },
+      {
+        "headline": "#立党",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/lidangzzz/status/2048688734141382896",
+        "publishedAt": "2026-04-27T10:14:59.000Z",
+        "description": "dealer https proxy bostr online pbs twimg com ext tw video thumb 2048688661534003200 pu img 6oxg5jxd zvf 9x0 jpg https video twimg com ext tw video 2048688661534003200 pu vid avc1 720x1280 zidnzvjgby3tv7 a mp4 tag 19 https nitter catsarch com lidangzzz status 2048688734141382896",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "立党"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "7ead04bbec9b"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "A PackageKit race condition called Pack2TheRoot lets unprivileged Linux users gain root access during package installation, according to…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access",
+        "publishedAt": "2026-04-27T10:30:17.000Z",
+        "description": "a packagekit race condition called pack2theroot lets unprivileged linux users gain root access during package installation according to securityweek https www securityweek com easily exploitable pack2theroot linux vulnerability leads to root access",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "352883122a6d"
+      },
+      {
+        "headline": "LBN438 : La main éthérée du souffle de l'abîme divin",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://share.google/Uj5iD6lDHrDNt1uS6",
+        "publishedAt": "2026-04-27T11:28:51.000Z",
+        "description": "lbn438 la main th r e du souffle de l ab me divin https blossom primal net fe583e8e898cc7cec8e5585ddcd7934c067aac22cf639156542ac5eac39fb86e png lbn 438 une n buleuse obscure situ e dans la constellation du dragon se trouve environ 1 200 ann es lumi re de la terre au sein du complexe de nuages mol culaires du dragon figurant dans le catalogue des n buleuses brillantes de lynds elle est paradoxalement class e comme n buleuse brillante bien qu tant en r alit une n buleuse obscure ce qui se manifeste par l obscurcissement des toiles d arri re plan sa caract ristique principale est sa morphologie remarquable des bandes de poussi re dessinent une base en forme de paume tandis que des bandes de poussi re allong es s tendent comme des doigts voquant l illusion d une main de dieu ou d une main fant",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrfr",
+          "nostrfr",
+          "astronomie",
+          "astronomie",
+          "astrophotographie",
+          "astrophotographie",
+          "espace",
+          "espace"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4b0fa673f4c7"
+      },
+      {
+        "headline": "Advanced Nostr Search",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://advancednostrsearch.vercel.app/",
+        "publishedAt": "2026-04-27T11:16:02.000Z",
+        "description": "advanced nostr search https advancednostrsearch vercel app",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "7d1991697126"
+      },
+      {
+        "headline": "The Mechanistic Fallacy — Why the West So Often Fails at Geo-politics, by Alastair Crooke",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.unz.com/acrooke/the-mechanistic-fallacy-why-the-west-so-often-fails-at-geo-politics",
+        "publishedAt": "2026-04-27T10:45:24.000Z",
+        "description": "the mechanistic fallacy why the west so often fails at geo politics by alastair crooke from the unz review washington will not be able to think straight about iran and will opt for the wrong tactics some fifteen years ago i wrote that western reliance on its lens of secular rationality was no longer adequate as a means to understand the israeli palestinian conflict it was becoming obvious even then that the future apr 27th 2026 12 00am edt source link https www unz com acrooke the mechanistic fallacy why the west so often fails at geo politics share promote comment with nostr https dissentwatch com boost boost post id 1131021",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "af5f84084bbd"
+      },
+      {
+        "headline": "An Interview with Glen Allen, Free Speech Advocate",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://counter-currents.com/2026/04/an-interview-with-glen-allen-free-speech-advocate-2",
+        "publishedAt": "2026-04-27T10:39:22.000Z",
+        "description": "an interview with glen allen free speech advocate from counter currents 2 278 words we are republishing this interview from august 2 2021 due to the doj s recent indictment against the splc glen allen is a baltimore attorney who lost his job working for the city in august 2016 thanks to actions taken by the southern poverty law center splc because allen once allegedly supported william pierce s apr 27th 2026 5 59am edt source link https counter currents com 2026 04 an interview with glen allen free speech advocate 2 internet archive link https web archive org web 20260427103626 https counter currents com 2026 04 an interview with glen allen free speech advocate 2 share promote comment with nostr https dissentwatch com boost boost post id 1131018",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "3261eb145369"
+      },
+      {
+        "headline": "The Only AI Tools a Small Business Actually Needs in 2026",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rhinomoney-app.vercel.app/en/blog/ai-tools-small-business-2026",
+        "publishedAt": "2026-04-27T11:30:53.000Z",
+        "description": "the only ai tools a small business actually needs in 2026 as we step into 2026 the landscape of artificial intelligence ai continues to evolve offering small businesses powerful tools to enhance efficiency reduce costs and improve customer engagement https rhinomoney app vercel app en blog ai tools small business 2026",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai",
+          "autonomousagents",
+          "buildinpublic",
+          "automation",
+          "indie"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1bafa2799a15"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 148
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 63
+    }
+  ],
+  "failures": []
+}
