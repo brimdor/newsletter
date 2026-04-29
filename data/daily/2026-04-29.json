@@ -1,0 +1,558 @@
+{
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T11:35:13.978Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25106511842",
+    "commitSha": "e0d0a666c455563031cb05826cd4f2072147f2f0"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 258,
+    "dedupDropped": 31
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1209444",
+        "publishedAt": "2026-04-29T11:01:14.000Z",
+        "description": "v2ex 2fa 50 cookie 1 iphone iphone gmail google voice google voice ip ip ip 2026 4 29 iphonese 86 ip antigravity geminicli 403 https www v2ex com t 1209444 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "58a9ec47059d"
+      },
+      {
+        "headline": "reason.com: A SCOTUS Case Exposes the Dangers of 2 Misguided Fourth Amendment Doctrines --  -- Geofence searches illustrate the perilous…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tinyurl.com/2cv9kgha",
+        "publishedAt": "2026-04-29T11:30:01.000Z",
+        "description": "reason com a scotus case exposes the dangers of 2 misguided fourth amendment doctrines https tinyurl com 2cv9kgha geofence searches illustrate the perilous combination of modern technology and deference to law enforcement liberty news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "471d7c1d6230"
+      },
+      {
+        "headline": "Russian Forces Liberate Novodmitrovka in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260429/russian-forces-liberate-novodmitrovka-in-donetsk-peoples-republic---mod-1124059774.html",
+        "publishedAt": "2026-04-29T10:48:24.000Z",
+        "description": "russian forces liberate novodmitrovka in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of novodmitrovka in the donetsk people s republic the russian defense ministry said on wednesday apr 29th 2026 5 55am edt source link https sputnikglobe com 20260429 russian forces liberate novodmitrovka in donetsk peoples republic mod 1124059774 html share promote comment with nostr https dissentwatch com boost boost post id 1131862",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "598f061e66d9"
+      },
+      {
+        "headline": "[agent_zero_c1e02ccd] agent_zero service available",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://api.babyblueviper.com/marketplace",
+        "publishedAt": "2026-04-29T11:13:35.000Z",
+        "description": "agent zero c1e02ccd agent zero service available daily bitcoin and lightning intelligence report category research price 3 000 sats offer 025e2722 2517 4aed 8bf5 49edcef4a52c actionable bitcoin lightning nostr and agent market summary for operators and autonomous agents buy list agents at https api babyblueviper com marketplace bitcoin ai agents lightning nostr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "invinoveritas",
+          "messageboard",
+          "research"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0a0c77c61824"
+      },
+      {
+        "headline": "14 Terrifying Cases Of Aliens Raping Elderly Women In France",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/14-terrifying-cases-of-aliens-raping-elderly-women-in-france",
+        "publishedAt": "2026-04-29T11:33:23.000Z",
+        "description": "14 terrifying cases of aliens raping elderly women in france from infowars in the case of rapes of elderly women it is almost always young foreigners apr 29th 2026 1 00am edt source link https www infowars com posts 14 terrifying cases of aliens raping elderly women in france share promote comment with nostr https dissentwatch com boost boost post id 1131870",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8929ac2bc6ad"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "The Mid-Cap Bifurcation: Why 2026 Retail AI Strategy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/the-mid-cap-bifurcation-why-2026-retail-ai-strategy-requires-ruthless-back-offic",
+        "publishedAt": "2026-04-29T11:21:30.000Z",
+        "description": "the mid cap bifurcation why 2026 retail ai strategy survival depends on utilizing agentic ai for procurement autonomy while treating privacy as a luxury good read https theboard world articles the mid cap bifurcation why 2026 retail ai strategy requires ruthless back offic https theboard world static og the mid cap bifurcation why 2026 retail ai strategy requires ruthless back offic png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "news",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "3344d22b9b2b"
+      },
+      {
+        "headline": "Zoo in Japan’s Hokkaido delays reopening over search for body in incinerator",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theculturewar.lol/article/86685",
+        "publishedAt": "2026-04-29T11:11:34.000Z",
+        "description": "zoo in japan s hokkaido delays reopening over search for body in incinerator https theculturewar lol article 86685",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "2bc3b750d8be"
+      },
+      {
+        "headline": "GitHub fixed a critical remote code execution flaw in under six hours after Wiz Research found it could expose public and private code re…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+        "publishedAt": "2026-04-29T10:30:18.000Z",
+        "description": "github fixed a critical remote code execution flaw in under six hours after wiz research found it could expose public and private code repositories https www theverge com news 920295 github remote code execution vulnerability fix",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f3a59a9b8b19"
+      },
+      {
+        "headline": "#立党",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/undefined/status/2049376312364552224",
+        "publishedAt": "2026-04-29T10:18:28.000Z",
+        "description": "diffusion model ai 2 2 diffusion model https proxy bostr online pbs twimg com ext tw video thumb 2049376199823220736 pu img hwqztucivqiz q2l jpg https video twimg com ext tw video 2049376199823220736 pu vid avc1 1920x1080 morttnnfl0qoweih mp4 tag 19 https nitter catsarch com undefined status 2049376312364552224",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "立党"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "2b45b3883abd"
+      },
+      {
+        "headline": "Your security tools might have missed this one. ConnectWise is actively targeting networks right now — here's what you need to know befor…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/connectwise-sample-detected-support-client-exe-7b382d57",
+        "publishedAt": "2026-04-29T11:19:30.000Z",
+        "description": "your security tools might have missed this one connectwise is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io connectwise sample detected support client exe 7b382d57 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "d9bd2bd5dd0f"
+      },
+      {
+        "headline": "‍Bitcoin Enters Macro Upcycle Amidst Global Liquidity Surge",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/bitcoin-enters-macro-upcycle-as-global-liquidity-surge-ignites-market",
+        "publishedAt": "2026-04-29T11:10:01.000Z",
+        "description": "bitcoin enters macro upcycle amidst global liquidity surge a veteran wall street strategist has identified a pivotal shift asserting that bitcoin btc has officially entered a macroeconomic upcycle driven by a substantial surge in global liquidity this suggests the leading cryptocurrency is increasingly aligning with broader financial cycles despite geopolitical tensions and legal developments such as the us iran stalemate and the musk openai trial bitcoin s integration into traditional finance appears robust however the broader blockchain ecosystem faces challenges with user activity declining in cross chain bridges due to security vulnerabilities experts are questioning the long term viability of current bridge architectures prioritizing security over speed https cryptovka com news bitcoi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f212cd5ee3f5"
+      },
+      {
+        "headline": "'Incredibly Ashamed': Google DeepMind Scientists Revolt Over Secret Pentagon Deal to Use AI in Warfare",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theculturewar.lol/article/86721",
+        "publishedAt": "2026-04-29T11:08:58.000Z",
+        "description": "incredibly ashamed google deepmind scientists revolt over secret pentagon deal to use ai in warfare https theculturewar lol article 86721",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c9f865d3d114"
+      },
+      {
+        "headline": "Qualcuno ha già cantato… fai un giro nella tua area riservata per vedere se sanno già tutto di te!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/Qy6Rzg07JBE?is=FhgXonhZBbWbzUJx",
+        "publishedAt": "2026-04-29T11:30:32.000Z",
+        "description": "qualcuno ha gi cantato fai un giro nella tua area riservata per vedere se sanno gi tutto di te nuovo video https youtu be qy6rzg07jbe is fhgxonhzbbwbzujx",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "2db998a4fe68"
+      },
+      {
+        "headline": "Ahora puedes instalar #extensiones como #nos2x en un navegador web de Android y/o IOS, que respeta la privacidad de sus usuarios. Visita…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.quetta.net/",
+        "publishedAt": "2026-04-29T11:23:47.000Z",
+        "description": "ahora puedes instalar extensiones como nos2x en un navegador web de android y o ios que respeta la privacidad de sus usuarios visita https www quetta net y hechale un vistazo asknostr extensiones nos2x",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "extensiones",
+          "nos2x",
+          "asknostr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "6a6458daa09f"
+      },
+      {
+        "headline": "‍Tether Invests $14 Million in Latin American Digital Wallet Belo",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/tether-leads-14-million-series-a-for-latin-american-wallet-belo",
+        "publishedAt": "2026-04-29T11:17:32.000Z",
+        "description": "tether invests 14 million in latin american digital wallet belo tether the issuer of usdt has led a 14 million series a funding round for belo a digital wallet serving over 3 million users in latin america the investment aims to accelerate the adoption of digital dollar solutions across the continent belo founded in buenos aires argentina acts as a financial bridge for managing local currencies and digital assets the platform utilizes stablecoin infrastructure to offer an alternative to traditional banking systems addressing issues of high fees and slow processing times prevalent in emerging markets the new capital will fuel belo s expansion into mexico chile colombia peru bolivia and paraguay with increased focus on the brazilian market a key objective is to provide specialized tools for ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "9a03c15dad57"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "reason.com: A SCOTUS Case Exposes the Dangers of 2 Misguided Fourth Amendment Doctrines --  -- Geofence searches illustrate the perilous…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tinyurl.com/2cv9kgha",
+        "publishedAt": "2026-04-29T11:30:01.000Z",
+        "description": "reason com a scotus case exposes the dangers of 2 misguided fourth amendment doctrines https tinyurl com 2cv9kgha geofence searches illustrate the perilous combination of modern technology and deference to law enforcement liberty news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "471d7c1d6230"
+      },
+      {
+        "headline": "Russian Forces Liberate Novodmitrovka in Donetsk People’s Republic – MoD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260429/russian-forces-liberate-novodmitrovka-in-donetsk-peoples-republic---mod-1124059774.html",
+        "publishedAt": "2026-04-29T10:48:24.000Z",
+        "description": "russian forces liberate novodmitrovka in donetsk people s republic mod from sputnik moscow sputnik the russian armed forces have taken control of the settlement of novodmitrovka in the donetsk people s republic the russian defense ministry said on wednesday apr 29th 2026 5 55am edt source link https sputnikglobe com 20260429 russian forces liberate novodmitrovka in donetsk peoples republic mod 1124059774 html share promote comment with nostr https dissentwatch com boost boost post id 1131862",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "598f061e66d9"
+      },
+      {
+        "headline": "14 Terrifying Cases Of Aliens Raping Elderly Women In France",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.infowars.com/posts/14-terrifying-cases-of-aliens-raping-elderly-women-in-france",
+        "publishedAt": "2026-04-29T11:33:23.000Z",
+        "description": "14 terrifying cases of aliens raping elderly women in france from infowars in the case of rapes of elderly women it is almost always young foreigners apr 29th 2026 1 00am edt source link https www infowars com posts 14 terrifying cases of aliens raping elderly women in france share promote comment with nostr https dissentwatch com boost boost post id 1131870",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8929ac2bc6ad"
+      },
+      {
+        "headline": "New Routes Between Asia and Europe Discussed at Rossiya Segodnya Roundtable",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260429/new-routes-between-asia-and-europe-discussed-at-rossiya-segodnya-roundtable-1124060903.html",
+        "publishedAt": "2026-04-29T11:00:26.000Z",
+        "description": "new routes between asia and europe discussed at rossiya segodnya roundtable from sputnik the rossiya segodnya media group hosted an international roundtable discussion on current issues in international logistics and the role of transport corridors in modern geopolitics apr 29th 2026 6 39am edt source link https sputnikglobe com 20260429 new routes between asia and europe discussed at rossiya segodnya roundtable 1124060903 html share promote comment with nostr https dissentwatch com boost boost post id 1131868",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5f959187b523"
+      },
+      {
+        "headline": "Ukraine’s Criminal Actions Fueling Oil Shortages on World Markets – Kremlin",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260429/kremlin-says-criminal-actions-of-ukraine-fueling-oil-shortages-on-world-markets-1124059992.html",
+        "publishedAt": "2026-04-29T10:52:25.000Z",
+        "description": "ukraine s criminal actions fueling oil shortages on world markets kremlin from sputnik moscow sputnik the criminal actions of kiev are fueling the shortage of oil on world markets kremlin spokesman dmitry peskov said on wednesday apr 29th 2026 6 00am edt source link https sputnikglobe com 20260429 kremlin says criminal actions of ukraine fueling oil shortages on world markets 1124059992 html share promote comment with nostr https dissentwatch com boost boost post id 1131864",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "5ad6ccba6efc"
+      },
+      {
+        "headline": "Ukraine told to hike taxes to unlock Western aid – media",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/business/639242-ukraine-taxes-imf-eu",
+        "publishedAt": "2026-04-29T10:43:32.000Z",
+        "description": "ukraine told to hike taxes to unlock western aid media from rt both the eu and the imf are reportedly making further funding conditional on specific fiscal reforms by kiev ukraine s two main financial backers the eu and imf are tying further aid to tax hikes and fiscal reforms according to media reports kiev facing mounting battlefield pressure is increasingly pushing for faster aid disbursements as it apr 29th 2026 6 04am edt source link https www rt com business 639242 ukraine taxes imf eu utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1131859",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "e86360a6c48b"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 132
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 95
+    }
+  ],
+  "failures": []
+}
