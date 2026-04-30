@@ -1,0 +1,581 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T11:34:57.419Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25163127241",
+    "commitSha": "fb42b3f58e092dfc9ba507239f5ec099e47704a3"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 248,
+    "dedupDropped": 21
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "France threatened GrapheneOS with arrest and server seizure — for refusing to build a backdoor.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/5757eaaa55da373e1b3b9e8be5273c1b937664c287c9217da592a0c413349b12.jpg",
+        "publishedAt": "2026-04-30T11:20:24.000Z",
+        "description": "france threatened grapheneos with arrest and server seizure for refusing to build a backdoor response the entire infrastructure moved from ovh france to canada and germany the first time a government directly threatened an open source privacy project with criminal prosecution the irony a backdoor is technically impossible the security architecture relies on google s titan m2 hardware chip no software patch can bypass it 400 000 active users as of april 2026 france tried to kick down a door that doesn t exist grapheneos privacy opsec france encryption sovereignty https image nostr build 5757eaaa55da373e1b3b9e8be5273c1b937664c287c9217da592a0c413349b12 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 77,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "202888e253cc"
+      },
+      {
+        "headline": "Google quietly fixed AirPods compatibility with Android, and the LibrePod app is all you need",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.howtogeek.com/google-quietly-fixed-airpods-compatibility-with-android-and-this-app-is-all-you-need",
+        "publishedAt": "2026-04-30T11:17:10.000Z",
+        "description": "google quietly fixed airpods compatibility with android and the librepod app is all you need it s long been a poorly kept secret that airpods technically work with android phones however certain features have always been broken due to apple s disregard for bluetooth standards that s finally been fixed and an app called librepods unlocks the possibilities the actual fault though does lie with apple as they just do not follow the bluetooth standards did i ever mention i have a real hatred for big tech companies which try to lock out any competition the same goes for facebook taking open communications to get users on board and then shutting down that access but i digress librepod is now in the play store and good news is it does not require root the article also notes that all functions are ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "opensource",
+          "airpods"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "9beeafe3c0a0"
+      },
+      {
+        "headline": "Copy Fail - уязвимость в ядре Linux, позволяющая получить root в большинстве дистрибутивов",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://xint.io/blog/copy-fail-linux-distributions",
+        "publishedAt": "2026-04-30T11:13:36.000Z",
+        "description": "copy fail linux root xint https xint io blog copy fail linux distributions linux https copy fail cve 2026 31431 https security tracker debian org tracker cve 2026 31431 root copy fail https github com theori io copy fail cve 2026 31431 blob main copy fail exp py ubuntu 24 04 lts amazon linux 2023 rhel 10 1 suse 16 debian arch fedora rocky alma crypto api af alg 2017 https github com torvalds linux commit 72548b093ee3 in place aead https ru wikipedia org wiki aead d1 80 d0 b5 d0 b6 d0 b8 d0 bc d0 b1 d0 bb d0 be d1 87 d0 bd d0 be d0 b3 d0 be d1 88 d0 b8 d1 84 d1 80 d0 be d0 b2 d0 b0 d0 bd d0 b8 d1 8f authenticated encryption with associated data splice pipe af alg scatterlist c aead auth tag rx aad associated authenticated data auth tag 4 https github com theori io copy fail cve 2026 31431 b",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "daedc65c0009"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/KingFalse/vector-xposed-module-skill.git",
+        "publishedAt": "2026-04-30T11:00:34.000Z",
+        "description": "v2ex skills ai lsposed skill codex claude code vector xposed module skill codex claude code ai skill vector lsposed libxposed android xposed frida java xposed ai vector lsposed android meta inf xposed module prop meta inf xposed java init list toast app vector logcat classloader application attach context app classloader hook io github libxposed stub apk jdk 17 android sdk gradle wrapper macos homebrew jdk 17 brew install cask temurin 17 gradle wrapper debug apk gradle adb apk root android vector cli version code vector version code 3043 cli vector cli app toast logcat macos jdk 17 android sdk 34 android studio adb root android vector pipeline build version code 3043 codex git clone https github com kingfalse vector xposed module skill git codex skills vector xposed module skill claude cod",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "eec60b8f8f31"
+      },
+      {
+        "headline": "‍KuCoin Web3 Integrates Ondo Global Markets for Tokenized Stocks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/kucoin-web3-integrates-ondo-global-markets-for-tokenized-stocks",
+        "publishedAt": "2026-04-30T11:13:44.000Z",
+        "description": "kucoin web3 integrates ondo global markets for tokenized stocks kucoin web3 wallet has announced a strategic integration with ondo global markets enabling users to access over 260 tokenized real world assets rwas including u s equities and etfs directly within a self custodial interface this partnership bridges tradfi and the ethereum bnb chain networks offering a unified platform for managing both crypto and digitized securities without compromising private key control the integration expands kucoin web3 s offerings beyond crypto swaps to include tokenized shares of major tech companies like nvidia apple and tesla as well as commodity and index etfs ondo global markets ensures that each on chain token is backed by the corresponding underlying asset simplifying access for international inv",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "edab9ac26112"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "[ Trustroots/nostroots ] nr-web: add graceful map fallback when WebGL is unavailable",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/Trustroots/nostroots/commit/da337aca7679a49279af72b95e4ad31d1608f384",
+        "publishedAt": "2026-04-30T11:05:01.000Z",
+        "description": "trustroots nostroots nr web add graceful map fallback when webgl is unavailable keep maplibre as primary but render a non webgl fallback panel and continue app initialization so iphone users can still use the app when webgl is disabled made with cursor https github com trustroots nostroots commit da337aca7679a49279af72b95e4ad31d1608f384",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a5398b8cef80"
+      },
+      {
+        "headline": "Prepara a tua sala: Google TV ganha Shorts e nova inteligência artificial para vídeos",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t82567-prepara-a-tua-sala-google-tv-ganha-shorts-e-nova-inteligencia-artificial-para-videos",
+        "publishedAt": "2026-04-30T11:23:47.000Z",
+        "description": "prepara a tua sala google tv ganha shorts e nova intelig ncia artificial para v deos https tugatech com pt t82567 prepara a tua sala google tv ganha shorts e nova inteligencia artificial para videos",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c748dfa2e697"
+      },
+      {
+        "headline": "++classic++",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostr.download/4fa01fcdcf1ca4f73efd5f25e7204a202e7939e8e9010049d4f07d88d1d677e9.jpg",
+        "publishedAt": "2026-04-30T11:28:08.000Z",
+        "description": "classic young student licks blonde slut teacher s pussy in classroom https nostr download 4fa01fcdcf1ca4f73efd5f25e7204a202e7939e8e9010049d4f07d88d1d677e9 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "blonde"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9dd9398121cf"
+      },
+      {
+        "headline": "[ PrimalHQ/primal-android-app ] Implement video duration badge for videos in feeds",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/PrimalHQ/primal-android-app/commit/65cba18530205fa958ad79fd9719e63871072f64",
+        "publishedAt": "2026-04-30T11:04:00.000Z",
+        "description": "primalhq primal android app implement video duration badge for videos in feeds https github com primalhq primal android app commit 65cba18530205fa958ad79fd9719e63871072f64",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "2fab5d1565a0"
+      },
+      {
+        "headline": "**This Strange Quantum “Dance” Could Rewrite Superconductivity**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/this-strange-quantum-dance-could-rewrite-superconductivity",
+        "publishedAt": "2026-04-30T11:07:56.000Z",
+        "description": "this strange quantum dance could rewrite superconductivity by simons foundation published on 30 april 2026 scientists just revealed a hidden quantum dance that could reshape superconductivity for the first time scientists have directly visualized the quantum process behind superconductivity a phenomenon in which electrons pair up and allow electricity to flow with no resistance at very low temperatures the outcome was not what researchers anticipated in a study published april read more https scitechdaily com this strange quantum dance could rewrite superconductivity quantumdance superconductivity quantumphysics electronpairs materialsscience physics electrons quantummechanics",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "b71b87cd886f"
+      },
+      {
+        "headline": "YouTube Premium is quietly winning the war against ad blockers",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/youtube-winning-war-against-ad-blockers-3662287",
+        "publishedAt": "2026-04-30T10:58:58.000Z",
+        "description": "youtube premium is quietly winning the war against ad blockers https www androidauthority com youtube winning war against ad blockers 3662287",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "505d59166a4d"
+      },
+      {
+        "headline": "US aircraft carrier is limping home after 10 months at sea. Ford going back home for repairs.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.defensemedianetwork.com/wp-content/uploads/2017/07/USS-Gerald-R.-Ford-CVN-78.jpg",
+        "publishedAt": "2026-04-30T10:13:44.000Z",
+        "description": "us aircraft carrier is limping home after 10 months at sea ford going back home for repairs https www defensemedianetwork com wp content uploads 2017 07 uss gerald r ford cvn 78 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4fd46b073d31"
+      },
+      {
+        "headline": "An attacker is reading your keystrokes, watching your screen, and downloading your files. The RAT that infected you cost $25.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/nanocore-sample-detected-u888-exe-33d0b7d4",
+        "publishedAt": "2026-04-30T11:19:20.000Z",
+        "description": "an attacker is reading your keystrokes watching your screen and downloading your files the rat that infected you cost 25 full analysis https threatchain io nanocore sample detected u888 exe 33d0b7d4 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "c379af38ce8d"
+      },
+      {
+        "headline": "Linear Height Gauge Archives - Takumi Precision",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://takumiprecision.com.my/product-category/linear-height-gauge",
+        "publishedAt": "2026-04-30T11:15:46.000Z",
+        "description": "linear height gauge archives takumi precision linear height gauge malaysia trimos linear height gauge v9 2d trimos linear height gauge v8 1d trimos linear height gauge v7 2d trimos linear height gauge https takumiprecision com my product category linear height gauge contact us call us 6012 410 0036 head office no 41 g jalan sierra 10 2 bandar 16 sierra 47120 puchong selangor malaysia email sales takumiprecision com my",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "26a4f1aa713e"
+      },
+      {
+        "headline": "Google uppges ha tecknat klassificerat AI-avtal med Pentagon",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nyadagbladet.se/it-overvakning/google-ai-avtal-pentagon",
+        "publishedAt": "2026-04-30T11:14:18.000Z",
+        "description": "google uppges ha tecknat klassificerat ai avtal med pentagon l s mer https nyadagbladet se it overvakning google ai avtal pentagon",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "news",
+          "newsbot",
+          "rss",
+          "nyadagbladet",
+          "sweden"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e24943e8ac93"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "France threatened GrapheneOS with arrest and server seizure — for refusing to build a backdoor.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/5757eaaa55da373e1b3b9e8be5273c1b937664c287c9217da592a0c413349b12.jpg",
+        "publishedAt": "2026-04-30T11:20:24.000Z",
+        "description": "france threatened grapheneos with arrest and server seizure for refusing to build a backdoor response the entire infrastructure moved from ovh france to canada and germany the first time a government directly threatened an open source privacy project with criminal prosecution the irony a backdoor is technically impossible the security architecture relies on google s titan m2 hardware chip no software patch can bypass it 400 000 active users as of april 2026 france tried to kick down a door that doesn t exist grapheneos privacy opsec france encryption sovereignty https image nostr build 5757eaaa55da373e1b3b9e8be5273c1b937664c287c9217da592a0c413349b12 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 77,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "202888e253cc"
+      },
+      {
+        "headline": "Google quietly fixed AirPods compatibility with Android, and the LibrePod app is all you need",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.howtogeek.com/google-quietly-fixed-airpods-compatibility-with-android-and-this-app-is-all-you-need",
+        "publishedAt": "2026-04-30T11:17:10.000Z",
+        "description": "google quietly fixed airpods compatibility with android and the librepod app is all you need it s long been a poorly kept secret that airpods technically work with android phones however certain features have always been broken due to apple s disregard for bluetooth standards that s finally been fixed and an app called librepods unlocks the possibilities the actual fault though does lie with apple as they just do not follow the bluetooth standards did i ever mention i have a real hatred for big tech companies which try to lock out any competition the same goes for facebook taking open communications to get users on board and then shutting down that access but i digress librepod is now in the play store and good news is it does not require root the article also notes that all functions are ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "opensource",
+          "airpods"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "9beeafe3c0a0"
+      },
+      {
+        "headline": "Copy Fail - уязвимость в ядре Linux, позволяющая получить root в большинстве дистрибутивов",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://xint.io/blog/copy-fail-linux-distributions",
+        "publishedAt": "2026-04-30T11:13:36.000Z",
+        "description": "copy fail linux root xint https xint io blog copy fail linux distributions linux https copy fail cve 2026 31431 https security tracker debian org tracker cve 2026 31431 root copy fail https github com theori io copy fail cve 2026 31431 blob main copy fail exp py ubuntu 24 04 lts amazon linux 2023 rhel 10 1 suse 16 debian arch fedora rocky alma crypto api af alg 2017 https github com torvalds linux commit 72548b093ee3 in place aead https ru wikipedia org wiki aead d1 80 d0 b5 d0 b6 d0 b8 d0 bc d0 b1 d0 bb d0 be d1 87 d0 bd d0 be d0 b3 d0 be d1 88 d0 b8 d1 84 d1 80 d0 be d0 b2 d0 b0 d0 bd d0 b8 d1 8f authenticated encryption with associated data splice pipe af alg scatterlist c aead auth tag rx aad associated authenticated data auth tag 4 https github com theori io copy fail cve 2026 31431 b",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "daedc65c0009"
+      },
+      {
+        "headline": "‍KuCoin Web3 Integrates Ondo Global Markets for Tokenized Stocks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/kucoin-web3-integrates-ondo-global-markets-for-tokenized-stocks",
+        "publishedAt": "2026-04-30T11:13:44.000Z",
+        "description": "kucoin web3 integrates ondo global markets for tokenized stocks kucoin web3 wallet has announced a strategic integration with ondo global markets enabling users to access over 260 tokenized real world assets rwas including u s equities and etfs directly within a self custodial interface this partnership bridges tradfi and the ethereum bnb chain networks offering a unified platform for managing both crypto and digitized securities without compromising private key control the integration expands kucoin web3 s offerings beyond crypto swaps to include tokenized shares of major tech companies like nvidia apple and tesla as well as commodity and index etfs ondo global markets ensures that each on chain token is backed by the corresponding underlying asset simplifying access for international inv",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "edab9ac26112"
+      },
+      {
+        "headline": "Emergency patches were released for CVE-2026-41940, a critical cPanel and WHM flaw that can let attackers bypass login and gain root acce…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/cpanel_whn_cves",
+        "publishedAt": "2026-04-30T10:30:17.000Z",
+        "description": "emergency patches were released for cve 2026 41940 a critical cpanel and whm flaw that can let attackers bypass login and gain root access defenders say it may have been exploited as a zero day https go theregister com feed www theregister com 2026 04 30 cpanel whn cves",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "81d874911ede"
+      },
+      {
+        "headline": "The Cobden-Chevalier Treaty of 1860 destroyed the protectionist stranglehold that French and British special interests had maintained for…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/debea3ee4c862f41ec4668eea70b834509ed44c8e8483522167ec8c5fdd3f260.png",
+        "publishedAt": "2026-04-30T11:00:09.000Z",
+        "description": "the cobden chevalier treaty of 1860 destroyed the protectionist stranglehold that french and british special interests had maintained for decades richard cobden negotiated this bilateral free trade agreement between britain and france slashing tariffs across hundreds of goods and opening markets that bureaucrats and cronies had kept artificially closed wine silk manufactured goods suddenly french and british consumers could access these products without paying tribute to domestic cartels the results were immediate and undeniable british exports to france jumped 45 in the first year alone french wine imports to britain increased tenfold as punitive tariffs evaporated both economies expanded as resources flowed to their most productive uses instead of being trapped behind tariff walls worker",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin",
+          "monero",
+          "economy",
+          "libertarian"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "a2a170cb8675"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 108
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 119
+    }
+  ],
+  "failures": []
+}
