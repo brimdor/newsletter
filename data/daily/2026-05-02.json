@@ -1,0 +1,628 @@
+{
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T11:20:09.623Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25250732257",
+    "commitSha": "00a2c9c97cd987dc52c23bcda3140567e49eb7e7"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 274,
+    "dedupDropped": 43
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via OSINTdefender",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://twitter.com/sentdefender/status/2050425263368937568",
+        "publishedAt": "2026-05-02T11:07:27.000Z",
+        "description": "conflict news via osintdefender as part of a spree of late night posts friday on truthsocial president trump posted a badly photoshopped picture of his face next to the four presidents honored on mount rushmore may 2 2026 06 01 am gmt 2 1 min read sentiment neutral https twitter com sentdefender status 2050425263368937568 https pbs twimg com media hhss6vewcaaes m jpg large developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a02d1246e32a"
+      },
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via @Conflict_Radar",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/Conflict_Radar/status/2050459343145857222",
+        "publishedAt": "2026-05-02T11:06:50.000Z",
+        "description": "conflict news via conflict radar we are facing a strategic trap in southern lebanon our withdrawal would be seen as a defeat while trump is preventing further advancement israeli security official to israel hayom may 2 2026 08 22 am gmt 2 1 min read sentiment neutral https x com conflict radar status 2050459343145857222 developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "5cd36a004468"
+      },
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via Powered by Readybot.io",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/Conflict_Radar/status/2050500746592829856",
+        "publishedAt": "2026-05-02T11:06:14.000Z",
+        "description": "conflict news via powered by readybot io conflict radar reposted armchairadml may 2 2026 11 03 am gmt 2 1 min read sentiment neutral https x com conflict radar status 2050500746592829856 developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6a52cc383994"
+      },
+      {
+        "headline": "My favorite Circle to Search feature is one that Google doesn’t advertise",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/favorite-circle-to-search-feature-3660096",
+        "publishedAt": "2026-05-02T11:00:17.000Z",
+        "description": "my favorite circle to search feature is one that google doesn t advertise https www androidauthority com favorite circle to search feature 3660096",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c6a72c345c3d"
+      },
+      {
+        "headline": "There is nothing good happening in the economy. Gas prices are going up, food prices are going up, homes/cars are insanely expensive and…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://infostormer.com/us-debt-now-exceeds-100-percent-of-gdp",
+        "publishedAt": "2026-05-02T10:39:53.000Z",
+        "description": "https infostormer com us debt now exceeds 100 percent of gdp there is nothing good happening in the economy gas prices are going up food prices are going up homes cars are insanely expensive and the currency continues to buy less and less i m just going to keep stacking gold and silver this entire fake jewish economic system is fubar",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a1762ccea73"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📰  CRYPTO NEWS  ·  via BeInCrypto",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dev.hodlbot.gg/crypto-news/gamestop-stock-jumps-9-on-ebay-bid-report-reigniting-meme-stock-frenzy",
+        "publishedAt": "2026-05-02T11:06:06.000Z",
+        "description": "crypto news via beincrypto gamestop stock jumps 9 on ebay bid report reigniting meme stock frenzy gamestop gme shares jumped more than 9 in after hours trading on may 2 a wall street journal report said the videogame retailer is preparing a takeover bid for ebay ebay the report sent reddit may 2 2026 11 12 am gmt 2 1 min read sentiment neutral https dev hodlbot gg crypto news gamestop stock jumps 9 on ebay bid report reigniting meme stock frenzy https assets beincrypto com img m4ebt39lvehdtmoiawnpva6jydc smart fe6f2dd1425f4f81ac1fe8cf3842da20 trading this share your position below doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr cryptonews blockchain crypton",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "cryptonews",
+          "blockchain",
+          "cryptonews"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "4410507ba0e8"
+      },
+      {
+        "headline": "#行者AI视频",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nitter.catsarch.com/joshesye/status/2050516303715111060",
+        "publishedAt": "2026-05-02T10:15:46.000Z",
+        "description": "ai ai 3d logo 16 9 https proxy bostr online pbs twimg com amplify video thumb 2050515748485775360 img a0kbxr5eu1i1ghax jpg https video twimg com amplify video 2050515748485775360 vid avc1 1280x720 gerikyplpsv6h b5 mp4 tag 27 https nitter catsarch com joshesye status 2050516303715111060",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "行者ai视频"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0f159312e948"
+      },
+      {
+        "headline": "The UK DVSA denied an outage after users reported its driving test booking page failed across devices and browsers. The agency blamed ind…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages",
+        "publishedAt": "2026-05-02T09:30:15.000Z",
+        "description": "the uk dvsa denied an outage after users reported its driving test booking page failed across devices and browsers the agency blamed individual browser settings https go theregister com feed www theregister com 2026 05 02 dvsa shrugs off outages",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "db610fab5333"
+      },
+      {
+        "headline": "�  BREAKING  ·  via NewsBTC",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dev.hodlbot.gg/crypto-news/ethereums-price-should-have-dropped-already-analyst-explains-the-on-chain-signal-behind-the-warning",
+        "publishedAt": "2026-05-02T11:07:52.000Z",
+        "description": "breaking via newsbtc ethereum s price should have dropped already analyst explains the on chain signal behind the warning ethereum has surged more than 25 since late march pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous a may 2 2026 05 12 am gmt 2 1 min read sentiment neutral https dev hodlbot gg crypto news ethereums price should have dropped already analyst explains the on chain signal behind the warning https www newsbtc com wp content uploads 2026 05 untitled design 2026 05 01t064103 672 jpg fit 750 2c429 track eth live https app doh money charts ethereum trading this share your position below doh money real time defi crypto intelligence charts portfolios swaps news all in one place if th",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "cryptonews",
+          "blockchain",
+          "cryptonews"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "e0d2988b6469"
+      },
+      {
+        "headline": "📰  CRYPTO NEWS  ·  via NewsBTC",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dev.hodlbot.gg/crypto-news/bitcoin-dats-capitulatecould-this-rare-signal-mark-a-bottom",
+        "publishedAt": "2026-05-02T11:07:17.000Z",
+        "description": "crypto news via newsbtc bitcoin dats capitulate could this rare signal mark a bottom data shows the bitcoin treasury companies have shown an inflection recently something that has turned out to be bullish in the past last two bitcoin treasury capitulation inflections led to bullish may 2 2026 06 12 am gmt 2 1 min read sentiment bullish https dev hodlbot gg crypto news bitcoin dats capitulatecould this rare signal mark a bottom https www newsbtc com wp content uploads 2026 05 btc png fit 750 2c500 track btc live https app doh money charts bitcoin trading this share your position below doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr cryptonews blockchain cryp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "cryptonews",
+          "blockchain",
+          "cryptonews"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "6b789a2d393a"
+      },
+      {
+        "headline": "🚨 NEUTRALIZATION ALERT 🚨",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://stables.rip/",
+        "publishedAt": "2026-05-02T11:01:04.000Z",
+        "description": "neutralization alert usdt froze 22 616 12 target tzaihskq8flph28k7ratwpmrpsm43socdv tron stablecoins programmable tyranny escape the trap go monero https stables rip xmr privacy usdt nokyc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "monero",
+          "nokyc",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1058d9477468"
+      },
+      {
+        "headline": "Parameter Committee meets every three weeks and most people scroll right past these notes. Understandable. It reads like watching paint dry.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://forum.cardano.org/t/jan-15-2026-parameter-committee-triweekly-meeting-notes/154361",
+        "publishedAt": "2026-05-02T10:54:20.000Z",
+        "description": "parameter committee meets every three weeks and most people scroll right past these notes understandable it reads like watching paint dry but this is actually where the rubber meets the road for on chain governance these are the people stress testing the levers that control everything from tx fees to plutus execution costs to staking parameters the boring stuff that determines whether cardano scales gracefully or trips over its own shoelaces what people miss is that this kind of structured methodical parameter tuning is exactly what mature monetary infrastructure looks like no drama no emergency patches at 3am no we ll figure it out later energy just adults in a room going through the numbers other chains ship fast and fix later cardano measures twice cuts once then measures again just to ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "news"
+        ],
+        "id": "b5d3ffe3a3ae"
+      },
+      {
+        "headline": "Actu Tech | Wired Security",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors",
+        "publishedAt": "2026-05-02T10:35:32.000Z",
+        "description": "actu tech wired security disneyland utilise d sormais la reconnaissance faciale sur les visiteurs en compl ment la nsa teste mythos preview d anthropic pour d tecter des vuln rabilit s un adolescent finlandais est inculp pour la s rie de piratages scattered spider et plus encore publi le 2 mai 2026 12 30 nostfr https media wired com photos 69f53066ed110137695d66cd master pass security disney getty jpg https www wired com story security news this week disneyland now uses face recognition on visitors",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "6d18a327e23d"
+      },
+      {
+        "headline": "Mood: 🖕",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/49ddbeedb4eef5efa801c6a08f2e0ad9876f9824b88991a246d672aeea96a34b.mp4",
+        "publishedAt": "2026-05-02T10:55:34.000Z",
+        "description": "mood https blossom primal net 49ddbeedb4eef5efa801c6a08f2e0ad9876f9824b88991a246d672aeea96a34b mp4 tagging progress 24 1 1785 of 7396 videos tagged reply to this note with emoji reactions to help tag this video reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "5302afc78aea"
+      },
+      {
+        "headline": "𝕏  CRYPTOX  ·  via MartyParty",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://twitter.com/martypartymusic/status/2050408624854561136",
+        "publishedAt": "2026-05-02T11:07:57.000Z",
+        "description": "cryptox via martyparty clarity has been agreed upon may 2 2026 04 55 am gmt 2 1 min read sentiment neutral https twitter com martypartymusic status 2050408624854561136 share your thoughts below doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr cryptotwitter blockchain cryptox",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "cryptotwitter",
+          "blockchain",
+          "cryptox"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "8ee565ea19ff"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via OSINTdefender",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://twitter.com/sentdefender/status/2050425263368937568",
+        "publishedAt": "2026-05-02T11:07:27.000Z",
+        "description": "conflict news via osintdefender as part of a spree of late night posts friday on truthsocial president trump posted a badly photoshopped picture of his face next to the four presidents honored on mount rushmore may 2 2026 06 01 am gmt 2 1 min read sentiment neutral https twitter com sentdefender status 2050425263368937568 https pbs twimg com media hhss6vewcaaes m jpg large developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a02d1246e32a"
+      },
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via @Conflict_Radar",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/Conflict_Radar/status/2050459343145857222",
+        "publishedAt": "2026-05-02T11:06:50.000Z",
+        "description": "conflict news via conflict radar we are facing a strategic trap in southern lebanon our withdrawal would be seen as a defeat while trump is preventing further advancement israeli security official to israel hayom may 2 2026 08 22 am gmt 2 1 min read sentiment neutral https x com conflict radar status 2050459343145857222 developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "5cd36a004468"
+      },
+      {
+        "headline": "💢  CONFLICT NEWS  ·  via Powered by Readybot.io",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/Conflict_Radar/status/2050500746592829856",
+        "publishedAt": "2026-05-02T11:06:14.000Z",
+        "description": "conflict news via powered by readybot io conflict radar reposted armchairadml may 2 2026 11 03 am gmt 2 1 min read sentiment neutral https x com conflict radar status 2050500746592829856 developing story stay tuned for updates doh money real time defi crypto intelligence charts portfolios swaps news all in one place if this signal was useful zap to keep the feed running feed doh money dohmoney crypto nostr conflict geopolitics global conflictnews",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "conflict",
+          "geopolitics",
+          "global",
+          "conflictnews"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "6a52cc383994"
+      },
+      {
+        "headline": "There is nothing good happening in the economy. Gas prices are going up, food prices are going up, homes/cars are insanely expensive and…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://infostormer.com/us-debt-now-exceeds-100-percent-of-gdp",
+        "publishedAt": "2026-05-02T10:39:53.000Z",
+        "description": "https infostormer com us debt now exceeds 100 percent of gdp there is nothing good happening in the economy gas prices are going up food prices are going up homes cars are insanely expensive and the currency continues to buy less and less i m just going to keep stacking gold and silver this entire fake jewish economic system is fubar",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a1762ccea73"
+      },
+      {
+        "headline": "Russian Forces Liberate Settlement of Miropolye in Sumy Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260502/russian-forces-liberate-settlement-of-miropolye-in-sumy-region-1124073823.html",
+        "publishedAt": "2026-05-02T10:42:24.000Z",
+        "description": "russian forces liberate settlement of miropolye in sumy region from sputnik moscow sputnik russian armed forces have liberated the settlement of miropolye in sumy region the russian defense ministry said on saturday may 2nd 2026 5 53am edt source link https sputnikglobe com 20260502 russian forces liberate settlement of miropolye in sumy region 1124073823 html share promote comment with nostr https dissentwatch com boost boost post id 1133054",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "9f48c29c92aa"
+      },
+      {
+        "headline": "Pentagon strikes deals with top AI companies",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/639359-pentagon-ai-spacex-anthropic",
+        "publishedAt": "2026-05-02T09:50:29.000Z",
+        "description": "pentagon strikes deals with top ai companies from rt anthropic which the us department of war designated a supply chain risk earlier this year was not part of the agreement the pentagon has said that it has reached deals with major artificial intelligence firms to integrate their advanced ai capabilities into the agency s classified networks the us department of war has been actively negotiating with may 2nd 2026 4 41am edt source link https www rt com news 639359 pentagon ai spacex anthropic utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1133041",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bca664023327"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 144
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 87
+    }
+  ],
+  "failures": []
+}
