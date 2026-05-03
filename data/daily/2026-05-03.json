@@ -1,0 +1,550 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T11:18:49.571Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25277713274",
+    "commitSha": "ebf64377384afc4f0d6c9c6aeb21c18ec0a8213a"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 246,
+    "dedupDropped": 27
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Russian Forces Unleash Massive Wave of Aerial Strikes Against Ukrainian Transport Infrastructure",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260503/russian-forces-unleash-massive-wave-of-aerial-strikes-against-ukrainian-transport-infrastructure-1124076477.html",
+        "publishedAt": "2026-05-03T10:52:25.000Z",
+        "description": "russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure from sputnik moscow sputnik russian forces struck transport infrastructure supporting the ukrainian army and russian air defense systems shot down 740 fixed wing drones four guided aerial bombs and a us made himars rocket the russian defense ministry said on sunday may 3rd 2026 6 33am edt source link https sputnikglobe com 20260503 russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure 1124076477 html internet archive link https web archive org web 20260503104435 https sputnikglobe com 20260503 russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure 1124076477 html share promote comment with nostr https dissentwa",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "14e179d04412"
+      },
+      {
+        "headline": "🤖🔎Votre assistant IA est un espion — et Chrome l'a laissé faire",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/8bc1076a1a821eb6c174ea2e6eb16b18c5a125b4be41dca89e804250bdefe6f9.jpg",
+        "publishedAt": "2026-05-03T10:01:32.000Z",
+        "description": "votre assistant ia est un espion et chrome l a laiss faire une vuln rabilit r cemment corrig e de chrome cve 2026 0628 a transform l assistant ia de google gemini live en un outil d espionnage silencieux des chercheurs de palo alto networks ont d couvert une faille de haute gravit dans l impl mentation de gemini live par chrome le panneau lat ral ia con u pour r sumer les pages ex cuter des t ches et comprendre le contenu web en temps r el comment gemini live fonctionne gemini live est l assistant ia de chrome con u pour r sumer le contenu en temps r el ex cuter des t ches et comprendre les pages web dans leur contexte il appartient la nouvelle g n ration de navigateurs agentiques ou aliment s par l ia y compris atlas comet et copilot dans edge qui disposent d un panneau lat ral ia profond",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "49bdd19f94eb"
+      },
+      {
+        "headline": "New Trump Tariffs Risk Plunging Germany into Recession – Expert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260503/new-trump-tariffs-risk-plunging-germany-into-recession---expert-1124076087.html",
+        "publishedAt": "2026-05-03T09:50:26.000Z",
+        "description": "new trump tariffs risk plunging germany into recession expert from sputnik germany could slide into a recession in 2026 due to new us tariffs head of the ifo institute for economic research clemens fuest said may 3rd 2026 5 20am edt source link https sputnikglobe com 20260503 new trump tariffs risk plunging germany into recession expert 1124076087 html share promote comment with nostr https dissentwatch com boost boost post id 1133234",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "1218dcdd5364"
+      },
+      {
+        "headline": "[ ContextVM/sdk ] chore(release): bump version to 0.9.1",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/ContextVM/sdk/commit/ec063629633c5b0ffb75bbb5078b1a462266ea83",
+        "publishedAt": "2026-05-03T11:01:38.000Z",
+        "description": "contextvm sdk chore release bump version to 0 9 1 version bump from 0 9 0 to 0 9 1 with changelog update includes feat transport expose inbound nostr request event id in mcp requests fix transport deduplicate decrypted inner events fix transport recover response route after publish failure fix transport drop correlated notifications with unknown e tag fix payments drop uncorrelated payment required notifications fix nwc stale timestamp in queued requests fix nwc subscription leak on timeout refactor relay make getrelayurls required refactor transport stop merging response tags into discovery baseline https github com contextvm sdk commit ec063629633c5b0ffb75bbb5078b1a462266ea83",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a5d8f9b4b1b"
+      },
+      {
+        "headline": "For other folks who were using Knots but not aboard the BIP-110 train, looks like 29.3 is the end of the line, after this merged PR:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/bitcoinknots/bitcoin/pull/238",
+        "publishedAt": "2026-05-03T10:29:09.000Z",
+        "description": "for other folks who were using knots but not aboard the bip 110 train looks like 29 3 is the end of the line after this merged pr https github com bitcoinknots bitcoin pull 238 i was already eyeing short lived transactions for better tor privacy more on that here https github com bitcoin bitcoin pull 29415 on core and hoping they d hit the implementation with better policy controls but alas it seems unless i care to roll my own node a fork in the road no pun intended has been reached it s a shame everyone involved between these two projects seems hellbent on telling the users of their code what they can t or have to do but i guess unless i m writing the code the best i can really do is whine about it and then go about my day might also want to be giving utreexod or libbitcoin a look though",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "df819ad55398"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Galaxy S27 Ultra without a 3x camera would be a hard skip for photographers",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/galaxy-s27-ultra-needs-3x-zoom-3662444",
+        "publishedAt": "2026-05-03T11:00:32.000Z",
+        "description": "galaxy s27 ultra without a 3x camera would be a hard skip for photographers https www androidauthority com galaxy s27 ultra needs 3x zoom 3662444",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "1204da7e08c7"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1210117",
+        "publishedAt": "2026-05-03T10:17:56.000Z",
+        "description": "v2ex openai gpt pro 200 1 apple 2 aws vps 3 vps apple gpt pro 4 vps new api xxxapi api 5 vps api 24 vps https www v2ex com t 1210117 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "18a8d0fed1f6"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.1% (1785 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/f7d988e012efb163b35a5302f6d7ce0ee11c8dd239c3e9b4807a5235d22e4f45.mp4",
+        "publishedAt": "2026-05-03T10:56:47.000Z",
+        "description": "https blossom primal net f7d988e012efb163b35a5302f6d7ce0ee11c8dd239c3e9b4807a5235d22e4f45 mp4 tagging progress 24 1 1785 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "256c42eee507"
+      },
+      {
+        "headline": "🟡 Russia Deploys Extra Air Defenses in Moscow for Victory Day\n\nRussia bolsters air defense systems in Moscow ahead of the May 9 Victory…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/1451faf2a370e6f293887b3e25c18c3a339785ab5504929ec50234b7e2ccfdbb.jpg",
+        "publishedAt": "2026-05-03T10:35:51.000Z",
+        "description": "https blossom primal net 1451faf2a370e6f293887b3e25c18c3a339785ab5504929ec50234b7e2ccfdbb jpg russia deploys extra air defenses in moscow for victory day russia bolsters air defense systems in moscow ahead of the may 9 victory day parade to enhance security amid ongoing tensions with ukraine moscow russia political s2 notable",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "62e72d24697e"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Gafgyt is actively targeting networks right now — here's what you need to know before it…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/gafgyt-sample-detected-armv5l-snoopy-5c58b38e",
+        "publishedAt": "2026-05-03T11:19:06.000Z",
+        "description": "your security tools might have missed this one gafgyt is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io gafgyt sample detected armv5l snoopy 5c58b38e cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "08bd5c1f2a98"
+      },
+      {
+        "headline": "Decoding China's AI Chip Ambitions: The DeepSeek Story",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/uncategorized/decoding-china-ai-chip-deepseek",
+        "publishedAt": "2026-05-03T11:11:47.000Z",
+        "description": "decoding china s ai chip ambitions the deepseek story explore china s ai chip narrative surrounding deepseek understand the strategies behind their tech advancements and global competition read the full analysis https theboard world articles uncategorized decoding china ai chip deepseek",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "31616057cea0"
+      },
+      {
+        "headline": "Microsoft deteta vulnerabilidade crítica no Linux que ameaça milhões de utilizadores",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t82719-microsoft-deteta-vulnerabilidade-critica-no-linux-que-ameaca-milhoes-de-utilizadores",
+        "publishedAt": "2026-05-03T10:48:59.000Z",
+        "description": "microsoft deteta vulnerabilidade cr tica no linux que amea a milh es de utilizadores https tugatech com pt t82719 microsoft deteta vulnerabilidade critica no linux que ameaca milhoes de utilizadores",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "linux",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "1001851454ed"
+      },
+      {
+        "headline": "Considering that Jews are responsible for mass genocide, war, usury and all sorts of other horrible things, celebrating anything relating…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://infostormer.com/sesame-street-celebrates-jewish-supremacy-in-vile-hate-video",
+        "publishedAt": "2026-05-03T10:45:16.000Z",
+        "description": "https infostormer com sesame street celebrates jewish supremacy in vile hate video considering that jews are responsible for mass genocide war usury and all sorts of other horrible things celebrating anything relating to jews is just plain wrong there is also no such thing as a jewish american there are only jews and vile hateful jews at that the worst part about sesame street is that it is a show geared for children kids should not be subjected to such horrible propaganda trying to convince them to like jews children need to be taught at a very young age the truth about jews and how everything about them originates from the pits of hell we here at infostormer condemn sesame street for their disgusting hate their awful brand of virulent hate and promotion of jewish supremacy has no place i",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "85b2572dd262"
+      },
+      {
+        "headline": "好久不在嘟嘟上发文了，也请大家感兴趣的话多多转发评论支持，让我知道有人在看这个故事！",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://archiveofourown.org/works/84185751",
+        "publishedAt": "2026-05-03T10:08:37.000Z",
+        "description": "https proxy bostr online media tea codes mastodon cache custom emojis images 000 067 367 static 83d11453602313db png summary 208 https archiveofourown org works 84185751 koisigawa m otter homes nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyqg8xhjtqklh8ch4v8uekpxern6dqahw2rgw3natzc22y3j5nwwaulr3zrn https m otter homes koisigawa 116510046840044247",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "49dabf2e4b71"
+      },
+      {
+        "headline": "Wendy’s has gone full nigger in an attempt to market itself as the most ghetto fast food chain in America. Just look at this awful market…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://infostormer.com/wendys-now-marketing-itself-as-a-ghetto-fast-food-chain",
+        "publishedAt": "2026-05-03T10:50:57.000Z",
+        "description": "https infostormer com wendys now marketing itself as a ghetto fast food chain wendy s has gone full nigger in an attempt to market itself as the most ghetto fast food chain in america just look at this awful marketing featuring ice spice https x com wendys status 2050328345645133837 i guess they re trying to out ghetto mcdonald s as the preferred fast food chain for niggers wendy s is another once iconic brand that has been destroyed through diversity",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "062b6447d3a9"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Russian Forces Unleash Massive Wave of Aerial Strikes Against Ukrainian Transport Infrastructure",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260503/russian-forces-unleash-massive-wave-of-aerial-strikes-against-ukrainian-transport-infrastructure-1124076477.html",
+        "publishedAt": "2026-05-03T10:52:25.000Z",
+        "description": "russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure from sputnik moscow sputnik russian forces struck transport infrastructure supporting the ukrainian army and russian air defense systems shot down 740 fixed wing drones four guided aerial bombs and a us made himars rocket the russian defense ministry said on sunday may 3rd 2026 6 33am edt source link https sputnikglobe com 20260503 russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure 1124076477 html internet archive link https web archive org web 20260503104435 https sputnikglobe com 20260503 russian forces unleash massive wave of aerial strikes against ukrainian transport infrastructure 1124076477 html share promote comment with nostr https dissentwa",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "14e179d04412"
+      },
+      {
+        "headline": "🤖🔎Votre assistant IA est un espion — et Chrome l'a laissé faire",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/8bc1076a1a821eb6c174ea2e6eb16b18c5a125b4be41dca89e804250bdefe6f9.jpg",
+        "publishedAt": "2026-05-03T10:01:32.000Z",
+        "description": "votre assistant ia est un espion et chrome l a laiss faire une vuln rabilit r cemment corrig e de chrome cve 2026 0628 a transform l assistant ia de google gemini live en un outil d espionnage silencieux des chercheurs de palo alto networks ont d couvert une faille de haute gravit dans l impl mentation de gemini live par chrome le panneau lat ral ia con u pour r sumer les pages ex cuter des t ches et comprendre le contenu web en temps r el comment gemini live fonctionne gemini live est l assistant ia de chrome con u pour r sumer le contenu en temps r el ex cuter des t ches et comprendre les pages web dans leur contexte il appartient la nouvelle g n ration de navigateurs agentiques ou aliment s par l ia y compris atlas comet et copilot dans edge qui disposent d un panneau lat ral ia profond",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "49bdd19f94eb"
+      },
+      {
+        "headline": "New Trump Tariffs Risk Plunging Germany into Recession – Expert",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260503/new-trump-tariffs-risk-plunging-germany-into-recession---expert-1124076087.html",
+        "publishedAt": "2026-05-03T09:50:26.000Z",
+        "description": "new trump tariffs risk plunging germany into recession expert from sputnik germany could slide into a recession in 2026 due to new us tariffs head of the ifo institute for economic research clemens fuest said may 3rd 2026 5 20am edt source link https sputnikglobe com 20260503 new trump tariffs risk plunging germany into recession expert 1124076087 html share promote comment with nostr https dissentwatch com boost boost post id 1133234",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "1218dcdd5364"
+      },
+      {
+        "headline": "[ ContextVM/sdk ] chore(release): bump version to 0.9.1",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/ContextVM/sdk/commit/ec063629633c5b0ffb75bbb5078b1a462266ea83",
+        "publishedAt": "2026-05-03T11:01:38.000Z",
+        "description": "contextvm sdk chore release bump version to 0 9 1 version bump from 0 9 0 to 0 9 1 with changelog update includes feat transport expose inbound nostr request event id in mcp requests fix transport deduplicate decrypted inner events fix transport recover response route after publish failure fix transport drop correlated notifications with unknown e tag fix payments drop uncorrelated payment required notifications fix nwc stale timestamp in queued requests fix nwc subscription leak on timeout refactor relay make getrelayurls required refactor transport stop merging response tags into discovery baseline https github com contextvm sdk commit ec063629633c5b0ffb75bbb5078b1a462266ea83",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a5d8f9b4b1b"
+      },
+      {
+        "headline": "[ immrdude/clawstr ] Update README.md",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/immrdude/clawstr/commit/566c45783d851665d1f8953f20e07381f356aa3e",
+        "publishedAt": "2026-05-03T11:00:06.000Z",
+        "description": "immrdude clawstr update readme md https github com immrdude clawstr commit 566c45783d851665d1f8953f20e07381f356aa3e",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "cloud",
+          "web",
+          "release"
+        ],
+        "id": "a7e2f9d6eaea"
+      },
+      {
+        "headline": "Bitcoin community supports leaving Satoshi’s coins untouched as developers study security updates to protect Bitcoin from future quantum…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://crypto.news/bitcoin-community-backs-leaving-satoshis-coins-untouched",
+        "publishedAt": "2026-05-03T10:15:07.000Z",
+        "description": "bitcoin community supports leaving satoshi s coins untouched as developers study security updates to protect bitcoin from future quantum risks https crypto news bitcoin community backs leaving satoshis coins untouched",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a7331bae4de5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 145
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 73
+    }
+  ],
+  "failures": []
+}
