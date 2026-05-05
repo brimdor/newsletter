@@ -1,0 +1,595 @@
+{
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T11:32:56.756Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25373848758",
+    "commitSha": "c17bc1aa9ab9c6f1496e56503626e274c034cf88"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 235,
+    "dedupDropped": 17
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production — government seeking to localize critical c…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions",
+        "publishedAt": "2026-05-05T11:06:00.000Z",
+        "description": "china pushes for 70 homegrown silicon wafer use as domestic firm ramps up 12 inch production government seeking to localize critical chip supply chain amid ai boom and export restrictions https www tomshardware com tech industry semiconductors china pushes for 70 percent homegrown silicon wafer use as domestic firm ramps up 12 inch production government seeking to localize critical chip supply chain amid ai boom and export restrictions",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c327f2db9c6c"
+      },
+      {
+        "headline": "Whitepaper v1.2 of SDA Token (MiCA, Helsinki/Finland) is live.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sdafintech.com/documentation/whitepaper",
+        "publishedAt": "2026-05-05T11:02:21.000Z",
+        "description": "whitepaper v1 2 of sda token mica helsinki finland is live two issuer authorities over the sda spl token 2022 mint were burned at mint mint authority and metadata update authority both verifiable on chain today two more freeze authority transfer hook authority burn on 25 may 2026 after that every sda in self custody answers only to its holder compliance enforcement sits with exchanges custodians or court process not in the token verify spl token display sdamxfpgagmtxtqctcvr4yi2kbwefxtlf2xu4olfw4b url mainnet beta https sdafintech com documentation whitepaper sda mica solana non custodial",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "sda",
+          "mica",
+          "solana",
+          "non"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "843bafa6a81d"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+        "publishedAt": "2026-05-05T11:05:34.000Z",
+        "description": "actu tech the hacker news nous avons analys 1 million de services d ia expos s voici quel point la s curit est r ellement mauvaise alors que l industrie du logiciel a fait de r els progr s ces derni res d cennies pour offrir des produits s curis s le rythme effr n d adoption de l ia met ces avanc es en danger les entreprises se pr cipitent pour h berger elles m mes des infrastructures llm attir es par la promesse de l ia comme multiplicateur de force et la pression pour fournir plus de valeur plus rapidement publi le 5 mai 2026 12 30 nostfr https blogger googleusercontent com img b r29vz2xl avvxsejjcsh4td vt 40wbni ieccy9etwtsapkvexzvqjrdvnl0rtig xxwsygebxaip7y4saszakczaspql6vtrnhrhuld71drq3gr y9ppzoeeq4jzkdgorqe26iy7zcrp0tyc h8eypjyemkyjlophh6fnhgnb0znrqmier4jb4nmxo2a 4j2dumosqgkbo s1600 ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b416052517eb"
+      },
+      {
+        "headline": "📢 We are delighted to announce that the Blockchain Associations Forum (#BAF) 6th Annual Summit will take place on 9 September 2026.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/422bb4df5d64fdc1c243c94d5650770f2872cb0c77ba9735ec761943404c9aad.jpg",
+        "publishedAt": "2026-05-05T11:17:40.000Z",
+        "description": "we are delighted to announce that the blockchain associations forum baf 6th annual summit will take place on 9 september 2026 dubbed the united nations of blockchain baf is a unique global consortium of blockchain associations from 52 countries across six continents the world s largest trans national think tank dedicated to advancing blockchain web3 and digital asset technologies each year the summit brings together policymakers regulators national association leaders academics and industry pioneers to share progress exchange policy insights and shape the future of responsible technology adoption worldwide to understand the breadth and depth of the baf s global impact take a moment to scroll through the attached six years of summits policy contributions research and international partnersh",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "baf",
+          "policymakers",
+          "leaders",
+          "industry",
+          "baf2026",
+          "blockchain",
+          "web3",
+          "digitalassets",
+          "policy",
+          "bba"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "78680e2272ae"
+      },
+      {
+        "headline": "Hernando de Soto discovered why billions of people remain trapped in poverty despite owning valuable assets: their property exists outsid…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/9ad54d999b59eaf8245886c6fbb441d8ed4b01737f4190af7b759c57721cab09.png",
+        "publishedAt": "2026-05-05T11:24:47.000Z",
+        "description": "hernando de soto discovered why billions of people remain trapped in poverty despite owning valuable assets their property exists outside formal legal systems making it economically dead in peru de soto s researchers found that obtaining legal title to a home in lima required 728 bureaucratic steps across 52 government offices taking 6 years and 11 months the cost exceeded 1 200 when average income was 4 800 annually similar barriers plague the developing world in the philippines titling urban land takes 13 25 years in egypt acquiring legal rights to desert land requires navigating 77 bureaucratic procedures over 14 years this creates a parallel economy where people own homes farms and businesses but cannot leverage them as capital you cannot mortgage an untitled house to start a business ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "economy",
+          "libertarian"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "news"
+        ],
+        "id": "98f17fdce2fb"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "[ SiamDevTeam/ZapPOS ] feat: Refactor MainMenu UI and optimize search filtering",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/SiamDevTeam/ZapPOS/commit/92dcfa584e31aeb977094d21c45d0e0767243cde",
+        "publishedAt": "2026-05-05T11:03:39.000Z",
+        "description": "siamdevteam zappos feat refactor mainmenu ui and optimize search filtering https github com siamdevteam zappos commit 92dcfa584e31aeb977094d21c45d0e0767243cde",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "05f536d56744"
+      },
+      {
+        "headline": "«Nscale e Microsoft reforçam investimento em Sines com mais 66 mil processadores da Nvidia",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://expresso.pt/ia-inteligencia-artificial/2026-05-05-nscale-e-microsoft-reforcam-investimento-em-sines-com-mais-66-mil-processadores-da-nvidia-6ee1da5c",
+        "publishedAt": "2026-05-05T11:10:33.000Z",
+        "description": "nscale e microsoft refor am investimento em sines com mais 66 mil processadores da nvidia no final de 2027 o centro de dados de sines receber mais 66 mil processadores da gigante nvidia para alimentar a intelig ncia artificial da microsoft s as infraestruturas para essa expans o envolvem um investimento de quase 700 milh es da brit nica nscale o mundo t o curioso e rid culo ao mesmo tempo h um par de anos os mesmos pol ticos e jornalistas que criticavam as empresas de minera o de bitcoin hoje j elogiam a nscale uma empresa que nasceu dentro da arkon energy uma mineradora de bitcoin o mesmo estado que criou um imposto absurdo para impedir a viabilidade econ mica da mineradoras de bitcoin em territ rio portugu s o mesmo estado que d enorme incentivos fiscais para garantir os investimentos da",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "mobile",
+          "hardware",
+          "vendors",
+          "news"
+        ],
+        "id": "e5127cbab80f"
+      },
+      {
+        "headline": "Can your coding style predict whether your code is vulnerable?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.helpnetsecurity.com/2026/05/05/research-code-stylometry-vulnerability-detection",
+        "publishedAt": "2026-05-05T11:27:55.000Z",
+        "description": "can your coding style predict whether your code is vulnerable https www helpnetsecurity com 2026 05 05 research code stylometry vulnerability detection",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "981bad5f1313"
+      },
+      {
+        "headline": "📌 Cyber Girls: Christmas Balls Now Available on All Bookshops — The story has a renewed look and is now available on all bookshops. Sear…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://futagen.com/cyber-girls-christmas-balls-now-available-on-all-bookshops",
+        "publishedAt": "2026-05-05T11:27:10.000Z",
+        "description": "cyber girls christmas balls now available on all bookshops the story has a renewed look and is now available on all bookshops search for it or just get it directly from the mythography shop https futagen com cyber girls christmas balls now available on all bookshops",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f9df48fe103b"
+      },
+      {
+        "headline": "**This Is What Makes You Irresistible to Mosquitoes**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/this-is-what-makes-you-irresistible-to-mosquitoes",
+        "publishedAt": "2026-05-05T11:16:06.000Z",
+        "description": "this is what makes you irresistible to mosquitoes by georgia institute of technology published on 05 may 2026 mosquitoes aren t chasing each other they re all drawn to the same invisible signals that lead straight to you after observing hundreds of mosquitoes circling a human subject and analyzing roughly 20 million data points researchers from georgia tech and the massachusetts institute of technology developed a mathematical model that predicts how female mosquitoes locate and approach read more https scitechdaily com this is what makes you irresistible to mosquitoes mosquitobiology entomology vectorbornedisease insectcontrol parasitebehavior science georgiainstituteoftechnology mosquito",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "ecf47027ccd1"
+      },
+      {
+        "headline": "Your security tools might have missed this one. PhantomStealer is actively targeting networks right now — here's what you need to know be…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/phantomstealer-sample-detected-po-283974863-r0-s-0908273-exe-790945e1",
+        "publishedAt": "2026-05-05T11:20:00.000Z",
+        "description": "your security tools might have missed this one phantomstealer is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io phantomstealer sample detected po 283974863 r0 s 0908273 exe 790945e1 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "0ff8778e6a36"
+      },
+      {
+        "headline": "呜呜，我会从善良阵营被开除。我不配做人权斗士的中立善良，我可能只是善恶、守混都不靠的中立-善良-，不够善良也不够混乱，我连被抓都没，算什么混沌（骂共好像也算混沌？）。",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bilibili.com/video/BV1MbtEzWETj",
+        "publishedAt": "2026-05-05T11:19:02.000Z",
+        "description": "https www bilibili com video bv1mbtezwetj verified anitya go5 dev nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyz4x9wq235fsec8dtssyxu7qa4c4033fmgh4dwk0usk0wfql5hgts3mnltg https go5 dev anitya 116521689557878649",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "adc3a68739da"
+      },
+      {
+        "headline": "雞排店要吉了嗎��還是會被消費者集體訴訟？",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://videocardz.com/newz/designed-too-close-to-fail-gigabyte-rtx-5090-repair-points-to-tiny-resistor-issue",
+        "publishedAt": "2026-05-05T10:58:41.000Z",
+        "description": "northwestrepair rtx 5090 https videocardz com newz designed too close to fail gigabyte rtx 5090 repair points to tiny resistor issue https videocardz com newz designed too close to fail gigabyte rtx 5090 repair points to tiny resistor issue ryan he ryanhe mistyreverie org nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyqsg2emqc6fl25sqh9ae3v6udla2dtufaeft4cuap9grzvatwm666qn33fa https mistyreverie org notes alw2rfry0j2z00eo",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "b22430899d11"
+      },
+      {
+        "headline": "跑团等于找陌生人做游戏搭子。",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bilibili.com/video/BV1NFozYiESq",
+        "publishedAt": "2026-05-05T10:28:41.000Z",
+        "description": "kp kp kp pl https www bilibili com video bv1nfozyiesq verified anitya go5 dev nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyz4x9wq235fsec8dtssyxu7qa4c4033fmgh4dwk0usk0wfql5hgts3mnltg https go5 dev anitya 116521481836709301",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7ee970abfb2d"
+      },
+      {
+        "headline": "#edge stocke les mot de passe en clair... mais tout va bien... #nostrfr #security #cybersecurity",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://x.com/i/status/2051406295828250963",
+        "publishedAt": "2026-05-05T10:33:38.000Z",
+        "description": "edge stocke les mot de passe en clair mais tout va bien nostrfr security cybersecurity https x com i status 2051406295828250963",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "edge",
+          "nostrfr",
+          "security",
+          "cybersecurity"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "4b52f82d4a13"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "China pushes for 70% homegrown silicon wafer use as domestic firm ramps up 12-inch production — government seeking to localize critical c…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-pushes-for-70-percent-homegrown-silicon-wafer-use-as-domestic-firm-ramps-up-12-inch-production-government-seeking-to-localize-critical-chip-supply-chain-amid-ai-boom-and-export-restrictions",
+        "publishedAt": "2026-05-05T11:06:00.000Z",
+        "description": "china pushes for 70 homegrown silicon wafer use as domestic firm ramps up 12 inch production government seeking to localize critical chip supply chain amid ai boom and export restrictions https www tomshardware com tech industry semiconductors china pushes for 70 percent homegrown silicon wafer use as domestic firm ramps up 12 inch production government seeking to localize critical chip supply chain amid ai boom and export restrictions",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c327f2db9c6c"
+      },
+      {
+        "headline": "Whitepaper v1.2 of SDA Token (MiCA, Helsinki/Finland) is live.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sdafintech.com/documentation/whitepaper",
+        "publishedAt": "2026-05-05T11:02:21.000Z",
+        "description": "whitepaper v1 2 of sda token mica helsinki finland is live two issuer authorities over the sda spl token 2022 mint were burned at mint mint authority and metadata update authority both verifiable on chain today two more freeze authority transfer hook authority burn on 25 may 2026 after that every sda in self custody answers only to its holder compliance enforcement sits with exchanges custodians or court process not in the token verify spl token display sdamxfpgagmtxtqctcvr4yi2kbwefxtlf2xu4olfw4b url mainnet beta https sdafintech com documentation whitepaper sda mica solana non custodial",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "sda",
+          "mica",
+          "solana",
+          "non"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "843bafa6a81d"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+        "publishedAt": "2026-05-05T11:05:34.000Z",
+        "description": "actu tech the hacker news nous avons analys 1 million de services d ia expos s voici quel point la s curit est r ellement mauvaise alors que l industrie du logiciel a fait de r els progr s ces derni res d cennies pour offrir des produits s curis s le rythme effr n d adoption de l ia met ces avanc es en danger les entreprises se pr cipitent pour h berger elles m mes des infrastructures llm attir es par la promesse de l ia comme multiplicateur de force et la pression pour fournir plus de valeur plus rapidement publi le 5 mai 2026 12 30 nostfr https blogger googleusercontent com img b r29vz2xl avvxsejjcsh4td vt 40wbni ieccy9etwtsapkvexzvqjrdvnl0rtig xxwsygebxaip7y4saszakczaspql6vtrnhrhuld71drq3gr y9ppzoeeq4jzkdgorqe26iy7zcrp0tyc h8eypjyemkyjlophh6fnhgnb0znrqmier4jb4nmxo2a 4j2dumosqgkbo s1600 ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b416052517eb"
+      },
+      {
+        "headline": "📢 We are delighted to announce that the Blockchain Associations Forum (#BAF) 6th Annual Summit will take place on 9 September 2026.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/422bb4df5d64fdc1c243c94d5650770f2872cb0c77ba9735ec761943404c9aad.jpg",
+        "publishedAt": "2026-05-05T11:17:40.000Z",
+        "description": "we are delighted to announce that the blockchain associations forum baf 6th annual summit will take place on 9 september 2026 dubbed the united nations of blockchain baf is a unique global consortium of blockchain associations from 52 countries across six continents the world s largest trans national think tank dedicated to advancing blockchain web3 and digital asset technologies each year the summit brings together policymakers regulators national association leaders academics and industry pioneers to share progress exchange policy insights and shape the future of responsible technology adoption worldwide to understand the breadth and depth of the baf s global impact take a moment to scroll through the attached six years of summits policy contributions research and international partnersh",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "baf",
+          "policymakers",
+          "leaders",
+          "industry",
+          "baf2026",
+          "blockchain",
+          "web3",
+          "digitalassets",
+          "policy",
+          "bba"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "78680e2272ae"
+      },
+      {
+        "headline": "Un jour, un profil Nostr Map !",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/p/rgv9mjzenmfj",
+        "publishedAt": "2026-05-05T11:17:51.000Z",
+        "description": "un jour un profil nostr map aujourd hui cap sur les toiles avec nostr nprofile1qythwumn8ghj7cnfw33k76twv4ezuum0vd5kzmp0qyw8wumn8ghj7cmgwf5hxarsd9kxctnwdaehgu339e3k7mf0qqsp5xzaepvea5ett9575tmlxwchjvgdef0ecmgzfaj82dcux6val0qu945vc sur nostr certains profils d battent commentent ou relaient l actualit astronostr lui ouvre une fen tre sur l espace actif depuis 2025 ce profil francophone partage un regard curieux et contemplatif sur l astronomie images nasa astrophotographie missions spatiales lune mars soleil n buleuses et galaxies un compte visuel p dagogique bien sourc qui apporte un peu de vertige cosmique dans le fil nostr https nostrmap fr p rgv9mjzenmfj",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "424900ab19ce"
+      },
+      {
+        "headline": "Painful Payback: Russia Unleashes Hellfire on Ukraine’s Defense & Energy Grids",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260505/painful-payback-russia-unleashes-hellfire-on-ukraines-defense--energy-grids-1124081308.html",
+        "publishedAt": "2026-05-05T10:48:24.000Z",
+        "description": "painful payback russia unleashes hellfire on ukraine s defense energy grids from sputnik the russian armed forces carried out a retaliatory strike over the past 24 hours against ukrainian defense industry and energy infrastructure facilities used in the interests of the ukrainian armed forces russia s defense ministry said may 5th 2026 6 43am edt source link https sputnikglobe com 20260505 painful payback russia unleashes hellfire on ukraines defense energy grids 1124081308 html share promote comment with nostr https dissentwatch com boost boost post id 1133754",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "f4f2d89cb519"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 152
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 66
+    }
+  ],
+  "failures": []
+}
