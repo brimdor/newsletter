@@ -1,0 +1,624 @@
+{
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T11:38:25.260Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25432953190",
+    "commitSha": "5696b893e9279df43e577718c7ecdfce522f8178"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 201,
+    "dedupDropped": 17
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Google Chrome Under Fire for Unauthorized 4GB AI Model Download",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/google-chrome-faces-privacy-backlash-over-unauthorized-ai-downloads",
+        "publishedAt": "2026-05-06T11:29:25.000Z",
+        "description": "google chrome under fire for unauthorized 4gb ai model download google chrome is facing a privacy backlash after reports revealed it s automatically downloading a 4gb ai model gemini nano without explicit user consent security researcher alexander hanff discovered that the weights bin file powering on device ai is re downloaded even if deleted this silent download raises concerns about bandwidth costs energy consumption and user environment integrity hanff suggests potential violations of eu s eprivacy directive and gdpr the incident highlights a growing divide between centralized ai deployment and the privacy focus of decentralized technologies users are advised to remain vigilant about background processes of centralized applications https cryptovka com news google chrome faces privacy b",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e64b936ad9db"
+      },
+      {
+        "headline": "This is what I see every time I open F-Droid (to be frank not exactly, I see the link only - but doesn't matter).",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://keepandroidopen.org/",
+        "publishedAt": "2026-05-06T11:16:32.000Z",
+        "description": "this is what i see every time i open f droid to be frank not exactly i see the link only but doesn t matter fuck google https keepandroidopen org android free foss f droid google opensource",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "free",
+          "foss",
+          "f-droid",
+          "google",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "6763a203aaec"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/macaitools/r2-client-lite",
+        "publishedAt": "2026-05-06T10:53:25.000Z",
+        "description": "v2ex 2 2m macos cloudflare r2 s3 r2desk ai 6 r2desk macos s3 cloudflare r2 swift bucket browser https raw githubusercontent com macaitools r2 client lite main screens 01 bucket browser png add bucket https raw githubusercontent com macaitools r2 client lite main screens 02 add bucket png upload flow https raw githubusercontent com macaitools r2 client lite main screens 03 upload flow png cloudflare r2 s3 endpoint bucket bucket bucket s3 prefix object key s3 r2 1 presigned size etag content type metadata macos secret access key macos keychain ad hoc apple developer macos https www v2ex com t 1210633 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "1dc3d53a1f10"
+      },
+      {
+        "headline": "Someone on your team opened an Excel file 10 minutes ago. Their browser passwords, email credentials, and keystrokes are already being se…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/formbook-sample-detected-purchase-order-350088-exe-ead0a612",
+        "publishedAt": "2026-05-06T11:19:47.000Z",
+        "description": "someone on your team opened an excel file 10 minutes ago their browser passwords email credentials and keystrokes are already being sent to a server in eastern europe full analysis https threatchain io formbook sample detected purchase order 350088 exe ead0a612 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "414640030e0d"
+      },
+      {
+        "headline": "Google Nest Hub Max is 9% OFF.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://smarthomecompared.com/voice-assistants",
+        "publishedAt": "2026-05-06T11:31:07.000Z",
+        "description": "google nest hub max is 9 off now 299 99 reg 331 00 more voice assistants deals at https smarthomecompared com voice assistants smarthome",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3b4b14cb6e20"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "The Pentagon is expanding use of AI in military systems with major firms including OpenAI, Google, Microsoft, and Amazon, while Anthropic…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.techradar.com/ai-platforms-assistants/7-of-the-biggest-names-in-ai-including-openai-google-microsoft-and-amazon-are-now-moving-into-military-systems-but-one-major-player-is-missing-from-the-list-and-that-raises-uncomfortable-questions-about-where-this-technology-is-heading",
+        "publishedAt": "2026-05-06T10:30:19.000Z",
+        "description": "the pentagon is expanding use of ai in military systems with major firms including openai google microsoft and amazon while anthropic is not part of the effort https www techradar com ai platforms assistants 7 of the biggest names in ai including openai google microsoft and amazon are now moving into military systems but one major player is missing from the list and that raises uncomfortable questions about where this technology is heading",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c99369dfc808"
+      },
+      {
+        "headline": "Researchers showed Rowhammer attacks on NVIDIA Ampere GPUs that can flip GDDR bits and gain control of host CPU memory. One attack report…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
+        "publishedAt": "2026-05-06T11:30:17.000Z",
+        "description": "researchers showed rowhammer attacks on nvidia ampere gpus that can flip gddr bits and gain control of host cpu memory one attack reportedly works even with iommu enabled https www schneier com blog archives 2026 05 rowhammer attack against nvidia chips html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "05769654b226"
+      },
+      {
+        "headline": "Goldman Sachs is connecting AI to inflation. Three vectors:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/9e6814cb0b0b47ebfe185d782e0936adc481c944a97f031a684a4590bc8812cc.png",
+        "publishedAt": "2026-05-06T11:28:34.000Z",
+        "description": "goldman sachs is connecting ai to inflation three vectors energy consumption compute infrastructure labor market premiums the mainstream story is that ai reduces costs efficiency gains automation replacing expensive labor lower prices for everyone goldman sachs is pushing back on that in the short term the buildout phase is inflationary you have to build the power grid the data centers the gpu clusters and pay the specialists before you get the efficiency energy costs are not theoretical data centers are bidding against manufacturing and residential consumers for electricity compute hardware gpus cooling systems networking is expensive and supply constrained ai specialists command salaries that reflect the scarcity of the skill three cost vectors all pushing prices higher while the efficie",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "news"
+        ],
+        "id": "2f40743e59bc"
+      },
+      {
+        "headline": "Google Chrome обвиняют в скрытой установке ИИ-модели Gemini Nano",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.ru/news/google-chrome-kritikuyut-za-skrytuyu-ustanovku-ii-modeli-gemini-nano",
+        "publishedAt": "2026-05-06T11:31:08.000Z",
+        "description": "google chrome gemini nano google chrome gemini nano 4 gdpr web3 https cryptovka ru news google chrome kritikuyut za skrytuyu ustanovku ii modeli gemini nano",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "a7698a003a49"
+      },
+      {
+        "headline": "🛢️  COMMODITIES  🔴🔴🔴  ·  via FXStreet – Commodities",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.fxstreet.com/news/wti-crude-oil-tumbles-as-prospective-us-iran-accord-eases-strait-of-hormuz-fears-202605061009",
+        "publishedAt": "2026-05-06T11:20:28.000Z",
+        "description": "commodities via fxstreet commodities wti crude oil tumbles as prospective us iran accord eases strait of hormuz fears west texas intermediate wti us oil falls sharply on wednesday and trades around 91 00 at the time of writing posting an 8 91 daily decline as markets rapidly reassess geopolitical risks in the middle east following reports from axios suggesting major progress between the 06 may 2026 13 01 sast 1 min read bearish https www fxstreet com news wti crude oil tumbles as prospective us iran accord eases strait of hormuz fears 202605061009 commodity play full charts on doh money https app doh money feature spotlight liquidity heatmap see exactly where the big buy sell walls are hiding https app doh money doh money all in one hub news journal portfolio tracker swaps https app doh mo",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "defi",
+          "web3",
+          "blockchain",
+          "cryptocurrency",
+          "investing",
+          "finance",
+          "markets",
+          "trading",
+          "cryptonews",
+          "altcoin",
+          "fintech",
+          "decentralized",
+          "commodities",
+          "oil",
+          "crudeoil",
+          "oilprice",
+          "natgas",
+          "energymarkets",
+          "wti",
+          "opec",
+          "commoditytrading"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "80bef23fdecf"
+      },
+      {
+        "headline": "Misnomer: “Bringing Privacy to Bitcoin”. Uses a shitcoin chain & has the same “con” he says is a “pro” for his DoA solution; marked UTXOs…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/SGdg7v64dPg?si=9eGPZShkva4SynPX",
+        "publishedAt": "2026-05-06T11:35:41.000Z",
+        "description": "misnomer bringing privacy to bitcoin uses a shitcoin chain has the same con he says is a pro for his doa solution marked utxos my answer use lightning ashigaru atomic swaps https youtu be sgdg7v64dpg si 9egpzshkva4synpx",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "e614d326a242"
+      },
+      {
+        "headline": "📰  CRYPTO NEWS  🟡🟡🟡  ·  via CoinDesk ✓ Verified",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies",
+        "publishedAt": "2026-05-06T11:22:19.000Z",
+        "description": "crypto news via coindesk verified bitcoin moves above 82 000 while zec and dash post double digit rallies btc 67 234 2 3 btc climbed above 82 00 as a weaker dollar lifted crypto markets while privacy coins and ai linked tokens led an altcoin rally resumen bitcoin moves above 82 000 while zec and dash post double d 06 may 2026 13 00 sast 1 min read neutral https www coindesk com markets 2026 05 06 bitcoin holds gains while zec and dash post double digit rallies https app doh money screenshots dashboard png visit doh money the real time professional crypto trading dashboard live charts whale alerts arbitrage scanner defi analytics https app doh money track btc live https app doh money trading this track it live https app doh money doh money all in one hub news journal portfolio tracker swaps",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "dohmoney",
+          "dohmoney",
+          "crypto",
+          "nostr",
+          "defi",
+          "web3",
+          "blockchain",
+          "cryptocurrency",
+          "investing",
+          "finance",
+          "markets",
+          "trading",
+          "cryptonews",
+          "altcoin",
+          "fintech",
+          "decentralized",
+          "cryptonews",
+          "cryptotwitter",
+          "altcoins",
+          "hodl",
+          "bitcoin",
+          "crypto2025",
+          "pumping",
+          "cryptomarket",
+          "bullrun",
+          "bearmarket",
+          "bitcoin",
+          "btc",
+          "btcprice"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "4aa411938eb6"
+      },
+      {
+        "headline": "🔥 STARTING TODAY OFF RIGHT WITH nostr:npub1lqvv69u549atefvcyfht30lemlyvl9jnz4l7c6ejs20yzpq7hh7sjjfx0r AND nostr:npub15c88nc8d44gsp4658dn…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://fountain.fm/episode/erAwAvq8jZ4C6Qmn55zP",
+        "publishedAt": "2026-05-06T11:31:41.000Z",
+        "description": "starting today off right with nostr npub1lqvv69u549atefvcyfht30lemlyvl9jnz4l7c6ejs20yzpq7hh7sjjfx0r and nostr npub15c88nc8d44gsp4658dnfu5fahswzzu8gaxm5lkuwjud068swdqfspxssvx from nostr npub1jcympy69pht7ptan39se4nd09e4q66qhey649uu3rczm2zh88c7s0n2890 podcast and a fat cup of fresh java always ungovernable stay free thebitcoinbrief 80 https fountain fm episode erawavq8jz4c6qmn55zp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thebitcoinbrief"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "22f28361a523"
+      },
+      {
+        "headline": "Meanwhile in germany ...",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cybernews.com/security/dnssec-failure-causes-german-internet-blackout",
+        "publishedAt": "2026-05-06T11:00:08.000Z",
+        "description": "meanwhile in germany https cybernews com security dnssec failure causes german internet blackout",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "aa101c93de73"
+      },
+      {
+        "headline": "\"We need separation of synagogue and state.\" - Americans",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/geBi1yqWhpY",
+        "publishedAt": "2026-05-06T11:37:07.000Z",
+        "description": "we need separation of synagogue and state americans israel s crusade against the noticing https youtu be gebi1yqwhpy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8ad79c6f42c2"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "This is what I see every time I open F-Droid (to be frank not exactly, I see the link only - but doesn't matter).",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://keepandroidopen.org/",
+        "publishedAt": "2026-05-06T11:16:32.000Z",
+        "description": "this is what i see every time i open f droid to be frank not exactly i see the link only but doesn t matter fuck google https keepandroidopen org android free foss f droid google opensource",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android",
+          "free",
+          "foss",
+          "f-droid",
+          "google",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "6763a203aaec"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/macaitools/r2-client-lite",
+        "publishedAt": "2026-05-06T10:53:25.000Z",
+        "description": "v2ex 2 2m macos cloudflare r2 s3 r2desk ai 6 r2desk macos s3 cloudflare r2 swift bucket browser https raw githubusercontent com macaitools r2 client lite main screens 01 bucket browser png add bucket https raw githubusercontent com macaitools r2 client lite main screens 02 add bucket png upload flow https raw githubusercontent com macaitools r2 client lite main screens 03 upload flow png cloudflare r2 s3 endpoint bucket bucket bucket s3 prefix object key s3 r2 1 presigned size etag content type metadata macos secret access key macos keychain ad hoc apple developer macos https www v2ex com t 1210633 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "1dc3d53a1f10"
+      },
+      {
+        "headline": "Resuming work on UtxoPocket. I said it multiple times last months but new projects came in. Like 4 or 5 months or so without touching it.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/strhodler/NostrCity",
+        "publishedAt": "2026-05-06T11:21:06.000Z",
+        "description": "resuming work on utxopocket i said it multiple times last months but new projects came in like 4 or 5 months or so without touching it now with first version of nostrcity released i have a couple of weeks to work on up https github com strhodler nostrcity last night i was fixing a bug and getting ready the promised 0 12 more news soon https github com strhodler utxopocket android",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "8f1008c004e8"
+      },
+      {
+        "headline": "This is what super powers must learn from US’ war against Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/639497-what-super-powers-must-learn",
+        "publishedAt": "2026-05-06T10:42:24.000Z",
+        "description": "this is what super powers must learn from us war against iran from rt from the great game to the cold war peripheral conflicts once defined great power rivalry today they increasingly signal strategic decline world politics is ceasing to resemble a sporting contest instead it s becoming something colder and harsher as a kind of race for survival and in such a contest it will not be the most may 6th 2026 6 30am edt source link https www rt com news 639497 what super powers must learn utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1134087",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "79687a38be7b"
+      },
+      {
+        "headline": "Macron veut la désacralisation des églises et son geste emblématique est de remplacer les vitraux originaux de Violet le Duc par ceux hid…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/fcd76b694525b12276f5960bbd270a061decc5b82b7db727725c8f7bd1b482e1.mp4",
+        "publishedAt": "2026-05-06T11:23:21.000Z",
+        "description": "macron veut la d sacralisation des glises et son geste embl matique est de remplacer les vitraux originaux de violet le duc par ceux hideux d une artiste qui casse les codes du sacr les fran ais y sont tous oppos s et il passe en force c est incroyable https blossom primal net fcd76b694525b12276f5960bbd270a061decc5b82b7db727725c8f7bd1b482e1 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "ff03ab117710"
+      },
+      {
+        "headline": "Pick a Random Open PR #2310",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/nostr-protocol/nips/pull/2310",
+        "publishedAt": "2026-05-06T11:26:41.000Z",
+        "description": "pick a random open pr 2310 update c7 to only allow kind 9 messages in chat views staab url https github com nostr protocol nips pull 2310",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "release"
+        ],
+        "id": "03d7bc783e2f"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 138
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 46
+    }
+  ],
+  "failures": []
+}
