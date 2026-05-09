@@ -1,0 +1,618 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T11:21:55.991Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25599894174",
+    "commitSha": "1e13febd2757ea07f139dc65ed304530b1fa197f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 269,
+    "dedupDropped": 20
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "🔴 FUITES INFOS | FÉDÉRATION FRANÇAISE DE LA MONTAGNE ET DE L'ESCALADE (FFME) #2 — Sport — 561 502 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-08-federation-francaise-de-la-montagne-et-de-l-escalade-ffme-2.png",
+        "publishedAt": "2026-05-09T11:21:10.000Z",
+        "description": "fuites infos f d ration fran aise de la montagne et de l escalade ffme 2 sport 561 502 personnes concern es 8 janvier 2026 volume revendiqu 561 502 enregistrements chantillon analys 10 000 revendication vente sur breachforums base au format type json jsonl donn es tr s r centes timestamps updatedat observ s jusqu au 28 12 2025 extraction estim e fin d cembre 2025 d but janvier 2026 nom pr nom sexe date de naissance lieu de naissance ville de naissance code d partement de naissance adresse email num ro de t l phone mobile adresse postale type de licence club structure d appartenance https nostrmap fr fuitesinfos 2026 01 2026 01 08 federation francaise de la montagne et de l escalade ffme 2 png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "069424e988e1"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | LOFT BY DENIS MOINES(SALON DE COIFFURE, PARIS) — beauté — 5 304 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-06-loft-by-denis-moines-salon-de-coiffure-paris.png",
+        "publishedAt": "2026-05-09T11:19:57.000Z",
+        "description": "fuites infos loft by denis moines salon de coiffure paris beaut 5 304 personnes concern es 6 janvier 2026 fuite confirm e publication base clients sur breachforums loftbydenismoines json pr nom nom num ro de t l phone mobile adresse email nombre de visites visitnb date de cr ation du profil createdat date de mise jour du profil updatedat https nostrmap fr fuitesinfos 2026 01 2026 01 06 loft by denis moines salon de coiffure paris png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "2e1ef556066c"
+      },
+      {
+        "headline": "A grey market in China is selling cheap Claude API access through proxy services using stolen credentials, model swapping, and collecting…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
+        "publishedAt": "2026-05-09T10:30:16.000Z",
+        "description": "a grey market in china is selling cheap claude api access through proxy services using stolen credentials model swapping and collecting user prompts and outputs for resale as ai training data https www tomshardware com tech industry artificial intelligence chinese grey market sells claude api access at 90 percent off through proxy networks that harvest user data",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7be662ff3331"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | FÉDÉRATION FRANÇAISE DE FOOTBALL AMÉRICAIN (FFFA) — Sport — 200 415 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-08-federation-francaise-de-football-americain-fffa.png",
+        "publishedAt": "2026-05-09T11:21:46.000Z",
+        "description": "fuites infos f d ration fran aise de football am ricain fffa sport 200 415 personnes concern es 8 janvier 2026 revendication vente de fuite sur breachforums de membres licenci s indices de fra cheur pr sence de dates r centes jusqu au 16 11 2025 inscriptions updates tr s proches de la publication nom pr nom civilit sexe date de naissance lieu de naissance adresse postale code postal ville commune adresse email num ro de t l phone informations d adh sion licence saison dates de validit https nostrmap fr fuitesinfos 2026 01 2026 01 08 federation francaise de football americain fffa png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "5648537ea0c4"
+      },
+      {
+        "headline": "C++: Как мы докатились до Hello World в 2 МБ",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://habr.com/ru/articles/1033206",
+        "publishedAt": "2026-05-09T10:58:32.000Z",
+        "description": "c hello world 2 https habrastorage org getpro habr upload files 340 46f d4d 34046fd4d254d94d6fcccfce9d0651f8 jpg hello world https habr com ru articles 1033206 utm source habrahabr utm medium rss utm campaign 1033206 habracut https habr com ru articles 1033206 utm source habrahabr utm medium rss utm campaign 1033206",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "c++",
+          "gcc",
+          "оптимизация кода",
+          "оптимизация программ",
+          "примеры кода",
+          "деконструкция",
+          "низкоуровневое программирование",
+          "сравнение компиляторов",
+          "сравнение версий"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6a29bc1313be"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "That 'free software' download just exfiltrated every password, cookie, and autofill entry on your machine in under 5 seconds.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/vidar-sample-detected-file-3339def7",
+        "publishedAt": "2026-05-09T11:19:22.000Z",
+        "description": "that free software download just exfiltrated every password cookie and autofill entry on your machine in under 5 seconds full analysis https threatchain io vidar sample detected file 3339def7 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "75ac1f547bcf"
+      },
+      {
+        "headline": "An important milestone for nostr:npub10vsdn82fps4vwjaqxcpwj0nyync0cfrp2f5qlayrljh6d549gx5s0y9eap . ⚡️",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://pay.blink.sv/hopewithbitcoin",
+        "publishedAt": "2026-05-09T11:17:01.000Z",
+        "description": "an important milestone for nostr npub10vsdn82fps4vwjaqxcpwj0nyync0cfrp2f5qlayrljh6d549gx5s0y9eap after a long period of reflection and research we have officially chosen blink wallet as our bitcoin lightning wallet solution why nostr npub13ljnkd633c7maxatymv3y2fqq8vt3qk7j3tt0vytv90eztwgha9qmfcfhw wallet because it allows unlimited reception of funds making it easier for our community to support our humanitarian mission without barriers from now on all donations support and funding can be sent directly to our blink wallet ln address hopewithbitcoin blink sv create and pay any invoice directly here https pay blink sv hopewithbitcoin get the qr code to scan instantly https pay blink sv hopewithbitcoin print this is a major step forward for our initiative together we can now exchange value ins",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "lightningnetwork",
+          "hopewithbitcoin",
+          "humanity",
+          "bitcoinforgood",
+          "nostr"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "ef7892d84915"
+      },
+      {
+        "headline": "Nghia Nippers Hard Steel Cuticle Nippers D205",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sixmd.com/all-products/other-product/nghia-nippers",
+        "publishedAt": "2026-05-09T10:49:32.000Z",
+        "description": "nghia nippers hard steel cuticle nippers d205 hard steel cuticle nippers nghia brand most popular in vietnam https sixmd com all products other product nghia nippers home eu shopping nails us usa canada store nail medicine home holistic jp kr aus fr spain singapore hk doctor health beauty grooming wellness salon manicure tools care precision skincare",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "home",
+          "eu",
+          "shopping",
+          "nails",
+          "us",
+          "usa",
+          "canada",
+          "store",
+          "nail",
+          "medicine",
+          "home",
+          "holistic",
+          "jp",
+          "kr",
+          "aus",
+          "fr",
+          "spain",
+          "singapore",
+          "hk",
+          "doctor",
+          "health",
+          "beauty",
+          "grooming",
+          "wellness",
+          "salon",
+          "manicure",
+          "tools",
+          "care",
+          "precision",
+          "skincare"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "b91e602deb9c"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w19travel02",
+        "publishedAt": "2026-05-09T10:22:47.000Z",
+        "description": "in this week s issue towels fury and a 986 euro verdict oslo https image nostr build 2724a5b73f03efe4786dd92bfa26997a5f3f1419e10a0737ca6c4b097e0b6278 jpg you paid over 7 000 euros for a luxury greek island holiday you wake at dawn you search for 20 minutes every single s https nostrmag com article w19travel02 id 655457351",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "travel",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "44b59551e3a7"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | FONDATION DES LIONS DE FRANCE (LIONS CLUBS DE FRANCE) — Association caritatif — 133 297 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-06-fondation-des-lions-de-france-lions-clubs-de-france.png",
+        "publishedAt": "2026-05-09T11:19:45.000Z",
+        "description": "fuites infos fondation des lions de france lions clubs de france association caritatif 133 297 personnes concern es 6 janvier 2026 135 580 enregistrements au total confirm 133 297 victimes uniques apr s d doublonnage logs indiquant des mises jour jusqu au 2 janvier 2026 48h avant publication publication sur breachforums exemples de personnalit s cit es dans le post rachida dati s bastien lecornu fran ois bayrou pr sence all gu e de nombreux maires pr fets magistrats et hauts grad s nom pr nom date de naissance sexe situation familiale nom du conjoint adresse postale rue ville code postal adresse email personnelle adresse email professionnelle num ro de t l phone fixe num ro de t l phone mobile ligne directe num ros multiples jusqu 5 champs photo de profil lien direct profession nom de l en",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "news"
+        ],
+        "id": "756927da32d0"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | PETITS-FILS — Services à la personne — 1 050 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-05-petits-fils.png",
+        "publishedAt": "2026-05-09T11:19:09.000Z",
+        "description": "fuites infos petits fils services la personne 1 050 personnes concern es 5 janvier 2026 1 050 identit s uniques collaborateurs responsables d agences franchis s donn es actualis es jusqu au 24 d cembre 2025 timestamps civilit nom et pr nom identifiant unique interne adresse email professionnelle num ro de t l phone mobile num ro de t l phone fixe poste fonction adresse postale agence coordonn es gps agence lien vers photo de profil avatar https nostrmap fr fuitesinfos 2026 01 2026 01 05 petits fils png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "ac3908cbcb1c"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | AGROPARISTECH — Éducation — Cyberattaque - voir détails",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-04-agroparistech.png",
+        "publishedAt": "2026-05-09T11:18:32.000Z",
+        "description": "fuites infos agroparistech ducation cyberattaque voir d tails 4 janvier 2026 211 go de donn es revendication veille non confirm officiellement ce stade fiches de renseignements rh identit photo d identit adresse postale signature manuscrite documents de r mun ration fiches de paie primes compl ments indemnitaires listes d utilisateurs nom pr nom email institutionnel statut personnel intervenant etc engagements de confidentialit sign s li s l universit paris saclay cl s vpn sauvegardes d emails https nostrmap fr fuitesinfos 2026 01 2026 01 04 agroparistech png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "af03fe0b07df"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.1% (1785 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/058d722d54fd789d930884e8fb60d4073d187b2e74f70fcea6c4e4ca5d4ae8d9.mp4",
+        "publishedAt": "2026-05-09T11:05:27.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 058d722d54fd789d930884e8fb60d4073d187b2e74f70fcea6c4e4ca5d4ae8d9 mp4 tagging progress 24 1 1785 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "51ce14556bd0"
+      },
+      {
+        "headline": "Proton Mail, Infomaniak : la souveraineté de vos emails reste une illusion face aux règles dictées par Google",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.clubic.com/dossier-612034-proton-mail-infomaniak-la-souverainete-de-vos-emails-reste-une-illusion-face-aux-regles-dictees-par-google.html",
+        "publishedAt": "2026-05-09T11:10:27.000Z",
+        "description": "proton mail infomaniak la souverainet de vos emails reste une illusion face aux r gles dict es par google https www clubic com dossier 612034 proton mail infomaniak la souverainete de vos emails reste une illusion face aux regles dictees par google html nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2d9c07dbdb56"
+      },
+      {
+        "headline": "Xian Tapes #6 !!!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.youtube.com/watch?v=KQkqbkUsITU",
+        "publishedAt": "2026-05-09T10:33:00.000Z",
+        "description": "xian tapes 6 https www youtube com watch v kqkqbkusitu clone 81 product of society john fischer the cold cathedral vector hear what i say fluffy guitars guns girls sister claire b n dicte solitude face in the crowd somebody else s stranger eternal gaze ascend to descend imalittlemole war for you the monastic choir of st elisabeth convent jesus prayer sayuri kume angel s song sincerely paul grieve f b worster i know how hard you tried body and soul the graylands gothstr christian music punk newwave metal etc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "6",
+          "gothstr",
+          "christian",
+          "music",
+          "punk",
+          "newwave",
+          "metal"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "277a7e070a8a"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "🔴 FUITES INFOS | FÉDÉRATION FRANÇAISE DE LA MONTAGNE ET DE L'ESCALADE (FFME) #2 — Sport — 561 502 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-08-federation-francaise-de-la-montagne-et-de-l-escalade-ffme-2.png",
+        "publishedAt": "2026-05-09T11:21:10.000Z",
+        "description": "fuites infos f d ration fran aise de la montagne et de l escalade ffme 2 sport 561 502 personnes concern es 8 janvier 2026 volume revendiqu 561 502 enregistrements chantillon analys 10 000 revendication vente sur breachforums base au format type json jsonl donn es tr s r centes timestamps updatedat observ s jusqu au 28 12 2025 extraction estim e fin d cembre 2025 d but janvier 2026 nom pr nom sexe date de naissance lieu de naissance ville de naissance code d partement de naissance adresse email num ro de t l phone mobile adresse postale type de licence club structure d appartenance https nostrmap fr fuitesinfos 2026 01 2026 01 08 federation francaise de la montagne et de l escalade ffme 2 png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "069424e988e1"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | LOFT BY DENIS MOINES(SALON DE COIFFURE, PARIS) — beauté — 5 304 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-06-loft-by-denis-moines-salon-de-coiffure-paris.png",
+        "publishedAt": "2026-05-09T11:19:57.000Z",
+        "description": "fuites infos loft by denis moines salon de coiffure paris beaut 5 304 personnes concern es 6 janvier 2026 fuite confirm e publication base clients sur breachforums loftbydenismoines json pr nom nom num ro de t l phone mobile adresse email nombre de visites visitnb date de cr ation du profil createdat date de mise jour du profil updatedat https nostrmap fr fuitesinfos 2026 01 2026 01 06 loft by denis moines salon de coiffure paris png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "2e1ef556066c"
+      },
+      {
+        "headline": "A grey market in China is selling cheap Claude API access through proxy services using stolen credentials, model swapping, and collecting…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data",
+        "publishedAt": "2026-05-09T10:30:16.000Z",
+        "description": "a grey market in china is selling cheap claude api access through proxy services using stolen credentials model swapping and collecting user prompts and outputs for resale as ai training data https www tomshardware com tech industry artificial intelligence chinese grey market sells claude api access at 90 percent off through proxy networks that harvest user data",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7be662ff3331"
+      },
+      {
+        "headline": "🔴 FUITES INFOS | FÉDÉRATION FRANÇAISE DE FOOTBALL AMÉRICAIN (FFFA) — Sport — 200 415 personnes concernées",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nostrmap.fr/fuitesinfos/2026/01/2026-01-08-federation-francaise-de-football-americain-fffa.png",
+        "publishedAt": "2026-05-09T11:21:46.000Z",
+        "description": "fuites infos f d ration fran aise de football am ricain fffa sport 200 415 personnes concern es 8 janvier 2026 revendication vente de fuite sur breachforums de membres licenci s indices de fra cheur pr sence de dates r centes jusqu au 16 11 2025 inscriptions updates tr s proches de la publication nom pr nom civilit sexe date de naissance lieu de naissance adresse postale code postal ville commune adresse email num ro de t l phone informations d adh sion licence saison dates de validit https nostrmap fr fuitesinfos 2026 01 2026 01 08 federation francaise de football americain fffa png nostrfr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "5648537ea0c4"
+      },
+      {
+        "headline": "C++: Как мы докатились до Hello World в 2 МБ",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://habr.com/ru/articles/1033206",
+        "publishedAt": "2026-05-09T10:58:32.000Z",
+        "description": "c hello world 2 https habrastorage org getpro habr upload files 340 46f d4d 34046fd4d254d94d6fcccfce9d0651f8 jpg hello world https habr com ru articles 1033206 utm source habrahabr utm medium rss utm campaign 1033206 habracut https habr com ru articles 1033206 utm source habrahabr utm medium rss utm campaign 1033206",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "c++",
+          "gcc",
+          "оптимизация кода",
+          "оптимизация программ",
+          "примеры кода",
+          "деконструкция",
+          "низкоуровневое программирование",
+          "сравнение компиляторов",
+          "сравнение версий"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6a29bc1313be"
+      },
+      {
+        "headline": "Russian nuclear agency issues update on Iran’s Bushehr plant",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/639754-rosatom-update-bushehr-likhachev",
+        "publishedAt": "2026-05-09T09:42:25.000Z",
+        "description": "russian nuclear agency issues update on iran s bushehr plant from rt staff have not observed attacks near the facility amid reported violations of the us iran ceasefire rosatom ceo aleksey likhachev has said iran s only operating nuclear power plant in bushehr continues to function normally despite reports of renewed us iran military exchanges aleksey likhachev ceo of the russian state nuclear corporation rosatom has said russian personnel have may 9th 2026 5 08am edt source link https www rt com news 639754 rosatom update bushehr likhachev utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1135151",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "7958c34adebe"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 161
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 88
+    }
+  ],
+  "failures": []
+}
