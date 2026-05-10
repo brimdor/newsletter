@@ -1,0 +1,602 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T11:23:56.674Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25627442887",
+    "commitSha": "05af1a21d3fb8b77681ade30ca5c173aeed55d65"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 277,
+    "dedupDropped": 47
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Iran Army: Countries obeying US sanctions will ‘certainly face problems’ in Strait of Hormuz",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://presstv.ir/Detail/2026/05/10/768367/States-sanctioning-Iran-will-face-difficulties-in-Hormuz-Strait-transit-Army",
+        "publishedAt": "2026-05-10T10:48:25.000Z",
+        "description": "iran army countries obeying us sanctions will certainly face problems in strait of hormuz from press tv iran s army has warned that countries complying with us sanctions against the islamic republic will certainly face problems in passing through the strait of hormuz may 10th 2026 6 46am edt source link https presstv ir detail 2026 05 10 768367 states sanctioning iran will face difficulties in hormuz strait transit army share promote comment with nostr https dissentwatch com boost boost post id 1135371",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3f8588459efa"
+      },
+      {
+        "headline": "Obrigado PRF, você conseguiu tirar a opção da população comprar iPhone mais barato.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/0c242a28246d15dd768217c14d1f7b2545838b5ff86e430c9be2cc188300d8a0.mp4",
+        "publishedAt": "2026-05-10T11:22:58.000Z",
+        "description": "obrigado prf voc conseguiu tirar a op o da popula o comprar iphone mais barato https video nostr build 0c242a28246d15dd768217c14d1f7b2545838b5ff86e430c9be2cc188300d8a0 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "e0e1904e0244"
+      },
+      {
+        "headline": "[ SiamDevTeam/ZapPOS ] feat: Refactor SettingViewModel, update ProGuard rules, and customize build outputs",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/SiamDevTeam/ZapPOS/commit/ae75448eb74c7583f85b66793326183296094017",
+        "publishedAt": "2026-05-10T11:00:28.000Z",
+        "description": "siamdevteam zappos feat refactor settingviewmodel update proguard rules and customize build outputs https github com siamdevteam zappos commit ae75448eb74c7583f85b66793326183296094017",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "0b99367f4451"
+      },
+      {
+        "headline": "📻 RÁDIO BITCOIN — Update 08:00",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://radiobitcoin.bitadict.com/",
+        "publishedAt": "2026-05-10T11:00:10.000Z",
+        "description": "r dio bitcoin update 08 00 bitcoin 80 874 xrp 1 4278 rsi 49 ema bull 0 m sicas na playlist 0 tracks ia rock anos 80 https radiobitcoin bitadict com gorjeta texugorecords walletofsatoshi com bitcoin radiobitcoin nostr lightning btc bitadict stackingsats",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "67a473e86613"
+      },
+      {
+        "headline": "US War on Iran Now Disrupts Global Fertilizer and Metal Supply Chains",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260510/us-war-on-iran-now-disrupts-global-fertilizer-and-metal-supply-chains-1124107398.html",
+        "publishedAt": "2026-05-10T10:02:32.000Z",
+        "description": "us war on iran now disrupts global fertilizer and metal supply chains from sputnik moscow sputnik the situation with iran has led to problems with global sulfuric acid supplies causing a sharp rise in its price the wall street journal reported may 10th 2026 5 11am edt source link https sputnikglobe com 20260510 us war on iran now disrupts global fertilizer and metal supply chains 1124107398 html share promote comment with nostr https dissentwatch com boost boost post id 1135358",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "505b95b765ba"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "1980 #GADA #EIROVĪZIJAS #DZIESMU #KONKURSS",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://semantic-search.aepiot.com/advanced-search.html?lang=lv&q=1980+GADA+EIROV%C4%AAZIJAS+DZIESMU+KONKURSS",
+        "publishedAt": "2026-05-10T11:18:50.000Z",
+        "description": "1980 gada eirov zijas dziesmu konkurss https semantic search aepiot com advanced search html lang lv q 1980 20gada 20eirov c4 aazijas 20dziesmu 20konkurss k rlis ulmanis https advanced search allgraph ro advanced search html lang lv q k c4 80rlis 20ulmanis suver n vara https multi search tag explorer aepiot com advanced search html lang lv q suver c4 92n c4 80 20vara gl zgovas celtic https multi search tag explorer aepiot ro advanced search html lang lv q gl c4 80zgovas 20celtic latvijas dzelzce i https advanced search aepiot com advanced search html lang lv q latvijas 20dzelzce c4 bbi za ukraina https aepiot com advanced search html lang lv q za c4 bb c4 80 20ukraina sib rijas ukrai i https advanced search aepiot com advanced search html lang lv q sib c4 aarijas 20ukrai c5 85i 3 autobusu ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gada",
+          "eirovīzijas",
+          "dziesmu",
+          "konkurss",
+          "kārlis",
+          "ulmanis",
+          "vara",
+          "glāzgovas",
+          "celtic",
+          "latvijas",
+          "dzelzceļi",
+          "ukraina",
+          "sibīrijas",
+          "ukraiņi",
+          "autobusu",
+          "maršruts",
+          "rīga",
+          "autobusu",
+          "maršruts",
+          "rīga",
+          "latvijas",
+          "universitātes",
+          "bioloģijas",
+          "fakultāte",
+          "latvijas",
+          "tautas",
+          "fronte",
+          "svensons",
+          "kazdangas",
+          "pagasts",
+          "kalvenes",
+          "pagasts",
+          "jūrkalnes",
+          "pagasts",
+          "dunalkas",
+          "pagasts",
+          "latvijas",
+          "republikas",
+          "uzņēmumu",
+          "reģistrs",
+          "trikala",
+          "cīravas",
+          "pagasts",
+          "darkthrone",
+          "latvijas",
+          "nedzirdīgo",
+          "savienība",
+          "keiptaunas",
+          "dzelzceļa",
+          "stacija"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "aaac6dc21c91"
+      },
+      {
+        "headline": "**Your Muscles Remember Inactivity – and Aging Makes It Worse**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/your-muscles-remember-inactivity-and-aging-makes-it-worse",
+        "publishedAt": "2026-05-10T11:22:17.000Z",
+        "description": "your muscles remember inactivity and aging makes it worse by wiley published on 10 may 2026 new research suggests muscles remember past inactivity at the molecular level muscle loss or atrophy caused by inactivity can begin surprisingly fast even after just days of bed rest injury or reduced movement for older adults especially these periods of inactivity can trigger a downward spiral of weakness slower recovery loss of independence and read more https scitechdaily com your muscles remember inactivity and aging makes it worse muscleatrophy inactivity agingmuscles exercisescience mobilityhealth health aging exercise",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "e8b5445f6e95"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w19travel02",
+        "publishedAt": "2026-05-10T10:22:48.000Z",
+        "description": "in this week s issue https image nostr build 2724a5b73f03efe4786dd92bfa26997a5f3f1419e10a0737ca6c4b097e0b6278 jpg towels fury and a 986 euro verdict by oslo you paid over 7 000 euros for a luxury greek island holiday you wake at dawn you search for 20 minutes every single sun lounger already wears a towel but no human your children lie on concrete and then you sue this is not a sketch this is a hanover courtroom may 2026 and the travel industry is reeling https nostrmag com article w19travel02 id 74523325",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "travel",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "44b59551e3a7"
+      },
+      {
+        "headline": "Gemini iOS app的UI更新了",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://myce.li/notes/am35w2had6yq0001",
+        "publishedAt": "2026-05-10T09:58:36.000Z",
+        "description": "gemini ios app ui google m3 chatgpt alikia myce li nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyp35yzjfjxvk806kfjwf3vnh0rwfwhqwnz6w99ugvmlldztvyutngl4hh6p https myce li notes am35w2had6yq0001",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "9d90d4663d57"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.1% (1785 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/c5b9079388aef96fad77a7e062ceb8e4d11c00d6fe6cb82830aee525490340ce.mp4",
+        "publishedAt": "2026-05-10T11:08:21.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band c5b9079388aef96fad77a7e062ceb8e4d11c00d6fe6cb82830aee525490340ce mp4 tagging progress 24 1 1785 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "b72067e2e020"
+      },
+      {
+        "headline": "Your security tools might have missed this one. Cobalt Strike is actively targeting networks right now — here's what you need to know bef…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/cobalt-strike-sample-detected-exe-d46e966d",
+        "publishedAt": "2026-05-10T11:19:17.000Z",
+        "description": "your security tools might have missed this one cobalt strike is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io cobalt strike sample detected exe d46e966d cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "d8dc095e6450"
+      },
+      {
+        "headline": "CSGORoll Referral Code ROLLBONUS2026 — Claim your bonus.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://csgoroll.com/r/PROMO2026",
+        "publishedAt": "2026-05-10T11:10:14.000Z",
+        "description": "csgoroll referral code rollbonus2026 claim your bonus kod promocyjny csgoroll promo2026 3 darmowe skrzynki z szans na n 10 bonus od wp aty graj w crash roll otwieranie skrzynek i bitwy pvp natychmiastowe wyp aty skin w na steam uczciwa gra https csgoroll com r promo2026 crypto csgoroll referralcode bonus2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "csgoroll",
+          "crypto",
+          "referralcode"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2325a0ca55e1"
+      },
+      {
+        "headline": "Streaming: Capsule - 024",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://harmonique.one/shows/capsule/episodes/024",
+        "publishedAt": "2026-05-10T11:04:43.000Z",
+        "description": "streaming capsule 024 1 kali malone living torch ii 2 steve reich drumming side c 3 l g mair jr winefride xxxvi 4 reggie b p for life 5 ty segall good morning https harmonique one shows capsule episodes 024 music tunestr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4505f1a5d793"
+      },
+      {
+        "headline": "Led Zeppelin - Stairway To Heaven",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dn720304.ca.archive.org/0/items/LZ_Evolution/Evolution%20is%20Timing%20%5BBootleg%20Compilation%5D/Zep%2071%27%20Evolution%20Is%20Timing/06%29%20Stairway%20To%20Heaven%201971-09-04%20Toronto.flac",
+        "publishedAt": "2026-05-10T10:57:54.000Z",
+        "description": "led zeppelin stairway to heaven https dn720304 ca archive org 0 items lz evolution evolution 20is 20timing 20 5bbootleg 20compilation 5d zep 2071 27 20evolution 20is 20timing 06 29 20stairway 20to 20heaven 201971 09 04 20toronto flac verse 1 there s a lady who s sure all that glitters is gold and she s buying a stairway to heaven when she gets there she knows if the stores are all closed with a word she can get what she came for ooh and she s buying a stairway to heaven verse 2 there s a sign on the wall but she wants to be sure cause you know sometimes words have two meanings in a tree by the brook there s a songbird who sings sometimes all of our thoughts are misgiven refrain ooh it makes me wonder ooh makes me wonder verse 3 there s a feeling i get when i look to the west and my spirit ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0dc699fdfac3"
+      },
+      {
+        "headline": "This video was filmed some years ago. Starring my younger brother nostr:npub1nu5r7jeauqdn9azn9z5q0xnen3v8zx8xr58wm0fecp2nhdnepy2sh0hjyn w…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/2d49a303161ce22d687329e7cfc90a1c2b90708f6fef342fcc1fc03510279b45.webm",
+        "publishedAt": "2026-05-10T10:55:13.000Z",
+        "description": "this video was filmed some years ago starring my younger brother nostr npub1nu5r7jeauqdn9azn9z5q0xnen3v8zx8xr58wm0fecp2nhdnepy2sh0hjyn when he was 12 years old he joined nostr when he was 15 expecting your comment about his acting https video nostr build 2d49a303161ce22d687329e7cfc90a1c2b90708f6fef342fcc1fc03510279b45 webm",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "e13ac70d253a"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Iran Army: Countries obeying US sanctions will ‘certainly face problems’ in Strait of Hormuz",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://presstv.ir/Detail/2026/05/10/768367/States-sanctioning-Iran-will-face-difficulties-in-Hormuz-Strait-transit-Army",
+        "publishedAt": "2026-05-10T10:48:25.000Z",
+        "description": "iran army countries obeying us sanctions will certainly face problems in strait of hormuz from press tv iran s army has warned that countries complying with us sanctions against the islamic republic will certainly face problems in passing through the strait of hormuz may 10th 2026 6 46am edt source link https presstv ir detail 2026 05 10 768367 states sanctioning iran will face difficulties in hormuz strait transit army share promote comment with nostr https dissentwatch com boost boost post id 1135371",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "3f8588459efa"
+      },
+      {
+        "headline": "[ SiamDevTeam/ZapPOS ] feat: Refactor SettingViewModel, update ProGuard rules, and customize build outputs",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/SiamDevTeam/ZapPOS/commit/ae75448eb74c7583f85b66793326183296094017",
+        "publishedAt": "2026-05-10T11:00:28.000Z",
+        "description": "siamdevteam zappos feat refactor settingviewmodel update proguard rules and customize build outputs https github com siamdevteam zappos commit ae75448eb74c7583f85b66793326183296094017",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "0b99367f4451"
+      },
+      {
+        "headline": "📻 RÁDIO BITCOIN — Update 08:00",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://radiobitcoin.bitadict.com/",
+        "publishedAt": "2026-05-10T11:00:10.000Z",
+        "description": "r dio bitcoin update 08 00 bitcoin 80 874 xrp 1 4278 rsi 49 ema bull 0 m sicas na playlist 0 tracks ia rock anos 80 https radiobitcoin bitadict com gorjeta texugorecords walletofsatoshi com bitcoin radiobitcoin nostr lightning btc bitadict stackingsats",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "67a473e86613"
+      },
+      {
+        "headline": "US War on Iran Now Disrupts Global Fertilizer and Metal Supply Chains",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260510/us-war-on-iran-now-disrupts-global-fertilizer-and-metal-supply-chains-1124107398.html",
+        "publishedAt": "2026-05-10T10:02:32.000Z",
+        "description": "us war on iran now disrupts global fertilizer and metal supply chains from sputnik moscow sputnik the situation with iran has led to problems with global sulfuric acid supplies causing a sharp rise in its price the wall street journal reported may 10th 2026 5 11am edt source link https sputnikglobe com 20260510 us war on iran now disrupts global fertilizer and metal supply chains 1124107398 html share promote comment with nostr https dissentwatch com boost boost post id 1135358",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "505b95b765ba"
+      },
+      {
+        "headline": "Ukraine Fires at Russian Military Positions 676 Times in 24 Hours – Russian Military",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260510/ukraine-fires-at-russian-military-positions-676-times-in-24-hours--russian-military-1124107608.html",
+        "publishedAt": "2026-05-10T10:33:24.000Z",
+        "description": "ukraine fires at russian military positions 676 times in 24 hours russian military from sputnik moscow sputnik the ukrainian military shelled russian troop positions 676 times in one day carried out 6 331 drone strikes and launched eight attacks on russian positions the russian defense ministry said on sunday may 10th 2026 6 02am edt source link https sputnikglobe com 20260510 ukraine fires at russian military positions 676 times in 24 hours russian military 1124107608 html share promote comment with nostr https dissentwatch com boost boost post id 1135369",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "73e3200c7c1c"
+      },
+      {
+        "headline": "Prof. Richard Wolff: The US war on Iran is a desperate attempt to stop imperial decline",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/podcast/639691-wolff-us-imperial-decline",
+        "publishedAt": "2026-05-10T10:18:24.000Z",
+        "description": "prof richard wolff the us war on iran is a desperate attempt to stop imperial decline from rt on this episode of new order we speak to eminent us economist richard wolff he discusses how trump s war on iran is being paid for and why the cost is being pushed to the next generation the untold truth about the deindustrialization of the united states perpetrated by american corporations and the resulting supply line may 10th 2026 6 12am edt source link https www rt com podcast 639691 wolff us imperial decline utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1135364",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "1c2a3507b96a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 176
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 54
+    }
+  ],
+  "failures": []
+}
