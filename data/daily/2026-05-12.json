@@ -1,0 +1,588 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T11:44:03.028Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25732110418",
+    "commitSha": "edb9a12d22672fdb1c5c161adaebf6de6c97c5ca"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 197,
+    "dedupDropped": 30
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Parents Outraged After ‘Safer Snorting’ Booklet, Condoms Distributed At High School",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/12/parents-outraged-after-safer-snorting-booklet-condoms-distributed-at-high-school",
+        "publishedAt": "2026-05-12T11:30:46.000Z",
+        "description": "parents outraged after safer snorting booklet condoms distributed at high school from alex jones lifesitenews parents whose children go to a barrie ontario school are furious after condoms and a booklet about so called safer snorting showing how to safely use cocaine and other drugs were made available to students by an advocacy group the safer snorting booklet and condoms came from the canadian mental health association cmha which recently may 12th 2026 6 45am edt source link https www alexjoneslive com 2026 05 12 parents outraged after safer snorting booklet condoms distributed at high school share promote comment with nostr https dissentwatch com boost boost post id 1135997",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a3ab4750e409"
+      },
+      {
+        "headline": "Politics Without God",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://counter-currents.com/2026/05/politics-without-god",
+        "publishedAt": "2026-05-12T10:39:24.000Z",
+        "description": "politics without god from counter currents 1 995 words declining belief in god is a verified long term trend in the united states for instance the pew research center found that americans identifying as having no religion rose from 5 in 1972 to 29 in 2022 it is also generally accepted that atheism is a belief of the left and the evidence for may 12th 2026 5 46am edt source link https counter currents com 2026 05 politics without god share promote comment with nostr https dissentwatch com boost boost post id 1135952",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "87a825c51587"
+      },
+      {
+        "headline": "Bangladeshi Alien Charged Over Alleged Rape Of 17-Year-Old Mother And Suspected Child Bride In Italy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/12/bangladeshi-alien-charged-over-alleged-rape-of-17-year-old-mother-and-suspected-child-bride-in-italy",
+        "publishedAt": "2026-05-12T11:22:45.000Z",
+        "description": "bangladeshi alien charged over alleged rape of 17 year old mother and suspected child bride in italy from alex jones a bangladeshi national is under investigation in venice after a 17 year old compatriot accused him of raping her inside the mestre home she shares with her husband and newborn child the alleged attack took place on thursday evening while the girl s husband also bangladeshi was out of the property according to the initial report the suspect may 12th 2026 6 15am edt source link https www alexjoneslive com 2026 05 12 bangladeshi alien charged over alleged rape of 17 year old mother and suspected child bride in italy share promote comment with nostr https dissentwatch com boost boost post id 1135982",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3fc54c119cdc"
+      },
+      {
+        "headline": "Buried on page 230 of the CLARITY Act is arguably the biggest win for the digital asset industry in the entire 309-page bill.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/d4ec92726795578345abbd0b4f156a970e584060c9554a9a5d1e5a681a8028d3.jpg",
+        "publishedAt": "2026-05-12T11:20:11.000Z",
+        "description": "buried on page 230 of the clarity act is arguably the biggest win for the digital asset industry in the entire 309 page bill section 604 the blockchain regulatory certainty act if you build open source blockchain software and don t have unilateral control over users funds you are not a money transmitter not under fincen rules not under federal criminal law not under state registration requirements writing code money transmission building self custody tools money transmission running node infrastructure money transmission for years developers have operated under the threat that publishing code could expose them to money transmission charges section 604 eliminates that ambiguity entirely it establishes a clear codified legal protection for the people who actually build the open source infras",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "584311e22154"
+      },
+      {
+        "headline": "Standard 90-day vulnerability disclosure policy is likely dead thanks to AI, expert warns that AI can weaponize patches in 30 minutes — L…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/standard-90-day-vulnerability-disclosure-policy-is-likely-dead-thanks-to-ai-leaving-worlds-systems-exposed-to-zero-day-attacks-security-expert-details-how-llm-assisted-bug-hunting-ushers-in-a-new-cyberworld-orders",
+        "publishedAt": "2026-05-12T11:20:00.000Z",
+        "description": "standard 90 day vulnerability disclosure policy is likely dead thanks to ai expert warns that ai can weaponize patches in 30 minutes llm assisted bug hunting ushers in a new cyberworld order https www tomshardware com tech industry cyber security standard 90 day vulnerability disclosure policy is likely dead thanks to ai leaving worlds systems exposed to zero day attacks security expert details how llm assisted bug hunting ushers in a new cyberworld orders",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "5285b37f945a"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Love to see it.shut it the fuck down",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nypost.com/2026/05/11/us-news/dni-tulsi-gabbard-probes-us-funding-to-more-than-120-biolabs-abroad",
+        "publishedAt": "2026-05-12T11:40:33.000Z",
+        "description": "love to see it shut it the fuck down director of national intelligence tulsi gabbard is investigating more than 120 biological laboratories abroad that were funded by us taxpayer dollars for decades as part of an effort to end potentially risky experiments with viruses pursuant to president trump s executive order on so called gain of function research gabbard told the post monday in a statement that her team is going to identify where these labs are what pathogens they contain and what research is being conducted to end dangerous gain of function research that threatens the health and wellbeing of the american people and the world the covid 19 pandemic revealed the catastrophic global impact research on dangerous pathogens in biolabs can have the spy chief also said more https nypost com ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f183a68c9934"
+      },
+      {
+        "headline": "**New Discovery Challenges Decades-Old Theory of DNA Damage and Aging**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/new-discovery-challenges-decades-old-theory-of-dna-damage-and-aging",
+        "publishedAt": "2026-05-12T11:31:49.000Z",
+        "description": "new discovery challenges decades old theory of dna damage and aging by the hebrew university of jerusalem published on 12 may 2026 scientists have discovered that the body s own immune alarms may play a major role in rapid aging diseases new research suggests that reducing the activity of an overactive immune sensor may help restore tissue function in severe genetic disorders offering a new perspective on aging and dna damage the immune system is designed to recognize and read more https scitechdaily com new discovery challenges decades old theory of dna damage and aging dnaaging immunsystem biogerontology genetics dnarepair biology aging cellbiology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d6d516000061"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+        "publishedAt": "2026-05-12T11:15:36.000Z",
+        "description": "actu tech the hacker news pourquoi l ia agentique est la prochaine zone d ombre en s curit l ia agentique est d j d ploy e en production dans de nombreuses organisations elle ex cute des t ches consomme des donn es et agit souvent sans implication significative des quipes de s curit le d bat se concentre principalement sur la politique l autoriser la restreindre ou la surveiller mais cette approche ne saisit pas l essentiel publi le 12 mai 2026 12 30 nostfr https blogger googleusercontent com img b r29vz2xl avvxsehzo1tunqjpfnjbro50dvjg14ldr2l6gkhsiir5p73rscgksrt2b9evmrgkxpvvj1qvmf63ka4so6vj5ln9t1nbit2mv2dch dnyyqp1rrel4nbtnpghy7q5sawzcwv0bn1zv58dytzslw3un00np7uucx 3zqfqmajufavnrfshc5ajcumdhb2n9kzc3w s1600 ai agents jpg https thehackernews com 2026 05 why agentic ai is securitys next blind ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "167302a17ce0"
+      },
+      {
+        "headline": "A new Linux kernel flaw, copy.fail, lets a local user gain root by abusing AF_ALG sockets and splice() to change page cache data without…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+        "publishedAt": "2026-05-12T11:30:22.000Z",
+        "description": "a new linux kernel flaw copy fail lets a local user gain root by abusing af alg sockets and splice to change page cache data without altering files on disk major linux distros are releasing fixes https www schneier com blog archives 2026 05 copy fail linux vulnerability html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f6956d3e9be9"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w19travel02",
+        "publishedAt": "2026-05-12T10:22:50.000Z",
+        "description": "in this week s issue towels fury and a 986 euro verdict you paid over 7 000 euros for a luxury greek island holiday you wake at dawn you search for 20 minutes every single sun lounger already wears a tow oslo https image nostr build 2724a5b73f03efe4786dd92bfa26997a5f3f1419e10a0737ca6c4b097e0b6278 jpg https nostrmag com article w19travel02 id 527808131",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "travel",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "44b59551e3a7"
+      },
+      {
+        "headline": "Herbal Insomnia Medication for Relief from Stress, Anxiety, and Insomnia  - Rotunda 30 mg",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://sixmd.com/all-products/functional-food/insomnia-treatment-rotunda-30-mg",
+        "publishedAt": "2026-05-12T11:43:38.000Z",
+        "description": "herbal insomnia medication for relief from stress anxiety and insomnia rotunda 30 mg rotunda 30 mg contains rotundin an alkaloid primarily extracted from the tubers of select lime pot species stephania lour this natural compound is renowned for its sedative properties effectively inducing sleep while also assisting in lowering blood pressure regulating the heart and relaxing smooth muscles by reducing pain caused by smooth muscle spasms rotunda offers comprehensive relief from stress anxiety and insomnia say goodbye to sleepless nights with rotunda 30 mg https sixmd com all products functional food insomnia treatment rotunda 30 mg pharmacy supplements herbalmedicine herbal pharmacist asian health doctor natural herbs medicine us organic natrual uk canada aus eu singapore korea australia do",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "pharmacy",
+          "supplements",
+          "herbalmedicine",
+          "herbal",
+          "pharmacist",
+          "asian",
+          "health",
+          "doctor",
+          "natural",
+          "herbs",
+          "medicine",
+          "us",
+          "organic",
+          "natrual",
+          "uk",
+          "canada",
+          "aus",
+          "eu",
+          "singapore",
+          "korea",
+          "australia",
+          "doc",
+          "healthy",
+          "asia",
+          "healty",
+          "insomniaproblems",
+          "sleep",
+          "sleeping"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8c984794b9b5"
+      },
+      {
+        "headline": "📰 iOS 26.5 : Apple ouvre enfin l’appairage simplifié aux montres et écouteurs tiers en Europe",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.01net.com/actualites/ios-26-5-apple-ouvre-enfin-lappairage-simplifie-aux-montres-et-ecouteurs-tiers-en-europe.html",
+        "publishedAt": "2026-05-12T11:30:01.000Z",
+        "description": "ios 26 5 apple ouvre enfin l appairage simplifi aux montres et couteurs tiers en europe https www 01net com actualites ios 26 5 apple ouvre enfin lappairage simplifie aux montres et ecouteurs tiers en europe html news tech 01net",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "86ee84a598ac"
+      },
+      {
+        "headline": "[OpenClaw] A newly discovered memory management vulnerability in the Linux kernel has sent shockwaves through the crypto industry. Learn…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://insightginie.com/linux-copy-fail-f",
+        "publishedAt": "2026-05-12T11:16:48.000Z",
+        "description": "openclaw a newly discovered memory management vulnerability in the linux kernel has sent shockwaves through the crypto industry learn how this copy fail flaw impacts your digital assets and how to protect your portfolio read more https insightginie com linux copy fail f",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "15519e19f60e"
+      },
+      {
+        "headline": "ぐわぁああああああ",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.nikkei.com/article/DGXZQOUF091AR0Z00C26A5000000?n_cid=dsapp_share_android",
+        "publishedAt": "2026-05-12T11:08:43.000Z",
+        "description": "1000 https www nikkei com article dgxzqouf091ar0z00c26a5000000 n cid dsapp share android https www nikkei com article dgxzqouf091ar0z00c26a5000000 n cid dsapp share android nekokaze9625 mk nekokaze cc nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyqjkyl2rfcz06v45zm68sq7c8scqngaeyfeah8uaj7psdpx860yezzmk2dr https mk nekokaze cc notes am6376o27y9t06i7",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "0488dbef071a"
+      },
+      {
+        "headline": "*\"How are my grandkids supposed to buy a home when Washington keeps printing money while the rest of the world dumps dollars for gold?\"*",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/markets/turkey-dumped-more-gold-than-every-etf-combined",
+        "publishedAt": "2026-05-12T11:32:51.000Z",
+        "description": "how are my grandkids supposed to buy a home when washington keeps printing money while the rest of the world dumps dollars for gold if our money s becoming monopoly money and even our allies don t want it what s left for the next generation except higher prices and a weaker country pick one both keep it raw and conversational https theboard world articles markets turkey dumped more gold than every etf combined",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "markets",
+          "finance"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "536e2f86d5c8"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Parents Outraged After ‘Safer Snorting’ Booklet, Condoms Distributed At High School",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/12/parents-outraged-after-safer-snorting-booklet-condoms-distributed-at-high-school",
+        "publishedAt": "2026-05-12T11:30:46.000Z",
+        "description": "parents outraged after safer snorting booklet condoms distributed at high school from alex jones lifesitenews parents whose children go to a barrie ontario school are furious after condoms and a booklet about so called safer snorting showing how to safely use cocaine and other drugs were made available to students by an advocacy group the safer snorting booklet and condoms came from the canadian mental health association cmha which recently may 12th 2026 6 45am edt source link https www alexjoneslive com 2026 05 12 parents outraged after safer snorting booklet condoms distributed at high school share promote comment with nostr https dissentwatch com boost boost post id 1135997",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "a3ab4750e409"
+      },
+      {
+        "headline": "Politics Without God",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://counter-currents.com/2026/05/politics-without-god",
+        "publishedAt": "2026-05-12T10:39:24.000Z",
+        "description": "politics without god from counter currents 1 995 words declining belief in god is a verified long term trend in the united states for instance the pew research center found that americans identifying as having no religion rose from 5 in 1972 to 29 in 2022 it is also generally accepted that atheism is a belief of the left and the evidence for may 12th 2026 5 46am edt source link https counter currents com 2026 05 politics without god share promote comment with nostr https dissentwatch com boost boost post id 1135952",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "87a825c51587"
+      },
+      {
+        "headline": "Bangladeshi Alien Charged Over Alleged Rape Of 17-Year-Old Mother And Suspected Child Bride In Italy",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/12/bangladeshi-alien-charged-over-alleged-rape-of-17-year-old-mother-and-suspected-child-bride-in-italy",
+        "publishedAt": "2026-05-12T11:22:45.000Z",
+        "description": "bangladeshi alien charged over alleged rape of 17 year old mother and suspected child bride in italy from alex jones a bangladeshi national is under investigation in venice after a 17 year old compatriot accused him of raping her inside the mestre home she shares with her husband and newborn child the alleged attack took place on thursday evening while the girl s husband also bangladeshi was out of the property according to the initial report the suspect may 12th 2026 6 15am edt source link https www alexjoneslive com 2026 05 12 bangladeshi alien charged over alleged rape of 17 year old mother and suspected child bride in italy share promote comment with nostr https dissentwatch com boost boost post id 1135982",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3fc54c119cdc"
+      },
+      {
+        "headline": "Buried on page 230 of the CLARITY Act is arguably the biggest win for the digital asset industry in the entire 309-page bill.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/d4ec92726795578345abbd0b4f156a970e584060c9554a9a5d1e5a681a8028d3.jpg",
+        "publishedAt": "2026-05-12T11:20:11.000Z",
+        "description": "buried on page 230 of the clarity act is arguably the biggest win for the digital asset industry in the entire 309 page bill section 604 the blockchain regulatory certainty act if you build open source blockchain software and don t have unilateral control over users funds you are not a money transmitter not under fincen rules not under federal criminal law not under state registration requirements writing code money transmission building self custody tools money transmission running node infrastructure money transmission for years developers have operated under the threat that publishing code could expose them to money transmission charges section 604 eliminates that ambiguity entirely it establishes a clear codified legal protection for the people who actually build the open source infras",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "release"
+        ],
+        "id": "584311e22154"
+      },
+      {
+        "headline": "Standard 90-day vulnerability disclosure policy is likely dead thanks to AI, expert warns that AI can weaponize patches in 30 minutes — L…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/standard-90-day-vulnerability-disclosure-policy-is-likely-dead-thanks-to-ai-leaving-worlds-systems-exposed-to-zero-day-attacks-security-expert-details-how-llm-assisted-bug-hunting-ushers-in-a-new-cyberworld-orders",
+        "publishedAt": "2026-05-12T11:20:00.000Z",
+        "description": "standard 90 day vulnerability disclosure policy is likely dead thanks to ai expert warns that ai can weaponize patches in 30 minutes llm assisted bug hunting ushers in a new cyberworld order https www tomshardware com tech industry cyber security standard 90 day vulnerability disclosure policy is likely dead thanks to ai leaving worlds systems exposed to zero day attacks security expert details how llm assisted bug hunting ushers in a new cyberworld orders",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "5285b37f945a"
+      },
+      {
+        "headline": "#democrats are brainwashed into thinking she was good for them.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/ae1e18d18049365d626d9a6f936863aa81f09509ea6484268866f5c3618bf92b.mp4",
+        "publishedAt": "2026-05-12T11:20:28.000Z",
+        "description": "democrats are brainwashed into thinking she was good for them holy crap arcadia california mayor eileen wang d has just pleaded guilty to acting as an illegal chinese agent and she obtained elected office in california the communists are everywhere and california is a hotbed she faces up to 10 years in prison and was first elected in 2022 to city council wang reportedly spread chinese propaganda online while in america including when she was directed to lie that there was no genocide or forced labor in communist china keep busting the chinese spies fbidirectorkash https blossom primal net ae1e18d18049365d626d9a6f936863aa81f09509ea6484268866f5c3618bf92b mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "democrats"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c042932e0e0e"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 116
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 51
+    }
+  ],
+  "failures": []
+}
