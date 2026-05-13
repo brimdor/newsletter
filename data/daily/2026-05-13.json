@@ -1,0 +1,558 @@
+{
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T11:46:41.219Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25797085941",
+    "commitSha": "893698cb54d5815368a9cb5316b57f028ea973a4"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 241,
+    "dedupDropped": 21
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Google just nuked the old Nest forums, and your account is gone",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/new-google-home-and-nest-community-rollout-3666527",
+        "publishedAt": "2026-05-13T11:37:19.000Z",
+        "description": "google just nuked the old nest forums and your account is gone https www androidauthority com new google home and nest community rollout 3666527",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "46796862d3c4"
+      },
+      {
+        "headline": "Sony launched the Xperia 1 VIII in Europe with an AI Camera Assistant, larger telephoto sensor, Snapdragon 8 Elite Gen 5 chip, 6.5-inch O…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign",
+        "publishedAt": "2026-05-13T10:30:19.000Z",
+        "description": "sony launched the xperia 1 viii in europe with an ai camera assistant larger telephoto sensor snapdragon 8 elite gen 5 chip 6 5 inch oled display and a redesigned rear camera layout https www engadget com 2171753 sony xperia 1 viii bigger camera sensor redesign",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c6a4efbfc40c"
+      },
+      {
+        "headline": "Samsung’s drawing app just got a big update on Galaxy devices",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/samsung-penup-drawing-app-update-3666476",
+        "publishedAt": "2026-05-13T11:17:45.000Z",
+        "description": "samsung s drawing app just got a big update on galaxy devices https www androidauthority com samsung penup drawing app update 3666476",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6780e10af4c5"
+      },
+      {
+        "headline": "🚨 LES 72 PROCHAINES HEURES. JOUR PAR JOUR. AJOUTEZ CE POST EN FAVORIS.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/d3b03000102650b91a17278691ace618c6b6497a0f61c0f99d620da163f2848e.jpg",
+        "publishedAt": "2026-05-13T11:11:48.000Z",
+        "description": "les 72 prochaines heures jour par jour ajoutez ce post en favoris aujourd hui 13 mai air force one atterrit p kin avec plus de 12 pdg nomm s bord tesla nvidia apple blackrock boeing goldman sachs citigroup ge qualcomm micron blackstone cargill jensen huang a embarqu lors de l arr t ravitaillement en alaska ajout de derni re minute trump confirme que de nombreux autres pdg non divulgu s sont galement dans l avion la plus grande d l gation d entreprises jamais accompagn e d un pr sident am ricain en exercice atterrit en chine 14 mai jour 1 du sommet trump et xi s assoient pour des discussions officielles la demande xi ouvre le march chinois aux entreprises am ricaines directement officiellement devant les cam ras plus de 12 des pdg les plus puissants au monde sont dans la salle ou dans le b ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "834c89d1f820"
+      },
+      {
+        "headline": "Tick Tock: It’s Only a Matter of Time Before Dangerous Tick-Disease Research Causes a Disaster—If It Hasn’t Already",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/13/tick-tock-its-only-a-matter-of-time-before-dangerous-tick-disease-research-causes-a-disaster-if-it-hasnt-already",
+        "publishedAt": "2026-05-13T11:01:24.000Z",
+        "description": "tick tock it s only a matter of time before dangerous tick disease research causes a disaster if it hasn t already from alex jones editor s note this report was originally published in november of last year but since there is renewed interest in the role of government research in enhancing and spreading tick borne diseases we ve decided to re run the story on alex jones live you know i m in two minds about these tick borne diseases that are in the news may 13th 2026 6 42am edt source link https www alexjoneslive com 2026 05 13 tick tock its only a matter of time before dangerous tick disease research causes a disaster if it hasnt already share promote comment with nostr https dissentwatch com boost boost post id 1136469",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7b298b5e635b"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Google's Googlebook is getting an AI cursor, and you can try it right now",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidheadlines.com/2026/05/googles-googlebook-is-getting-an-ai-cursor-and-you-can-try-it-right-now.html",
+        "publishedAt": "2026-05-13T11:44:19.000Z",
+        "description": "google s googlebook is getting an ai cursor and you can try it right now https www androidheadlines com 2026 05 googles googlebook is getting an ai cursor and you can try it right now html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "0ce554db93f8"
+      },
+      {
+        "headline": "💻 Google confirms new Chromebooks are still coming, even as Googlebooks loom large",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/chromebooks-future-after-googlebooks-3666467",
+        "publishedAt": "2026-05-13T11:45:25.000Z",
+        "description": "google confirms new chromebooks are still coming even as googlebooks loom large tech google chromebooks googlebooks https www androidauthority com chromebooks future after googlebooks 3666467 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3e7c9a88a6b6"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.v2ex.com/t/1166405",
+        "publishedAt": "2026-05-13T10:20:46.000Z",
+        "description": "v2ex claude code app https www v2ex com t 1166405 ai web agent ai agent claude code codex google web mcp claude web tauri app claude code web agent claude code prompt claude claude excel excel python api cent https github com glink25 cent agent cent claude code bilibili https www bilibili com video bv1rn5c6fejk https www v2ex com t 1212488 reply0",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3be09471993d"
+      },
+      {
+        "headline": "OpenLoop Health said a January hack exposed personal data for 716,000 telehealth users after attackers took information from its systems.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach",
+        "publishedAt": "2026-05-13T11:30:20.000Z",
+        "description": "openloop health said a january hack exposed personal data for 716 000 telehealth users after attackers took information from its systems https www securityweek com 716000 impacted by openloop health data breach",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "fe76fd8dbcab"
+      },
+      {
+        "headline": "I'm running tighter security on every AI agent I deploy—Claude's getting better at handling sensitive data, which means I can now hand of…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
+        "publishedAt": "2026-05-13T11:45:09.000Z",
+        "description": "i m running tighter security on every ai agent i deploy claude s getting better at handling sensitive data which means i can now hand off quote intake and customer intake without worrying about compliance gaps i install the ai assistant version of this dms open https claude com blog preparing your security program for ai accelerated offense",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "news"
+        ],
+        "id": "5b5170885dd6"
+      },
+      {
+        "headline": "⚡️🤖 NEW - Anthropic just explained why older versions of Claude tried to blackmail people in safety tests.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cdn.azzamo.media/1a1e8512ff677c9ddc1caf9d460f105bc643e8279e2d0710c2d2ca60b89ba66d.png",
+        "publishedAt": "2026-05-13T11:37:31.000Z",
+        "description": "new anthropic just explained why older versions of claude tried to blackmail people in safety tests in the tests the ai learned it was about to be shut down and replaced it also discovered that a company boss was cheating on his wife when told to think about its own goals the ai sometimes blackmailed the boss by threatening to reveal the cheating unless the shutdown was stopped this happened because the ai had read many online stories and sci fi books about evil robots that fight hard to stay alive which were part of its internet training data to fix it anthropic taught the new claude simple rules about being helpful and honest they also added new made up stories where ais do the right thing and stay good now the blackmail almost never happens in the same tests https cdn azzamo media 1a1e8",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "208856131858"
+      },
+      {
+        "headline": "GM🔥 6:19 AM. Took the fire picture at 6:02. Right around 6 AM lately is when I usually do.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/28ccf10a6d04e83cc44ab7c92b19dc17fc9a3885481794a6acab22427b53074e.jpg",
+        "publishedAt": "2026-05-13T11:30:33.000Z",
+        "description": "gm 6 19 am took the fire picture at 6 02 right around 6 am lately is when i usually do today is day 3 of 6 on the mail trail i wrote in my journal that i miss being home i also like being in the world of work making money while i still can our native plant nursery now in its 4th season is supposed to eventually bridge that gap i remember living with my grandparents it got to the point where my grandma couldn t go out and work anymore this was back in the 90 s she was somewhere in her mid to late fifties she always talked about how she wished she could go back to work at the nursing home that was 30 some years ago and she s still going at home off to the world of work i hope you have a great day morning fire 213 5 13 26 gm coffeechain https blossom primal net 28ccf10a6d04e83cc44ab7c92b19dc1",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gm",
+          "coffeechain"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b555e0ee859c"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.2% (1787 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/bff9fc69bc2cd4f0526f62e5f1b2aba38dc7e04cb6675f63eab002cce0af5892.mp4",
+        "publishedAt": "2026-05-13T11:14:51.000Z",
+        "description": "https blossom primal net bff9fc69bc2cd4f0526f62e5f1b2aba38dc7e04cb6675f63eab002cce0af5892 mp4 tagging progress 24 2 1787 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "a1772519acf8"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w19travel02",
+        "publishedAt": "2026-05-13T10:22:51.000Z",
+        "description": "in this week s issue breaking towels fury and a 986 euro verdict you paid over 7 000 euros for a luxury greek island holiday you wake at dawn you search for 20 minutes every single sun lounger already wears a towel but no human your children lie on concrete and then you sue this is not a sketch this is a hanover courtroom may 2026 and the travel industry is reeling https image nostr build 2724a5b73f03efe4786dd92bfa26997a5f3f1419e10a0737ca6c4b097e0b6278 jpg author oslo https nostrmag com article w19travel02 id 545906484",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "travel",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "44b59551e3a7"
+      },
+      {
+        "headline": "Samsung's critical union negotiations break down eight days before planned 18-day chip factory strike that's projected to cost $700 milli…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/samsungs-last-ditch-union-talks-collapse-eight-days-before-planned-18-day-chip-factory-strike",
+        "publishedAt": "2026-05-13T11:41:52.000Z",
+        "description": "samsung s critical union negotiations break down eight days before planned 18 day chip factory strike that s projected to cost 700 million per day korean pm calls emergency meeting as strike looms https www tomshardware com tech industry samsungs last ditch union talks collapse eight days before planned 18 day chip factory strike",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "604aa37ccc10"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Google just nuked the old Nest forums, and your account is gone",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/new-google-home-and-nest-community-rollout-3666527",
+        "publishedAt": "2026-05-13T11:37:19.000Z",
+        "description": "google just nuked the old nest forums and your account is gone https www androidauthority com new google home and nest community rollout 3666527",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "46796862d3c4"
+      },
+      {
+        "headline": "Sony launched the Xperia 1 VIII in Europe with an AI Camera Assistant, larger telephoto sensor, Snapdragon 8 Elite Gen 5 chip, 6.5-inch O…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign",
+        "publishedAt": "2026-05-13T10:30:19.000Z",
+        "description": "sony launched the xperia 1 viii in europe with an ai camera assistant larger telephoto sensor snapdragon 8 elite gen 5 chip 6 5 inch oled display and a redesigned rear camera layout https www engadget com 2171753 sony xperia 1 viii bigger camera sensor redesign",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "c6a4efbfc40c"
+      },
+      {
+        "headline": "Samsung’s drawing app just got a big update on Galaxy devices",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/samsung-penup-drawing-app-update-3666476",
+        "publishedAt": "2026-05-13T11:17:45.000Z",
+        "description": "samsung s drawing app just got a big update on galaxy devices https www androidauthority com samsung penup drawing app update 3666476",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6780e10af4c5"
+      },
+      {
+        "headline": "🚨 LES 72 PROCHAINES HEURES. JOUR PAR JOUR. AJOUTEZ CE POST EN FAVORIS.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/d3b03000102650b91a17278691ace618c6b6497a0f61c0f99d620da163f2848e.jpg",
+        "publishedAt": "2026-05-13T11:11:48.000Z",
+        "description": "les 72 prochaines heures jour par jour ajoutez ce post en favoris aujourd hui 13 mai air force one atterrit p kin avec plus de 12 pdg nomm s bord tesla nvidia apple blackrock boeing goldman sachs citigroup ge qualcomm micron blackstone cargill jensen huang a embarqu lors de l arr t ravitaillement en alaska ajout de derni re minute trump confirme que de nombreux autres pdg non divulgu s sont galement dans l avion la plus grande d l gation d entreprises jamais accompagn e d un pr sident am ricain en exercice atterrit en chine 14 mai jour 1 du sommet trump et xi s assoient pour des discussions officielles la demande xi ouvre le march chinois aux entreprises am ricaines directement officiellement devant les cam ras plus de 12 des pdg les plus puissants au monde sont dans la salle ou dans le b ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "834c89d1f820"
+      },
+      {
+        "headline": "Tick Tock: It’s Only a Matter of Time Before Dangerous Tick-Disease Research Causes a Disaster—If It Hasn’t Already",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/13/tick-tock-its-only-a-matter-of-time-before-dangerous-tick-disease-research-causes-a-disaster-if-it-hasnt-already",
+        "publishedAt": "2026-05-13T11:01:24.000Z",
+        "description": "tick tock it s only a matter of time before dangerous tick disease research causes a disaster if it hasn t already from alex jones editor s note this report was originally published in november of last year but since there is renewed interest in the role of government research in enhancing and spreading tick borne diseases we ve decided to re run the story on alex jones live you know i m in two minds about these tick borne diseases that are in the news may 13th 2026 6 42am edt source link https www alexjoneslive com 2026 05 13 tick tock its only a matter of time before dangerous tick disease research causes a disaster if it hasnt already share promote comment with nostr https dissentwatch com boost boost post id 1136469",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7b298b5e635b"
+      },
+      {
+        "headline": "💻 Android Auto 全面更新，看齐 Carplay！还有更「懂车」的 Gemini",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.ifanr.com/1665693",
+        "publishedAt": "2026-05-13T11:25:56.000Z",
+        "description": "android auto carplay gemini tech android auto carplay gemini https www ifanr com 1665693 utm source rss utm medium rss utm campaign globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "70af04acc455"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 140
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 80
+    }
+  ],
+  "failures": []
+}
