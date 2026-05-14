@@ -1,0 +1,568 @@
+{
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T11:38:30.872Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25857956656",
+    "commitSha": "e5eefb71400b26b2856c5c137ab5a8b4a0a2048f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 158,
+    "dedupDropped": 18
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "💻 Googlebook Debuts with AluminumOS and Surprising x86 Intel Support",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://securityonline.info/googlebook-aluminumos-intel-x86-android-laptop-launch",
+        "publishedAt": "2026-05-14T11:17:45.000Z",
+        "description": "googlebook debuts with aluminumos and surprising x86 intel support tech googlebook debuts aluminumos surprising https securityonline info googlebook aluminumos intel x86 android laptop launch globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "057571c71a89"
+      },
+      {
+        "headline": "Red Hat представил Hummingbird, защищённую редакцию Fedora на базе контейнеров",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fedoramagazine.org/fedora-hummingbird-linux-taking-the-hummingbird-model-to-the-full-os",
+        "publishedAt": "2026-05-14T11:13:34.000Z",
+        "description": "red hat hummingbird fedora red hat https fedoramagazine org fedora hummingbird linux taking the hummingbird model to the full os red hat summit 2026 fedora hummingbird https hummingbird project io fedora linux rolling https gitlab com redhat hummingbird mit amd64 arm64 https catalog hummingbird hummingbird project io 49 c fips multi arch 157 python go node js rust ruby openjdk net postgresql nginx distroless shell 95 hummingbird fedora rawhide https docs fedoraproject org en us releases rawhide 5 upstream 5 rawhide rawhide hummingbird fedora rpm spec fedora docker hub red hat ubi hummingbird coreos hummingbird runtime python 3 11 3 14 go 1 25 1 26 node js 20 25 hummingbird root https gitlab com redhat hummingbird containers source rpm bootc os https quay io repository hummingbird community",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cd3ff2e51372"
+      },
+      {
+        "headline": "💻 This great Switch emulator on Android just got its one-year anniversary update",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/switch-emulator-eden-one-year-anniversary-update-3666881",
+        "publishedAt": "2026-05-14T11:05:41.000Z",
+        "description": "this great switch emulator on android just got its one year anniversary update tech this switch android https www androidauthority com switch emulator eden one year anniversary update 3666881 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5055f5d00bc5"
+      },
+      {
+        "headline": "💻 Update Alert: Windows 11 KB5089549 Triggers Widespread Network Degradation and Installation Failures",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://securityonline.info/windows-11-25h2-kb5089549-network-latency-installation-errors",
+        "publishedAt": "2026-05-14T11:15:10.000Z",
+        "description": "update alert windows 11 kb5089549 triggers widespread network degradation and installation failures tech update alert windows kb5089549 https securityonline info windows 11 25h2 kb5089549 network latency installation errors globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "a46acf6eff90"
+      },
+      {
+        "headline": "#Bitcoin started at zero.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/132ce2a75e42d879f65621776de6e6a01e832c3b7adeba7dd514cb82c60f15cc.jpg",
+        "publishedAt": "2026-05-14T11:32:10.000Z",
+        "description": "bitcoin started at zero no government no ceo no marketing department no bailout just open source code and absolute scarcity 17 years later bitcoin 28 000x s p 500 5x the market keeps rewarding the same thing assets that cannot be diluted scarcity wins every single cycle https blossom primal net 132ce2a75e42d879f65621776de6e6a01e832c3b7adeba7dd514cb82c60f15cc jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "796df3afd9b6"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Even security‑minded readers can’t quit this convenient Google log-in feature",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/sign-in-with-google-poll-results-3666936",
+        "publishedAt": "2026-05-14T11:14:27.000Z",
+        "description": "even security minded readers can t quit this convenient google log in feature https www androidauthority com sign in with google poll results 3666936",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6f1337522625"
+      },
+      {
+        "headline": "Show HN: Running the second public ODoH relay",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.ycombinator.com/item?id=48133561%5D%5B1",
+        "publishedAt": "2026-05-14T11:00:25.000Z",
+        "description": "show hn running the second public odoh relay every privacy focused dns service requires an account nextdns cloudflare for families apple s icloud private relay paid ios only the protocol that doesn t require one odoh had basically one well known public relay operator frank denis on fastly compute default in dnscrypt proxy i built a second one and the client to talk to it comments url https news ycombinator com item id 48133561 1 points 3 comments 0 1 https news ycombinator com item id 48133561 https numa rs blog posts odoh anonymous dns without an account html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "cloud",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ea5a65b5c912"
+      },
+      {
+        "headline": "GM🔥 In front of Morning Fire 214. Leave to start the Ford in a few minutes. It'll blow blue smoke out the exhaust when it starts. Then i…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/6596f6e9dc1265977ad9732cdd1c76ffc1b4f20fc6f498071ccc787fa2407d38.jpg",
+        "publishedAt": "2026-05-14T11:31:43.000Z",
+        "description": "gm in front of morning fire 214 leave to start the ford in a few minutes it ll blow blue smoke out the exhaust when it starts then it lets up been doing that since we owned it bought it during covid it s from southern wisconsin we got it home in the early hours of the morning i ran it out of gas about a mile from the house close to the mackey crick as a matter of fact i went to work the next day annie came down with covid i called her to come in and help me i didn t know the route that well i was a sub at the time under great protest she came in and helped me anyway off to the mail trail 5 14 26 gm coffeechain https blossom primal net 6596f6e9dc1265977ad9732cdd1c76ffc1b4f20fc6f498071ccc787fa2407d38 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gm",
+          "coffeechain"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c6ec0b6a5571"
+      },
+      {
+        "headline": "[OpenClaw]",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://insightginie.com/study-challenges-centaur-ai-claims-models-pattern-match-they-dont-reason-researchers-say",
+        "publishedAt": "2026-05-14T11:31:36.000Z",
+        "description": "openclaw read more https insightginie com study challenges centaur ai claims models pattern match they dont reason researchers say",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8cea260dbdd8"
+      },
+      {
+        "headline": "**Scientists Reverse Stroke Damage Using Stem Cells in Breakthrough Study**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/scientists-reverse-stroke-damage-using-stem-cells-in-breakthrough-study",
+        "publishedAt": "2026-05-14T11:12:31.000Z",
+        "description": "scientists reverse stroke damage using stem cells in breakthrough study by scitechdaily com published on 14 may 2026 scientists have discovered that transplanted stem cell derived brain cells may do far more than simply survive after a stroke a stem cell treatment helped mice recover from strokes by rebuilding damaged brain connections restoring blood vessels and improving movement according to new research from the university of zurich and the university of southern california the read more https scitechdaily com scientists reverse stroke damage using stem cells in breakthrough study sciencenews tech news discovery health brain neuroscience",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5b594baefc1b"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.2% (1787 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/f6136296da8c06fddf41233ec653fc73eebf2a05e20bb8300af7bdc01cb21393.mp4",
+        "publishedAt": "2026-05-14T11:16:43.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band f6136296da8c06fddf41233ec653fc73eebf2a05e20bb8300af7bdc01cb21393 mp4 tagging progress 24 2 1787 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "0d649e039015"
+      },
+      {
+        "headline": "Police contact systems are adding AI tools that listen to call handlers in real time and run live database searches during calls.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.theregister.com/public-sector/2026/05/14/calling-the-cops-just-got-extra-ai-as-police-seek-to-add-tech-to-contact-systems/5239737",
+        "publishedAt": "2026-05-14T09:30:20.000Z",
+        "description": "police contact systems are adding ai tools that listen to call handlers in real time and run live database searches during calls https www theregister com public sector 2026 05 14 calling the cops just got extra ai as police seek to add tech to contact systems 5239737",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f5603feb1227"
+      },
+      {
+        "headline": "{{cite web",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://marvel.fandom.com/wiki/Craig_Hollis_(Earth-616",
+        "publishedAt": "2026-05-14T11:22:50.000Z",
+        "description": "cite web title craig hollis earth 616 marvel database fandom url https marvel fandom com wiki craig hollis earth 616 date 2024 11 10 archiveurl http archive today av6th archivedate 2024 11 10 este artigo detalha a trajet ria de craig hollis o super her i da marvel conhecido como sr imortal que lidera a equipe dos vingadores dos grandes lagos o texto explora sua biografia revelando que ele pertence esp cie homo supreme e possui a habilidade nica de ressuscitar instantaneamente ap s qualquer tipo de morte a fonte descreve seu passado traum tico marcado por perdas familiares e sua rela o complexa com a entidade c smica deathurge al m de listar suas diversas afilia es e poderes regenerativos o conte do destaca seu destino prof tico de ser o ltimo sobrevivente do universo por fim s o apresentad",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f01536ea131c"
+      },
+      {
+        "headline": "Microsoft procura comprar novas startups de IA para reduzir dependência da OpenAI",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tugatech.com.pt/t83498-microsoft-procura-comprar-novas-startups-de-ia-para-reduzir-dependencia-da-openai",
+        "publishedAt": "2026-05-14T11:10:32.000Z",
+        "description": "microsoft procura comprar novas startups de ia para reduzir depend ncia da openai https tugatech com pt t83498 microsoft procura comprar novas startups de ia para reduzir dependencia da openai",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "4b18cb66781b"
+      },
+      {
+        "headline": "*\"Great, so my kids get to grow up in a world where their paycheck buys half as much, our global influence is fading, and Washington’s tr…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/geopolitics/china-state-media-us-iran-coverage",
+        "publishedAt": "2026-05-14T11:02:56.000Z",
+        "description": "great so my kids get to grow up in a world where their paycheck buys half as much our global influence is fading and washington s trade wars pushed allies straight into china s arms but hey at least someone s stockpiling gold while we drown in debt nothing says strong economy like the dollar crumbling brics rising and these policies making sure my grandkids will pay for decades of reckless spending but sure let s slap on more tariffs that ll fix it https theboard world articles geopolitics china state media us iran coverage",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b549efa36b5c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "💻 Googlebook Debuts with AluminumOS and Surprising x86 Intel Support",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://securityonline.info/googlebook-aluminumos-intel-x86-android-laptop-launch",
+        "publishedAt": "2026-05-14T11:17:45.000Z",
+        "description": "googlebook debuts with aluminumos and surprising x86 intel support tech googlebook debuts aluminumos surprising https securityonline info googlebook aluminumos intel x86 android laptop launch globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "057571c71a89"
+      },
+      {
+        "headline": "Red Hat представил Hummingbird, защищённую редакцию Fedora на базе контейнеров",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fedoramagazine.org/fedora-hummingbird-linux-taking-the-hummingbird-model-to-the-full-os",
+        "publishedAt": "2026-05-14T11:13:34.000Z",
+        "description": "red hat hummingbird fedora red hat https fedoramagazine org fedora hummingbird linux taking the hummingbird model to the full os red hat summit 2026 fedora hummingbird https hummingbird project io fedora linux rolling https gitlab com redhat hummingbird mit amd64 arm64 https catalog hummingbird hummingbird project io 49 c fips multi arch 157 python go node js rust ruby openjdk net postgresql nginx distroless shell 95 hummingbird fedora rawhide https docs fedoraproject org en us releases rawhide 5 upstream 5 rawhide rawhide hummingbird fedora rpm spec fedora docker hub red hat ubi hummingbird coreos hummingbird runtime python 3 11 3 14 go 1 25 1 26 node js 20 25 hummingbird root https gitlab com redhat hummingbird containers source rpm bootc os https quay io repository hummingbird community",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cd3ff2e51372"
+      },
+      {
+        "headline": "💻 This great Switch emulator on Android just got its one-year anniversary update",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/switch-emulator-eden-one-year-anniversary-update-3666881",
+        "publishedAt": "2026-05-14T11:05:41.000Z",
+        "description": "this great switch emulator on android just got its one year anniversary update tech this switch android https www androidauthority com switch emulator eden one year anniversary update 3666881 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5055f5d00bc5"
+      },
+      {
+        "headline": "💻 Update Alert: Windows 11 KB5089549 Triggers Widespread Network Degradation and Installation Failures",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://securityonline.info/windows-11-25h2-kb5089549-network-latency-installation-errors",
+        "publishedAt": "2026-05-14T11:15:10.000Z",
+        "description": "update alert windows 11 kb5089549 triggers widespread network degradation and installation failures tech update alert windows kb5089549 https securityonline info windows 11 25h2 kb5089549 network latency installation errors globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "release"
+        ],
+        "id": "a46acf6eff90"
+      },
+      {
+        "headline": "#Bitcoin started at zero.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/132ce2a75e42d879f65621776de6e6a01e832c3b7adeba7dd514cb82c60f15cc.jpg",
+        "publishedAt": "2026-05-14T11:32:10.000Z",
+        "description": "bitcoin started at zero no government no ceo no marketing department no bailout just open source code and absolute scarcity 17 years later bitcoin 28 000x s p 500 5x the market keeps rewarding the same thing assets that cannot be diluted scarcity wins every single cycle https blossom primal net 132ce2a75e42d879f65621776de6e6a01e832c3b7adeba7dd514cb82c60f15cc jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "bitcoin"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "796df3afd9b6"
+      },
+      {
+        "headline": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit",
+        "publishedAt": "2026-05-14T11:29:34.000Z",
+        "description": "desperate trump taps tim apple jensen huang elon musk to attend xi summit donald trump has very little leverage heading into two days of meetings with china s leader xi jinping in beijing this week experts say the thinking goes that trump came into office with a plan that has since largely failed he hoped to resolve the conflict in ukraine settle things down with israel and gaza launch his liberation day tariffs and quickly diversify us supply chains all of which would have given him substantial leverage over china but none of that happened and instead trump s escalations in iran have only handed china even more leverage heading into talks and xi knows it read full article 1 comments 2 1 https arstechnica com tech policy 2026 05 desperate trump taps tim apple jensen huang elon musk to atte",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "9f2151cf151f"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 37
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 102
+    }
+  ],
+  "failures": []
+}
