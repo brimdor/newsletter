@@ -1,0 +1,560 @@
+{
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T11:26:11.592Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25960720317",
+    "commitSha": "3c5ea49469aac3cefbce865d0d2ee8f038b34efb"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 174,
+    "dedupDropped": 30
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "‼️⚠️ OPENAI VEUT FRANCHIR LE RUBICON DE LA PRIVACY !!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "publishedAt": "2026-05-16T11:20:11.000Z",
+        "description": "openai veut franchir le rubicon de la privacy https npub1m96vd4uma3jy5jrtueuajsggyjf3mpwjlz4rc8z8v53vkkx63x7samnfcg blossom band 3dee34577c895f6d9b2ee3c14ba8492c1dd76e110108eadbeefd232e5b8014a7 jpg apr s le world id 4 0 et le scan de r tine pour prouver que t es un vrai humain merci sama et worldcoinfnd on passe direct au niveau sup rieur aujourd hui chatgpt se connecte ton compte bancaire via plaid ouais ton vrai compte tes vrais mouvements tes vrais soldes tes abonnements tes courses amazon tes virements salaire tout a aspir en lecture seule par l ia la plus gourmande en donn es de la plan te ils appellent a finance personnelle intelligente tu veux un conseil perso ultra pr cis ok donne nous tes relev s de compte on te dira exactement combien tu peux claquer en vacances et on gardera tou",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "baeb7ae75753"
+      },
+      {
+        "headline": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+        "publishedAt": "2026-05-16T11:00:00.000Z",
+        "description": "first apple m5 memory exploit discovered using anthropic ai gives root access on macos claude mythos helps security researchers bypass memory integrity enforcement https www tomshardware com tech industry cyber security apple m5 architecture suffers first privilege escalation exploit anthropics claude mythos helps researchers bypass memory integrity enforcement",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "096de516588f"
+      },
+      {
+        "headline": "Google just proved why iPhone users are critical for the future of Android",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/iphone-critical-android-future-google-changes-3667156",
+        "publishedAt": "2026-05-16T11:00:36.000Z",
+        "description": "google just proved why iphone users are critical for the future of android https www androidauthority com iphone critical android future google changes 3667156",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c0b69bd9ff2a"
+      },
+      {
+        "headline": "Hantavirus Can Remain in Semen for SIX YEARS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/16/hantavirus-can-remain-in-semen-for-six-years",
+        "publishedAt": "2026-05-16T09:57:23.000Z",
+        "description": "hantavirus can remain in semen for six years from alex jones hantavirus can remain present in semen for up to six years and could be sexually transmitted a study published by swiss researchers focuses on the case of a 55 year old man who was infected by the virus while in south america despite disappearing from his blood urine and respiratory tract genetic material from the virus remained may 16th 2026 5 48am edt source link https www alexjoneslive com 2026 05 16 hantavirus can remain in semen for six years share promote comment with nostr https dissentwatch com boost boost post id 1137832",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e147811978ba"
+      },
+      {
+        "headline": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
+        "publishedAt": "2026-05-16T11:26:17.000Z",
+        "description": "israel s image crisis becoming too big to spin israel has never spent more on its national propaganda campaigns https www aljazeera com video the listening post 2026 5 16 israels image crisis becoming too big to spin traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "88210e39ca32"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "💻 The Morning After: Google Teases The Android-Based Googlebook - Engadget",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSC1mMDd2Z2Z5RW9zbFJya2JFWWRtbkVDR2tyaE02OTZzTDZYb2pfQjNhYkgyaTFCS3d4WmpySjdha3pRSnpjb0hyQ3BxOE5Qb3dpYnRDcEdHU3ZzcE9fc0xSYlVZZi1scXZzdWJEME1EOHp2djAtSGwzMzFLM0xLRU85Wk5JcklMZTB2aw?oc=5",
+        "publishedAt": "2026-05-16T11:17:53.000Z",
+        "description": "the morning after google teases the android based googlebook engadget tech morning google teases android based https news google com rss articles cbmijafbvv95cuxnsc1mmdd2z2z5rw9zbfjya2jfwwrtbkvdr2tyae02otzztdzyb2pfqjnhykgyatfcs3d4wmpysjdha3prsnpjb0hyq3bxoe5qb3dpynrdcedhu3zzce9fc0xsylvzzi1scxzzdwjeme1eohp2djatsgwzmzflm0xlru85wk5jcklmztb2aw oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "8e1d8dc3656a"
+      },
+      {
+        "headline": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android",
+        "publishedAt": "2026-05-16T11:00:00.000Z",
+        "description": "how to control everything on your phone with your voice ios and android https www wired com story control everything on your phone with your voice ios android",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "389ae055898e"
+      },
+      {
+        "headline": "**This Strange Molecular Signature May Be the Best Clue Yet to Alien Life**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/this-strange-molecular-signature-may-be-the-best-clue-yet-to-alien-life",
+        "publishedAt": "2026-05-16T11:11:13.000Z",
+        "description": "this strange molecular signature may be the best clue yet to alien life by jules bernstein university of california riverside published on 16 may 2026 scientists may have found a hidden chemical signature that could help reveal alien life scientists searching for life beyond earth have long focused on finding the right molecules on distant planets and moons but a new study suggests the most important clue may not be the molecules themselves but the hidden patterns in how they read more https scitechdaily com this strange molecular signature may be the best clue yet to alien life astrobiology exoplanets chemistry molecularsignatures alienlife space astrobiology astronomy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "a798a6c39aa8"
+      },
+      {
+        "headline": "The Dyson HushJet Compact Air Purifier is powerful, quiet, and proof that good things do come in small(ish) packages",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/home/air-quality/dyson-hushjet-compact-air-purifier-review",
+        "publishedAt": "2026-05-16T11:00:00.000Z",
+        "description": "the dyson hushjet compact air purifier is powerful quiet and proof that good things do come in small ish packages https www techradar com home air quality dyson hushjet compact air purifier review",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "2645d67d4442"
+      },
+      {
+        "headline": "Mood: 😕, 🥸",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/a9e022fb6f63a8182e6ac25ad699f5844350ed4e8356893d8fec1fd65345fba5.mp4",
+        "publishedAt": "2026-05-16T11:19:36.000Z",
+        "description": "mood https video nostr build a9e022fb6f63a8182e6ac25ad699f5844350ed4e8356893d8fec1fd65345fba5 mp4 tagging progress 24 2 1787 of 7396 videos tagged reply to this note with emoji reactions to help tag this video reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "fcefc5c1499a"
+      },
+      {
+        "headline": "Aktuální vědecké objevy: PMOS, starobylý ostrov a 'nemožný' krystal",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.sciencealert.com/this-week-in-science-pcos-becomes-pmos-an-impossible-crystal-and-more",
+        "publishedAt": "2026-05-16T11:10:23.000Z",
+        "description": "aktu ln v deck objevy pmos starobyl ostrov a nemo n krystal v dci ofici ln p ejmenovali hormon ln poruchu pcos na polyendokrinn metabolick ovari ln syndrom pmos aby l pe odr el jeho komplexnost archeologov objevili z klady um l ho ostrova v skotsku star p es 5 000 let byla nalezena vz cn krystalick forma vytvo en p i prvn m jadern m testu v roce 1945 d le studie ukazuje e st rnut o m e indikovat riziko osteopor zy nasa testovala nov rotory pro marsovsk vrtuln k kter p i testech p ekonaly zvukovou bari ru studie tak zkoum spojen mezi u v n m marihuany a depres p i em hled mo n spole n rizikov faktory https www sciencealert com images 2026 05 twis cover may 16 jpg zdroj https www sciencealert com this week in science pcos becomes pmos an impossible crystal and more veda zdravi technologie",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "veda",
+          "zdravi",
+          "technologie"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "2e1426c45d66"
+      },
+      {
+        "headline": "\"America First was supposed to mean strength, not driving allies into BRICS’ arms while central banks dump dollars for gold. Now we’re wa…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/geopolitics/us-embassy-attacks-preventing-security-breaches",
+        "publishedAt": "2026-05-16T11:24:53.000Z",
+        "description": "america first was supposed to mean strength not driving allies into brics arms while central banks dump dollars for gold now we re watching the yuan eat our lunch 34 7t in debt and washington acts shocked tariffs on allies russia and china trading in yuan reserves collapsing this administration is achieving the opposite of winning while brics builds the future i voted for america first not this self inflicted decline https theboard world articles geopolitics us embassy attacks preventing security breaches",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "00104144ddb5"
+      },
+      {
+        "headline": "💻 ‘I didn’t want to be the guinea pig’: inside tech’s AI-fueled manager purge - The Guardian",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wMkdteXhIcmNQZVFKc3NnbVc3RXVaMEJ1aDZDeVMyMUlPUzBuVTVXclJWN3U3cklpSkx1MVdDOVk1aFRMMW9JV3UzTzg5ZGNvU2FtUF8tUzNDYXU1SUttek1WYWJaazV5dE5pVnJINGRvZHJFSWM5Qjd4SUI?oc=5",
+        "publishedAt": "2026-05-16T11:18:55.000Z",
+        "description": "i didn t want to be the guinea pig inside tech s ai fueled manager purge the guardian tech ai fueled guardian https news google com rss articles cbmifefvx3lxte5wmkdtexhicmnqzvfkc3nnbvc3rxvamej1adzdevmymulpuzbuvtvxcljwn3u3cklpskx1mvddovk1afrmmw9jv3uztzg5zgnvu2ftuf8tuzndyxu1suttek1wywjaazv5de5pvnjingrvzhjfswm5qjd4sui oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6e683bda717f"
+      },
+      {
+        "headline": "💻 Pershing Square Has Taken New Stake in Microsoft, Ackman Says - Bloomberg.com",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEI2SUxmQTcxWmZLZkxLM3pBYm93bWFkNkNfMHR6VXViRkNadTJiZ216elRQSnUtcERmODA4TVVDNUpwYlRhMHlWbm5neUFLSFRKb2U0azlkNXNvc2xMMzhRN0E0Zk42RnRySjlrYkhidENYSDhGQmJuT09yMWlMZk9TaTUtdUgzaGdTcUFzeVlzank3Vi1ZUkpvejI4MU9DMlk1M0VaR0JuYUlWQnJISQ?oc=5",
+        "publishedAt": "2026-05-16T11:15:59.000Z",
+        "description": "pershing square has taken new stake in microsoft ackman says bloomberg com tech pershing square taken stake https news google com rss articles cbmisafbvv95cuxoeei2suxmqtcxwmzlzkxlm3pbym93bwfknknfmhr6vxvirknadtjiz216elrqsnutcermoda4tvvdnupwylrhmhlwbm5neuflsfrkb2u0azlknxnvc2xmmzhrn0e0zk42rnrysjlrykhidenysdhgqmjut09ymwlmzk9tatutdugzagdtcufzevlzank3vi1zukpveji4mu9dmlk1m0var0juyulwqnjisq oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "3cb6c3bd59c1"
+      },
+      {
+        "headline": "📰 Inside China’s race to dominate humanoid robotics - NBC News",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVQyWkUzNG54NTVDMzFkeDNNOTdPMWRQaXFIYVpuNkxCV2RMR09JZ0stTTRHUmVTVzdxWFJkSjJhSkRKNFRIRVpXTV9temNtT3pQNGxmeWlfcHRFalltQjBIUVlTOXhBTkFrRFBlLTRSbDktU1N6Qll6bmV3TDVnRFQ0VGVESmRKa1dXdVg4M05rV0duTXUwcTNtdkU5NEJyeWJwczFFMXE?oc=5",
+        "publishedAt": "2026-05-16T11:12:53.000Z",
+        "description": "inside china s race to dominate humanoid robotics nbc news ai tech inside china s news https news google com rss articles cbmiqafbvv95cuxqzvqywkuzng54ntvdmzfkednnotdpmwrqaxfiyvpunkxcv2rmr09jz0stttrhumvtvzdxwfjksjjhskrknfrirvpxtv9temntt3pqngxmewlfchrfalltqjbiuvltoxhbtkfrrfblltrsbdktu1n6qll6bmv3tdvnrfq0vgvesmrka1dxdvg4m05rv0dutxuwctntdku5nejyewjwczffmxe oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "36af80b3523e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "‼️⚠️ OPENAI VEUT FRANCHIR LE RUBICON DE LA PRIVACY !!",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "publishedAt": "2026-05-16T11:20:11.000Z",
+        "description": "openai veut franchir le rubicon de la privacy https npub1m96vd4uma3jy5jrtueuajsggyjf3mpwjlz4rc8z8v53vkkx63x7samnfcg blossom band 3dee34577c895f6d9b2ee3c14ba8492c1dd76e110108eadbeefd232e5b8014a7 jpg apr s le world id 4 0 et le scan de r tine pour prouver que t es un vrai humain merci sama et worldcoinfnd on passe direct au niveau sup rieur aujourd hui chatgpt se connecte ton compte bancaire via plaid ouais ton vrai compte tes vrais mouvements tes vrais soldes tes abonnements tes courses amazon tes virements salaire tout a aspir en lecture seule par l ia la plus gourmande en donn es de la plan te ils appellent a finance personnelle intelligente tu veux un conseil perso ultra pr cis ok donne nous tes relev s de compte on te dira exactement combien tu peux claquer en vacances et on gardera tou",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "privacy",
+          "privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "baeb7ae75753"
+      },
+      {
+        "headline": "First Apple M5 memory exploit discovered using Anthropic AI, gives root access on MacOS — Claude Mythos helps security researchers bypass…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/apple-m5-architecture-suffers-first-privilege-escalation-exploit-anthropics-claude-mythos-helps-researchers-bypass-memory-integrity-enforcement",
+        "publishedAt": "2026-05-16T11:00:00.000Z",
+        "description": "first apple m5 memory exploit discovered using anthropic ai gives root access on macos claude mythos helps security researchers bypass memory integrity enforcement https www tomshardware com tech industry cyber security apple m5 architecture suffers first privilege escalation exploit anthropics claude mythos helps researchers bypass memory integrity enforcement",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "096de516588f"
+      },
+      {
+        "headline": "Hantavirus Can Remain in Semen for SIX YEARS",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/16/hantavirus-can-remain-in-semen-for-six-years",
+        "publishedAt": "2026-05-16T09:57:23.000Z",
+        "description": "hantavirus can remain in semen for six years from alex jones hantavirus can remain present in semen for up to six years and could be sexually transmitted a study published by swiss researchers focuses on the case of a 55 year old man who was infected by the virus while in south america despite disappearing from his blood urine and respiratory tract genetic material from the virus remained may 16th 2026 5 48am edt source link https www alexjoneslive com 2026 05 16 hantavirus can remain in semen for six years share promote comment with nostr https dissentwatch com boost boost post id 1137832",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e147811978ba"
+      },
+      {
+        "headline": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
+        "publishedAt": "2026-05-16T11:26:17.000Z",
+        "description": "israel s image crisis becoming too big to spin israel has never spent more on its national propaganda campaigns https www aljazeera com video the listening post 2026 5 16 israels image crisis becoming too big to spin traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "88210e39ca32"
+      },
+      {
+        "headline": "🎮 Sony Surprise Drops New Feature via May 2026 Beta Update - PlayStation LifeStyle",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGZUQ0lNYm5sQjZQR1dpV3JFdURYODJVUjZQWUVjOWhKcTZscGd4T252RTVackl0VVdlR19NSkM1THd2QUswU1ZCMXpLV2kySW9QSWl1NTBOelhRUzlremgxU3VsS29IUlVMa0FYTWpQX2VjZWtqUmNOcUhyTm5qYnh4TnFtUm5HUUVRWmZ3SGZxM21PZGV5aNIBngFBVV95cUxQOEFlVE52cXNMSmRMRXFQSGdJSFp6MDNjb0ppRVJJa2tLbWpENFkyenR1QmRBU3Y5R09DYVhRQXZOYlV5RnZodG8zR3JqbGNVaEFiYWhlZzlldTJpaXVRSENXZ3lNZzZ5azJDUXI2WllSaDEzTlM4dlhUUWd1RVF2elhQakl5SWd0UU5YeE5mMUlFOGpDSkxILWVKb3VHdw?oc=5",
+        "publishedAt": "2026-05-16T11:23:55.000Z",
+        "description": "sony surprise drops new feature via may 2026 beta update playstation lifestyle gaming sony surprise drops feature https news google com rss articles cbmimafbvv95cuxnsgzuq0lnym5sqjzqr1dpv3jfduryodjvujzqwuvjowhkctzscgd4t252rtvackl0vvdlr19nskm1thd2quswu1zcmxplv2kysw9qswl1ntboelhruzlremgxu3vss29iulvma0fytwpqx2vjzwtqumnocuhytm5qynh4tnftum5huuvrwmz3sgzxm21pzgv5anibngfbvv95cuxqoeflve52cxnmsmrmrxfqsgdjsfp6mdnjb0pprvjja2tlbwpenfkyenr1qmrbu3y5r09dyvhrqxzoylv5rnzodg8zr3jqbgnvaefiywhlzzlldtjpaxvrsenxz3lnzzz5azjduxi2wllsadeztlm4dlhuuwd1rvf2elhqakl5swd0uu5yee5mmulfogpdskxilwvkb3vhdw oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "a634d6df6fe4"
+      },
+      {
+        "headline": "[ zapcooking/frontend ] fix(souschef): actually remove ⌘V hint from input toolbar (#400)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/zapcooking/frontend/commit/61d49b78aa33e02e0ca7a67dcb0d89bb984d276b",
+        "publishedAt": "2026-05-16T11:03:34.000Z",
+        "description": "zapcooking frontend fix souschef actually remove v hint from input toolbar 400 pr 399 was supposed to remove the v works for urls text and images hint from the sous chef input toolbar the squash merge applied half the diff the handlepaste comment update landed on main but the toolbar hunk the removal justify between justify end swap was silently dropped almost certainly because of merge base confusion after 397 s earlier squash made the file history ambiguous to github s merge algorithm https github com zapcooking frontend commit 61d49b78aa33e02e0ca7a67dcb0d89bb984d276b",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4e7df23f3ebf"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 94
+    }
+  ],
+  "failures": []
+}
