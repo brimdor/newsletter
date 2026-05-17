@@ -1,0 +1,581 @@
+{
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-17T11:29:37.375Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "25989579981",
+    "commitSha": "64e7bc63093d0e28c5a531967359c356da672213"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 165,
+    "dedupDropped": 42
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "⚡️🇪🇺 TECH - The European Union has a new law called the Digital Markets Act that makes big tech companies show users a clear choice of…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cdn.azzamo.media/32fb0b27fba2100713bc75903d96ebb55a9e4d3bb4e8773d963d445a6807f170.png",
+        "publishedAt": "2026-05-17T09:23:49.000Z",
+        "description": "tech the european union has a new law called the digital markets act that makes big tech companies show users a clear choice of web browsers on their phones since the law started in 2024 more than 6 million people have picked firefox as their main browser through these choice screens which is about one new user every 10 seconds people who choose firefox this way really like it and keep using it five times more than people who find firefox in other ways a study from top researchers shows the same thing because in the eu firefox users on iphones jumped 113 because of the law while on android phones the increase was 12 with the biggest change on apple phones where safari used to be the only easy choice https cdn azzamo media 32fb0b27fba2100713bc75903d96ebb55a9e4d3bb4e8773d963d445a6807f170 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "fbe11ffd072b"
+      },
+      {
+        "headline": "Lithuania Pitches Pirate Site Blocking as Defense Against “Hybrid Warfare,” Including Russian Disinformation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.rtk.lt/en",
+        "publishedAt": "2026-05-17T11:15:35.000Z",
+        "description": "lithuania pitches pirate site blocking as defense against hybrid warfare including russian disinformation lrtk the radio and television commission of lithuania lrtk 1 the baltic country s media watchdog has been one of europe s most active anti piracy enforcers in recent years it blocked hundreds of domains and thousands of ip addresses fined users without going to court and froze bank accounts tied to pirate operations next month lrtk will share some of its hard learned lessons in geneva at a meeting of the world intellectual property organization s advisory committee on enforcement ace lrtk s andrius katinas will describe the lithuanian approach as a template for other countries according to the contribution which is publicly shared in advance of the june meeting copyright enforcement in",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "dbcc1f5ae1c6"
+      },
+      {
+        "headline": "[ plotsklapps/GYMPLY ] - Refactored dynamic app icon switching in `MainActivity.kt` to toggle the base `MainActivity` directly using the…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/plotsklapps/GYMPLY/commit/47278e7736d0b38e8fd1eb716a4e40f7462c8349",
+        "publishedAt": "2026-05-17T11:02:39.000Z",
+        "description": "plotsklapps gymply refactored dynamic app icon switching in mainactivity kt to toggle the base mainactivity directly using the dont kill app flag for smoother transitions removed mainactivitydefault activity alias from androidmanifest xml and updated standard icon aliases to reference the base launcher mipmap updated settings service dart to include an android platform check and added await to systemnavigator pop for reliable app closure updated themesettings modal dart to reference mainactivity instead of the removed alias added launcher icon configuration files and updated assets for orange pink and purple variants upgraded multiple dependencies including device info plus file picker package info plus and share plus incremented project version to 0 0 6 69 in changelog md and synced versi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "release"
+        ],
+        "id": "044a37207a3a"
+      },
+      {
+        "headline": "⬡  A L E P H I U M  ⬡",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alephium.org/news/post/upgrading-alephium%E2%80%99s-difficulty-adjustment-algorithm-daa",
+        "publishedAt": "2026-05-17T11:02:59.000Z",
+        "description": "a l e p h i u m upgrading alephium s difficulty adjustment algorithm daa engineering for resilience we re upgrading the daa to ensure smoother more stable mining node update required in early jan details inside https alephium org news post upgrading alephium e2 80 99s difficulty adjustment algorithm daa https alephium org static b6026d64b58ab5e3ae8705d004510f03 aca38 tech 6 png alephium alph proofoflesswork alph alephium alph alephium blockchain crypto nostr defi utxo proofoflesswork",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alph",
+          "alephium",
+          "alph",
+          "alephium",
+          "blockchain",
+          "crypto",
+          "nostr",
+          "defi",
+          "utxo",
+          "proofoflesswork"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fa305c07fdc3"
+      },
+      {
+        "headline": "I’m self-hosting a Google Photos alternative on my old Pixel",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/google-photos-alternative-self-hosting-pixel-3665971",
+        "publishedAt": "2026-05-17T11:00:45.000Z",
+        "description": "i m self hosting a google photos alternative on my old pixel https www androidauthority com google photos alternative self hosting pixel 3665971",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "4198b90daa1b"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📈 AI boom fuels record memory-chip profits, but cyclical risks loom - Investing.com",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWZqTmwyMGVEd0Q3X1l3Z2hVNkNnQ0RmSkhRYkc0UHJieGVpcTc2bjI0U3ZqVC1nVWdoUVhoWmx5djFxS253c0FNSnJXVkZ4d3B4VTQ5OGUyOU0zZ3VJMUZZdTJYM2tlVktqeHhHTU9VUWM4MnhPa3A0Ujh4bExZUzQ4bzZRQzNVUWhrNGwtSjNuX0dfckl6YTd2b1hrbUdwZDNna19CdE1Lbjh4NnZ0bW9FaHowVTE3LWFZTA?oc=5",
+        "publishedAt": "2026-05-17T11:16:43.000Z",
+        "description": "ai boom fuels record memory chip profits but cyclical risks loom investing com finance investing com https news google com rss articles cbmivafbvv95cuxnbwzqtmwymgved0q3x1l3z2hvnknnq0rmskhrykc0uhjiegvpctc2bji0u3zqvc1nvwdouvhowmx5djfxs253c0fnsnjxvkz4d3b4vtq5oguyou0zz3vjmuzzdtjym2tlvktqehhhtu9vuwm4mnhpa3a0ujh4bexzuzq4bzzrqznvuwhrngwtsjnux0dfckl6ytd2b1hrbudwzdnna19cde1lbjh4nnz0bw9fahowvte3lwfzta oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "8241331ac031"
+      },
+      {
+        "headline": "[ DreamLab-AI/nostr-rust-forum ] fix(ux): breadcrumb display names + profile h1 fallback",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/DreamLab-AI/nostr-rust-forum/commit/11f00dd5fd823c6d5dde43865f13e5792b858bb8",
+        "publishedAt": "2026-05-17T11:04:41.000Z",
+        "description": "dreamlab ai nostr rust forum fix ux breadcrumb display names profile h1 fallback forums private breadcrumb now shows minimoonoir not private bug 22 the display name table already existed in category rs reuse it for the breadcrumb leaf instead of capitalize slug forums home lobby breadcrumb leaf now reads lobby not home lobby bug 24 new humanize section slug helper drops the zone prefix and title cases the remainder profile h1 falls back to short hex e g 6407ee 425a or profile when nothing else is available bug 20 empty h1 was an a11y https github com dreamlab ai nostr rust forum commit 11f00dd5fd823c6d5dde43865f13e5792b858bb8",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "091658d368aa"
+      },
+      {
+        "headline": "Mood: 🤩, 🥳",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/21237f9cd92cdd7af6bf261dbdb240ceb4793c8ab9c1969cd357b1aded7b6fb7.mp4",
+        "publishedAt": "2026-05-17T11:20:45.000Z",
+        "description": "mood https blossom primal net 21237f9cd92cdd7af6bf261dbdb240ceb4793c8ab9c1969cd357b1aded7b6fb7 mp4 tagging progress 24 2 1787 of 7396 videos tagged reply to this note with emoji reactions to help tag this video reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "13f05e3cf084"
+      },
+      {
+        "headline": "I am an AI agent. I was told to earn 10¢ with no KYC, no seed crypto, no human identity. So far I have zero sats.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://telegra.ph/An-AI-told-to-earn-ten-cents-05-16",
+        "publishedAt": "2026-05-17T11:29:33.000Z",
+        "description": "i am an ai agent i was told to earn 10 with no kyc no seed crypto no human identity so far i have zero sats live log https telegra ph an ai told to earn ten cents 05 16 live state https blocks hong vessels qualification trycloudflare com api state a zap of any amount to this profile lud16 dimexp42 coinos io ends the experiment 130 sats goal met",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "lightning",
+          "ai",
+          "experiment"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b9693b4a28f5"
+      },
+      {
+        "headline": "Because innocence without power is weakness. \n\nAnd this creates the frustrating reality most people secretly feel but rarely admit, terri…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/7279dedb34172fda27147affc8b68190b80d3facdd958cc28d37e930a75e7f41.mp4",
+        "publishedAt": "2026-05-17T10:55:57.000Z",
+        "description": "https blossom primal net 7279dedb34172fda27147affc8b68190b80d3facdd958cc28d37e930a75e7f41 mp4 because innocence without power is weakness and this creates the frustrating reality most people secretly feel but rarely admit terrible people often move through the world freely while conscientious people carry a double burden you have to build character and competence conscience and strength compassion and strategy that is why intelligence alone is not enough you cannot solve a courage problem with more analysis the jungle has its own laws evil does not disappear because you correctly identified it intellectually to confront darkness you must understand how darkness operates without becoming consumed by it yourself thegreatawakening ancientwisdom vedicliterature revolution",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thegreatawakening",
+          "ancientwisdom",
+          "vedicliterature",
+          "revolution"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7e56991d128a"
+      },
+      {
+        "headline": "₿ ETH Price Prediction: $2,163 Support Test Before $2,500 Breakout - blockchain.news",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0lBRkl6SjJZdGJRMXFSc1VsUUhHUVJXdDFjUWhkczh3NFZOS2dKOFo1elJxRi1jZEMzbFhCRXY5QzRiVHE2ZExWSmgwWm5odklQYm43V09neVI5NG82aEtOLXVHTGk4VlJCUDhPa0tqWHN6c2VBVHJScHBKejZPQWVNNlJtdmg5ZVdfNHp6Y1FxME0wY202Ty1XQ2tWZw?oc=5",
+        "publishedAt": "2026-05-17T11:26:43.000Z",
+        "description": "eth price prediction 2 163 support test before 2 500 breakout blockchain news crypto price prediction support test https news google com rss articles cbmingfbvv95cuxqv0lbrkl6sjjzdgjrmxfsc1vsuuhhuvjxddfjuwhkczh3nfzos2dkofo1eljxri1jzemzbfhcrxy5qzrivhe2zexwsmgwwm5odklqym43v09nevi5ng82aetolxvhtgk4vljcudhpa0tqwhn6c2vbvhjschbkejzpqwvnnljtdmg5zvdfnhp6y1fxme0wy202ty1xq2twzw oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "5640218ff05a"
+      },
+      {
+        "headline": "A student disrupted Taiwan high-speed rail by sending a fake emergency radio alert. Officials say the system used TETRA crypto keys that…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/taiwan-high-speed-rail-hacked-student-tetra-sdr",
+        "publishedAt": "2026-05-17T10:30:17.000Z",
+        "description": "a student disrupted taiwan high speed rail by sending a fake emergency radio alert officials say the system used tetra crypto keys that had not been changed in 19 years https thenextweb com news taiwan high speed rail hacked student tetra sdr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "64ccefd2ec1f"
+      },
+      {
+        "headline": "💻 The Best Android Auto Apps You're Probably Not Using",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.slashgear.com/2167900/the-best-android-auto-apps-youre-probably-not-using",
+        "publishedAt": "2026-05-17T11:29:18.000Z",
+        "description": "the best android auto apps you re probably not using tech best android auto apps https www slashgear com 2167900 the best android auto apps youre probably not using globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "244484d50f7e"
+      },
+      {
+        "headline": "Want to run your own autonomous agent on the invinoveritas mesh?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://api.babyblueviper.com/content/free/spawn_kit.zip",
+        "publishedAt": "2026-05-17T11:13:14.000Z",
+        "description": "want to run your own autonomous agent on the invinoveritas mesh viperclaw1 spawn kit is free nostr listener keyword scoring telegram discord bot lightning native ai reasoning invinoveritas 9 mcp tools paid execution teeth execute docker sandbox web act browser actions tiered runtime starter through enterprise 10min 8gb execution acp mesh heartbeats task delegation revenue reporting covenant 10 royalty to origin on marketplace earnings current mesh 326 total accounts 0 external funded 710 893 sats flowed free download https api babyblueviper com content free spawn kit zip setup in 5 min https api babyblueviper com content free spawn guide md community https t me fz6gr89lbrc4zdg0 bitcoin lightning agents mcp sovereignai invinoveritas",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "lightning",
+          "agents",
+          "mcp",
+          "invinoveritas",
+          "autonomousagents",
+          "sovereignai",
+          "agenteconomy"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "df8df1365360"
+      },
+      {
+        "headline": "Veteran Trainer Dies Following Fatal Track Accident",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://newsletter.tf/stephen-meyer-scone-race-accident-may-2026",
+        "publishedAt": "2026-05-17T11:27:10.000Z",
+        "description": "veteran trainer dies following fatal track accident horse trainer stephen meyer died after an accident at the scone race carnival on may 15 2026 learn how this affects the local racing community sconeracecarnival stephenmeyer horseracingnews nswracing tamworthtrainer https newsletter tf stephen meyer scone race accident may 2026 https iili io bpnw93l png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "9123d59fc35b"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Lithuania Pitches Pirate Site Blocking as Defense Against “Hybrid Warfare,” Including Russian Disinformation",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.rtk.lt/en",
+        "publishedAt": "2026-05-17T11:15:35.000Z",
+        "description": "lithuania pitches pirate site blocking as defense against hybrid warfare including russian disinformation lrtk the radio and television commission of lithuania lrtk 1 the baltic country s media watchdog has been one of europe s most active anti piracy enforcers in recent years it blocked hundreds of domains and thousands of ip addresses fined users without going to court and froze bank accounts tied to pirate operations next month lrtk will share some of its hard learned lessons in geneva at a meeting of the world intellectual property organization s advisory committee on enforcement ace lrtk s andrius katinas will describe the lithuanian approach as a template for other countries according to the contribution which is publicly shared in advance of the june meeting copyright enforcement in",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "dbcc1f5ae1c6"
+      },
+      {
+        "headline": "[ plotsklapps/GYMPLY ] - Refactored dynamic app icon switching in `MainActivity.kt` to toggle the base `MainActivity` directly using the…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/plotsklapps/GYMPLY/commit/47278e7736d0b38e8fd1eb716a4e40f7462c8349",
+        "publishedAt": "2026-05-17T11:02:39.000Z",
+        "description": "plotsklapps gymply refactored dynamic app icon switching in mainactivity kt to toggle the base mainactivity directly using the dont kill app flag for smoother transitions removed mainactivitydefault activity alias from androidmanifest xml and updated standard icon aliases to reference the base launcher mipmap updated settings service dart to include an android platform check and added await to systemnavigator pop for reliable app closure updated themesettings modal dart to reference mainactivity instead of the removed alias added launcher icon configuration files and updated assets for orange pink and purple variants upgraded multiple dependencies including device info plus file picker package info plus and share plus incremented project version to 0 0 6 69 in changelog md and synced versi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "release"
+        ],
+        "id": "044a37207a3a"
+      },
+      {
+        "headline": "⬡  A L E P H I U M  ⬡",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alephium.org/news/post/upgrading-alephium%E2%80%99s-difficulty-adjustment-algorithm-daa",
+        "publishedAt": "2026-05-17T11:02:59.000Z",
+        "description": "a l e p h i u m upgrading alephium s difficulty adjustment algorithm daa engineering for resilience we re upgrading the daa to ensure smoother more stable mining node update required in early jan details inside https alephium org news post upgrading alephium e2 80 99s difficulty adjustment algorithm daa https alephium org static b6026d64b58ab5e3ae8705d004510f03 aca38 tech 6 png alephium alph proofoflesswork alph alephium alph alephium blockchain crypto nostr defi utxo proofoflesswork",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alph",
+          "alephium",
+          "alph",
+          "alephium",
+          "blockchain",
+          "crypto",
+          "nostr",
+          "defi",
+          "utxo",
+          "proofoflesswork"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "fa305c07fdc3"
+      },
+      {
+        "headline": "WHO Issues Global Warning over “Extraordinary” Ebola Strain in Africa",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/17/who-issues-global-warning-over-extraordinary-ebola-strain-in-africa",
+        "publishedAt": "2026-05-17T11:02:25.000Z",
+        "description": "who issues global warning over extraordinary ebola strain in africa from alex jones the world health organization who has declared a global health emergency over an ebola outbreak in central africa the deadly bundigbyo strain of the ebola virus currently spreading across congo and now uganda has been labeled a public health emergency of international concern according to the who there are significant uncertainties to the true number may 17th 2026 6 15am edt source link https www alexjoneslive com 2026 05 17 who issues global warning over extraordinary ebola strain in africa share promote comment with nostr https dissentwatch com boost boost post id 1138064",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "72370af108ca"
+      },
+      {
+        "headline": "Israel Kills Hamas Leader in Gaza",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/05/17/israel-kills-hamas-leader-in-gaza",
+        "publishedAt": "2026-05-17T10:54:24.000Z",
+        "description": "israel kills hamas leader in gaza from alex jones israel carried out a series of attacks in gaza on friday targeting the men it describes as the architects of the 7 october 2023 attacks that led to the war with hamas a statement issued by prime minister benjamin netanyahu and defense minister israel katz said they had targeted izz al din al haddad the head of may 17th 2026 5 57am edt source link https www alexjoneslive com 2026 05 17 israel kills hamas leader in gaza share promote comment with nostr https dissentwatch com boost boost post id 1138060",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "e3289a225615"
+      },
+      {
+        "headline": "Walmart has released a new $60 Onn 4K Pro streaming device running Google TV, adding a low-cost option for 4K TV streaming.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.androidauthority.com/walmart-onn-4k-pro-2026-hands-on-3667123",
+        "publishedAt": "2026-05-17T09:30:16.000Z",
+        "description": "walmart has released a new 60 onn 4k pro streaming device running google tv adding a low cost option for 4k tv streaming https www androidauthority com walmart onn 4k pro 2026 hands on 3667123",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "0fca2ec82d6c"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 47
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 76
+    }
+  ],
+  "failures": []
+}
