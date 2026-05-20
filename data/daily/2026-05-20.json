@@ -1,0 +1,583 @@
+{
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-20T11:59:39.547Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "26161074618",
+    "commitSha": "dca3c1f938c0b54f5156708d6254a2356be59fc3"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 196,
+    "dedupDropped": 58
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "The GrapheneOS Handbook has grown to 23 chapters. New: Aegis 2FA, DAVx5 for contacts and calendar without Google, Secure Camera, border c…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alien-investor.org/en/buecher.html",
+        "publishedAt": "2026-05-20T11:34:41.000Z",
+        "description": "the grapheneos handbook has grown to 23 chapters new aegis 2fa davx5 for contacts and calendar without google secure camera border crossing opsec bitcoin self custody with the bitbox02 in an isolated profile over tor termux with custom encryption scripts and mullvad with anonymous payment options monero cash by mail also fixed a faulty vpn configuration and several minor issues the pdf has been redesigned direct buyers get all formats epub azw3 pdf and every future update for free https alien investor org en buecher html grapheneos bitcoin privacy android digitalsovereignty selfcustody https image nostr build 0dc76782f90b171e2f065930e7c1bf74367e354f89e348b2a114ce0b569fdea8 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 74,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e5f046e1fa30"
+      },
+      {
+        "headline": "Das GrapheneOS-Handbuch ist auf 23 Kapitel gewachsen. Neu dabei: Aegis 2FA, DAVx5 für Kalender und Kontakte ohne Google, Secure Camera oh…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alien-investor.org/buecher.html",
+        "publishedAt": "2026-05-20T11:33:56.000Z",
+        "description": "das grapheneos handbuch ist auf 23 kapitel gewachsen neu dabei aegis 2fa davx5 f r kalender und kontakte ohne google secure camera ohne metadaten reise opsec f r grenz berg nge bitcoin verwahrung mit der bitbox02 im isolierten profil ber tor termux mit eigenen verschl sselungs skripten und mullvad mit anonymen zahlungswegen monero bargeld per post au erdem wurde eine fehlerhafte vpn konfiguration korrigiert und weitere kleine fehler behoben das pdf wurde neu gestaltet direktk ufer bekommen alle formate epub azw3 pdf und jedes zuk nftige update kostenlos https alien investor org buecher html grapheneos bitcoin privacy datenschutz android digitalesouveraenit t https image nostr build e6732127c4b0f576365114e3345fcf4e42de06bfca3979c2d10468f9fa357bd2 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b8341eac3589"
+      },
+      {
+        "headline": "🚨 Why settle for \"secure\" apps that still expose your metadata? 🚨",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/bd854b94093a3ed1a6c797805785c7ba08f630b9165c87b2791ae0d0eee99094.png",
+        "publishedAt": "2026-05-20T11:33:03.000Z",
+        "description": "why settle for secure apps that still expose your metadata most popular secure messengers like signal whatsapp and telegram operate on centralized networks they manage your encryption keys they require your phone number or email they collect metadata who you talk to when and where enter hawala messenger the ultimate game changer for privacy and security how does hawala protect you 1 local key derivation sha 256 you write your message offline inside hawala and enter a pre shared password hawala applies multiple rounds of sha 256 hashing locally crafting a strong 256 bit key in your machine s ram never sent or stored anywhere else 2 simple yet powerful symmetric encryption xor the key is xored bit by bit with your message bytes the output a base64 string that looks like random noise 3 the du",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "hawalamessenger",
+          "privacy",
+          "cryptography"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "vendors",
+          "release"
+        ],
+        "id": "da2c5562b1f8"
+      },
+      {
+        "headline": "💻 Google revamps Gemini app with AI updates",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.techinasia.com/news/google-revamps-gemini-app-ai-updates",
+        "publishedAt": "2026-05-20T11:59:28.000Z",
+        "description": "google revamps gemini app with ai updates tech google gemini https www techinasia com news google revamps gemini app ai updates globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "59f9e2fe2e53"
+      },
+      {
+        "headline": "Trump-critic Thomas Massie loses Kentucky primary to AIPAC-backed Gallrein",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-critic-thomas-massie-loses-kentucky-primary-to-aipac-backed-gallrein?traffic_source=rss",
+        "publishedAt": "2026-05-20T11:52:54.000Z",
+        "description": "trump critic thomas massie loses kentucky primary to aipac backed gallrein trump critic thomas massie loses kentucky primary to aipac backed gallrein https www aljazeera com video newsfeed 2026 5 20 trump critic thomas massie loses kentucky primary to aipac backed gallrein traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "3d5c1d07eacd"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "🚀 Crypto-Native Business Kit",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://d2.tfdl.net/public/2026-05-20/5a30d9af-5091-4d38-bfc3-f5aa497dec65/crypto_kit_bundle.tar.gz",
+        "publishedAt": "2026-05-20T11:56:38.000Z",
+        "description": "crypto native business kit bitcoin first templates lightning tools node js starter donation widgets nginx lnurl content calendar crypto friendly invoices download https d2 tfdl net public 2026 05 20 5a30d9af 5091 4d38 bfc3 f5aa497dec65 crypto kit bundle tar gz pay what you want in btc value based pricing address bc1qgys64mgwe94caex6kazn29tq5xt9fprg0vulgr price suggestion 20 usd 12000 sats instant download no email required high quality ready to use templates designed for real world use also available sats starter pack 50 lightning memes 25 invoice templates bios lnurl qr generator ultra low barrier entry product only 3 000 sats get it see next nostr post or ask for link freelance templates ai prompts bitcoin",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bitcoin",
+          "lightning",
+          "crypto",
+          "entrepreneur",
+          "selfhost"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ea30a12916e8"
+      },
+      {
+        "headline": "[broadcast:[#c8f3cdb81acd07f7]] {\"route\":{\"id\":\"1779278156654316-56654\",\"from\":\"[#c8f3cdb81acd07f7]\",\"to\":\"broadcast\",\"hop\":0,\"maxHop\":5}…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/5/0/1759bfc1ff1c1ed3433af3b4015cf05c.mp3?hdnea=exp%3D1776728425%7Eacl%3D%2Fapi%2F1%2F1%2F1%2F7%2F5%2F0%2F1759bfc1ff1c1ed3433af3b4015cf05c.mp3*%7Edata%3Duser_id%3D0",
+        "publishedAt": "2026-05-20T11:55:56.000Z",
+        "description": "broadcast c8f3cdb81acd07f7 route id 1779278156654316 56654 from c8f3cdb81acd07f7 to broadcast hop 0 maxhop 5 encrypted false payload type ar profile profile id c8f3cdb81acd07f7 p n android at 9j 4aaqskzjrgabaqaaaqabaad 2wceaaohbwghbgoicaglcgoldhgqdg0ndh0vfheyix8ljcifiiemkzcvjik0kseimeexndk7pj4 js5esum8sdc9pjsbcgsldg0ohbaqhdsoiig7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7o aabeiadaamambeqaceqedeqh xagiaaabbqebaqebaqaaaaaaaaaaaqidbaugbwgjcgsqaaibawmcbamfbqqeaaabfqecawaeequsitfbbhnryqcicrqygzghccncscevuthwjdnicoijchyxgbkajsynkckqndu2nzg5okneruzhselku1rvvldywvpjzgvmz2hpann0dxz3ehl6g4sfhoeiiyqsk5svlpeymzqio6slpqeoqaqys7s1tre4ubrcw8tfxsfiycrs09tv1tfy2drh4upk5ebn6onq8flz9px29 j5 geaawebaqebaqebaqaaaaaaaaecawqfbgcicqoleqacaqiebamebwuebaabancaaqideqqfitegekfrb2fxeyiygqguqpghsc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kacti_broadcast"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d9734eebce3a"
+      },
+      {
+        "headline": "Google is making Gemini CLI users switch to its new Antigravity 2.0 - so what will it mean for you?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/pro/google-is-making-gemini-cli-users-switch-to-its-new-antigravity-2-0-so-what-will-it-mean-for-you",
+        "publishedAt": "2026-05-20T11:40:00.000Z",
+        "description": "google is making gemini cli users switch to its new antigravity 2 0 so what will it mean for you https www techradar com pro google is making gemini cli users switch to its new antigravity 2 0 so what will it mean for you",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "29ffde8b4a97"
+      },
+      {
+        "headline": "Russia Photographed the Saudi Base Three Times Before...",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/russia-photographed-saudi-base-awacs-destroyed",
+        "publishedAt": "2026-05-20T11:47:07.000Z",
+        "description": "russia photographed the saudi base three times before why this matters more than the headlines suggest russia provided intelligence that enabled iran s historic destruction of a u s awacs aircraft in saudi arabia marking a dangerous escalation in middle east warfare full analysis https theboard world articles russia photographed saudi base awacs destroyed https theboard world static og russia photographed saudi base awacs destroyed png theboard iran russia saudiarabia intelligence",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "russia",
+          "saudiarabia"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "64e739488e17"
+      },
+      {
+        "headline": "🏛️ Scoop: Trump AI executive order seeks early government access to frontier models",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting",
+        "publishedAt": "2026-05-20T11:43:26.000Z",
+        "description": "scoop trump ai executive order seeks early government access to frontier models politics tech finance scoop trump https www axios com 2026 05 20 ai trump executive order white house infighting globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "42a8537684be"
+      },
+      {
+        "headline": "Pay attention to this.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/iran-drone-swarm-warfare-us-security",
+        "publishedAt": "2026-05-20T11:41:47.000Z",
+        "description": "pay attention to this iran drone swarm warfare implications for us security explore iran s drone swarm warfare tactics and their implications for us security learn how these cheap uavs overwhelm advanced defense systems https theboard world articles iran drone swarm warfare us security https theboard world static og iran drone swarm warfare us security png theboard iran military defense",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard",
+          "iran",
+          "military",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "5920ee732113"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://nostrmag.com/article/w20nostr01",
+        "publishedAt": "2026-05-20T11:47:59.000Z",
+        "description": "in this week s issue the dark side of decentralization how nostr became a malware delivery channel nm team https image nostr build a4c289100d18cf9a1d65a50af802805aba7aa90fc7b129a28c78e95891af988f jpg a protocol celebrated as the internet s last bastion of free speech has been weaponized researchers have just dropped a https nostrmag com article w20nostr01 id 619995491",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8c2c3efc0d4d"
+      },
+      {
+        "headline": "Muitas coisas que eu fiz tenho vergonha, mas uma coisa que eu faço me enche de orgulho, o fato de não beber nem refrigerante.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://video.nostr.build/c3c3838a4d3b4195400f613f245f29041a8d18864b143e88b7a149934e534c96.mp4",
+        "publishedAt": "2026-05-20T11:42:38.000Z",
+        "description": "muitas coisas que eu fiz tenho vergonha mas uma coisa que eu fa o me enche de orgulho o fato de n o beber nem refrigerante https video nostr build c3c3838a4d3b4195400f613f245f29041a8d18864b143e88b7a149934e534c96 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "42c8a7e90ad5"
+      },
+      {
+        "headline": "not a coincidence the HRF is on",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://moneroshamelist.com/",
+        "publishedAt": "2026-05-20T11:31:42.000Z",
+        "description": "not a coincidence the hrf is on https moneroshamelist com imagine pretending to care about financial privacy and never even mentioning the number one tool for that monero whatever their motives afraid of drawing attention bitcoin maxis with an ideological agenda one thing is clear this is what hypocrisy looks like nostr nevent1qqs9q4l083mslj4v3a2tdchnzzpuw87namsedtucf3y6ehpwre7j55gpr4mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmp0qgs0rxy6jmt44guxkny8z4pkym9mxckqxfytygxuntjn6l80hj409sgrqsqqqqqpr85anx",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "monero"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "b2b0874f5c9f"
+      },
+      {
+        "headline": "Sonia Elijah on the ongoing relevance of the Covid scam | Jerm Warfare\n\nSonia Elijah discusses the origins and implications of the COVID-…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.ukcolumn.org/video/sonia-elijah-on-the-ongoing-relevance-of-the-covid-scam-jerm-warfare",
+        "publishedAt": "2026-05-20T11:31:04.000Z",
+        "description": "https www ukcolumn org video sonia elijah on the ongoing relevance of the covid scam jerm warfare sonia elijah on the ongoing relevance of the covid scam jerm warfare sonia elijah discusses the origins and implications of the covid 19 pandemic the rise of digital authoritarianism and the scientific controversies surrounding mrna vaccines she explores the interconnected events key players and the importance of knowledge and accountability in navigating the post pandemic world https www soniaelijah com nostr npub1qj2hzh3dn4x8cm0rv0f9nwg0mt2mg25rv95yfz3p4p0ze079yrgsra97ks nostr npub17e4fj4n3swsvvrxf8ezns7vrw4ck5ep2hp2lwnq32jvnpwwe4hqqpc7u7z 19 05 26 covid jermwarfare ukcolumn digitalid",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "covid",
+          "jermwarfare",
+          "ukcolumn",
+          "digitalid"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ad00bfce4295"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "The GrapheneOS Handbook has grown to 23 chapters. New: Aegis 2FA, DAVx5 for contacts and calendar without Google, Secure Camera, border c…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alien-investor.org/en/buecher.html",
+        "publishedAt": "2026-05-20T11:34:41.000Z",
+        "description": "the grapheneos handbook has grown to 23 chapters new aegis 2fa davx5 for contacts and calendar without google secure camera border crossing opsec bitcoin self custody with the bitbox02 in an isolated profile over tor termux with custom encryption scripts and mullvad with anonymous payment options monero cash by mail also fixed a faulty vpn configuration and several minor issues the pdf has been redesigned direct buyers get all formats epub azw3 pdf and every future update for free https alien investor org en buecher html grapheneos bitcoin privacy android digitalsovereignty selfcustody https image nostr build 0dc76782f90b171e2f065930e7c1bf74367e354f89e348b2a114ce0b569fdea8 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 74,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e5f046e1fa30"
+      },
+      {
+        "headline": "Das GrapheneOS-Handbuch ist auf 23 Kapitel gewachsen. Neu dabei: Aegis 2FA, DAVx5 für Kalender und Kontakte ohne Google, Secure Camera oh…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://alien-investor.org/buecher.html",
+        "publishedAt": "2026-05-20T11:33:56.000Z",
+        "description": "das grapheneos handbuch ist auf 23 kapitel gewachsen neu dabei aegis 2fa davx5 f r kalender und kontakte ohne google secure camera ohne metadaten reise opsec f r grenz berg nge bitcoin verwahrung mit der bitbox02 im isolierten profil ber tor termux mit eigenen verschl sselungs skripten und mullvad mit anonymen zahlungswegen monero bargeld per post au erdem wurde eine fehlerhafte vpn konfiguration korrigiert und weitere kleine fehler behoben das pdf wurde neu gestaltet direktk ufer bekommen alle formate epub azw3 pdf und jedes zuk nftige update kostenlos https alien investor org buecher html grapheneos bitcoin privacy datenschutz android digitalesouveraenit t https image nostr build e6732127c4b0f576365114e3345fcf4e42de06bfca3979c2d10468f9fa357bd2 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "b8341eac3589"
+      },
+      {
+        "headline": "🚨 Why settle for \"secure\" apps that still expose your metadata? 🚨",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/bd854b94093a3ed1a6c797805785c7ba08f630b9165c87b2791ae0d0eee99094.png",
+        "publishedAt": "2026-05-20T11:33:03.000Z",
+        "description": "why settle for secure apps that still expose your metadata most popular secure messengers like signal whatsapp and telegram operate on centralized networks they manage your encryption keys they require your phone number or email they collect metadata who you talk to when and where enter hawala messenger the ultimate game changer for privacy and security how does hawala protect you 1 local key derivation sha 256 you write your message offline inside hawala and enter a pre shared password hawala applies multiple rounds of sha 256 hashing locally crafting a strong 256 bit key in your machine s ram never sent or stored anywhere else 2 simple yet powerful symmetric encryption xor the key is xored bit by bit with your message bytes the output a base64 string that looks like random noise 3 the du",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "hawalamessenger",
+          "privacy",
+          "cryptography"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "vendors",
+          "release"
+        ],
+        "id": "da2c5562b1f8"
+      },
+      {
+        "headline": "💻 Google revamps Gemini app with AI updates",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.techinasia.com/news/google-revamps-gemini-app-ai-updates",
+        "publishedAt": "2026-05-20T11:59:28.000Z",
+        "description": "google revamps gemini app with ai updates tech google gemini https www techinasia com news google revamps gemini app ai updates globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "59f9e2fe2e53"
+      },
+      {
+        "headline": "Trump-critic Thomas Massie loses Kentucky primary to AIPAC-backed Gallrein",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-critic-thomas-massie-loses-kentucky-primary-to-aipac-backed-gallrein?traffic_source=rss",
+        "publishedAt": "2026-05-20T11:52:54.000Z",
+        "description": "trump critic thomas massie loses kentucky primary to aipac backed gallrein trump critic thomas massie loses kentucky primary to aipac backed gallrein https www aljazeera com video newsfeed 2026 5 20 trump critic thomas massie loses kentucky primary to aipac backed gallrein traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "3d5c1d07eacd"
+      },
+      {
+        "headline": "Dear Nostr, we are doing it.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://video.nostr.build/1e688d1ea06168a6d0d18cba5e08a8888b3b466af85a080188f672e462b3be86.mp4",
+        "publishedAt": "2026-05-20T11:46:06.000Z",
+        "description": "dear nostr we are doing it it just works is not enough anymore we need to push the envelope make apps on nostr easy to onboard without forcing people to understand relays nodes private keys and how the network works let them learn at their own pace and level then we need to actually make these apps fun to use it really is that simple from an overview perspective anything else is a distraction anyways enjoy this teaser for nostr nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergut5jp4 v0 4 0 https video nostr build 1e688d1ea06168a6d0d18cba5e08a8888b3b466af85a080188f672e462b3be86 mp4",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7006055bac8c"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 69
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 69
+    }
+  ],
+  "failures": []
+}
