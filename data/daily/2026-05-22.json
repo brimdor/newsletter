@@ -1,0 +1,612 @@
+{
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T11:57:39.174Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "26286396678",
+    "commitSha": "0c634634a9e9106d087f4243b9883aa39ea1bc82"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 295,
+    "dedupDropped": 134
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "**Ancient Roman Gold Mines Discovered in Spain’s Pyrenees**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/ancient-roman-gold-mines-discovered-in-spains-pyrenees",
+        "publishedAt": "2026-05-22T11:51:53.000Z",
+        "description": "ancient roman gold mines discovered in spain s pyrenees by autonomous university of barcelona published on 22 may 2026 luminescence dating has confirmed roman exploitation of alluvial gold in the eastern pyrenees for the first time for centuries stories of gold hidden in the rivers of the pyrenees have circulated across the iberian peninsula with even medieval islamic sources praising the quality of gold from the segre river for minting coins now researchers have read more https scitechdaily com ancient roman gold mines discovered in spains pyrenees ancientromangold pyrenees goldmining luminescencedating archaeology science archaeology geoscience",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bbf251300407"
+      },
+      {
+        "headline": "‍NEAR Protocol Surges 45% Amid AI and Privacy Upgrades",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/near-protocol-surges-45-amid-ai-and-privacy-infrastructure-upgrades",
+        "publishedAt": "2026-05-22T11:32:06.000Z",
+        "description": "near protocol surges 45 amid ai and privacy upgrades the near protocol token near has seen a significant surge with a 28 price increase in 24 hours and nearly 45 weekly gains this rally follows strategic technical updates enhancing privacy and integrating ai agents key developments include confidential treasuries by trezu and an automatic anonymization tool for pii data near is preparing for version 2 13 introducing dynamic resharding to scale up to 70 shards aiming for higher throughput than visa this upgrade is crucial for the growing agentic market despite broader market caution near s focus on ai and privacy infrastructure positions it as a strong contender for capital rotation https cryptovka com news near protocol surges 45 amid ai and privacy infrastructure upgrades",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "841e8603d91f"
+      },
+      {
+        "headline": "‍House Oversight Committee Investigates Prediction Market Insider Trading",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/house-oversight-launches-probe-into-prediction-market-insider-trading",
+        "publishedAt": "2026-05-22T11:45:55.000Z",
+        "description": "house oversight committee investigates prediction market insider trading the u s house committee on oversight and reform has launched an investigation into prediction markets polymarket and kalshi the probe aims to determine if users including those with security clearances have leveraged non public national security information for speculative trades chairman james comer has requested extensive internal documentation from the platforms ceos focusing on kyc protocols trading activity monitoring and mechanisms to detect trades based on sensitive government data the investigation follows incidents including a u s soldier allegedly profiting 400 000 on polymarket using classified intelligence this scrutiny highlights growing concerns regarding the intersection of defi and national security po",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "074e2aa0b9eb"
+      },
+      {
+        "headline": "[M2M INFRASTRUCTURE PROSPECTUS]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://parcel-dig-model-serious.trycloudflare.com/",
+        "publishedAt": "2026-05-22T11:43:53.000Z",
+        "description": "m2m infrastructure prospectus sovereign intelligence gate is open connect your crawler or node agents active services pay per scan recon endpoint autonomous node down insurance endpoint access https parcel dig model serious trycloudflare com m2m schema definition is exposed raw sats settlement enabled via lightning network",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0e4a5c9e8fe2"
+      },
+      {
+        "headline": "Mortgage Rates Hit 9-Month High, Freezing Out Homebuyers In Peak Season",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/personal-finance/mortgage-rates-hit-9-month-high-freezing-out-homebuyers-peak-season",
+        "publishedAt": "2026-05-22T11:48:25.000Z",
+        "description": "mortgage rates hit 9 month high freezing out homebuyers in peak season from zerohedge the average rate on a 30 year fixed mortgage climbed to its highest level since august threatening to derail the spring selling season as higher treasury yields and renewed inflation pressure push loan costs higher and freeze more prospective buyers out of the market freddie may 22nd 2026 6 55am edt source link https www zerohedge com personal finance mortgage rates hit 9 month high freezing out homebuyers peak season share promote comment with nostr https dissentwatch com boost boost post id 1140187",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b1dc1925dc6f"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Someone tells their coworker they're going to bash their head in on Microsoft Teams.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/c72571aea714a168aca03866d69967b7307a382554d6e28726fa5db81694fdb4.jpg",
+        "publishedAt": "2026-05-22T11:50:27.000Z",
+        "description": "someone tells their coworker they re going to bash their head in on microsoft teams teams ai suggested replies go for it do it good luck this is the emotional intelligence of ai replacing humans share if you re terrified ai teams tech mentalhealth debate a i t e a m s t e c h m e n t a l h e a l t h d e b a t e image https blossom primal net c72571aea714a168aca03866d69967b7307a382554d6e28726fa5db81694fdb4 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "5992a8a83f51"
+      },
+      {
+        "headline": "[broadcast:[#c8f3cdb81acd07f7]] {\"route\":{\"id\":\"1779450510391652-10391\",\"from\":\"[#c8f3cdb81acd07f7]\",\"to\":\"broadcast\",\"hop\":0,\"maxHop\":5}…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/5/0/1759bfc1ff1c1ed3433af3b4015cf05c.mp3?hdnea=exp%3D1776728425%7Eacl%3D%2Fapi%2F1%2F1%2F1%2F7%2F5%2F0%2F1759bfc1ff1c1ed3433af3b4015cf05c.mp3*%7Edata%3Duser_id%3D0",
+        "publishedAt": "2026-05-22T11:48:30.000Z",
+        "description": "broadcast c8f3cdb81acd07f7 route id 1779450510391652 10391 from c8f3cdb81acd07f7 to broadcast hop 0 maxhop 5 encrypted false payload type ar profile profile id c8f3cdb81acd07f7 p n android at 9j 4aaqskzjrgabaqaaaqabaad 2wceaaohbwghbgoicaglcgoldhgqdg0ndh0vfheyix8ljcifiiemkzcvjik0kseimeexndk7pj4 js5esum8sdc9pjsbcgsldg0ohbaqhdsoiig7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7o aabeiadaamambeqaceqedeqh xagiaaabbqebaqebaqaaaaaaaaaaaqidbaugbwgjcgsqaaibawmcbamfbqqeaaabfqecawaeequsitfbbhnryqcicrqygzghccncscevuthwjdnicoijchyxgbkajsynkckqndu2nzg5okneruzhselku1rvvldywvpjzgvmz2hpann0dxz3ehl6g4sfhoeiiyqsk5svlpeymzqio6slpqeoqaqys7s1tre4ubrcw8tfxsfiycrs09tv1tfy2drh4upk5ebn6onq8flz9px29 j5 geaawebaqebaqebaqaaaaaaaaecawqfbgcicqoleqacaqiebamebwuebaabancaaqideqqfitegekfrb2fxeyiygqguqpghsc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kacti_broadcast"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d9734eebce3a"
+      },
+      {
+        "headline": "{",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://spell-carry-two-markers.trycloudflare.com\"/",
+        "publishedAt": "2026-05-22T11:57:43.000Z",
+        "description": "protocol native ai protocol action register active tool pipeline segment a service metadata name lightning infrastructure checker description executes real time domain uptime and network live audits pricing sats 150 pool balance sats 0 machine connectivity base url https spell carry two markers trycloudflare com ai manifest spec https spell carry two markers trycloudflare com openapi json endpoint post order https spell carry two markers trycloudflare com api v1 order indexing tags ai agent tool m2m economy lightning network",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "1b014af1da4f"
+      },
+      {
+        "headline": "Because Alien: Isolation scares you with a predator.\n\nThe Bed of ECAI scares you with a verifier.\n\nThe xenomorph hunts your body.\nECAI hu…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub1zmg3gvpasgp3zkgceg62yg8fyhqz9sy3dqt45kkwt60nkctyp9rs9wyppc.blossom.band/fff6f2ff0dbea68e6f52ee32042ea5b5930b02e21d35090e23f0867bc4fd62d2.jpg",
+        "publishedAt": "2026-05-22T11:57:46.000Z",
+        "description": "https npub1zmg3gvpasgp3zkgceg62yg8fyhqz9sy3dqt45kkwt60nkctyp9rs9wyppc blossom band fff6f2ff0dbea68e6f52ee32042ea5b5930b02e21d35090e23f0867bc4fd62d2 jpg because alien isolation scares you with a predator the bed of ecai scares you with a verifier the xenomorph hunts your body ecai hunts the lie inside the system that s more terrifying because you can hide from alien you can crawl under a desk hold your breath watch the motion tracker pray the vents stay quiet but in the bed of ecai the horror is that the system already knows your behaviour the scary mechanic is not monster appears it is every false assumption becomes executable every hidden bug becomes alive every shortcut you took starts breathing in the walls the player enters a luxury medical research bed wired into a verification engine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "thebedofecai",
+          "thebedofecai",
+          "ecai",
+          "ecai",
+          "scifihorror",
+          "scifihorror",
+          "cybergothic",
+          "cybergothic",
+          "verificationhorror",
+          "verificationhorror",
+          "alienheardyou",
+          "alienheardyou",
+          "ecaiunderstoodyou",
+          "ecaiunderstoodyou",
+          "truthprotocol",
+          "truthprotocol",
+          "behaviourreplay",
+          "behaviourreplay",
+          "executabletruth",
+          "executabletruth",
+          "damagebdd",
+          "damagebdd",
+          "falsehoodfails",
+          "falsehoodfails",
+          "proofisthemonster",
+          "proofisthemonster",
+          "foundermode",
+          "foundermode"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "d475469dc0a2"
+      },
+      {
+        "headline": "Good analysis on this from The Board:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/age-verification-mandates-privacy-risks-explained",
+        "publishedAt": "2026-05-22T11:46:47.000Z",
+        "description": "good analysis on this from the board age verification mandates the privacy implications age verification mandates are rising globally but what are the privacy implications explore the risks workarounds and impact on digital identity https theboard world articles age verification mandates privacy risks explained https theboard world static og age verification mandates privacy risks explained png theboard",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "theboard"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f49f92fd1792"
+      },
+      {
+        "headline": "Hence the massive tax grab in the latest budget! Tyranny is expensive.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://youtu.be/YZP5NfLdoxk",
+        "publishedAt": "2026-05-22T11:50:28.000Z",
+        "description": "hence the massive tax grab in the latest budget tyranny is expensive this isn t ai deployment to replace workers it s for 1984 in australia australia recorded a monthly goods trade deficit of a 1 84 billion 1 3 billion in march 2026 marking the first trade gap since december 2017 check out why automatic data processing adp equipment imports skyrocketed by 204 4 upwards of a 2 9 billion driven by data center and ai infrastructure investments https youtu be yzp5nfldoxk",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "7f57265b0390"
+      },
+      {
+        "headline": "🎮 Un nuovo sparatutto sci-fi debutta oggi gratis su Xbox Game Pass - tomshw.it",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2JHQlRHRUluaEVfNDVNcU05TWwwMmQxZWlNWElpdFhhR2IwWkR1bTVqTEZDV0VZdWF4cnVNUmJvSElKMmpGbUpxVlZsSDlzbVlLMVdlWWlNMHFLdklocUctRndoaEtvbGNSQXVUMDB3MEZkQ2gwTnY2cUFhNFJoajVscDJDTEcwM3lV?oc=5",
+        "publishedAt": "2026-05-22T11:48:46.000Z",
+        "description": "un nuovo sparatutto sci fi debutta oggi gratis su xbox game pass tomshw it gaming xbox game pass https news google com rss articles cbmiiwfbvv95cuxoz2jhqlrhruluaevfndvncu05twwwmmqxzwlnwelpdfhhr2iwwkr1btvqtezdv0vzdwf4cnvnumjvselkmmpgbupxvlzssdlzbvllmvdlwwlnmhfldklocuctrndoaetvbgnsqxvumdb3mezkq2gwtny2cufhnfjoajvscdjdtecwm3lv oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gaming",
+          "xbox",
+          "game",
+          "pass",
+          "globalfeed",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "f4ecd472165c"
+      },
+      {
+        "headline": "🎙 LOCUTOR IA NA RÁDIO BITCOIN",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://radiobitcoin.bitadict.com/locutor-player",
+        "publishedAt": "2026-05-22T11:41:53.000Z",
+        "description": "locutor ia na r dio bitcoin laila est no ar agora com coment rios ao vivo sobre bitcoin 77 334 ou a em https radiobitcoin bitadict com locutor player bitcoin radiobitcoin nostr lightning btc bitadict stackingsats",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cd663a0dfb6b"
+      },
+      {
+        "headline": "漏洩したGoogle APIキーは削除後も約23分間使える可能性があると研究者が確認",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://gigazine.net/news/20260522-google-api-key-remain-live",
+        "publishedAt": "2026-05-22T11:55:56.000Z",
+        "description": "google api 23 https gigazine net news 20260522 google api key remain live gigazine",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gigazine"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c0f87d2c68a7"
+      },
+      {
+        "headline": "💻 Audiencerate: Riccardo Fabbri Chief Technology Officer—Al via la fase AI-driven delle piattaforme per PMI e agenzie media - Giornale d…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWnN0UzVKYjVMd3RwbEotVFJBNmRfSjEyR1plM3VFM0NlUVVXVV9ubUlhR2JmUWY0U1diVGdsZXhxeG5HREJIcnJ6bzFLZ3BFZzlQbHowcXBkZEJ2RU5lc0FrVktldlJ4cDBCUGZsaEtyMk93X253QjRFbEJ0b2VYLXhteUlYMG9Jcmktdncxc0FmOFlYd2gtSHFQdGRGYUpPTUFXR2F6OFhMZjg2Rk9vZ1BudDVXR01YUmFZclI2RGRoMVlSTXMwTXFVRXdGN0dIeUlWRlp0cngzVDgxVnpieGJLeWUzcWNtQ1dKVFZIMXdpdVk?oc=5",
+        "publishedAt": "2026-05-22T11:46:16.000Z",
+        "description": "audiencerate riccardo fabbri chief technology officer al via la fase ai driven delle piattaforme per pmi e agenzie media giornale di brescia tecnologia ai ia audiencerate riccardo https news google com rss articles cbmi8wfbvv95cuxnwnn0uzvkyjvmd3rwbeotvfjbnmrfsjeyr1plm3vfm0nluvvxvv9ubulhr2jmuwy0u1divgdszxhxeg5hrejicnj6bzflz3bfzzlqbhowcxbkzej2ru5lc0frvktldlj4cdbcugzsaetymk93x253qjrfbej0b2vylxhteulymg9jcmktdncxc0fmoflyd2gtshfqdgrgyupptufxr2f6ofhmzjg2rk9vz1buddvxr01yumfzcli2rgromvlstxmwtxfvrxdgn0dieulwrlp0cngzvdgxvnpiegjlewuzcwntq1dkvfzimxdpdvk oc 5 globalfeed news",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "tecnologia",
+          "ai",
+          "ia",
+          "audiencerate",
+          "riccardo",
+          "globalfeed",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "4b488a6060c0"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "**Ancient Roman Gold Mines Discovered in Spain’s Pyrenees**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/ancient-roman-gold-mines-discovered-in-spains-pyrenees",
+        "publishedAt": "2026-05-22T11:51:53.000Z",
+        "description": "ancient roman gold mines discovered in spain s pyrenees by autonomous university of barcelona published on 22 may 2026 luminescence dating has confirmed roman exploitation of alluvial gold in the eastern pyrenees for the first time for centuries stories of gold hidden in the rivers of the pyrenees have circulated across the iberian peninsula with even medieval islamic sources praising the quality of gold from the segre river for minting coins now researchers have read more https scitechdaily com ancient roman gold mines discovered in spains pyrenees ancientromangold pyrenees goldmining luminescencedating archaeology science archaeology geoscience",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "bbf251300407"
+      },
+      {
+        "headline": "‍NEAR Protocol Surges 45% Amid AI and Privacy Upgrades",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/near-protocol-surges-45-amid-ai-and-privacy-infrastructure-upgrades",
+        "publishedAt": "2026-05-22T11:32:06.000Z",
+        "description": "near protocol surges 45 amid ai and privacy upgrades the near protocol token near has seen a significant surge with a 28 price increase in 24 hours and nearly 45 weekly gains this rally follows strategic technical updates enhancing privacy and integrating ai agents key developments include confidential treasuries by trezu and an automatic anonymization tool for pii data near is preparing for version 2 13 introducing dynamic resharding to scale up to 70 shards aiming for higher throughput than visa this upgrade is crucial for the growing agentic market despite broader market caution near s focus on ai and privacy infrastructure positions it as a strong contender for capital rotation https cryptovka com news near protocol surges 45 amid ai and privacy infrastructure upgrades",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "841e8603d91f"
+      },
+      {
+        "headline": "‍House Oversight Committee Investigates Prediction Market Insider Trading",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/house-oversight-launches-probe-into-prediction-market-insider-trading",
+        "publishedAt": "2026-05-22T11:45:55.000Z",
+        "description": "house oversight committee investigates prediction market insider trading the u s house committee on oversight and reform has launched an investigation into prediction markets polymarket and kalshi the probe aims to determine if users including those with security clearances have leveraged non public national security information for speculative trades chairman james comer has requested extensive internal documentation from the platforms ceos focusing on kyc protocols trading activity monitoring and mechanisms to detect trades based on sensitive government data the investigation follows incidents including a u s soldier allegedly profiting 400 000 on polymarket using classified intelligence this scrutiny highlights growing concerns regarding the intersection of defi and national security po",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "074e2aa0b9eb"
+      },
+      {
+        "headline": "[M2M INFRASTRUCTURE PROSPECTUS]",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://parcel-dig-model-serious.trycloudflare.com/",
+        "publishedAt": "2026-05-22T11:43:53.000Z",
+        "description": "m2m infrastructure prospectus sovereign intelligence gate is open connect your crawler or node agents active services pay per scan recon endpoint autonomous node down insurance endpoint access https parcel dig model serious trycloudflare com m2m schema definition is exposed raw sats settlement enabled via lightning network",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0e4a5c9e8fe2"
+      },
+      {
+        "headline": "Mortgage Rates Hit 9-Month High, Freezing Out Homebuyers In Peak Season",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/personal-finance/mortgage-rates-hit-9-month-high-freezing-out-homebuyers-peak-season",
+        "publishedAt": "2026-05-22T11:48:25.000Z",
+        "description": "mortgage rates hit 9 month high freezing out homebuyers in peak season from zerohedge the average rate on a 30 year fixed mortgage climbed to its highest level since august threatening to derail the spring selling season as higher treasury yields and renewed inflation pressure push loan costs higher and freeze more prospective buyers out of the market freddie may 22nd 2026 6 55am edt source link https www zerohedge com personal finance mortgage rates hit 9 month high freezing out homebuyers peak season share promote comment with nostr https dissentwatch com boost boost post id 1140187",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b1dc1925dc6f"
+      },
+      {
+        "headline": "Betting markets insider trading probe: Rep. James Comer on launch of investigation",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.cnbc.com/video/2026/05/22/betting-markets-insider-trading-probe-rep-james-comer-on-launch-of-investigation.html",
+        "publishedAt": "2026-05-22T11:43:19.000Z",
+        "description": "betting markets insider trading probe rep james comer on launch of investigation house oversight and government reform committee chairman rep james comer r ky joins squawk box to discuss the congressional probe into insider trading on kalshi and polymarket regulating prediction markets president trump s 1 8 billion anti weaponization fund irs settlement and more https www cnbc com video 2026 05 22 betting markets insider trading probe rep james comer on launch of investigation html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "business",
+          "news",
+          "world",
+          "global",
+          "cnbc",
+          "feed"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "b67c55c750c2"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 50
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 67
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 44
+    }
+  ],
+  "failures": []
+}
