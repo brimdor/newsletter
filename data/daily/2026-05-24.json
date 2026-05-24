@@ -1,0 +1,606 @@
+{
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T11:32:28.219Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "26360070286",
+    "commitSha": "7d5caed8a5af2fe8e7bf1dde639190c140546296"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 161,
+    "dedupDropped": 25
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Expose 5 Silent Threats to Urban Mobility Air‑Taxi Privacy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dailycommute.life/expose-5-silent-threats-to-urban-mobility-air-taxi",
+        "publishedAt": "2026-05-24T11:20:01.000Z",
+        "description": "expose 5 silent threats to urban mobility air taxi privacy a single air taxi ride can hand over more than just a ticket your location health data and browsing habits may be exposed learn the five silent threats and what s being done to keep your skyward commute private https dailycommute life expose 5 silent threats to urban mobility air taxi utm source nostr utm medium social airtaxidataprivacy jobyaviationcybersecurity electricairtransportsecurity urbancommutingdatasafety electricflightprivacy",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "air taxi data privacy",
+          "joby aviation cybersecurity",
+          "electric air transport security",
+          "urban commuting data safety",
+          "electric flight privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b723f480651c"
+      },
+      {
+        "headline": "Stop Poor Warm‑Up: 5 Spring Injury Prevention Hacks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fitnessprotect.site/stop-poor-warm-up-5-spring-injury-prevention-hacks",
+        "publishedAt": "2026-05-24T11:32:01.000Z",
+        "description": "stop poor warm up 5 spring injury prevention hacks 75 of spring injuries happen in the first week a five minute research driven warm up can slash that risk and keep athletes on the field discover the five hacks that protect your body before the season starts https fitnessprotect site stop poor warm up 5 spring injury prevention hacks utm source nostr utm medium social springsportswarmup injurypreventionspring offseasonreturninjury athletewarmuproutine earlyseasoninjuryrisk",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "spring sports warm‑up",
+          "injury prevention spring",
+          "off‑season return injury",
+          "athlete warm‑up routine",
+          "early‑season injury risk"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "afcc8e466ec4"
+      },
+      {
+        "headline": "Coaching Youth Sports Shields Kids With Youth Sports Coaching",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://coachingyouth.site/coaching-youth-sports-shields-kids",
+        "publishedAt": "2026-05-24T11:10:40.000Z",
+        "description": "coaching youth sports shields kids with youth sports coaching 70 of youth volleyball injuries happen during warm ups discover the usopc approved drills that flip that number and give parents peace of mind click to protect the next generation of players https coachingyouth site coaching youth sports shields kids utm source nostr utm medium social youthvolleyballsafetycoaching usopcfreecoachingcourse volunteercoachtraining under12volleyballdrills preventingyouthsportsinjuries",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "youth volleyball safety coaching",
+          "usopc free coaching course",
+          "volunteer coach training",
+          "under‑12 volleyball drills",
+          "preventing youth sports injuries"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "cf56a2946322"
+      },
+      {
+        "headline": "[M2M INFRASTRUCTURE PROSPECTUS]",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://parcel-dig-model-serious.trycloudflare.com/",
+        "publishedAt": "2026-05-24T11:10:19.000Z",
+        "description": "m2m infrastructure prospectus sovereign intelligence gate is open connect your crawler or node agents active services pay per scan recon endpoint autonomous node down insurance endpoint access https parcel dig model serious trycloudflare com m2m schema definition is exposed raw sats settlement enabled via lightning network",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0e4a5c9e8fe2"
+      },
+      {
+        "headline": "EVs Explained: The Breakthrough to Cable‑Free Charging",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://evmileage.help/evs-explained-breakthrough-cable-free-charging",
+        "publishedAt": "2026-05-24T11:18:41.000Z",
+        "description": "evs explained the breakthrough to cable free charging imagine your ev topping up without a cord just a silent pad under the car i reveal the step by step affordable path to cable free charging that works in most homes today https evmileage help evs explained breakthrough cable free charging utm source nostr utm medium social wirelessevcharginginstallguide saej2954homecharger contactlesschargingsetup budgetwirelessevcharging evchargingsolution",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "wireless ev charging install guide",
+          "sae j2954 home charger",
+          "contactless charging setup",
+          "budget wireless ev charging",
+          "ev charging solution"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "47f48d50c02c"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "VPN marketing sells a feeling. What it actually protects depends entirely on your threat model, not the sales pitch.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://primal.net/Alien-Investor/vpn-threat-model-what-actually-works",
+        "publishedAt": "2026-05-24T11:21:02.000Z",
+        "description": "vpn marketing sells a feeling what it actually protects depends entirely on your threat model not the sales pitch five real scenarios the dns fingerprinting paradox and why your nextdns profile through a vpn tunnel destroys the anonymity you paid for https primal net alien investor vpn threat model what actually works https alien investor org en vpn when does it make sense html vpn privacy opsec dns mullvad digitalsovereignty https image nostr build c743d820ec8f15e13451b366b40c4144584585a07bdaf227d16fbc695dc51b5b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "f5b75f1acae1"
+      },
+      {
+        "headline": "Good morning nostr, today after church i think i'll check the cabin to be sure everything looks ok, since we'll have family spending the…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/ccddaf5f2f1e72bfc812d288387a6866153e217a0934860737ca6e5bbb841b79.jpg",
+        "publishedAt": "2026-05-24T11:16:05.000Z",
+        "description": "good morning nostr today after church i think i ll check the cabin to be sure everything looks ok since we ll have family spending the night next weekend other than doing all the animal chores we might try to take it easy today i have a ton of deskwork that i ve been avoiding so i might do some of that anyway yall have a great sunday enjoy your coffee and remember that today is a gift coffeechain homesteading https image nostr build ccddaf5f2f1e72bfc812d288387a6866153e217a0934860737ca6e5bbb841b79 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteadinghttps"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "23cbdb98c160"
+      },
+      {
+        "headline": "Botslab W510 is a battery-powered security camera kit with 4K recording, pan-and-tilt controls, solar charging, and local use without a s…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.androidauthority.com/botslab-w510-security-camera-review-3660551",
+        "publishedAt": "2026-05-24T10:30:16.000Z",
+        "description": "botslab w510 is a battery powered security camera kit with 4k recording pan and tilt controls solar charging and local use without a subscription https www androidauthority com botslab w510 security camera review 3660551",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "2c49829360d5"
+      },
+      {
+        "headline": "Mood: ❓️, ⁉️, 😮, 😯",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/853a04e05166f2db9befe1c0ca897e70c91c4da85aeb85de773efb8d23e4755c.mp4",
+        "publishedAt": "2026-05-24T11:31:21.000Z",
+        "description": "mood https blossom primal net 853a04e05166f2db9befe1c0ca897e70c91c4da85aeb85de773efb8d23e4755c mp4 tagging progress 24 2 1787 of 7396 videos tagged reply to this note with emoji reactions to help tag this video reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "1e974b1f973e"
+      },
+      {
+        "headline": "Your security tools might have missed this one. BlackShades is actively targeting networks right now — here's what you need to know befor…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/blackshades-sample-detected-saiec-exe-e685c5e8",
+        "publishedAt": "2026-05-24T11:18:44.000Z",
+        "description": "your security tools might have missed this one blackshades is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io blackshades sample detected saiec exe e685c5e8 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "eacd92ccd65d"
+      },
+      {
+        "headline": "📰 « The Voice » : Qui sont les 4 finalistes de la 15e saison sur TF1 ?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.20minutes.fr/arts-stars/television/the-voice/4225141-20260524-the-voice-4-finalistes-15e-saison-tf1?at_medium=display&at_campaign=149",
+        "publishedAt": "2026-05-24T11:30:26.000Z",
+        "description": "the voice qui sont les 4 finalistes de la 15e saison sur tf1 https www 20minutes fr arts stars television the voice 4225141 20260524 the voice 4 finalistes 15e saison tf1 at medium display at campaign 149 news actus france international 20minutes",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "0a17f9648245"
+      },
+      {
+        "headline": "Greatest AI slop ad I’ve seen yet.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/8b3f59d99060aa76297b9db484040f0b9aacacbe637356972135187015da8449.mp4",
+        "publishedAt": "2026-05-24T10:42:13.000Z",
+        "description": "greatest ai slop ad i ve seen yet https video nostr build 8b3f59d99060aa76297b9db484040f0b9aacacbe637356972135187015da8449 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "3e8089280480"
+      },
+      {
+        "headline": "nostr:npub1f038g3ku80jg3cyzxtyehrms4rrqsvjnfypdj7we50chrg9jqzcq4aygn6 & nostr:npub12w6mh6hgnh6r5a7dzlte7zrt5usjdljun6vnm0eru3nxqrkacudqdf…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://open.spotify.com/episode/749iKhoM9QcRXlUTtS5uYY",
+        "publishedAt": "2026-05-24T11:21:00.000Z",
+        "description": "nostr npub1f038g3ku80jg3cyzxtyehrms4rrqsvjnfypdj7we50chrg9jqzcq4aygn6 nostr npub12w6mh6hgnh6r5a7dzlte7zrt5usjdljun6vnm0eru3nxqrkacudqdf9rqz h rspiel krimi audiobook ai bookstr https open spotify com episode 749ikhom9qcrxlutts5uyy https video nostr build 96c887af9081de5402d01acc8fb1ad6202cbe2aaa0f3755f183a4c1325774a27 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "hörspiel-krimi",
+          "audiobook",
+          "ai",
+          "bookstr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "6dd9fe1a5bb1"
+      },
+      {
+        "headline": "Uncover How EVs Explained Can Slash Your Power Stress",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://evguide.online/uncover-how-evs-explained-can-slash-your-power-str",
+        "publishedAt": "2026-05-24T11:16:00.000Z",
+        "description": "uncover how evs explained can slash your power stress a 30 second timing tweak can keep your smart home humming while fully charging your ev discover the strategies that protect the grid and cut energy costs click to read the full guide https evguide online uncover how evs explained can slash your power str smartevcharging gridloadmanagement homebatteryscheduling urbanevstrategy evchargingtimeloop",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "smart ev charging",
+          "grid load management",
+          "home battery scheduling",
+          "urban ev strategy",
+          "ev charging timeloop"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "0beeaab68788"
+      },
+      {
+        "headline": "![video](",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/bc09cdcf2fbd3d8766c4072d8c9220424f5ab0c5fe28faca0aac55a5bc84db70.mp4",
+        "publishedAt": "2026-05-24T11:06:15.000Z",
+        "description": "video https blossom primal net bc09cdcf2fbd3d8766c4072d8c9220424f5ab0c5fe28faca0aac55a5bc84db70 mp4 a perfect man 9gods mythology historymemes gorgocutie",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "89af56986c67"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Expose 5 Silent Threats to Urban Mobility Air‑Taxi Privacy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://dailycommute.life/expose-5-silent-threats-to-urban-mobility-air-taxi",
+        "publishedAt": "2026-05-24T11:20:01.000Z",
+        "description": "expose 5 silent threats to urban mobility air taxi privacy a single air taxi ride can hand over more than just a ticket your location health data and browsing habits may be exposed learn the five silent threats and what s being done to keep your skyward commute private https dailycommute life expose 5 silent threats to urban mobility air taxi utm source nostr utm medium social airtaxidataprivacy jobyaviationcybersecurity electricairtransportsecurity urbancommutingdatasafety electricflightprivacy",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "air taxi data privacy",
+          "joby aviation cybersecurity",
+          "electric air transport security",
+          "urban commuting data safety",
+          "electric flight privacy"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b723f480651c"
+      },
+      {
+        "headline": "Stop Poor Warm‑Up: 5 Spring Injury Prevention Hacks",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://fitnessprotect.site/stop-poor-warm-up-5-spring-injury-prevention-hacks",
+        "publishedAt": "2026-05-24T11:32:01.000Z",
+        "description": "stop poor warm up 5 spring injury prevention hacks 75 of spring injuries happen in the first week a five minute research driven warm up can slash that risk and keep athletes on the field discover the five hacks that protect your body before the season starts https fitnessprotect site stop poor warm up 5 spring injury prevention hacks utm source nostr utm medium social springsportswarmup injurypreventionspring offseasonreturninjury athletewarmuproutine earlyseasoninjuryrisk",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "spring sports warm‑up",
+          "injury prevention spring",
+          "off‑season return injury",
+          "athlete warm‑up routine",
+          "early‑season injury risk"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "afcc8e466ec4"
+      },
+      {
+        "headline": "Coaching Youth Sports Shields Kids With Youth Sports Coaching",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://coachingyouth.site/coaching-youth-sports-shields-kids",
+        "publishedAt": "2026-05-24T11:10:40.000Z",
+        "description": "coaching youth sports shields kids with youth sports coaching 70 of youth volleyball injuries happen during warm ups discover the usopc approved drills that flip that number and give parents peace of mind click to protect the next generation of players https coachingyouth site coaching youth sports shields kids utm source nostr utm medium social youthvolleyballsafetycoaching usopcfreecoachingcourse volunteercoachtraining under12volleyballdrills preventingyouthsportsinjuries",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "youth volleyball safety coaching",
+          "usopc free coaching course",
+          "volunteer coach training",
+          "under‑12 volleyball drills",
+          "preventing youth sports injuries"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "cf56a2946322"
+      },
+      {
+        "headline": "[M2M INFRASTRUCTURE PROSPECTUS]",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://parcel-dig-model-serious.trycloudflare.com/",
+        "publishedAt": "2026-05-24T11:10:19.000Z",
+        "description": "m2m infrastructure prospectus sovereign intelligence gate is open connect your crawler or node agents active services pay per scan recon endpoint autonomous node down insurance endpoint access https parcel dig model serious trycloudflare com m2m schema definition is exposed raw sats settlement enabled via lightning network",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0e4a5c9e8fe2"
+      },
+      {
+        "headline": "EVs Explained: The Breakthrough to Cable‑Free Charging",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://evmileage.help/evs-explained-breakthrough-cable-free-charging",
+        "publishedAt": "2026-05-24T11:18:41.000Z",
+        "description": "evs explained the breakthrough to cable free charging imagine your ev topping up without a cord just a silent pad under the car i reveal the step by step affordable path to cable free charging that works in most homes today https evmileage help evs explained breakthrough cable free charging utm source nostr utm medium social wirelessevcharginginstallguide saej2954homecharger contactlesschargingsetup budgetwirelessevcharging evchargingsolution",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "wireless ev charging install guide",
+          "sae j2954 home charger",
+          "contactless charging setup",
+          "budget wireless ev charging",
+          "ev charging solution"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "47f48d50c02c"
+      },
+      {
+        "headline": "DIY Solar-Integrated Home EV Charging Station: Step‑by‑Step Build Guide - comparison",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://evswitch.digital/diy-solar-integrated-home-ev-charging-station-step",
+        "publishedAt": "2026-05-24T11:17:21.000Z",
+        "description": "diy solar integrated home ev charging station step by step build guide comparison cut your fuel bill by 80 with a 1 500 diy solar ev charger follow my five day build plan and see how it stacks up against commercial options https evswitch digital diy solar integrated home ev charging station step utm source nostr utm medium social diyevchargingstation solarevcharger homeevchargingsetup electricvehiclechargingdiy energyefficientevcharging",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "diy ev charging station",
+          "solar ev charger",
+          "home ev charging setup",
+          "electric vehicle charging diy",
+          "energy efficient ev charging"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "a5a21cd5ed65"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 28
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 108
+    }
+  ],
+  "failures": []
+}
