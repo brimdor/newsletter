@@ -1,0 +1,579 @@
+{
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T11:33:44.915Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "26682755745",
+    "commitSha": "b8dfdc519f9a4f4b7cdf204e34efeaafc6d08070"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 314,
+    "dedupDropped": 240
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/reuters-exclusive-from-lottery-draws-to-fiscal-spending-china-broadens-digital-yuan-footprint-3312617382",
+        "publishedAt": "2026-05-30T11:29:05.000Z",
+        "description": "exclusive from lottery draws to fiscal spending china broadens digital yuan footprint may 30 2026 05 02 utc china s central bank is making a broad push to increase the use of digital yuan at home and abroad several industry sources said setting beijing on a different and potentially competing path from the united states in shaping the future of money china s central bank pboc is aggressively expanding the use of the digital yuan e cny domestically and internationally with incentives for banks to promote its adoption the initiative aims to reduce reliance on the dollar dominated global payment system and bolster the yuan s international influence particularly along belt and road routes while facing challenges in retail adoption and overseas enthusiasm china is testing smart contract applica",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "release"
+        ],
+        "id": "e8714530802d"
+      },
+      {
+        "headline": "📰 90 крипто фирми са изправени пред забрана на пазара в ЕС до 30 юни, тъй като френската AMF налага стриктно лицензиране на MiCA",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/kriptonovini-90-kripto-firmi-sa-izpraveni-pred-zabrana-na-pazara-v-es-do-30-iuni-ti-kato-frenskata-amf-nalaga-striktno-litsenzirane-na-mi-ca-2856189316",
+        "publishedAt": "2026-05-30T11:11:08.000Z",
+        "description": "90 30 amf mica may 30 2026 12 02 utc mica 90 30 amf casp mica 90 approximately 90 unlicensed crypto firms in the eu face a market ban by june 30 2026 as france s amf enforces strict mica licensing the deadline marks the end of a grace period with non compliant firms risking eu wide blacklisting and organized market exits this regulatory push aims to professionalize the crypto sector protect consumers and attract institutional capital to compliant platforms mica amf cryptofirms eu licensing casp compliance regulation france digitalassets read more at https rwatimes io articles kriptonovini 90 kripto firmi sa izpraveni pred zabrana na pazara v es do 30 iuni ti kato frenskata amf nalaga striktno litsenzirane na mi ca 2856189316",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "66c420ac6a25"
+      },
+      {
+        "headline": "You're Probably Getting Study Work From Home Productivity Wrong",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://studyhabits.online/youre-probably-getting-study-work-from-home-produc",
+        "publishedAt": "2026-05-30T11:30:40.000Z",
+        "description": "you re probably getting study work from home productivity wrong a simple chair height tweak can lift developer output by 17 most remote work gurus ignore the ergonomics angle here s the data that flips the script and shows what really drives home office productivity https studyhabits online youre probably getting study work from home produc utm source nostr utm medium social homeofficeergonomics taskcompletionratesit remoteworkproductivitymetrics ergonomicinterventionsdevelopers wellnesshomeoffice",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "home office ergonomics",
+          "task completion rates it",
+          "remote work productivity metrics",
+          "ergonomic interventions developers",
+          "wellness home office"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4184023ed116"
+      },
+      {
+        "headline": "Study Work From Home Productivity vs Office Collaboration Decline",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://notionsetup.digital/study-work-from-home-productivity-vs-office-collab",
+        "publishedAt": "2026-05-30T11:26:40.000Z",
+        "description": "study work from home productivity vs office collaboration decline a fresh study finds onsite collaboration up 27 while remote output climbs 22 the data points to a new office blueprint discover how hybrid design can turn those numbers into real world productivity gains https notionsetup digital study work from home productivity vs office collab utm source nostr utm medium social studyathomeproductivity productivityandworkstudy thescienceofproductivity whatisaproductivitysystem upscientificproductivitysystem",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "study at home productivity",
+          "productivity and work study",
+          "the science of productivity",
+          "what is a productivity system",
+          "up scientific productivity system"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "88588bc18ea7"
+      },
+      {
+        "headline": "Stops Hiring Drivers Cost Travel Logistics Companies 30%",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://visahelp.help/stops-hiring-drivers-cost-travel-logistics-compani",
+        "publishedAt": "2026-05-30T11:32:03.000Z",
+        "description": "stops hiring drivers cost travel logistics companies 30 imagine cutting driver hiring expenses by a third with ai driven scheduling that meets compliance automatically the savings ripple through travel logistics companies reshaping jobs and profit margins click to see how the future is already here https visahelp help stops hiring drivers cost travel logistics compani utm source nostr utm medium social travellogisticsjobs travellogisticsmeaning travellogisticstemplate aiworkforceplanning travellogisticscompanies",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "travel logistics jobs",
+          "travel logistics meaning",
+          "travel logistics template",
+          "ai workforce planning",
+          "travel logistics companies"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7e3fa8571f27"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📰 Circle freezes Zama’s USDC contract, locking $12.6M amid rug pull allegations",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptobriefing-circle-freezes-zamas-usdc-contract-locking-12-6-m-amid-rug-pull-allegations-1532894551",
+        "publishedAt": "2026-05-30T11:07:54.000Z",
+        "description": "circle freezes zama s usdc contract locking 12 6m amid rug pull allegations may 30 2026 09 00 utc editorial team circle blacklisted zama s cusdc smart contract on ethereum freezing 12 6m in usdc linked to overnight finance rug pull allegations circle has frozen 12 6 million in usdc held in zama s cusdc smart contract due to alleged ties to the overnight finance rug pull this action highlights the centralized control over stablecoins and the inherent risks for privacy focused defi protocols relying on such assets the incident raises questions about the balance between compliance privacy and user fund accessibility in the tokenized financial ecosystem circle usdc zama rugpull decentralizedfinance privacy fhe blacklisted frozenfunds overnightfinance read more at https rwatimes io articles cry",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "893477f82fcc"
+      },
+      {
+        "headline": "📰 Crypto Tracks Global Liquidity as Rising Yields, Tokenized Stocks Reshape Markets - TokenPost",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/tokenpost-crypto-tracks-global-liquidity-as-rising-yields-tokenized-stocks-reshape-markets-token-post-1413215166",
+        "publishedAt": "2026-05-30T11:32:41.000Z",
+        "description": "crypto tracks global liquidity as rising yields tokenized stocks reshape markets tokenpost may 28 2026 21 07 utc tokenpost alea research says a three way mix of rising rates an overcrowded ai trade and the rapid spread of tokenized stock exposure is reshaping risk markets pushing crypto to behave less like an idiosyncratic asset class and crypto is increasingly behaving as a liquidity sensitive macro risk asset influenced by rising interest rates an overcrowded ai trade and the proliferation of tokenized stocks elevated long end yields and potential shifts in japanese capital flows are tightening global financial conditions pressuring risk assets and suggesting a move from ownership to synthetic exposure the market is prioritizing cashability and verifiable demand over narratives impacting",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "mobile",
+          "dev",
+          "news"
+        ],
+        "id": "93dd2c020053"
+      },
+      {
+        "headline": "Tammy Hembrow Faces Scrutiny Over Online Persona",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://newsletter.tf/tammy-hembrow-photo-editing-controversy-may-2026",
+        "publishedAt": "2026-05-30T11:25:14.000Z",
+        "description": "tammy hembrow faces scrutiny over online persona why are followers criticizing tammy hembrow s photos in may 2026 learn about the debates regarding digital editing and her public appearance tammyhembrow socialmedia influencernews bodyimage onlineprivacy https newsletter tf tammy hembrow photo editing controversy may 2026 https iili io byyy24i png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "4bbcda715980"
+      },
+      {
+        "headline": "📰 \"Femmes au combat\" : portraits de militaires françaises sur le terrain, d'hier à aujourd'hui",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.france24.com/fr/culture/20260530-femmes-combat-photos-exposition-militaires-armee-francaise",
+        "publishedAt": "2026-05-30T11:31:21.000Z",
+        "description": "femmes au combat portraits de militaires fran aises sur le terrain d hier aujourd hui actualites france24 nostrfr https www france24 com fr culture 20260530 femmes combat photos exposition militaires armee francaise",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "1858255aa4a7"
+      },
+      {
+        "headline": "NotebookLM is great until your research gets messy, and that's where Claude Projects wins",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.xda-developers.com/notebooklm-is-great-until-your-research-gets-messy-thats-where-claude-projects-wins",
+        "publishedAt": "2026-05-30T11:30:21.000Z",
+        "description": "notebooklm is great until your research gets messy and that s where claude projects wins https www xda developers com notebooklm is great until your research gets messy thats where claude projects wins",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "e5998a759dda"
+      },
+      {
+        "headline": "📰 Who is Cynthia Lummis? America's Pro-Crypto Senator",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-who-is-cynthia-lummis-americas-pro-crypto-senator-2511497655",
+        "publishedAt": "2026-05-30T10:57:12.000Z",
+        "description": "who is cynthia lummis america s pro crypto senator may 29 2026 13 15 utc cynthia lummis is the senate s most consistent pro crypto voice here is her record and her fight to pass the clarity act before she leaves office senator cynthia lummis a prominent pro crypto voice is pushing for the passage of the clarity act before her term ends in 2027 the clarity act aims to establish a clear regulatory framework for digital assets distinguishing between securities and commodities and enhancing consumer protection lummis s legislative efforts including the proposed strategic bitcoin reserve highlight her commitment to positioning bitcoin as a national imperative and a hedge against inflation cynthialummis clarityact bitcoinsenator digitalassets wyoming strategicbitcoinreserve sec cftc consumerprot",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "news"
+        ],
+        "id": "afbb7f4c6580"
+      },
+      {
+        "headline": "📰 Datavault AI (NASDAQ: DVLT) to List RWA Token Programs on Perpetuals Exchange Platform - Datavault AI (NA",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/benzinga-datavault-ai-nasdaq-dvlt-to-list-rwa-token-programs-on-perpetuals-exchange-platform-datavault-ai-na-2449024713",
+        "publishedAt": "2026-05-30T11:33:41.000Z",
+        "description": "datavault ai nasdaq dvlt to list rwa token programs on perpetuals exchange platform datavault ai na may 29 2026 16 42 utc mediafuse austin texas united states may 29th 2026 financewiredatavault ai nasdaq dvlt a provider of data monetization credentialing digital engagement and real world asset rwa tokenization datavault ai dvlt will list its real world asset rwa token programs on the perpetuals exchange platform the company focuses on ai driven data monetization and rwa tokenization within the web 3 0 environment this move aims to expand the reach and accessibility of their tokenized asset programs datavaultai dvlt rwatokenization perpetualsexchange datamonetization web30 aidriven read more at https rwatimes io articles benzinga datavault ai nasdaq dvlt to list rwa token programs on perpet",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "2208556b9ff9"
+      },
+      {
+        "headline": "☕ Yesterday's Coffee Hangout Recap",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/9a9c6aefcd747bf6e0206e767117fb235b13210f42e869fd79d03c646ae7e603.mp4",
+        "publishedAt": "2026-05-30T11:29:27.000Z",
+        "description": "yesterday s coffee hangout recap we explored the concept of saving for the future the options available to us and why fiat currency is often a poor long term savings tool using a video of a man who had saved money in a bucket for 20 years we examined what happened to the purchasing power of those savings over time while the amount of money remained the same its ability to buy goods and services had significantly declined we then compared this to a scenario where money does not continuously lose purchasing power the discussion helped us think about what makes a good savings tool and how our choice of money affects our future the goal was not to tell anyone what to do but to encourage critical thinking and informed decision making at the end of the day how and where we save is an individual ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "1000satsdaily"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "20ab5ea3b488"
+      },
+      {
+        "headline": "📰 Hollywood : trois ans après la grève, studios et syndicats trouvent un terrain d'entente sur l'IA",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.france24.com/fr/culture/20260530-hollywood-trois-ans-apr%C3%A8s-la-gr%C3%A8ve-studios-et-syndicats-trouvent-un-terrain-d-entente-sur-l-ia",
+        "publishedAt": "2026-05-30T11:32:16.000Z",
+        "description": "hollywood trois ans apr s la gr ve studios et syndicats trouvent un terrain d entente sur l ia actualites france24 nostrfr https www france24 com fr culture 20260530 hollywood trois ans apr c3 a8s la gr c3 a8ve studios et syndicats trouvent un terrain d entente sur l ia",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "3a4ae3a17e75"
+      },
+      {
+        "headline": "📰 Bitcoin Whale and Dolphin Accumulation Grinds to a Halt as Demand Weakens, CryptoQuant Finds | MEXC News",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/mexc-bitcoin-whale-and-dolphin-accumulation-grinds-to-a-halt-as-demand-weakens-crypto-quant-finds-mexc-news-2460469981",
+        "publishedAt": "2026-05-30T11:26:01.000Z",
+        "description": "bitcoin whale and dolphin accumulation grinds to a halt as demand weakens cryptoquant finds mexc news apr 02 2026 00 00 utc bitcoin whale and dolphin accumulation has stalled due to weakening demand signaling a potential shift in market conviction regulatory uncertainty in the us and the growing appeal of tokenized real world assets rwas are diverting capital away from bitcoin the current trend raises concerns about bitcoin s ability to sustain its price levels and suggests a potential for increased volatility or a deeper correction bitcoin whaleaccumulation dolphinaccumulation cryptoquant weakdemand tokenizedrealworldassets onchaindata marketsentiment institutionalinvestors yield read more at https rwatimes io articles mexc bitcoin whale and dolphin accumulation grinds to a halt as demand",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "528acaeb129e"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/reuters-exclusive-from-lottery-draws-to-fiscal-spending-china-broadens-digital-yuan-footprint-3312617382",
+        "publishedAt": "2026-05-30T11:29:05.000Z",
+        "description": "exclusive from lottery draws to fiscal spending china broadens digital yuan footprint may 30 2026 05 02 utc china s central bank is making a broad push to increase the use of digital yuan at home and abroad several industry sources said setting beijing on a different and potentially competing path from the united states in shaping the future of money china s central bank pboc is aggressively expanding the use of the digital yuan e cny domestically and internationally with incentives for banks to promote its adoption the initiative aims to reduce reliance on the dollar dominated global payment system and bolster the yuan s international influence particularly along belt and road routes while facing challenges in retail adoption and overseas enthusiasm china is testing smart contract applica",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "release"
+        ],
+        "id": "e8714530802d"
+      },
+      {
+        "headline": "📰 90 крипто фирми са изправени пред забрана на пазара в ЕС до 30 юни, тъй като френската AMF налага стриктно лицензиране на MiCA",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/kriptonovini-90-kripto-firmi-sa-izpraveni-pred-zabrana-na-pazara-v-es-do-30-iuni-ti-kato-frenskata-amf-nalaga-striktno-litsenzirane-na-mi-ca-2856189316",
+        "publishedAt": "2026-05-30T11:11:08.000Z",
+        "description": "90 30 amf mica may 30 2026 12 02 utc mica 90 30 amf casp mica 90 approximately 90 unlicensed crypto firms in the eu face a market ban by june 30 2026 as france s amf enforces strict mica licensing the deadline marks the end of a grace period with non compliant firms risking eu wide blacklisting and organized market exits this regulatory push aims to professionalize the crypto sector protect consumers and attract institutional capital to compliant platforms mica amf cryptofirms eu licensing casp compliance regulation france digitalassets read more at https rwatimes io articles kriptonovini 90 kripto firmi sa izpraveni pred zabrana na pazara v es do 30 iuni ti kato frenskata amf nalaga striktno litsenzirane na mi ca 2856189316",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "66c420ac6a25"
+      },
+      {
+        "headline": "You're Probably Getting Study Work From Home Productivity Wrong",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://studyhabits.online/youre-probably-getting-study-work-from-home-produc",
+        "publishedAt": "2026-05-30T11:30:40.000Z",
+        "description": "you re probably getting study work from home productivity wrong a simple chair height tweak can lift developer output by 17 most remote work gurus ignore the ergonomics angle here s the data that flips the script and shows what really drives home office productivity https studyhabits online youre probably getting study work from home produc utm source nostr utm medium social homeofficeergonomics taskcompletionratesit remoteworkproductivitymetrics ergonomicinterventionsdevelopers wellnesshomeoffice",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "home office ergonomics",
+          "task completion rates it",
+          "remote work productivity metrics",
+          "ergonomic interventions developers",
+          "wellness home office"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "4184023ed116"
+      },
+      {
+        "headline": "Study Work From Home Productivity vs Office Collaboration Decline",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://notionsetup.digital/study-work-from-home-productivity-vs-office-collab",
+        "publishedAt": "2026-05-30T11:26:40.000Z",
+        "description": "study work from home productivity vs office collaboration decline a fresh study finds onsite collaboration up 27 while remote output climbs 22 the data points to a new office blueprint discover how hybrid design can turn those numbers into real world productivity gains https notionsetup digital study work from home productivity vs office collab utm source nostr utm medium social studyathomeproductivity productivityandworkstudy thescienceofproductivity whatisaproductivitysystem upscientificproductivitysystem",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "study at home productivity",
+          "productivity and work study",
+          "the science of productivity",
+          "what is a productivity system",
+          "up scientific productivity system"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "88588bc18ea7"
+      },
+      {
+        "headline": "Stops Hiring Drivers Cost Travel Logistics Companies 30%",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://visahelp.help/stops-hiring-drivers-cost-travel-logistics-compani",
+        "publishedAt": "2026-05-30T11:32:03.000Z",
+        "description": "stops hiring drivers cost travel logistics companies 30 imagine cutting driver hiring expenses by a third with ai driven scheduling that meets compliance automatically the savings ripple through travel logistics companies reshaping jobs and profit margins click to see how the future is already here https visahelp help stops hiring drivers cost travel logistics compani utm source nostr utm medium social travellogisticsjobs travellogisticsmeaning travellogisticstemplate aiworkforceplanning travellogisticscompanies",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "travel logistics jobs",
+          "travel logistics meaning",
+          "travel logistics template",
+          "ai workforce planning",
+          "travel logistics companies"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "7e3fa8571f27"
+      },
+      {
+        "headline": "Mindfulness Beats Home Noise: Study Work From Home Productivity?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://studytactics.help/mindfulness-beats-home-noise-study-work-from-home",
+        "publishedAt": "2026-05-30T11:29:20.000Z",
+        "description": "mindfulness beats home noise study work from home productivity a 5 minute breathing exercise can slash zoom distractions by 42 discover how mindfulness and smart home work habits turn your living room into a productivity hub click to see the science https studytactics help mindfulness beats home noise study work from home utm source nostr utm medium social studyathomeproductivity productivityandworkstudy thescienceofproductivity whatisaproductivitysystem upscientificproductivitysystem",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "study at home productivity",
+          "productivity and work study",
+          "the science of productivity",
+          "what is a productivity system",
+          "up scientific productivity system"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "227f029876bc"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 53
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 21
+    }
+  ],
+  "failures": []
+}
