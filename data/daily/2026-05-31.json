@@ -1,0 +1,591 @@
+{
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T11:36:08.009Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "26711503583",
+    "commitSha": "dc7eded3c2e94863b98434add10f78ce46ff2d57"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 402,
+    "dedupDropped": 234
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Divine 1.0.14 is live on iOS.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://apps.apple.com/nz/app/divine-video/id6747959501",
+        "publishedAt": "2026-05-31T11:29:44.000Z",
+        "description": "divine 1 0 14 is live on ios three weeks of work since 1 0 12 more control cleaner loops fewer weird edges this one s for the people who notice the details creator tools got a serious upgrade the editor now has clip speed controls timeline volume editing local audio imports audio extraction from your own clips sharper exported layers better split edit state handling and fewer ways to lose your publish flow when bouncing between recorder and editor clip trash also gives you a 30 day safety net before deleted clips are really gone feeds should feel more alive and less haunted for you routes through recommendations popular has better source and time controls explore does a better job surfacing fresh divines and counts for likes loops views reposts and reused videos stay steadier playback got ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "53297139091f"
+      },
+      {
+        "headline": "Cleaning Hacks Reveal How Your Smart Home Guzzles Privacy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://homescrub.site/cleaning-hacks-reveal-how-your-smart-home-guzzles",
+        "publishedAt": "2026-05-31T11:20:03.000Z",
+        "description": "cleaning hacks reveal how your smart home guzzles privacy your living room may be broadcasting every joke cleaning unused smart devices can cut idle listening by 90 discover step by step hacks to protect privacy and streamline your smart home https homescrub site cleaning hacks reveal how your smart home guzzles utm source nostr utm medium social smarthomedevicecleanup privacysmarthome clearsmarthomeintegrations declutteramazonecho datacollectionsmartspeakers",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "smart home device cleanup",
+          "privacy smart home",
+          "clear smart home integrations",
+          "declutter amazon echo",
+          "data collection smart speakers"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "973344d60aad"
+      },
+      {
+        "headline": "Rio’s Forever War",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+        "publishedAt": "2026-05-31T11:33:40.000Z",
+        "description": "rio s forever war in 2025 brazil s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity https www aljazeera com video fault lines 2026 5 31 rios forever war traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6bcc8ec2053d"
+      },
+      {
+        "headline": "Experts Reveal Mississippi Rare Disease Data Center Cuts Travel",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://orphandrug.online/experts-reveal-mississippi-rare-disease-data-cente",
+        "publishedAt": "2026-05-31T11:16:01.000Z",
+        "description": "experts reveal mississippi rare disease data center cuts travel families once faced nine day trips for rare disease care now they travel in four days thanks to a new mississippi task force discover how data and coordination are reshaping access to treatment https orphandrug online experts reveal mississippi rare disease data cente utm source nostr utm medium social mississippirarediseasetaskforce outofstatecarecoordination rarediseasepatienttravelsupport latestresearchonmsdisease mississippireportablediseaselist",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mississippi rare disease task force",
+          "out-of-state care coordination",
+          "rare disease patient travel support",
+          "latest research on ms disease",
+          "mississippi reportable disease list"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "61b1dfa4fb19"
+      },
+      {
+        "headline": "Expose RPM in Health Care Cuts Endangering Rural Clinics",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rpmguide.help/expose-rpm-health-care-cuts-endangering-rural-clin",
+        "publishedAt": "2026-05-31T11:33:21.000Z",
+        "description": "expose rpm in health care cuts endangering rural clinics unitedhealthcare just pulled funding for most remote monitoring visits pushing rural clinics into a cash crunch and endangering heart failure patients at home find out how clinics can fight back and keep care flowing https rpmguide help expose rpm health care cuts endangering rural clin utm source nostr utm medium social unitedhealthcarerpmreimbursement ruralclinicremotemonitoring heartfailurerpm cmspolicychange billingchallenges",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "unitedhealthcare rpm reimbursement",
+          "rural clinic remote monitoring",
+          "heart failure rpm",
+          "cms policy change",
+          "billing challenges"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0573de9f166a"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Orion Browser",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://kagi.com/orion",
+        "publishedAt": "2026-05-31T11:16:03.000Z",
+        "description": "orion browser https kagi com orion iphone ipad web chrome firefox nip 07 https scrapbox io nostr orion browser",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "d68272b213d5"
+      },
+      {
+        "headline": "📰 Proof of Talk 2026: Institutional Heavyweights Converge on Paris for Web3 Summit",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptoticker-proof-of-talk-2026-institutional-heavyweights-converge-on-paris-for-web-3-summit-547901229",
+        "publishedAt": "2026-05-31T11:09:07.000Z",
+        "description": "proof of talk 2026 institutional heavyweights converge on paris for web3 summit may 31 2026 10 14 utc alexander schmidt proof of talk 2026 brings 18t in assets under management to the louvre in paris uniting central financial institutions and top web3 leaders the proof of talk 2026 summit in paris will convene over 90 c level executives from financial institutions managing 18t aum alongside top web3 leaders key discussions will focus on rwa tokenization secondary market liquidity and compliant cross border financial infrastructure with dedicated tracks for stablecoins decentralized ai and privacy networks the event also features a startup competition proof of pitch connecting early stage web3 founders with venture capital firms proofoftalk2026 web3summit paris institutionalfinance assettok",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a877c7447ee3"
+      },
+      {
+        "headline": "**Your Blood May Carry a 700-Million-Year-Old Secret**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/your-blood-may-carry-a-700-million-year-old-secret",
+        "publishedAt": "2026-05-31T11:28:15.000Z",
+        "description": "your blood may carry a 700 million year old secret by kyoto university published on 31 may 2026 a new evolutionary analysis suggests that modern blood and immune cells may preserve a 700 million year legacy inherited from ancient single celled ancestors long before humans dinosaurs or even fish existed ancient single celled organisms may have already carried the genetic blueprint for one of the body s most important systems blood a new study from kyoto university suggests read more https scitechdaily com your blood may carry a 700 million year old secret science sciencenews research discovery biology blood cellbiology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "a594f363a11d"
+      },
+      {
+        "headline": "SEO scores of privacy tools vs Big Tech:",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://snap.michaelcli.com/api/audit?url=https%3A%2F%2Fyoursite.com",
+        "publishedAt": "2026-05-31T11:27:20.000Z",
+        "description": "seo scores of privacy tools vs big tech protonmail com 100 100 brave com 100 100 duckduckgo com 88 100 signal org 63 100 twitter com 13 100 facebook com 25 100 tiktok com 25 100 the privacy respecting sites have better seo than the surveillance ones ironic or maybe not good engineering tends to come from teams that care about doing things right check any site yourself curl s https snap michaelcli com api audit url https yoursite com privacy seo bigtech nostr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "privacy",
+          "seo",
+          "bigtech",
+          "nostr"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b2e5056153f2"
+      },
+      {
+        "headline": "They call it stupid hot for a reason: Heat muddles animal brains",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.babbler-research.com/",
+        "publishedAt": "2026-05-31T11:24:37.000Z",
+        "description": "they call it stupid hot for a reason heat muddles animal brains on a blazing hot day in south africa female southern pied babblers can t think straight the medium sized black and white birds are trying to get at tasty mealworms behind a see through barrier on cooler days the birds can quickly figure out that all they have to do is go around the small wall of plastic but when the mercury goes up the birds just keep stubbornly pecking at the barrier that experiment is part of a growing body of research showing that animals get their minds muddled during heat waves when it s hot outside birds struggle to learn dogs bite more often goat like chamois pick fights this is bad news not just for those who get on fido s toasted nerves if the animals can t stay alert enough to find food or avoid pred",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "news"
+        ],
+        "id": "6ca98e84c7af"
+      },
+      {
+        "headline": "📰 Cross-Chain Crypto Tokens: Bridging, Wrapped Tokens, and Interoperability Security Best Practices",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/blockchain-council-cross-chain-crypto-tokens-bridging-wrapped-tokens-and-interoperability-security-best-practices-1079407601",
+        "publishedAt": "2026-05-31T11:34:22.000Z",
+        "description": "cross chain crypto tokens bridging wrapped tokens and interoperability security best practices may 30 2026 11 57 utc suyash raizada learn cross chain crypto tokens bridging and wrapped token models plus interoperability security best practices to reduce bridge risk in web3 cross chain crypto tokens enable asset and application movement across multiple blockchains but interoperability layers present significant security risks evidenced by billions lost in bridge incidents the article details various bridging models lock and mint burn and mint liquidity networks light clients and wrapped token mechanics highlighting their associated risks like custodial failures and smart contract vulnerabilities it emphasizes layered security best practices including trust minimized designs rigorous audits ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "808563ca2227"
+      },
+      {
+        "headline": "I’ve been using Kagi for a while now and really like it.  — What The Big Tech Escape Hatch Should Look Like",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://tedium.co/2026/05/30/google-ai-udm14-reflection",
+        "publishedAt": "2026-05-31T11:27:51.000Z",
+        "description": "i ve been using kagi for a while now and really like it what the big tech escape hatch should look like https tedium co 2026 05 30 google ai udm14 reflection",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "a6655714d67b"
+      },
+      {
+        "headline": "Your security tools might have missed this one. SalatStealer is actively targeting networks right now — here's what you need to know befo…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://threatchain.io/salatstealer-sample-detected-winwsdriver-exe-a3a2fe50",
+        "publishedAt": "2026-05-31T11:19:43.000Z",
+        "description": "your security tools might have missed this one salatstealer is actively targeting networks right now here s what you need to know before it hits yours full analysis https threatchain io salatstealer sample detected winwsdriver exe a3a2fe50 cybersecurity threatintelligence infosec",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cybersecurity",
+          "infosec",
+          "siem"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "fcb9b595ffd9"
+      },
+      {
+        "headline": "🎙 LOCUTOR IA NA RÁDIO BITCOIN",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://radiobitcoin.bitadict.com/locutor-player",
+        "publishedAt": "2026-05-31T11:17:03.000Z",
+        "description": "locutor ia na r dio bitcoin laila est no ar agora com coment rios ao vivo sobre bitcoin 73 901 ou a em https radiobitcoin bitadict com locutor player bitcoin radiobitcoin nostr lightning btc bitadict stackingsats",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cd663a0dfb6b"
+      },
+      {
+        "headline": "📰 Crypto Gainers Today: Why Are XLM, XMR, and TRUMP Rising?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-crypto-gainers-today-why-are-xlm-xmr-and-trump-rising-1263853432",
+        "publishedAt": "2026-05-31T11:34:52.000Z",
+        "description": "crypto gainers today why are xlm xmr and trump rising may 30 2026 09 55 utc which crypto gainers are leading the market today fear is still the mood today btc dominance near 59 4 altcoin season index at 35 and most of the market sitting quiet capital isn t moving broadly it s moving selectively xlm inj algo xmr and trump all top crypto gainers xlm experienced a significant surge due to dtcc s confirmation of tokenizing russell 1000 stocks etfs and us treasuries on stellar s blockchain other gainers like inj algo xmr and trump saw price increases driven by specific catalysts including staking ai narratives privacy coin demand and retail speculation the overall market sentiment remains fearful with low volume and high bitcoin dominance indicating that capital is moving selectively rather tha",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "12efe3d5cc41"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Divine 1.0.14 is live on iOS.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://apps.apple.com/nz/app/divine-video/id6747959501",
+        "publishedAt": "2026-05-31T11:29:44.000Z",
+        "description": "divine 1 0 14 is live on ios three weeks of work since 1 0 12 more control cleaner loops fewer weird edges this one s for the people who notice the details creator tools got a serious upgrade the editor now has clip speed controls timeline volume editing local audio imports audio extraction from your own clips sharper exported layers better split edit state handling and fewer ways to lose your publish flow when bouncing between recorder and editor clip trash also gives you a 30 day safety net before deleted clips are really gone feeds should feel more alive and less haunted for you routes through recommendations popular has better source and time controls explore does a better job surfacing fresh divines and counts for likes loops views reposts and reused videos stay steadier playback got ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "53297139091f"
+      },
+      {
+        "headline": "Cleaning Hacks Reveal How Your Smart Home Guzzles Privacy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://homescrub.site/cleaning-hacks-reveal-how-your-smart-home-guzzles",
+        "publishedAt": "2026-05-31T11:20:03.000Z",
+        "description": "cleaning hacks reveal how your smart home guzzles privacy your living room may be broadcasting every joke cleaning unused smart devices can cut idle listening by 90 discover step by step hacks to protect privacy and streamline your smart home https homescrub site cleaning hacks reveal how your smart home guzzles utm source nostr utm medium social smarthomedevicecleanup privacysmarthome clearsmarthomeintegrations declutteramazonecho datacollectionsmartspeakers",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "smart home device cleanup",
+          "privacy smart home",
+          "clear smart home integrations",
+          "declutter amazon echo",
+          "data collection smart speakers"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "973344d60aad"
+      },
+      {
+        "headline": "Rio’s Forever War",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+        "publishedAt": "2026-05-31T11:33:40.000Z",
+        "description": "rio s forever war in 2025 brazil s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity https www aljazeera com video fault lines 2026 5 31 rios forever war traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "6bcc8ec2053d"
+      },
+      {
+        "headline": "Experts Reveal Mississippi Rare Disease Data Center Cuts Travel",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://orphandrug.online/experts-reveal-mississippi-rare-disease-data-cente",
+        "publishedAt": "2026-05-31T11:16:01.000Z",
+        "description": "experts reveal mississippi rare disease data center cuts travel families once faced nine day trips for rare disease care now they travel in four days thanks to a new mississippi task force discover how data and coordination are reshaping access to treatment https orphandrug online experts reveal mississippi rare disease data cente utm source nostr utm medium social mississippirarediseasetaskforce outofstatecarecoordination rarediseasepatienttravelsupport latestresearchonmsdisease mississippireportablediseaselist",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mississippi rare disease task force",
+          "out-of-state care coordination",
+          "rare disease patient travel support",
+          "latest research on ms disease",
+          "mississippi reportable disease list"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "61b1dfa4fb19"
+      },
+      {
+        "headline": "Expose RPM in Health Care Cuts Endangering Rural Clinics",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://rpmguide.help/expose-rpm-health-care-cuts-endangering-rural-clin",
+        "publishedAt": "2026-05-31T11:33:21.000Z",
+        "description": "expose rpm in health care cuts endangering rural clinics unitedhealthcare just pulled funding for most remote monitoring visits pushing rural clinics into a cash crunch and endangering heart failure patients at home find out how clinics can fight back and keep care flowing https rpmguide help expose rpm health care cuts endangering rural clin utm source nostr utm medium social unitedhealthcarerpmreimbursement ruralclinicremotemonitoring heartfailurerpm cmspolicychange billingchallenges",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "unitedhealthcare rpm reimbursement",
+          "rural clinic remote monitoring",
+          "heart failure rpm",
+          "cms policy change",
+          "billing challenges"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0573de9f166a"
+      },
+      {
+        "headline": "Cleaning & Organization vs DIY Minimalist Swap?",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://growthsuite.live/cleaning-organization-diy-minimalist-swap",
+        "publishedAt": "2026-05-31T11:28:02.000Z",
+        "description": "cleaning organization vs diy minimalist swap over 53 home organization items are up to 50 off this spring learn how to swap pricey organizers for diy minimalist fixes and keep your closet tidy without breaking the bank https growthsuite live cleaning organization diy minimalist swap utm source nostr utm medium social amazon50offhomeorganization budgetclosetorganizer springcleaningsale minimaliststoragehacks discountedstoragesolutions",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "amazon 50% off home organization",
+          "budget closet organizer",
+          "spring cleaning sale",
+          "minimalist storage hacks",
+          "discounted storage solutions"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "291a490ffa85"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 47
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 9
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 105
+    }
+  ],
+  "failures": []
+}
