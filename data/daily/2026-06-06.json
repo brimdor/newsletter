@@ -1,0 +1,547 @@
+{
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T11:34:35.592Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "27061182517",
+    "commitSha": "9272596b4d79f762d05011aa399f39c48b3d78e7"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 461,
+    "dedupDropped": 337
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 TikChain KYC 2026 Update: July Listing and $TIK Transfer Deadline Explained",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/hokanews-tik-chain-kyc-2026-update-july-listing-and-tik-transfer-deadline-explained-202491",
+        "publishedAt": "2026-06-06T11:03:48.000Z",
+        "description": "tikchain kyc 2026 update july listing and tik transfer deadline explained jun 06 2026 09 06 utc hoka news by erlin tikchain kyc 2026 goes live ahead of july 1 deadline unlocking tik transfers exchange listings and tikwallet launch as ecosystem moves toward full tikchain is implementing a global kyc verification process with a july 1 2026 deadline crucial for users to access tik token transfers exchange listings and the upcoming tikwallet the verification is a one time requirement for all unverified miners designed to align the project with regulatory standards and enable full token utility post july 1 tik will transition from a mined reward asset to a transferable digital token with further ecosystem developments planned for late 2026 tikchain kyc tik july1deadline tokentransfer exchangeli",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "release"
+        ],
+        "id": "6b1af1993a69"
+      },
+      {
+        "headline": "📰 Bitget tokenized equity collateral futures go live with 15 stocks",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/en.cryptonomist-bitget-tokenized-equity-collateral-futures-go-live-with-15-stocks-2566825660",
+        "publishedAt": "2026-06-06T11:01:09.000Z",
+        "description": "bitget tokenized equity collateral futures go live with 15 stocks jun 05 2026 09 08 utc bitget tokenized equity collateral futures lets traders use apple tesla and nvidia shares as margin for usdt margined derivatives bitget has launched tokenized equity collateral futures allowing users to use tokenized shares of major stocks like apple tesla and nvidia as margin for usdt margined derivatives this feature integrated with bitget s unified trading account and reality infrastructure enables capital efficiency by allowing tokenized assets to be used in active trading strategies without liquidation the move signifies a deeper integration between crypto exchanges and traditional finance offering enhanced utility for tokenized securities and potentially accelerating the connection between crypto",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "98ff37b3a51c"
+      },
+      {
+        "headline": "📰 Hong Kong Monetary Authority Forms Task Force To Advance Bond Tokenization",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/bitcoinworld-hong-kong-monetary-authority-forms-task-force-to-advance-bond-tokenization-1941441782",
+        "publishedAt": "2026-06-06T11:13:35.000Z",
+        "description": "hong kong monetary authority forms task force to advance bond tokenization jun 05 2026 08 15 utc dhaval hong kong monetary authority launches a bond tokenization task force with industry experts to explore policy market practices and blockchain based solutions the hong kong monetary authority hkma has launched a task force with industry experts to advance bond tokenization the initiative aims to explore policy market practices and blockchain based solutions building on previous pilot projects this move is part of hong kong s strategy to maintain competitiveness in global capital markets through digital asset integration bondtokenization hongkongmonetaryauthority hkma digitalbonds blockchain taskforce financialinfrastructure regulatoryframework marketpractices asia read more at https rwatim",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cad3d8457baf"
+      },
+      {
+        "headline": "World on Verge of Largest Financial Market Bubble Since 19th Century – Rosneft CEO",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260606/world-on-verge-of-largest-financial-market-bubble-since-19th-century---rosneft-ceo-1124276396.html",
+        "publishedAt": "2026-06-06T11:06:26.000Z",
+        "description": "world on verge of largest financial market bubble since 19th century rosneft ceo from sputnik the world is on the verge of the largest financial market bubble since the 19th century driven by the growing market share of technology companies russian oil giant rosneft ceo igor sechin said on saturday jun 6th 2026 6 45am edt source link https sputnikglobe com 20260606 world on verge of largest financial market bubble since 19th century rosneft ceo 1124276396 html share promote comment with nostr https dissentwatch com boost boost post id 1145408",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0eda92e1c13f"
+      },
+      {
+        "headline": "Trump Brings Together Nuclear Experts in Tennessee To Discuss Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/06/trump-brings-together-nuclear-experts-in-tennessee-to-discuss-iran",
+        "publishedAt": "2026-06-06T11:01:39.000Z",
+        "description": "trump brings together nuclear experts in tennessee to discuss iran from alex jones special envoy steve witkoff and jared kushner president trump s son in law travelled to tennessee on thursday to meet with experts who could play a role in negotiations with iran over its nuclear weapons program the meeting took place at oak ridge tennessee us and iranian officials are still negotiation the details of a memorandum of understanding to jun 6th 2026 6 11am edt source link https www alexjoneslive com 2026 06 06 trump brings together nuclear experts in tennessee to discuss iran share promote comment with nostr https dissentwatch com boost boost post id 1145406",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e09ca2812a47"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📰 OKX Founder Hints At Integrating Kraken’s XStocks Onto X Layer For RWA Expansion",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/bitcoinworld-okx-founder-hints-at-integrating-krakens-x-stocks-onto-x-layer-for-rwa-expansion-524726833",
+        "publishedAt": "2026-06-06T10:53:02.000Z",
+        "description": "okx founder hints at integrating kraken s xstocks onto x layer for rwa expansion jun 05 2026 05 30 utc dhaval okx founder star xu hints at bringing kraken s xstocks to x layer highlighting stock tokens as a key rwa use case in crypto okx founder star xu is considering integrating kraken s xstocks platform onto okx s x layer a move that would bring tokenized u s stocks to the ethereum layer 2 network this integration aims to expand rwa offerings allowing users to trade fractional stock ownership on chain potentially enhancing liquidity and accessibility the proposal faces significant regulatory hurdles particularly concerning securities laws in various jurisdictions and remains in a speculative stage okx kraken xstocks xlayer rwa stocktokens tokenization ethereumlayer2 traditionalfinance de",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "news"
+        ],
+        "id": "b87e0da3cdb0"
+      },
+      {
+        "headline": "Reid Hoffman is leaving Microsoft’s board after nearly a decade to focus on Manus, his AI drug discovery startup, which has raised over $…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/reid-hoffman-leaves-microsoft-board-manus",
+        "publishedAt": "2026-06-06T11:30:17.000Z",
+        "description": "reid hoffman is leaving microsoft s board after nearly a decade to focus on manus his ai drug discovery startup which has raised over 50 million https thenextweb com news reid hoffman leaves microsoft board manus",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "be232def2ab1"
+      },
+      {
+        "headline": "📰 Two Days of Dialogue on Web3 and Digital Assets: Inside the Unchained Summit in Vietnam",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/incrypted-two-days-of-dialogue-on-web-3-and-digital-assets-inside-the-unchained-summit-in-vietnam-1728399306",
+        "publishedAt": "2026-06-06T11:29:23.000Z",
+        "description": "two days of dialogue on web3 and digital assets inside the unchained summit in vietnam jun 05 2026 10 12 utc oleksandr pishenin vietnam has wrapped up the two day unchained summit vietnam 2026 program held at furama resort in da nang the event brought together participants from more than 43 countries to exchange views on digital assets blockchain infrastructure artificial intelligence and the regulatory frameworks shaping the next stage of the global digital economy the unchained summit in da nang vietnam convened over 500 international participants to discuss digital assets blockchain ai and regulatory frameworks vietnam s state securities commission presented its vision for a transparent crypto asset market emphasizing investor protection and outlining a comprehensive legislative framewo",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f76c30bd977d"
+      },
+      {
+        "headline": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/][1",
+        "publishedAt": "2026-06-06T11:29:10.000Z",
+        "description": "the smart tv in your livingroom is a node in the aiscraping economy article url https blog includesecurity com 2026 06 the smart tv in your livingroom is a node in the aiscraping economy 1 comments url https news ycombinator com item id 48422993 2 points 8 comments 0 1 https blog includesecurity com 2026 06 the smart tv in your livingroom is a node in the aiscraping economy 2 https news ycombinator com item id 48422993 https blog includesecurity com 2026 06 the smart tv in your livingroom is a node in the aiscraping economy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4fbbf633f8ff"
+      },
+      {
+        "headline": "Reminder: the last 'revolutionary technology' that was going to change everything was the Metaverse.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/da4228f894ca9fa3ed1a07d2d575fb8770586f3bd003e301b020f15f7727ce37.mp4",
+        "publishedAt": "2026-06-06T11:05:53.000Z",
+        "description": "reminder the last revolutionary technology that was going to change everything was the metaverse how d that work out ai hype web3 ai tech debate ai https blossom primal net da4228f894ca9fa3ed1a07d2d575fb8770586f3bd003e301b020f15f7727ce37 mp4",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "f70c771fadbf"
+      },
+      {
+        "headline": "📰 Ripple’s RLUSD Stablecoin Goes Multichain via Wormhole NTT: What Does This Mean for XRP Users?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinedition-ripples-rlusd-stablecoin-goes-multichain-via-wormhole-ntt-what-does-this-mean-for-xrp-users-4288546046",
+        "publishedAt": "2026-06-06T11:25:15.000Z",
+        "description": "ripple s rlusd stablecoin goes multichain via wormhole ntt what does this mean for xrp users jun 06 2026 07 45 utc coin edition ripple s rlusd went multichain through wormhole ntt expanding native dollar liquidity for payments tokenization and supported networks ripple s rlusd stablecoin has expanded to multiple blockchains via wormhole s native token transfers ntt framework enhancing its reach for payments and tokenization this multichain expansion allows rlusd to move natively across networks like base optimism and others providing compliant dollar liquidity while maintaining issuer control for xrp users rlusd offers a stable dollar alternative for settlement sensitive activities complementing xrp s role as a volatile bridge asset in ripple s broader ecosystem ripple rlusd wormholentt mu",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "5a95a271771d"
+      },
+      {
+        "headline": "📰 Which Blockchains Are Going Private?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptonews-which-blockchains-are-going-private-2051359413",
+        "publishedAt": "2026-06-06T11:17:23.000Z",
+        "description": "which blockchains are going private jun 06 2026 09 09 utc cryptonews the list keeps growing sui zksync polygon and solana were all built as fully transparent public networks and all four are now adding confidential transactions cardano s new midnight several public blockchains sui zksync polygon solana are integrating confidential transaction features moving away from full transparency to meet institutional demands for privacy these privacy features are designed for regulated finance allowing selective disclosure to auditors and regulators while keeping transaction details hidden from the public the trend signifies a convergence towards a model of encrypted details with public verifiability aiming to enable rwa tokenization compliant defi and secure stablecoin flows within regulated framew",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "37e96e4ab5da"
+      },
+      {
+        "headline": "🔔 AI vakcína, která předejde pandemiím? ‚Je předčasné říkat, že jsme zvítězili,‘ míní epidemiolog Prymula:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.irozhlas.cz/zpravy-domov/ai-vakcina-ktera-predejde-pandemiim-je-predcasne-rikat-ze-jsme-zvitezili-mini_2606061316_pik",
+        "publishedAt": "2026-06-06T11:33:01.000Z",
+        "description": "ai vakc na kter p edejde pandemi m je p ed asn kat e jsme zv t zili m n epidemiolog prymula v dci z britsk cambridge university ozn mili e se jim poda il z sadn pokrok ve snaze zabr nit dal m pandemi m kdy s pomoc um l inteligence vyvinuli a poprv otestovali na lidech vakc nu je by mohla zajistit ochranu p ed rozs hlou k lou vir podobn pokus tady byl i v minulosti bohu el si po aplikaci do organismu imunitn syst m nevytvo il dostate n vysok hladiny protil tek hodnot pro radio urn l epidemiolog roman prymula https www irozhlas cz zpravy domov ai vakcina ktera predejde pandemiim je predcasne rikat ze jsme zvitezili mini 2606061316 pik czechnews news press media",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "czechnews",
+          "czechnews",
+          "news",
+          "news",
+          "press",
+          "press",
+          "media",
+          "media"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "a85be704d107"
+      },
+      {
+        "headline": "📰 Tokenized Equities: Benefits, Risk and Future Outlook",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/namecoinnews-tokenized-equities-benefits-risk-and-future-outlook-2909129631",
+        "publishedAt": "2026-06-06T11:22:24.000Z",
+        "description": "tokenized equities benefits risk and future outlook jun 06 2026 05 24 utc rajpalsinh parmar tokenized equities are digital versions of traditional stocks that live on a blockchain which is a modern way to represent existing shares tokenized equities are digital representations of traditional stocks on a blockchain offering benefits like 24 7 trading fractional ownership and faster settlement t 0 while the market is growing rapidly with platforms like ondo finance and exchanges like binance and coinbase leading most offerings provide economic exposure rather than full shareholder rights and are primarily for non us investors key risks include custodian failure regulatory fragmentation smart contract vulnerabilities limited shareholder rights and tax complexity though tokenized stocks are se",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "news"
+        ],
+        "id": "3df1f845fe57"
+      },
+      {
+        "headline": "📰 Why Companies Are Investing in Blockchain Technology: Business Drivers, Use Cases, and Future Outlook",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/blockchain-council-why-companies-are-investing-in-blockchain-technology-business-drivers-use-cases-and-future-outlook-3263669883",
+        "publishedAt": "2026-06-06T11:11:31.000Z",
+        "description": "why companies are investing in blockchain technology business drivers use cases and future outlook jun 05 2026 12 06 utc suyash raizada learn why companies are investing in blockchain technology for cost savings transparency security digital assets and new business models companies are investing in blockchain technology for practical benefits like cost savings improved transparency enhanced security and the creation of new digital business models key drivers include decentralization immutability transparency smart contracts and security addressing challenges in trust verification and coordination across industries future trends point towards increased production use cases expansion of tokenization across assets and deeper integration with ai iot and digital identity systems alongside evolv",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "news"
+        ],
+        "id": "cda946595c26"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 TikChain KYC 2026 Update: July Listing and $TIK Transfer Deadline Explained",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/hokanews-tik-chain-kyc-2026-update-july-listing-and-tik-transfer-deadline-explained-202491",
+        "publishedAt": "2026-06-06T11:03:48.000Z",
+        "description": "tikchain kyc 2026 update july listing and tik transfer deadline explained jun 06 2026 09 06 utc hoka news by erlin tikchain kyc 2026 goes live ahead of july 1 deadline unlocking tik transfers exchange listings and tikwallet launch as ecosystem moves toward full tikchain is implementing a global kyc verification process with a july 1 2026 deadline crucial for users to access tik token transfers exchange listings and the upcoming tikwallet the verification is a one time requirement for all unverified miners designed to align the project with regulatory standards and enable full token utility post july 1 tik will transition from a mined reward asset to a transferable digital token with further ecosystem developments planned for late 2026 tikchain kyc tik july1deadline tokentransfer exchangeli",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "release"
+        ],
+        "id": "6b1af1993a69"
+      },
+      {
+        "headline": "📰 Bitget tokenized equity collateral futures go live with 15 stocks",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/en.cryptonomist-bitget-tokenized-equity-collateral-futures-go-live-with-15-stocks-2566825660",
+        "publishedAt": "2026-06-06T11:01:09.000Z",
+        "description": "bitget tokenized equity collateral futures go live with 15 stocks jun 05 2026 09 08 utc bitget tokenized equity collateral futures lets traders use apple tesla and nvidia shares as margin for usdt margined derivatives bitget has launched tokenized equity collateral futures allowing users to use tokenized shares of major stocks like apple tesla and nvidia as margin for usdt margined derivatives this feature integrated with bitget s unified trading account and reality infrastructure enables capital efficiency by allowing tokenized assets to be used in active trading strategies without liquidation the move signifies a deeper integration between crypto exchanges and traditional finance offering enhanced utility for tokenized securities and potentially accelerating the connection between crypto",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "98ff37b3a51c"
+      },
+      {
+        "headline": "📰 Hong Kong Monetary Authority Forms Task Force To Advance Bond Tokenization",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/bitcoinworld-hong-kong-monetary-authority-forms-task-force-to-advance-bond-tokenization-1941441782",
+        "publishedAt": "2026-06-06T11:13:35.000Z",
+        "description": "hong kong monetary authority forms task force to advance bond tokenization jun 05 2026 08 15 utc dhaval hong kong monetary authority launches a bond tokenization task force with industry experts to explore policy market practices and blockchain based solutions the hong kong monetary authority hkma has launched a task force with industry experts to advance bond tokenization the initiative aims to explore policy market practices and blockchain based solutions building on previous pilot projects this move is part of hong kong s strategy to maintain competitiveness in global capital markets through digital asset integration bondtokenization hongkongmonetaryauthority hkma digitalbonds blockchain taskforce financialinfrastructure regulatoryframework marketpractices asia read more at https rwatim",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cad3d8457baf"
+      },
+      {
+        "headline": "World on Verge of Largest Financial Market Bubble Since 19th Century – Rosneft CEO",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260606/world-on-verge-of-largest-financial-market-bubble-since-19th-century---rosneft-ceo-1124276396.html",
+        "publishedAt": "2026-06-06T11:06:26.000Z",
+        "description": "world on verge of largest financial market bubble since 19th century rosneft ceo from sputnik the world is on the verge of the largest financial market bubble since the 19th century driven by the growing market share of technology companies russian oil giant rosneft ceo igor sechin said on saturday jun 6th 2026 6 45am edt source link https sputnikglobe com 20260606 world on verge of largest financial market bubble since 19th century rosneft ceo 1124276396 html share promote comment with nostr https dissentwatch com boost boost post id 1145408",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "0eda92e1c13f"
+      },
+      {
+        "headline": "Trump Brings Together Nuclear Experts in Tennessee To Discuss Iran",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/06/trump-brings-together-nuclear-experts-in-tennessee-to-discuss-iran",
+        "publishedAt": "2026-06-06T11:01:39.000Z",
+        "description": "trump brings together nuclear experts in tennessee to discuss iran from alex jones special envoy steve witkoff and jared kushner president trump s son in law travelled to tennessee on thursday to meet with experts who could play a role in negotiations with iran over its nuclear weapons program the meeting took place at oak ridge tennessee us and iranian officials are still negotiation the details of a memorandum of understanding to jun 6th 2026 6 11am edt source link https www alexjoneslive com 2026 06 06 trump brings together nuclear experts in tennessee to discuss iran share promote comment with nostr https dissentwatch com boost boost post id 1145406",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e09ca2812a47"
+      },
+      {
+        "headline": "Arctic Takes on Special Significance Amid Hormuz Crisis – Rosneft CEO",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260606/arctic-takes-on-special-significance-amid-hormuz-crisis---rosneft-ceo-1124274816.html",
+        "publishedAt": "2026-06-06T10:57:39.000Z",
+        "description": "arctic takes on special significance amid hormuz crisis rosneft ceo from sputnik the arctic plays a special role as a reliable logistics route amid the strait of hormuz crisis russian oil giant rosneft ceo igor sechin said on saturday jun 6th 2026 6 29am edt source link https sputnikglobe com 20260606 arctic takes on special significance amid hormuz crisis rosneft ceo 1124274816 html share promote comment with nostr https dissentwatch com boost boost post id 1145404",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "effe5a06a3bb"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 70
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 54
+    }
+  ],
+  "failures": []
+}
