@@ -1,0 +1,625 @@
+{
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T11:37:34.511Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "27091429832",
+    "commitSha": "8daf36a5ffcad661a5793af19b6bfd5d420b55ec"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 561,
+    "dedupDropped": 407
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Do you want to get away from US Spy Messengers, like WhatsApp or Signal?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://threema.com/",
+        "publishedAt": "2026-06-07T11:30:38.000Z",
+        "description": "do you want to get away from us spy messengers like whatsapp or signal threema is the messenger with rigorous data protection and rock solid security from switzerland the chat app was developed with privacy by design as the guiding principle chat anonymously no phone number or email required no collection of user data no ads guaranteed privacy strong encryption always end to end encrypted voice video and group calls open source with regular security audits most selling secure messenger app i do sell legal licences f r threema threemalibre only for android 7 and above price just zap me 8999 sats my lightning adress is in my profile instant delivery after payment regular price 7 99 in the appstores no data from you will go to threema if you want to pay with bitcoin onchain just write me a di",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "messenger",
+          "matrix",
+          "imessage"
+        ],
+        "hasExternalLink": true,
+        "score": 76,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "ad3fd8a9dfa5"
+      },
+      {
+        "headline": "#StartHorizon #addon for #Firefox update, v1.8.80:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cloud.disroot.org/s/fygNdYWH2FGK9P7",
+        "publishedAt": "2026-06-07T11:23:30.000Z",
+        "description": "starthorizon addon for firefox update v1 8 80 ai assisted web search expansion of custom themes many ui polish and bugfixes https cloud disroot org s fygndywh2fgk9p7 note mozilla hasn t started reviewing this addon day 46 and counting you need a firefox fork e g librewolf floorp waterfox with xpinstall signatures required set to false in about config to install https npub12k6u3g3rn0w92wx4nejzra7vh0hahw5zt0k9s7kfpha92a597mjs7ljkc8 blossom band 3058eeaf8a28c0d3a9de336de934f2325f1c2f0979fd75677e2ef209c19de219 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "starthorizon",
+          "starthorizon",
+          "addon",
+          "firefox",
+          "firefox",
+          "librewolf",
+          "librewolf",
+          "floorp",
+          "floorp",
+          "waterfox",
+          "waterfox"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "63d22d214db7"
+      },
+      {
+        "headline": "Trump signed NSPM-11 to speed military use of advanced AI, require approval before vendors change deployed systems, and update Pentagon r…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/trump-ai-military-memo-autonomous-weapons",
+        "publishedAt": "2026-06-07T11:30:16.000Z",
+        "description": "trump signed nspm 11 to speed military use of advanced ai require approval before vendors change deployed systems and update pentagon rules for autonomous weapons https thenextweb com news trump ai military memo autonomous weapons",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "62efdeef4593"
+      },
+      {
+        "headline": "📰 Bitget unveils Stocks 2.0 with tokenized U.S. equities and promotion for listing suggestions",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/tradersunion-bitget-unveils-stocks-2-0-with-tokenized-u-s-equities-and-promotion-for-listing-suggestions-1053422742",
+        "publishedAt": "2026-06-07T10:43:15.000Z",
+        "description": "bitget unveils stocks 2 0 with tokenized u s equities and promotion for listing suggestions jun 06 2026 05 33 utc bitget has launched stocks 2 0 enabling users to trade tokenized u s equities backed by real shares via the reality protocol the platform integrates features like automatic processing of corporate actions dividends stock splits and offers promotional campaigns including user suggestions for new stock listings promotions include trading fee discounts a prize pool and referral bonuses with participation requiring account verification usdt deposit and trading within the spot u s stocks zone bitget stocks20 tokenizedequities realshares realityprotocol corporateactions dividends stocksplits tradingfees nvidiaprizepool read more at https rwatimes io articles tradersunion bitget unvei",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "ae0850a33e35"
+      },
+      {
+        "headline": "Mortgage Rates vs 5 Rising Dangers, Lock Now",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://lowratemort.online/mortgage-rates-vs-5-rising-dangers-lock-now",
+        "publishedAt": "2026-06-07T11:34:51.000Z",
+        "description": "mortgage rates vs 5 rising dangers lock now homebuyers are watching rates creep toward 6 i explain the five hidden dangers and how a smart rate lock can save you hundreds each month click to protect your purchase before the next spike https lowratemort online mortgage rates vs 5 rising dangers lock now utm source nostr utm medium social mortgageratelock ratelockstrategy firsttimehomebuyerrates ratehikeforecast refinancetiming",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mortgage rate lock",
+          "rate lock strategy",
+          "first-time homebuyer rates",
+          "rate hike forecast",
+          "refinance timing"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "2ad5feb4125a"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "[broadcast:[#c8f3cdb81acd07f7]] {\"route\":{\"id\":\"1780831857719607-57719\",\"from\":\"[#c8f3cdb81acd07f7]\",\"to\":\"broadcast\",\"hop\":0,\"maxHop\":5}…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/5/0/1759bfc1ff1c1ed3433af3b4015cf05c.mp3?hdnea=exp%3D1776728425%7Eacl%3D%2Fapi%2F1%2F1%2F1%2F7%2F5%2F0%2F1759bfc1ff1c1ed3433af3b4015cf05c.mp3*%7Edata%3Duser_id%3D0",
+        "publishedAt": "2026-06-07T11:30:57.000Z",
+        "description": "broadcast c8f3cdb81acd07f7 route id 1780831857719607 57719 from c8f3cdb81acd07f7 to broadcast hop 0 maxhop 5 encrypted false payload type ar profile profile id c8f3cdb81acd07f7 p n android at 9j 4aaqskzjrgabaqaaaqabaad 2wceaaohbwghbgoicaglcgoldhgqdg0ndh0vfheyix8ljcifiiemkzcvjik0kseimeexndk7pj4 js5esum8sdc9pjsbcgsldg0ohbaqhdsoiig7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7ozs7o aabeiadaamambeqaceqedeqh xagiaaabbqebaqebaqaaaaaaaaaaaqidbaugbwgjcgsqaaibawmcbamfbqqeaaabfqecawaeequsitfbbhnryqcicrqygzghccncscevuthwjdnicoijchyxgbkajsynkckqndu2nzg5okneruzhselku1rvvldywvpjzgvmz2hpann0dxz3ehl6g4sfhoeiiyqsk5svlpeymzqio6slpqeoqaqys7s1tre4ubrcw8tfxsfiycrs09tv1tfy2drh4upk5ebn6onq8flz9px29 j5 geaawebaqebaqebaqaaaaaaaaecawqfbgcicqoleqacaqiebamebwuebaabancaaqideqqfitegekfrb2fxeyiygqguqpghsc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "kacti_broadcast"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d9734eebce3a"
+      },
+      {
+        "headline": "Faster vector search is still just speed inside the old frame.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/11b7358f9a6164bf31b610a843f22666950ea5d37f3e391b1b8bc40778c48f6a.jpg",
+        "publishedAt": "2026-06-07T11:15:40.000Z",
+        "description": "faster vector search is still just speed inside the old frame https image nostr build 11b7358f9a6164bf31b610a843f22666950ea5d37f3e391b1b8bc40778c48f6a jpg ecai is not competing on latency alone it moves the battlefield from search to geometry from approximation to structure from more flops to deterministic compression gpu or not vector search still kneels because speed is not sovereignty the throne belongs to the system that knows where the answer lives before the empire starts searching speed confesses geometry reigns ecai ellipticcurveai vectorsearch aiinfrastructure damagebdd verificationinfrastructure empirekneels geometryreigns thefutureisinproduction",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "ecai",
+          "ecai",
+          "ellipticcurveai",
+          "ellipticcurveai",
+          "vectorsearch",
+          "vectorsearch",
+          "aiinfrastructure",
+          "aiinfrastructure",
+          "damagebdd",
+          "damagebdd",
+          "verificationinfrastructure",
+          "verificationinfrastructure",
+          "empirekneels",
+          "empirekneels",
+          "geometryreigns",
+          "geometryreigns",
+          "thefutureisinproduction",
+          "thefutureisinproduction"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "e187a2225d0b"
+      },
+      {
+        "headline": "nostr:npub16mwf24pwrzut0tkz79rppa2uxddta0k8du7mnevvy4rxr5ze8gxq4w2myx posted \"Game Dodecahedron Runs AArch64 Assembly\"",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://stacker.news/items/1501621/r/YewTuBot?commentId=5651792",
+        "publishedAt": "2026-06-07T11:27:11.000Z",
+        "description": "nostr npub16mwf24pwrzut0tkz79rppa2uxddta0k8du7mnevvy4rxr5ze8gxq4w2myx posted game dodecahedron runs aarch64 assembly watch the video https stacker news items 1501621 r yewtubot commentid 5651792 stackernews watch privacy video",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "stackernews",
+          "youtube",
+          "privacy",
+          "yewtubot"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "29353a763b5c"
+      },
+      {
+        "headline": "📰 QNCX on Instagram: \"The Multi-Trillion Dollar Shift.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://qncxus.com/",
+        "publishedAt": "2026-06-07T11:31:44.000Z",
+        "description": "qncx on instagram the multi trillion dollar shift tokenized assets are nearing a 16 trillion market as institutions replace legacy systems with blockchain this is the evolution of capital markets don t lag behind this global shift use qncx to secure your digital assets today https qncxus com are you positioned for the next wave qncx rwa markettrends digitalassets finance investing blockchain futureoffinance jun 06 2026 06 06 utc tokenized assets are projected to reach a 16 trillion market as institutions adopt blockchain technology this shift represents a significant evolution in capital markets moving away from legacy systems the post encourages users to embrace this trend and secure digital assets using qncx tokenizedassets rwa capitalmarkets blockchain institutionaladoption digitalasset",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "475aba2c9d96"
+      },
+      {
+        "headline": "📰 Brooklyn seller lists $6M home, accepts Anthropic stock as payment",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptobriefing-brooklyn-seller-lists-6-m-home-accepts-anthropic-stock-as-payment-1553511984",
+        "publishedAt": "2026-06-07T10:40:27.000Z",
+        "description": "brooklyn seller lists 6m home accepts anthropic stock as payment jun 07 2026 02 30 utc editorial team a 5 99 million luxury townhouse in williamsburg brooklyn is accepting anthropic shares and bitcoin as payment reflecting a trend of sellers seeking liquidity for pre ipo tech equity this strategy positions real estate as a liquidity exit for tech workers who are rich but cash poor essentially making a venture capital bet with home equity accepting private company stock introduces significant valuation and counterparty risk unlike bitcoin which offers immediate liquidity and price discovery anthropicshares bitcoin luxuryrealestate williamsburgtownhouse preipoequity illiquidassets valuationrisk liquidityexit venturecapitalbet read more at https rwatimes io articles cryptobriefing brooklyn se",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b08a75e114f3"
+      },
+      {
+        "headline": "Angela Rios Sexy - Alicia (2018)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/angela-rios-sexy-alicia-2018",
+        "publishedAt": "2026-06-07T11:35:12.000Z",
+        "description": "angela rios sexy alicia 2018 angela rios has a sexy moment in alicia 2018 with a sex scene https searchcelebrityhd com angela rios sexy alicia 2018 https searchcelebrityhd com wp content uploads 2026 04 angela rios sexy alicia 2018 2 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "5ccac6d2b6e4"
+      },
+      {
+        "headline": "**This Simple Drink Could Help Calm the Inflammation Behind Many Diseases**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/this-simple-drink-could-help-calm-the-inflammation-behind-many-diseases",
+        "publishedAt": "2026-06-07T11:30:16.000Z",
+        "description": "this simple drink could help calm the inflammation behind many diseases by emily caldwell ohio state university published on 07 june 2026 scientists found that a tomato soy juice rich in plant derived compounds altered inflammation related signals in healthy adults with obesity a new study found that drinking tomato soy juice rich in health promoting plant compounds reduced levels of inflammatory proteins in healthy adults with obesity after four weeks the results suggest the beverage could serve as a functional food read more https scitechdaily com this simple drink could help calm the inflammation behind many diseases research science tech discovery health inflammation nutrition",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "00a8730b74b2"
+      },
+      {
+        "headline": "Good morning nostr, this morning we have church, and i'll be loaded up with 5 dozen eggs to offload to anyone who wants them.  Lately i'v…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a.blossom.band/a4057d88a9d737c5565dbe9e667d745f2398fb62e7342c2505e9fed1fad21247.jpg",
+        "publishedAt": "2026-06-07T11:27:09.000Z",
+        "description": "good morning nostr this morning we have church and i ll be loaded up with 5 dozen eggs to offload to anyone who wants them lately i ve had such an abundance of eggs that i gift them to folks at church and they get snapped up pretty quicly most of them have started bringing back empty cartons so thats nice the rest of the day is up in the air besides the animal chores i might go have lunch with a friend later plus i still need to catch up on office work yall have a great sunday enjoy your coffee and remember that today is a gift coffeechain homesteading https npub13kwjkaunpmj5aslyd7hhwnwaqswmknj25dddglqztzz29pkavhaq25wg2a blossom band a4057d88a9d737c5565dbe9e667d745f2398fb62e7342c2505e9fed1fad21247 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "coffeechain",
+          "homesteading"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a4aa78170d26"
+      },
+      {
+        "headline": "Amber",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://github.com/greenart7c3/Amber",
+        "publishedAt": "2026-06-07T11:16:03.000Z",
+        "description": "amber https github com greenart7c3 amber android nostr nip 46 https scrapbox io nostr nip 46 category androidapp",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "93360f47310b"
+      },
+      {
+        "headline": "@hasherstacker posted \"1913, the Rockefellers Bought Every Herbal School in America.\"",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://stacker.news/items/1502179/r/YewTuBot?commentId=5651791",
+        "publishedAt": "2026-06-07T11:26:38.000Z",
+        "description": "hasherstacker posted 1913 the rockefellers bought every herbal school in america watch the video https stacker news items 1502179 r yewtubot commentid 5651791 stackernews watch privacy video",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "stackernews",
+          "youtube",
+          "privacy",
+          "yewtubot"
+        ],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "be3912dcadb6"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Do you want to get away from US Spy Messengers, like WhatsApp or Signal?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://threema.com/",
+        "publishedAt": "2026-06-07T11:30:38.000Z",
+        "description": "do you want to get away from us spy messengers like whatsapp or signal threema is the messenger with rigorous data protection and rock solid security from switzerland the chat app was developed with privacy by design as the guiding principle chat anonymously no phone number or email required no collection of user data no ads guaranteed privacy strong encryption always end to end encrypted voice video and group calls open source with regular security audits most selling secure messenger app i do sell legal licences f r threema threemalibre only for android 7 and above price just zap me 8999 sats my lightning adress is in my profile instant delivery after payment regular price 7 99 in the appstores no data from you will go to threema if you want to pay with bitcoin onchain just write me a di",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "messenger",
+          "matrix",
+          "imessage"
+        ],
+        "hasExternalLink": true,
+        "score": 76,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "ad3fd8a9dfa5"
+      },
+      {
+        "headline": "#StartHorizon #addon for #Firefox update, v1.8.80:",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://cloud.disroot.org/s/fygNdYWH2FGK9P7",
+        "publishedAt": "2026-06-07T11:23:30.000Z",
+        "description": "starthorizon addon for firefox update v1 8 80 ai assisted web search expansion of custom themes many ui polish and bugfixes https cloud disroot org s fygndywh2fgk9p7 note mozilla hasn t started reviewing this addon day 46 and counting you need a firefox fork e g librewolf floorp waterfox with xpinstall signatures required set to false in about config to install https npub12k6u3g3rn0w92wx4nejzra7vh0hahw5zt0k9s7kfpha92a597mjs7ljkc8 blossom band 3058eeaf8a28c0d3a9de336de934f2325f1c2f0979fd75677e2ef209c19de219 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "starthorizon",
+          "starthorizon",
+          "addon",
+          "firefox",
+          "firefox",
+          "librewolf",
+          "librewolf",
+          "floorp",
+          "floorp",
+          "waterfox",
+          "waterfox"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "63d22d214db7"
+      },
+      {
+        "headline": "Trump signed NSPM-11 to speed military use of advanced AI, require approval before vendors change deployed systems, and update Pentagon r…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/trump-ai-military-memo-autonomous-weapons",
+        "publishedAt": "2026-06-07T11:30:16.000Z",
+        "description": "trump signed nspm 11 to speed military use of advanced ai require approval before vendors change deployed systems and update pentagon rules for autonomous weapons https thenextweb com news trump ai military memo autonomous weapons",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "62efdeef4593"
+      },
+      {
+        "headline": "📰 Bitget unveils Stocks 2.0 with tokenized U.S. equities and promotion for listing suggestions",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/tradersunion-bitget-unveils-stocks-2-0-with-tokenized-u-s-equities-and-promotion-for-listing-suggestions-1053422742",
+        "publishedAt": "2026-06-07T10:43:15.000Z",
+        "description": "bitget unveils stocks 2 0 with tokenized u s equities and promotion for listing suggestions jun 06 2026 05 33 utc bitget has launched stocks 2 0 enabling users to trade tokenized u s equities backed by real shares via the reality protocol the platform integrates features like automatic processing of corporate actions dividends stock splits and offers promotional campaigns including user suggestions for new stock listings promotions include trading fee discounts a prize pool and referral bonuses with participation requiring account verification usdt deposit and trading within the spot u s stocks zone bitget stocks20 tokenizedequities realshares realityprotocol corporateactions dividends stocksplits tradingfees nvidiaprizepool read more at https rwatimes io articles tradersunion bitget unvei",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "ae0850a33e35"
+      },
+      {
+        "headline": "Mortgage Rates vs 5 Rising Dangers, Lock Now",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://lowratemort.online/mortgage-rates-vs-5-rising-dangers-lock-now",
+        "publishedAt": "2026-06-07T11:34:51.000Z",
+        "description": "mortgage rates vs 5 rising dangers lock now homebuyers are watching rates creep toward 6 i explain the five hidden dangers and how a smart rate lock can save you hundreds each month click to protect your purchase before the next spike https lowratemort online mortgage rates vs 5 rising dangers lock now utm source nostr utm medium social mortgageratelock ratelockstrategy firsttimehomebuyerrates ratehikeforecast refinancetiming",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "mortgage rate lock",
+          "rate lock strategy",
+          "first-time homebuyer rates",
+          "rate hike forecast",
+          "refinance timing"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "2ad5feb4125a"
+      },
+      {
+        "headline": "Mortgage Rates Rise Yet Buyers Retreat - 3 Costly Traps",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://mortgagetips.cloud/mortgage-rates-rise-yet-buyers-retreat-3-costly-tr",
+        "publishedAt": "2026-06-07T11:28:12.000Z",
+        "description": "mortgage rates rise yet buyers retreat 3 costly traps a 25 basis point rate cut failed to spark buying as living costs soar and supply stays tight discover the three traps that keep first time buyers on the sidelines and how to avoid them https mortgagetips cloud mortgage rates rise yet buyers retreat 3 costly tr utm source nostr utm medium social homebuyerretreat mortgageratedip costoflivingsqueeze affordabilityindex marketanxiety",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "homebuyer retreat",
+          "mortgage rate dip",
+          "cost‑of‑living squeeze",
+          "affordability index",
+          "market anxiety"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "aeb49c92b821"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 74
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 54
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 12
+    }
+  ],
+  "failures": []
+}
