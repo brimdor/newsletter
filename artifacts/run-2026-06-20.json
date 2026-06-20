@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T11:41:53.080Z",
+  "noPush": true,
+  "publish": {
+    "committed": false,
+    "pushed": false,
+    "reason": "no_push_mode"
+  },
+  "outputs": {
+    "jsonPath": "data/daily/2026-06-20.json",
+    "htmlPath": "site/index.html",
+    "rootHtmlPath": "index.html"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 251,
+    "dedupDropped": 52
+  },
+  "failures": []
+}
