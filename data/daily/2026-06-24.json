@@ -1,0 +1,564 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T11:57:26.739Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "28096739679",
+    "commitSha": "df82d5938f62572c0e99a8afa2a9759eb16aee50"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 659,
+    "dedupDropped": 519
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Brazilian Couple Sentenced To 50 Days In Jail For Homeschooling Without Gender Brainwashing Propaganda",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/24/brazilian-couple-sentenced-to-50-days-in-jail-for-homeschooling-without-gender-brainwashing-propaganda",
+        "publishedAt": "2026-06-24T11:51:50.000Z",
+        "description": "brazilian couple sentenced to 50 days in jail for homeschooling without gender brainwashing propaganda from alex jones a brazilian couple has been sentenced to 50 days in jail for homeschooling their daughters according to their own beliefs and not introducing them to gender ideology audato and ieda denardi were convicted of intellectual neglect after a court concluded that the education they provided at home failed to include programs on gender and sex education and jun 24th 2026 7 30am edt source link https www alexjoneslive com 2026 06 24 brazilian couple sentenced to 50 days in jail for homeschooling without gender brainwashing propaganda share promote comment with nostr https dissentwatch com boost boost post id 1151437",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "9f0ae19431c2"
+      },
+      {
+        "headline": "📰 Binance Says On-Chain Tokenized Assets Have Grown 589% to $31 Billion Since 2025 - FinanceFeeds",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/financefeeds-binance-says-on-chain-tokenized-assets-have-grown-589-to-31-billion-since-2025-finance-feeds-1205727613",
+        "publishedAt": "2026-06-24T11:30:35.000Z",
+        "description": "binance says on chain tokenized assets have grown 589 to 31 billion since 2025 financefeeds jun 24 2026 09 21 utc karthik subramanian binance research says on chain tokenized assets have grown 589 since early 2025 rising to more than 31 billion as institutional issuers increasingly move on chain tokenized assets have surged by 589 to over 31 billion since early 2025 driven by institutional issuers tokenizing traditional financial products tokenized u s treasuries and money market funds are leading this growth due to their familiarity clear yields and low risk with gold backed assets and public equities also expanding despite rapid growth regulation remains a key constraint and future expansion hinges on liquidity legal enforceability custody and secondary market access tokenizedassets bina",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "d7460d1713a5"
+      },
+      {
+        "headline": "VIDEO: Alex Jones Teaches His Oldest Daughter How To Defend Herself With A Knife!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/24/video-alex-jones-teaches-his-oldest-daughter-how-to-defend-herself-with-a-knife",
+        "publishedAt": "2026-06-24T11:42:29.000Z",
+        "description": "video alex jones teaches his oldest daughter how to defend herself with a knife from alex jones on the tuesday show alex jones discussed how women need to be able to defend themselves against attackers and played video of himself training his daughter how to use a knife defensively the post appeared first on alex jones live jun 24th 2026 7 00am edt source link https www alexjoneslive com 2026 06 24 video alex jones teaches his oldest daughter how to defend herself with a knife share promote comment with nostr https dissentwatch com boost boost post id 1151433",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "7c302e1105ad"
+      },
+      {
+        "headline": "📰 Polymarket allegedly faked trades. Chances are slim Trump admin investigates, says sports-betting attorney | Fortune",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/fortune-polymarket-allegedly-faked-trades-chances-are-slim-trump-admin-investigates-says-sports-betting-attorney-fortune-408888817",
+        "publishedAt": "2026-06-24T11:37:31.000Z",
+        "description": "polymarket allegedly faked trades chances are slim trump admin investigates says sports betting attorney fortune jun 23 2026 14 44 utc camila grigera na n a recent wall street journal investigation found that the prediction market hired influencers to stage fake trades as part of its marketing campaign to attract u s users polymarket is accused of using fake trades and fabricated winnings in its marketing campaigns to attract u s users potentially violating regulations legal experts suggest that while regulatory actions are possible from the cftc and ftc investigations under the trump administration are unlikely due to a shift in enforcement priorities and staff reductions the most probable legal fallout may come from private civil lawsuits filed by bettors who were misled by polymarket s ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "release"
+        ],
+        "id": "006b92ace5cf"
+      },
+      {
+        "headline": "⬡  A L E P H I U M  ⬡",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/alephium/status/2061839244373676284",
+        "publishedAt": "2026-06-24T11:47:50.000Z",
+        "description": "a l e p h i u m bridge update today we continued work across multiple recovery and investigation tracks as part of the bridge incident remediation the bridge guardians with support from our security partners executed an authorized recovery procedure to invalidate the unbacked wrapped https x com alephium status 2061839244373676284 https pbs twimg com media hj0oql4agaa3 nb jpg large alephium alph proofoflesswork alph alephium alph alephium blockchain crypto nostr defi utxo proofoflesswork",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alph",
+          "alephium",
+          "alph",
+          "alephium",
+          "blockchain",
+          "crypto",
+          "nostr",
+          "defi",
+          "utxo",
+          "proofoflesswork"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "e01bb57f9e62"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "‘A nightmare for repairability’: Early Google Home Speaker unboxing reveals design choice that many users won't be happy with",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/home/smart-speakers/a-nightmare-for-repairability-early-google-home-speaker-unboxing-reveals-design-choice-that-many-users-wont-be-happy-with",
+        "publishedAt": "2026-06-24T11:34:52.000Z",
+        "description": "a nightmare for repairability early google home speaker unboxing reveals design choice that many users won t be happy with https www techradar com home smart speakers a nightmare for repairability early google home speaker unboxing reveals design choice that many users wont be happy with",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6821bb91922e"
+      },
+      {
+        "headline": "Google Meet chega ao Android Auto para reuniões seguras por áudio",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://tugatech.com.pt/t86134-google-meet-chega-ao-android-auto-para-reunioes-seguras-por-audio",
+        "publishedAt": "2026-06-24T11:43:00.000Z",
+        "description": "google meet chega ao android auto para reuni es seguras por udio https tugatech com pt t86134 google meet chega ao android auto para reunioes seguras por audio",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "0b528820c4d4"
+      },
+      {
+        "headline": "Good morning. Off to the mail trail in 2 minutes. I took this photo last evening. Butterfly weed starting to bloom in the front meadow.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/592790cc4ee9c7f3bac0a4c19477aba31d12687916b82b28eda53be15ac99359.jpg",
+        "publishedAt": "2026-06-24T11:42:41.000Z",
+        "description": "good morning off to the mail trail in 2 minutes i took this photo last evening butterfly weed starting to bloom in the front meadow hope you have a great day gm coffeechain https blossom primal net 592790cc4ee9c7f3bac0a4c19477aba31d12687916b82b28eda53be15ac99359 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gm",
+          "coffeechain"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8a9aa473e299"
+      },
+      {
+        "headline": "📰 Prop Firms Lean on Consumer Fintech Rails to Keep Traders Funded and Paid",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/financemagnates-prop-firms-lean-on-consumer-fintech-rails-to-keep-traders-funded-and-paid-4285124842",
+        "publishedAt": "2026-06-24T11:38:14.000Z",
+        "description": "prop firms lean on consumer fintech rails to keep traders funded and paid jun 23 2026 20 54 utc jared kirui prop trading firms like brightfunded are increasingly leveraging consumer fintech platforms such as revolut for trader funding and payouts this reliance on consumer rails alongside crypto gateways streamlines cash flows but does not alter the underlying regulatory status or risk model of these firms while partnerships with fintechs are marketed as advancements they primarily represent an integration of familiar payment infrastructure rather than a fundamental shift in industry supervision proptradingfirms revolut paymentpartner consumerfintech traderfunding payouts regulatorystatus capitalallocation finotivefunding usdtusdc read more at https rwatimes io articles financemagnates prop",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d779d627f3bf"
+      },
+      {
+        "headline": "📰 Enjeu climatique: \"Il y a une responsabilité qui est celle de l'activité humaine\", déclare Maud Bregeon",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/politique/gouvernement/video-enjeu-climatique-il-y-a-une-responsabilite-qui-est-celle-de-l-activite-humaine-declare-maud-bregeon_VN-202606240523.html",
+        "publishedAt": "2026-06-24T11:32:51.000Z",
+        "description": "enjeu climatique il y a une responsabilit qui est celle de l activit humaine d clare maud bregeon actualites bfm france international https www bfmtv com politique gouvernement video enjeu climatique il y a une responsabilite qui est celle de l activite humaine declare maud bregeon vn 202606240523 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "25f3a8eedfd9"
+      },
+      {
+        "headline": "HSBC says wealthy investors use AI to research investments, but most still rely on human advisers for final decisions, based on a survey…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thenextweb.com/news/hsbc-survey-ai-human-wealth-managers",
+        "publishedAt": "2026-06-24T11:30:17.000Z",
+        "description": "hsbc says wealthy investors use ai to research investments but most still rely on human advisers for final decisions based on a survey of nearly 10 000 people in 10 markets https thenextweb com news hsbc survey ai human wealth managers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f5303e6adad3"
+      },
+      {
+        "headline": "87% gone in under 2 days. This is HUSDT, the Humanity Token, after a hack drained $30M and minted 13M extra H tokens. The chart shows the…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://youtu.be/va52FaEJyYE",
+        "publishedAt": "2026-06-24T11:40:37.000Z",
+        "description": "87 gone in under 2 days this is husdt the humanity token after a hack drained 30m and minted 13m extra h tokens the chart shows the collapse clearly now price is bouncing at familiar support levels opportunity or dead cat husdt humanitytoken altcoin crypto humanityprotocol macro cryptocurrency investing watch the full video here https the bitcoin strategy com nostr relay 4ctuikwjblj5a chart 01 nostr jpg https youtu be va52faejyye",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f4c21a179dee"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.2% (1791 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p.blossom.band/342454c9ebacd7335301b2305f27f72c3dfbf1343da0229691983cc0e6439616.mp4",
+        "publishedAt": "2026-06-24T11:37:00.000Z",
+        "description": "https npub1pefpytg7h9wdmza97evpta73eyf94rq5mq5cn6h992eknm4xcljqq2tv2p blossom band 342454c9ebacd7335301b2305f27f72c3dfbf1343da0229691983cc0e6439616 mp4 tagging progress 24 2 1791 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "0d7fdf2c91d7"
+      },
+      {
+        "headline": "📰 EFVon to USD: Convert iShares MSCI EAFE Value ETF (Ondo Tokenized) to US Dollar",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/metamask-ef-von-to-usd-convert-i-shares-msci-eafe-value-etf-ondo-tokenized-to-us-dollar-2667578700",
+        "publishedAt": "2026-06-24T11:38:26.000Z",
+        "description": "efvon to usd convert ishares msci eafe value etf ondo tokenized to us dollar dec 12 2024 09 31 utc the article provides the current conversion rate of ishares msci eafe value etf ondo tokenized to usd which is 77 19 per efvon it details the market capitalization of efvon at 24 17b and lists its conversion rates to various other global currencies the text also shows conversion rates for other ondo tokenized assets such as treasury bond etfs and corporate equities to efvon and vice versa efvon ondotokenized isharesmscieafevalueetf usd marketcap conversionprice tokenizedetf read more at https rwatimes io articles metamask ef von to usd convert i shares msci eafe value etf ondo tokenized to us dollar 2667578700",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "41d8c09991a8"
+      },
+      {
+        "headline": "📰 Ripple clears XRP Ledger lending re-audit with no critical flaws",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/crypto-ripple-clears-xrp-ledger-lending-re-audit-with-no-critical-flaws-3965591043",
+        "publishedAt": "2026-06-24T11:34:02.000Z",
+        "description": "ripple clears xrp ledger lending re audit with no critical flaws jun 24 2026 09 37 utc olivia stephanie ripple s xrp ledger lending protocol clears halborn s re audit with no critical or high risk flaws moving xrpl defi closer ripple s xrp ledger xrpl lending protocol has successfully passed a re audit by halborn with no critical or high risk flaws identified the audit focused on code changes for fixed term loans and single asset vaults confirming that all reported issues have been addressed by ripple this milestone advances xrpl s development in defi including lending and institutional tools though market adoption remains a key factor for future utility xrpledger ripple halborn lendingprotocol defi reaudit security uncollateralizedloans singleassetvaults xrpl read more at https rwatimes i",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "web",
+          "news"
+        ],
+        "id": "97739c18e928"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Brazilian Couple Sentenced To 50 Days In Jail For Homeschooling Without Gender Brainwashing Propaganda",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/24/brazilian-couple-sentenced-to-50-days-in-jail-for-homeschooling-without-gender-brainwashing-propaganda",
+        "publishedAt": "2026-06-24T11:51:50.000Z",
+        "description": "brazilian couple sentenced to 50 days in jail for homeschooling without gender brainwashing propaganda from alex jones a brazilian couple has been sentenced to 50 days in jail for homeschooling their daughters according to their own beliefs and not introducing them to gender ideology audato and ieda denardi were convicted of intellectual neglect after a court concluded that the education they provided at home failed to include programs on gender and sex education and jun 24th 2026 7 30am edt source link https www alexjoneslive com 2026 06 24 brazilian couple sentenced to 50 days in jail for homeschooling without gender brainwashing propaganda share promote comment with nostr https dissentwatch com boost boost post id 1151437",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "9f0ae19431c2"
+      },
+      {
+        "headline": "📰 Binance Says On-Chain Tokenized Assets Have Grown 589% to $31 Billion Since 2025 - FinanceFeeds",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/financefeeds-binance-says-on-chain-tokenized-assets-have-grown-589-to-31-billion-since-2025-finance-feeds-1205727613",
+        "publishedAt": "2026-06-24T11:30:35.000Z",
+        "description": "binance says on chain tokenized assets have grown 589 to 31 billion since 2025 financefeeds jun 24 2026 09 21 utc karthik subramanian binance research says on chain tokenized assets have grown 589 since early 2025 rising to more than 31 billion as institutional issuers increasingly move on chain tokenized assets have surged by 589 to over 31 billion since early 2025 driven by institutional issuers tokenizing traditional financial products tokenized u s treasuries and money market funds are leading this growth due to their familiarity clear yields and low risk with gold backed assets and public equities also expanding despite rapid growth regulation remains a key constraint and future expansion hinges on liquidity legal enforceability custody and secondary market access tokenizedassets bina",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "d7460d1713a5"
+      },
+      {
+        "headline": "VIDEO: Alex Jones Teaches His Oldest Daughter How To Defend Herself With A Knife!",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/24/video-alex-jones-teaches-his-oldest-daughter-how-to-defend-herself-with-a-knife",
+        "publishedAt": "2026-06-24T11:42:29.000Z",
+        "description": "video alex jones teaches his oldest daughter how to defend herself with a knife from alex jones on the tuesday show alex jones discussed how women need to be able to defend themselves against attackers and played video of himself training his daughter how to use a knife defensively the post appeared first on alex jones live jun 24th 2026 7 00am edt source link https www alexjoneslive com 2026 06 24 video alex jones teaches his oldest daughter how to defend herself with a knife share promote comment with nostr https dissentwatch com boost boost post id 1151433",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "7c302e1105ad"
+      },
+      {
+        "headline": "📰 Polymarket allegedly faked trades. Chances are slim Trump admin investigates, says sports-betting attorney | Fortune",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/fortune-polymarket-allegedly-faked-trades-chances-are-slim-trump-admin-investigates-says-sports-betting-attorney-fortune-408888817",
+        "publishedAt": "2026-06-24T11:37:31.000Z",
+        "description": "polymarket allegedly faked trades chances are slim trump admin investigates says sports betting attorney fortune jun 23 2026 14 44 utc camila grigera na n a recent wall street journal investigation found that the prediction market hired influencers to stage fake trades as part of its marketing campaign to attract u s users polymarket is accused of using fake trades and fabricated winnings in its marketing campaigns to attract u s users potentially violating regulations legal experts suggest that while regulatory actions are possible from the cftc and ftc investigations under the trump administration are unlikely due to a shift in enforcement priorities and staff reductions the most probable legal fallout may come from private civil lawsuits filed by bettors who were misled by polymarket s ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "release"
+        ],
+        "id": "006b92ace5cf"
+      },
+      {
+        "headline": "⬡  A L E P H I U M  ⬡",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://x.com/alephium/status/2061839244373676284",
+        "publishedAt": "2026-06-24T11:47:50.000Z",
+        "description": "a l e p h i u m bridge update today we continued work across multiple recovery and investigation tracks as part of the bridge incident remediation the bridge guardians with support from our security partners executed an authorized recovery procedure to invalidate the unbacked wrapped https x com alephium status 2061839244373676284 https pbs twimg com media hj0oql4agaa3 nb jpg large alephium alph proofoflesswork alph alephium alph alephium blockchain crypto nostr defi utxo proofoflesswork",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "alph",
+          "alephium",
+          "alph",
+          "alephium",
+          "blockchain",
+          "crypto",
+          "nostr",
+          "defi",
+          "utxo",
+          "proofoflesswork"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "e01bb57f9e62"
+      },
+      {
+        "headline": "📰 tZERO vs. Securitize: The Patent Dispute Shaping RWA Tokenization",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/securities-t-zero-vs-securitize-the-patent-dispute-shaping-rwa-tokenization-3211562863",
+        "publishedAt": "2026-06-24T11:43:10.000Z",
+        "description": "tzero vs securitize the patent dispute shaping rwa tokenization jun 23 2026 17 46 utc published june 23 2026 the race to dominate the tokenization of real world assets rwas is on it is fast becoming one of the most fiercely contested segments in the cryptocurrency space as traditional financial institutions like blackrock jpmorgan franklin templeton and kkr increasingly adopt and invest in blockchain based infrastructure for issuing managing and trading bonds commodities credit and a patent dispute has emerged between rwa tokenization pioneers tzero and securitize with tzero accusing securitize of infringing on its patents and securitize filing a lawsuit to contest the claims this legal battle highlights the increasing maturity and competitive nature of the rwa tokenization market as compa",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "release"
+        ],
+        "id": "ecbea669cd14"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 79
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 33
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 28
+    }
+  ],
+  "failures": []
+}
