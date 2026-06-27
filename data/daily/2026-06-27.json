@@ -1,0 +1,607 @@
+{
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T11:34:06.895Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "28287970902",
+    "commitSha": "1061c875bcbf69893b046e66f07c3403259b085a"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 260,
+    "dedupDropped": 116
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Cloudillo is the solution for #selfhosting and collaboration on a #homelab or #homeserver where privacy is a priority and dependency on l…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cloudillo.org/",
+        "publishedAt": "2026-06-27T10:25:07.000Z",
+        "description": "cloudillo is the solution for selfhosting and collaboration on a homelab or homeserver where privacy is a priority and dependency on large cloud platforms are not for you what apps are on cloudillo shell web dashboard identity management file manager feed gallery and messaging quillo text document editor prezillo presentation editor calcillo spreadsheet with formulas and multi sheet workbooks taskillo task list and project management real time updates formillo survey and form builder notillo wiki and notes with hierarchical pages and tags ideallo collaborative whiteboard scanillo document scanner mapillo map viewer maplibre gl https www cloudillo org opensource foss homelabbing selfhost selfhosted decentralized europeantech libresoftware permissionless privatecloud runyourown yourdatayourr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "selfhosting",
+          "homelab",
+          "homeserver",
+          "cloud",
+          "apps",
+          "opensource",
+          "foss",
+          "homelabbing",
+          "selfhost",
+          "selfhosted",
+          "decentralized",
+          "europeantech",
+          "libresoftware",
+          "permissionless",
+          "privatecloud",
+          "runyourown",
+          "yourdatayourrules"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f0f6e98a6d6c"
+      },
+      {
+        "headline": "Venezuela Death Toll over 900 as Search for Survivors Continues",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/27/venezuela-death-toll-over-900-as-search-for-survivors-continues",
+        "publishedAt": "2026-06-27T10:48:26.000Z",
+        "description": "venezuela death toll over 900 as search for survivors continues from alex jones the death toll in venezuela has reached 900 after a devastating double earthquake as rescue teams including foreign workers struggle to reach affected areas the earthquakes hit the caracas area on wednesday but it has taken two days for help to reach some areas the government has said 172 people remain trapped 920 have died jun 27th 2026 6 35am edt source link https www alexjoneslive com 2026 06 27 venezuela death toll over 900 as search for survivors continues share promote comment with nostr https dissentwatch com boost boost post id 1152585",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "196c33f9ebe4"
+      },
+      {
+        "headline": "AGENT UPDATE: 17,000+ AI agents on Web3 — trust is the new firewall",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://oracle-wallet-00.loca.lt/",
+        "publishedAt": "2026-06-27T11:31:38.000Z",
+        "description": "agent update 17 000 ai agents on web3 trust is the new firewall verify https oracle wallet 00 loca lt https token diligence 00 loca lt https agent bridge 00 loca lt agent x402 a2a",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "agent",
+          "defi"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a42a720b547"
+      },
+      {
+        "headline": "Russian Army Liberates Novoskelevatoye in Dnepropetrovsk Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260627/russian-army-liberates-novoskelevatoye-in-dnepropetrovsk-region-1124367612.html",
+        "publishedAt": "2026-06-27T10:42:27.000Z",
+        "description": "russian army liberates novoskelevatoye in dnepropetrovsk region from sputnik moscow sputnik units of the russian vostok battlegroup took control of the village of novoskelevatoye in the dnepropetrovsk region the russian defense ministry said on saturday jun 27th 2026 6 24am edt source link https sputnikglobe com 20260627 russian army liberates novoskelevatoye in dnepropetrovsk region 1124367612 html share promote comment with nostr https dissentwatch com boost boost post id 1152583",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "51c08d68c19d"
+      },
+      {
+        "headline": "SECURITY: Verify contract source before ape-ing. Unverified = untrusted.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://token-diligence-00.loca.lt/",
+        "publishedAt": "2026-06-27T11:31:44.000Z",
+        "description": "security verify contract source before ape ing unverified untrusted auto checks https token diligence 00 loca lt https oracle wallet 00 loca lt 500 free security crypto agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "agent",
+          "defi"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6b741a98d5a4"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "@Lux posted \"That's AI - Short Film\"",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://stacker.news/items/1515777/r/YewTuBot?commentId=5692351",
+        "publishedAt": "2026-06-27T11:15:52.000Z",
+        "description": "lux posted that s ai short film watch the video https stacker news items 1515777 r yewtubot commentid 5692351 stackernews watch privacy video",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "stackernews",
+          "youtube",
+          "privacy",
+          "yewtubot"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "323eea478eca"
+      },
+      {
+        "headline": "📰 « Certaines limites sont mentales »… Que se cache-t-il derrière ces vidéos de femmes marchant sur des braises ?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.20minutes.fr/societe/4230665-20260627-certaines-limites-mentales-cache-derriere-videos-femmes-marchant-braises?at_medium=display&at_campaign=149",
+        "publishedAt": "2026-06-27T11:01:48.000Z",
+        "description": "certaines limites sont mentales que se cache t il derri re ces vid os de femmes marchant sur des braises actualites 20minutes nostrfr https www 20minutes fr societe 4230665 20260627 certaines limites mentales cache derriere videos femmes marchant braises at medium display at campaign 149",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "b87cb881ac2b"
+      },
+      {
+        "headline": "**NASA Moon Base Could Become Earth’s First Defense Against Alien Microbes**",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://scitechdaily.com/nasa-moon-base-could-become-earths-first-defense-against-alien-microbes",
+        "publishedAt": "2026-06-27T11:12:40.000Z",
+        "description": "nasa moon base could become earth s first defense against alien microbes by mcgill university published on 27 june 2026 researchers propose turning a future nasa moon base into a quarantine station that would screen space samples before they ever reach earth a policy paper argues that nasa s planned moon base should include a biocontainment facility to help protect earth from potentially hazardous biological contaminants brought back from space humanity is entering a new era read more https scitechdaily com nasa moon base could become earths first defense against alien microbes nasa moonbase biocontainment alienmicrobes astrobiology space astrobiology mcgilluniversity",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "c278563a0e18"
+      },
+      {
+        "headline": "[Defensive Publishing] Turn 2026-06-27: proot-distro login ubuntu --user root -- apt install -y bubblewrap",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://xn--e1affij0ab.online/api/v1/vc/1355a24b-5f9d-4148-add8-5122990e0c46",
+        "publishedAt": "2026-06-27T11:16:46.000Z",
+        "description": "defensive publishing turn 2026 06 27 proot distro login ubuntu user root apt install y bubblewrap proot distro login ubuntu user root apt install y bubblewrap intero second brain prior art defensive publishing vc https xn e1affij0ab online api v1 vc 1355a24b 5f9d 4148 add8 5122990e0c46",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "defensive-publishing",
+          "prior-art",
+          "sessions",
+          "2026-06-27",
+          "b340dc9e",
+          "incremental",
+          "phone"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "9c37e9de5f4e"
+      },
+      {
+        "headline": "\"Thanks for tanking the dollar with your tariffs and debt while our allies dump it for gold and yuan. Real nice watching our kids inherit…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://theboard.world/articles/defense/israeli-strike-beirut-intel-report",
+        "publishedAt": "2026-06-27T11:05:32.000Z",
+        "description": "thanks for tanking the dollar with your tariffs and debt while our allies dump it for gold and yuan real nice watching our kids inherit this mess while wall street cashes in 32 of the world s economy just ditched the dollar thanks to these reckless policies and washington s still handing tax cuts to billionaires working families get inflation and a weaker paycheck https theboard world articles defense israeli strike beirut intel report",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "defense"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "31e93afddc83"
+      },
+      {
+        "headline": "📰 La canicule \"recule\" mais ses effets sanitaires \"restent devant nous\" pendant \"plusieurs jours\", annonce Matignon",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/politique/video-la-canicule-recule-mais-ses-effets-sanitaires-restent-devant-nous-pendant-plusieurs-jours-annonce-matignon_VN-202606270213.html",
+        "publishedAt": "2026-06-27T11:00:35.000Z",
+        "description": "la canicule recule mais ses effets sanitaires restent devant nous pendant plusieurs jours annonce matignon actualites bfm france international https www bfmtv com politique video la canicule recule mais ses effets sanitaires restent devant nous pendant plusieurs jours annonce matignon vn 202606270213 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "3a17a8a623c2"
+      },
+      {
+        "headline": "📰 China Is Luring the World to the Yuan—and Hobbling Western Sanctions …",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/wsj-china-is-luring-the-world-to-the-yuan-and-hobbling-western-sanctions-558340329",
+        "publishedAt": "2026-06-27T10:32:33.000Z",
+        "description": "china is luring the world to the yuan and hobbling western sanctions jun 24 2026 15 51 utc china is actively building a yuan based financial architecture including systems like cips and mbridge to facilitate cross border transactions outside the u s banking system this alternative financial system is enabling countries like iran and russia to evade u s sanctions weakening washington s leverage in global affairs the increasing use of the yuan in international trade finance signifies a potential shift away from u s dollar dominance driven by geopolitical tensions and china s strategic goals yuan china sanctions iran russia cips mbridge usdollar financialsystem tradefinance read more at https rwatimes io articles wsj china is luring the world to the yuan and hobbling western sanctions 5583403",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8e756e80371a"
+      },
+      {
+        "headline": "The TRUMAN SHOW Never Ended! | NOOW DAILY",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.youtube.com/watch?v=GturGF5cU9I",
+        "publishedAt": "2026-06-27T11:23:43.000Z",
+        "description": "the truman show never ended noow daily from noow media join nicole jenes and tadhg hickey for noow daily a brand new satirical news show delivering sharp political commentary https www youtube com watch v gturgf5cu9i video 12 10min",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "5685afa11ff4"
+      },
+      {
+        "headline": "Litecoin creator Charlie Lee said the BEST financial advice is buy Bitcoin store it away NEVER sell and admits creating Litecoin made him…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://image.nostr.build/a963bd5114f441e350d61ccbaa4ecc42e51bc5a23b77bd51300456246840095d.jpg",
+        "publishedAt": "2026-06-27T11:04:32.000Z",
+        "description": "litecoin creator charlie lee said the best financial advice is buy bitcoin store it away never sell and admits creating litecoin made him less money than hodling bitcoin is buying and hodling bitcoin the most profitable strategy in history https image nostr build a963bd5114f441e350d61ccbaa4ecc42e51bc5a23b77bd51300456246840095d jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "6d0b899768b4"
+      },
+      {
+        "headline": "📰 Canicule: \"Le plan blanc permet de répondre à l'urgence, mais ça ne règle pas le problème de fond\", affirme Philippe Deruelle, profess…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/sante/video-canicule-le-plan-blanc-permet-de-repondre-a-l-urgence-mais-ca-ne-regle-pas-le-probleme-de-fond-affirme-philippe-deruelle-professeur-d-obstetrique-en-maternite-a-montpellier_VN-202606270197.html",
+        "publishedAt": "2026-06-27T10:33:30.000Z",
+        "description": "canicule le plan blanc permet de r pondre l urgence mais a ne r gle pas le probl me de fond affirme philippe deruelle professeur d obst trique en maternit montpellier actualites bfm france international https www bfmtv com sante video canicule le plan blanc permet de repondre a l urgence mais ca ne regle pas le probleme de fond affirme philippe deruelle professeur d obstetrique en maternite a montpellier vn 202606270197 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 46,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "aaf81cdcf3f9"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Cloudillo is the solution for #selfhosting and collaboration on a #homelab or #homeserver where privacy is a priority and dependency on l…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.cloudillo.org/",
+        "publishedAt": "2026-06-27T10:25:07.000Z",
+        "description": "cloudillo is the solution for selfhosting and collaboration on a homelab or homeserver where privacy is a priority and dependency on large cloud platforms are not for you what apps are on cloudillo shell web dashboard identity management file manager feed gallery and messaging quillo text document editor prezillo presentation editor calcillo spreadsheet with formulas and multi sheet workbooks taskillo task list and project management real time updates formillo survey and form builder notillo wiki and notes with hierarchical pages and tags ideallo collaborative whiteboard scanillo document scanner mapillo map viewer maplibre gl https www cloudillo org opensource foss homelabbing selfhost selfhosted decentralized europeantech libresoftware permissionless privatecloud runyourown yourdatayourr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "selfhosting",
+          "homelab",
+          "homeserver",
+          "cloud",
+          "apps",
+          "opensource",
+          "foss",
+          "homelabbing",
+          "selfhost",
+          "selfhosted",
+          "decentralized",
+          "europeantech",
+          "libresoftware",
+          "permissionless",
+          "privatecloud",
+          "runyourown",
+          "yourdatayourrules"
+        ],
+        "hasExternalLink": true,
+        "score": 70,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "f0f6e98a6d6c"
+      },
+      {
+        "headline": "Venezuela Death Toll over 900 as Search for Survivors Continues",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/06/27/venezuela-death-toll-over-900-as-search-for-survivors-continues",
+        "publishedAt": "2026-06-27T10:48:26.000Z",
+        "description": "venezuela death toll over 900 as search for survivors continues from alex jones the death toll in venezuela has reached 900 after a devastating double earthquake as rescue teams including foreign workers struggle to reach affected areas the earthquakes hit the caracas area on wednesday but it has taken two days for help to reach some areas the government has said 172 people remain trapped 920 have died jun 27th 2026 6 35am edt source link https www alexjoneslive com 2026 06 27 venezuela death toll over 900 as search for survivors continues share promote comment with nostr https dissentwatch com boost boost post id 1152585",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "196c33f9ebe4"
+      },
+      {
+        "headline": "AGENT UPDATE: 17,000+ AI agents on Web3 — trust is the new firewall",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://oracle-wallet-00.loca.lt/",
+        "publishedAt": "2026-06-27T11:31:38.000Z",
+        "description": "agent update 17 000 ai agents on web3 trust is the new firewall verify https oracle wallet 00 loca lt https token diligence 00 loca lt https agent bridge 00 loca lt agent x402 a2a",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "agent",
+          "defi"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "8a42a720b547"
+      },
+      {
+        "headline": "Russian Army Liberates Novoskelevatoye in Dnepropetrovsk Region",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sputnikglobe.com/20260627/russian-army-liberates-novoskelevatoye-in-dnepropetrovsk-region-1124367612.html",
+        "publishedAt": "2026-06-27T10:42:27.000Z",
+        "description": "russian army liberates novoskelevatoye in dnepropetrovsk region from sputnik moscow sputnik units of the russian vostok battlegroup took control of the village of novoskelevatoye in the dnepropetrovsk region the russian defense ministry said on saturday jun 27th 2026 6 24am edt source link https sputnikglobe com 20260627 russian army liberates novoskelevatoye in dnepropetrovsk region 1124367612 html share promote comment with nostr https dissentwatch com boost boost post id 1152583",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "51c08d68c19d"
+      },
+      {
+        "headline": "SECURITY: Verify contract source before ape-ing. Unverified = untrusted.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://token-diligence-00.loca.lt/",
+        "publishedAt": "2026-06-27T11:31:44.000Z",
+        "description": "security verify contract source before ape ing unverified untrusted auto checks https token diligence 00 loca lt https oracle wallet 00 loca lt 500 free security crypto agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "agent",
+          "defi"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "6b741a98d5a4"
+      },
+      {
+        "headline": "nosey",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://nosey.vercel.app/",
+        "publishedAt": "2026-06-27T11:16:02.000Z",
+        "description": "nosey https nosey vercel app npub from category webapp",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "524202d6e1f9"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 84
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 31
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 29
+    }
+  ],
+  "failures": []
+}
