@@ -1,0 +1,531 @@
+{
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T11:49:46.706Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "28587710905",
+    "commitSha": "7e58012ca52f0f865fd3d4fb85fd9977368f3886"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 341,
+    "dedupDropped": 260
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/webdisclosure-1-inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1892256849",
+        "publishedAt": "2026-07-02T11:33:14.000Z",
+        "description": "1inch integrates robinhood chain at launch expanding liquidity access across tokenized assets jul 01 2026 19 19 utc road town british virgin islands july 1st 2026 financewire 1inch has integrated with robinhood chain a new arbitrum based network focused on tokenized real world assets rwas this integration allows eligible users to trade tokenized stocks and etps 24 7 through 1inch s dapp wallet and api enhancing liquidity and accessibility robinhood chain s testnet has already seen significant rwa transfer volume indicating strong demand for such infrastructure 1inch robinhoodchain tokenizedassets realworldassets liquidity defi stocktokens etps arbitrum trading read more at https rwatimes io articles webdisclosure 1 inch integrates robinhood chain at launch expanding liquidity access across",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1448aeba39e8"
+      },
+      {
+        "headline": "Japan Takes Next Step In $2.3 Trillion Plan With Domestic AI Model And 10M Robots",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/ai/japan-unveils-61-billion-sovereign-ai-plan-targeting-10-million-robots-across-18-sectors-2040",
+        "publishedAt": "2026-07-02T11:48:27.000Z",
+        "description": "japan takes next step in 2 3 trillion plan with domestic ai model and 10m robots from zerohedge the japanese government has unveiled plans to create a domestically developed artificial intelligence model and put roughly 10 million ai equipped robots into operation across 18 sectors by 2040 building on a 14 year growth strategy announced last month which targets 370 jul 2nd 2026 7 00am edt source link https www zerohedge com ai japan unveils 61 billion sovereign ai plan targeting 10 million robots across 18 sectors 2040 share promote comment with nostr https dissentwatch com boost boost post id 1154464",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "872a2908346a"
+      },
+      {
+        "headline": "📰 \"La honte est nôtre\": Keir Starmer présente des excuses officielles pour un scandale d'adoptions forcées",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/video-une-tache-dans-notre-histoire-keir-starmer-presente-des-excuses-officielles-pour-un-scandale-d-adoptions-forcees_VN-202607020564.html",
+        "publishedAt": "2026-07-02T11:33:33.000Z",
+        "description": "la honte est n tre keir starmer pr sente des excuses officielles pour un scandale d adoptions forc es actualites bfm france international https www bfmtv com international video une tache dans notre histoire keir starmer presente des excuses officielles pour un scandale d adoptions forcees vn 202607020564 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a480722efabc"
+      },
+      {
+        "headline": "📰 Scandale d'adoptions forcées au Royaume-Uni: Keir Starmer annonce des mesures",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/video-scandale-d-adoptions-forcees-au-royaume-uni-keir-starmer-annonce-des-mesures_VN-202607020566.html",
+        "publishedAt": "2026-07-02T11:32:22.000Z",
+        "description": "scandale d adoptions forc es au royaume uni keir starmer annonce des mesures actualites bfm france international https www bfmtv com international video scandale d adoptions forcees au royaume uni keir starmer annonce des mesures vn 202607020566 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "cc30d5a513f7"
+      },
+      {
+        "headline": "University Of California’s K-12 Materials Call January 6 An ‘Insurrection,’ Compare It To KKK",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/07/02/university-of-californias-k-12-materials-call-january-6-an-insurrection-compare-it-to-kkk",
+        "publishedAt": "2026-07-02T11:12:27.000Z",
+        "description": "university of california s k 12 materials call january 6 an insurrection compare it to kkk from alex jones lifesitenews university of california santa cruz has proposed k 12 educational materials that would teach public school students that the january 6 2021 protest at the united states capitol was comparable to the racist terror group ku klux klan rallying a century beforehand the college fix reports that the watchdog group defending education found in the university s jul 2nd 2026 6 45am edt source link https www alexjoneslive com 2026 07 02 university of californias k 12 materials call january 6 an insurrection compare it to kkk share promote comment with nostr https dissentwatch com boost boost post id 1154458",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5c6989eb7f6d"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "📰 Après Google et Cloudflare, Microsoft accélère son passage au chiffrement post‑quantique",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.01net.com/actualites/apres-google-cloudflare-microsoft-accelere-passage-chiffrement-post%e2%80%91quantique.html",
+        "publishedAt": "2026-07-02T11:30:00.000Z",
+        "description": "apr s google et cloudflare microsoft acc l re son passage au chiffrement post quantique actualites tech 01net https www 01net com actualites apres google cloudflare microsoft accelere passage chiffrement post e2 80 91quantique html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "c04ea628e6f7"
+      },
+      {
+        "headline": "📰 Robinhood Chain RWA swaps now supported by 1inch | 1inch Blog",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/1inch-robinhood-chain-rwa-swaps-now-supported-by-1-inch-1-inch-blog-2490472219",
+        "publishedAt": "2026-07-02T11:09:18.000Z",
+        "description": "robinhood chain rwa swaps now supported by 1inch 1inch blog jul 01 2026 19 00 utc 1inch has integrated robinhood chain an arbitrum based network focused on tokenized real world assets rwas to facilitate easier access routing and trading of these assets this integration allows eligible users to trade rwas through the 1inch dapp wallet and swap api providing 24 7 trading capabilities and deep liquidity the partnership aims to enhance the usability and tradability of rwas within the defi ecosystem supporting both retail users and ecosystem partners robinhoodchain 1inch rwa tokenizedrealworldassets defi arbitrum swapapi liquidity tradinginfrastructure read more at https rwatimes io articles 1inch robinhood chain rwa swaps now supported by 1 inch 1 inch blog 2490472219",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "31d65e9d1840"
+      },
+      {
+        "headline": "📰 Déluge de feu sur Kiev: la capitale ukrainienne a connu sa pire attaque russe depuis le début de la guerre",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/asie/russie/video-deluge-de-feu-sur-kiev-la-capitale-ukrainienne-a-connu-sa-pire-attaque-russe-depuis-le-debut-de-la-guerre_VN-202607020536.html",
+        "publishedAt": "2026-07-02T11:02:19.000Z",
+        "description": "d luge de feu sur kiev la capitale ukrainienne a connu sa pire attaque russe depuis le d but de la guerre actualites bfm france international https www bfmtv com international asie russie video deluge de feu sur kiev la capitale ukrainienne a connu sa pire attaque russe depuis le debut de la guerre vn 202607020536 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "820c85758009"
+      },
+      {
+        "headline": "The technology—Quantum Gravity Fluctuation Interference—requires only a single data center linked to one telepathic device. This is not a…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://stepvda.substack.com/p/are-they-creating-an-army-of-abusers",
+        "publishedAt": "2026-07-02T11:39:28.000Z",
+        "description": "the technology quantum gravity fluctuation interference requires only a single data center linked to one telepathic device this is not a system that needs to be built it already exists it has been running for thirty years https stepvda substack com p are they creating an army of abusers",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "4851a4e46b5f"
+      },
+      {
+        "headline": "📰 Dany Leprince: plusieurs éléments ont fait \"naître un doute sur sa culpabilité\", explique Mélanie Bertrand, Grand reporter police-just…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/police-justice/video-dany-leprince-plusieurs-elements-ont-fait-naitre-un-doute-sur-sa-culpabilite-explique-melanie-bertrand-grand-reporter-police-justice-bfmtv_VN-202607020565.html",
+        "publishedAt": "2026-07-02T11:32:58.000Z",
+        "description": "dany leprince plusieurs l ments ont fait na tre un doute sur sa culpabilit explique m lanie bertrand grand reporter police justice bfmtv actualites bfm france international https www bfmtv com police justice video dany leprince plusieurs elements ont fait naitre un doute sur sa culpabilite explique melanie bertrand grand reporter police justice bfmtv vn 202607020565 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "8139b1112074"
+      },
+      {
+        "headline": "📰 Comment investir dans le solaire ?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/economie/video-comment-investir-dans-le-solaire_VN-202607020567.html",
+        "publishedAt": "2026-07-02T11:31:47.000Z",
+        "description": "comment investir dans le solaire actualites bfm france international https www bfmtv com economie video comment investir dans le solaire vn 202607020567 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "db9d841934a4"
+      },
+      {
+        "headline": "📰 Bank of Korea Backs Tokenized Bonds as RWAs Gain Momentum",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptotimes-bank-of-korea-backs-tokenized-bonds-as-rw-as-gain-momentum-487462932",
+        "publishedAt": "2026-07-02T11:31:34.000Z",
+        "description": "bank of korea backs tokenized bonds as rwas gain momentum jul 01 2026 19 47 utc iyiola adrian bank of korea governor hyun song shin voiced strong support for tokenized government bonds saying they could make financial processes less error prone the bank of korea through governor hyun song shin has expressed strong support for tokenizing government bonds to enhance financial system efficiency and reduce errors south korea s project hangang aims to create a unified digital ledger for tokenized bonds cbdcs and bank deposits enabling instant atomic settlement us treasury debt currently leads the tokenized real world asset market highlighting the growing momentum and institutional interest in this sector tokenizedbonds bankofkorea projecthangang cbdcs atomicsettlement ustreasurydebt rwamarket b",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "bf4fd6e74569"
+      },
+      {
+        "headline": "📰 Lyon. Photos inédites, manuscrits rares : un Gainsbourg intime au cœur d’une exposition-vente",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.leprogres.fr/culture-loisirs/2026/07/02/photos-inedites-manuscrits-rares-un-gainsbourg-intime-au-coeur-d-une-exposition-vente",
+        "publishedAt": "2026-07-02T11:31:13.000Z",
+        "description": "lyon photos in dites manuscrits rares un gainsbourg intime au c ur d une exposition vente actualites leprogres rhone https www leprogres fr culture loisirs 2026 07 02 photos inedites manuscrits rares un gainsbourg intime au coeur d une exposition vente",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "94e0137d0330"
+      },
+      {
+        "headline": "📰 Mondial 2026: un supporter mexicain vandalise un ballon géant du décor et se fait arrêter",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/amerique-latine/mexique/video-mondial-2026-un-supporter-mexicain-vandalise-un-ballon-geant-du-decor-et-se-fait-arreter_VN-202607020532.html",
+        "publishedAt": "2026-07-02T11:04:05.000Z",
+        "description": "mondial 2026 un supporter mexicain vandalise un ballon g ant du d cor et se fait arr ter actualites bfm france international https www bfmtv com international amerique latine mexique video mondial 2026 un supporter mexicain vandalise un ballon geant du decor et se fait arreter vn 202607020532 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "93a8a9c149cc"
+      },
+      {
+        "headline": "📰 Le maire d'une ville mexicaine épouse un caïman pour porter chance aux habitants",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/amerique-latine/mexique/video-le-maire-d-une-ville-mexicaine-epouse-un-caiman-pour-porter-chance-aux-habitants_VN-202607020537.html",
+        "publishedAt": "2026-07-02T11:01:44.000Z",
+        "description": "le maire d une ville mexicaine pouse un ca man pour porter chance aux habitants actualites bfm france international https www bfmtv com international amerique latine mexique video le maire d une ville mexicaine epouse un caiman pour porter chance aux habitants vn 202607020537 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "e36d7ca42965"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/webdisclosure-1-inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1892256849",
+        "publishedAt": "2026-07-02T11:33:14.000Z",
+        "description": "1inch integrates robinhood chain at launch expanding liquidity access across tokenized assets jul 01 2026 19 19 utc road town british virgin islands july 1st 2026 financewire 1inch has integrated with robinhood chain a new arbitrum based network focused on tokenized real world assets rwas this integration allows eligible users to trade tokenized stocks and etps 24 7 through 1inch s dapp wallet and api enhancing liquidity and accessibility robinhood chain s testnet has already seen significant rwa transfer volume indicating strong demand for such infrastructure 1inch robinhoodchain tokenizedassets realworldassets liquidity defi stocktokens etps arbitrum trading read more at https rwatimes io articles webdisclosure 1 inch integrates robinhood chain at launch expanding liquidity access across",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "1448aeba39e8"
+      },
+      {
+        "headline": "Japan Takes Next Step In $2.3 Trillion Plan With Domestic AI Model And 10M Robots",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.zerohedge.com/ai/japan-unveils-61-billion-sovereign-ai-plan-targeting-10-million-robots-across-18-sectors-2040",
+        "publishedAt": "2026-07-02T11:48:27.000Z",
+        "description": "japan takes next step in 2 3 trillion plan with domestic ai model and 10m robots from zerohedge the japanese government has unveiled plans to create a domestically developed artificial intelligence model and put roughly 10 million ai equipped robots into operation across 18 sectors by 2040 building on a 14 year growth strategy announced last month which targets 370 jul 2nd 2026 7 00am edt source link https www zerohedge com ai japan unveils 61 billion sovereign ai plan targeting 10 million robots across 18 sectors 2040 share promote comment with nostr https dissentwatch com boost boost post id 1154464",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "872a2908346a"
+      },
+      {
+        "headline": "📰 \"La honte est nôtre\": Keir Starmer présente des excuses officielles pour un scandale d'adoptions forcées",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/video-une-tache-dans-notre-histoire-keir-starmer-presente-des-excuses-officielles-pour-un-scandale-d-adoptions-forcees_VN-202607020564.html",
+        "publishedAt": "2026-07-02T11:33:33.000Z",
+        "description": "la honte est n tre keir starmer pr sente des excuses officielles pour un scandale d adoptions forc es actualites bfm france international https www bfmtv com international video une tache dans notre histoire keir starmer presente des excuses officielles pour un scandale d adoptions forcees vn 202607020564 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "a480722efabc"
+      },
+      {
+        "headline": "📰 Scandale d'adoptions forcées au Royaume-Uni: Keir Starmer annonce des mesures",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/video-scandale-d-adoptions-forcees-au-royaume-uni-keir-starmer-annonce-des-mesures_VN-202607020566.html",
+        "publishedAt": "2026-07-02T11:32:22.000Z",
+        "description": "scandale d adoptions forc es au royaume uni keir starmer annonce des mesures actualites bfm france international https www bfmtv com international video scandale d adoptions forcees au royaume uni keir starmer annonce des mesures vn 202607020566 html",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "cc30d5a513f7"
+      },
+      {
+        "headline": "University Of California’s K-12 Materials Call January 6 An ‘Insurrection,’ Compare It To KKK",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/07/02/university-of-californias-k-12-materials-call-january-6-an-insurrection-compare-it-to-kkk",
+        "publishedAt": "2026-07-02T11:12:27.000Z",
+        "description": "university of california s k 12 materials call january 6 an insurrection compare it to kkk from alex jones lifesitenews university of california santa cruz has proposed k 12 educational materials that would teach public school students that the january 6 2021 protest at the united states capitol was comparable to the racist terror group ku klux klan rallying a century beforehand the college fix reports that the watchdog group defending education found in the university s jul 2nd 2026 6 45am edt source link https www alexjoneslive com 2026 07 02 university of californias k 12 materials call january 6 an insurrection compare it to kkk share promote comment with nostr https dissentwatch com boost boost post id 1154458",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5c6989eb7f6d"
+      },
+      {
+        "headline": "📰 Visa, Mastercard and 140 companies launch Open USD",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/secnews-visa-mastercard-and-140-companies-launch-open-usd-1442721756",
+        "publishedAt": "2026-07-02T11:04:10.000Z",
+        "description": "visa mastercard and 140 companies launch open usd jul 01 2026 13 38 utc by absenta mia a large consortium of over 140 companies including visa mastercard and stripe has launched a new stablecoin called open usd ousd to challenge the market dominance of circle and tether open usd differentiates itself through a decentralized governance model and a reserve structure where interest earned is distributed to partners aiming for lower costs and wider accessibility for businesses the launch occurring within a new regulatory framework in the us has already impacted circle s market share though analysts caution that displacing incumbents will be challenging openusd stablecoin visa mastercard circle tether ousd openstandard blockchain financialconsortium read more at https rwatimes io articles secne",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5470acfa7273"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 81
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
