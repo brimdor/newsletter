@@ -1,0 +1,560 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T11:54:37.962Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "29151751009",
+    "commitSha": "3eb1b64bc8913a2c2b2db6f9bc61a6d1c9a3e7c9"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 846,
+    "dedupDropped": 631
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "🚀 New release · frp v0.70.0",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://selfhost.directory/project/frp",
+        "publishedAt": "2026-07-11T11:50:00.000Z",
+        "description": "new release frp v0 70 0 features expanded the frps dashboard api v2 migration across clients proxies server overview client detail and proxy detail covering paginated users clients proxies detail data proxy traffic history server system info offline proxy statistics pruning server side pagination search and proxy type filtering fixes websocket and wss tunnel payloads are now sent as binary frames avoiding disconnects through rfc compliant intermediaries that validate text frames as utf 8 the tls2raw client plugin now writes the proxy protocol header to the local raw connection when proxy protocol is enabled check and self host it https selfhost directory project frp update 4026471 https selfhost directory og d c selfhostdirectory title frp description znjwichgyxn0ifjldmvyc2uguhjvehkpiglzig",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2528ebe52b09"
+      },
+      {
+        "headline": "DHS Issues Statement on ICE-tracking Portals",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/07/11/dhs-issues-statement-on-ice-tracking-portals",
+        "publishedAt": "2026-07-11T10:51:31.000Z",
+        "description": "dhs issues statement on ice tracking portals from alex jones online portals used to track immigration and customs enforcement ice agents are putting their lives at risk the department for homeland security dhs has said in a statement put out this week dhs responded to the creation of the latest official portal by the local government of montgomery county maryland the portal allows users to jul 11th 2026 6 13am edt source link https www alexjoneslive com 2026 07 11 dhs issues statement on ice tracking portals share promote comment with nostr https dissentwatch com boost boost post id 1157695",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "019db075920a"
+      },
+      {
+        "headline": "Credit: Cherokee Community (Facebook)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/c6993cde58c50db37f2ec64245257a9c772460c0a7abdd41dcc1b1681bc81496.jpg",
+        "publishedAt": "2026-07-11T11:37:35.000Z",
+        "description": "credit cherokee community facebook 575 federally recognized tribal nations are now listed by the united states according to the u s bureau of indian affairs federal recognition is a legal and political status that acknowledges a tribal nation s government to government relationship with the united states it also confirms eligibility for certain federal programs and services while recognizing the inherent authority of tribal nations to govern their own affairs according to the updated federal register list the bureau of indian affairs added the lumbee tribe of north carolina following congressional recognition bringing the total number of federally recognized tribal entities to 575 alaska is home to 229 federally recognized tribes the largest number of any state california has 109 federally",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tribalsovereignty",
+          "indigenoushistory",
+          "nativeamerican",
+          "federalrecognition"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "release"
+        ],
+        "id": "2b24fe9808b2"
+      },
+      {
+        "headline": "Google Opposes Site Blocking in Europe as U.S. Piracy Blocking Plans Gain Momentum",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613",
+        "publishedAt": "2026-07-11T11:38:54.000Z",
+        "description": "google opposes site blocking in europe as u s piracy blocking plans gain momentum google dns google rarely addresses pirate site blocking in public but it is a significant concern now that these measures directly impact the company s own infrastructure the american tech company has been ordered to block access to pirate domain names through its dns resolver in france 1 belgium 2 italy and portugal for example in a recent submission to the european commission s call for evidence on the review of the copyright directive google lists its site blocking critique in detail the filing is marked privileged and confidential but it was posted publicly on the commission s website alongside other submissions blocking harms outweigh benefits google argues google s submission addresses a variety of topi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "df1606a8b9e4"
+      },
+      {
+        "headline": "‹ Глаз Бога — andrew.rogozov@gmail.com ›",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://report.eyegod.pro/r/RF7pVrdZbM25gn9UsRFCG4JGs6bRXmfC",
+        "publishedAt": "2026-07-11T11:29:08.000Z",
+        "description": "andrew rogozov gmail com source https report eyegod pro r rf7pvrdzbm25gn9usrfcg4jgs6brxmfc ghost archive https ghostarchive org archive efkvz telegraph https telegra ph glaz boga andrewrogozovgmailcom 07 11 internet archive https web archive org web 20260711112846 https report eyegod pro r rf7pvrdzbm25gn9usrfcg4jgs6brxmfc archive today archive today is unavailable",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "99a2a2826434"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Neanderthals Nearly Vanished 75,000 Years Ago – Then One Group Repopulated Europe**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/neanderthals-nearly-vanished-75000-years-ago-then-one-group-repopulated-europe",
+        "publishedAt": "2026-07-11T11:50:16.000Z",
+        "description": "neanderthals nearly vanished 75 000 years ago then one group repopulated europe by university of t bingen published on 11 july 2026 a new study from the senckenberg nature research society and the university of t bingen reveals major shifts in neanderthal genetic history near the end of their time in europe neanderthals were not spread across the continent as a deeply varied population their dna now points to a much narrower story a severe genetic bottleneck a read more https scitechdaily com neanderthals nearly vanished 75000 years ago then one group repopulated europe neanderthals ancientdna paleogenomics humanevolution archaeogenetics science archaeology evolutionaryanthropology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dfac7c0862f7"
+      },
+      {
+        "headline": "📰 Ether Bridged To Robinhood Chain Tops $70M in First Week",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cointelegraph-ether-bridged-to-robinhood-chain-tops-70-m-in-first-week-3155288295",
+        "publishedAt": "2026-07-11T11:21:11.000Z",
+        "description": "ether bridged to robinhood chain tops 70m in first week jul 10 2026 05 44 utc robinhood s new layer 2 blockchain has seen over 70 million in bridged eth within its first week indicating strong initial adoption the chain s use of eth as a gas token and its focus on rwa and ai are expected to drive demand for eth and solidify ethereum s position as a settlement layer early metrics show significant daily active users and revenue with analysts viewing the development as a positive structural development for eth robinhoodchain ethereum eth layer2 arbitrum tokenizedassets rwa gastoken defi tvl read more at https rwatimes io articles cointelegraph ether bridged to robinhood chain tops 70 m in first week 3155288295",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "0f8d6417a6bd"
+      },
+      {
+        "headline": "Irina Pegova Sexy - Moya mama - shpion - S01E15 (2023)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/irina-pegova-sexy-moya-mama-shpion-s01e15-2023",
+        "publishedAt": "2026-07-11T11:18:43.000Z",
+        "description": "irina pegova sexy moya mama shpion s01e15 2023 irina pegova is sexy in moya mama shpion s01e15 2023 showing us a cleavage there https searchcelebrityhd com irina pegova sexy moya mama shpion s01e15 2023 https searchcelebrityhd com wp content uploads 2025 12 irina pegova sexy moya mama shpion s01e15 2023 2 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b30469fd3fa3"
+      },
+      {
+        "headline": "So now Ukraine’s survival is just a bargaining chip to strong-arm Europe into fixing Middle East oil routes? How many more lives gotta bu…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://theboard.world/articles/geopolitics/ukraine-weapons-halt-trump-europe-iran",
+        "publishedAt": "2026-07-11T11:35:05.000Z",
+        "description": "so now ukraine s survival is just a bargaining chip to strong arm europe into fixing middle east oil routes how many more lives gotta burn for this administration s reckless dealmaking https theboard world articles geopolitics ukraine weapons halt trump europe iran",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "theboard",
+          "intelligence",
+          "geopolitics"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "99801daed82b"
+      },
+      {
+        "headline": "📰 Incendie en Espagne: des vacanciers français témoignent",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/international/europe/espagne/video-incendie-en-espagne-des-vacanciers-francais-temoignent_VN-202607110240.html",
+        "publishedAt": "2026-07-11T11:30:00.000Z",
+        "description": "incendie en espagne des vacanciers fran ais t moignent actualites bfm france international https www bfmtv com international europe espagne video incendie en espagne des vacanciers francais temoignent vn 202607110240 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "98045ef8c2c8"
+      },
+      {
+        "headline": "📰 Grayscale Identifies Top Blockchain Networks Powering Tokenized Stocks - TokenPost",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/tokenpost-grayscale-identifies-top-blockchain-networks-powering-tokenized-stocks-token-post-428795392",
+        "publishedAt": "2026-07-11T11:21:33.000Z",
+        "description": "grayscale identifies top blockchain networks powering tokenized stocks tokenpost jul 11 2026 04 54 utc tokenpost a new grayscale research report highlights tokenized equities as one of the strongest indicators that blockchain technology is moving into mainstream finance according to grayscale head of research zach pandl the market grayscale s report identifies tokenized equities as a key indicator of blockchain adoption in mainstream finance highlighting three distinct models for their implementation the report notes ethereum solana and bnb chain as current leaders in hosting tokenized assets with the dtcc s pilot on canton network representing a significant move towards regulated traditional securities on chain securitize s issuance of secz tokens on avalanche and solana exemplifies the i",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "news"
+        ],
+        "id": "90d7a206bc51"
+      },
+      {
+        "headline": "📰 Real estate mogul sees a way out of rising U.S. home prices",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-real-estate-mogul-sees-a-way-out-of-rising-u-s-home-prices-3129284101",
+        "publishedAt": "2026-07-11T11:18:33.000Z",
+        "description": "real estate mogul sees a way out of rising u s home prices jul 10 2026 13 35 utc fidelity s housing in bitcoin math is fueling cardone s real estate strategy real estate mogul grant cardone is leveraging fidelity s analysis that u s home prices have fallen significantly in bitcoin terms despite dollar price increases cardone s strategy involves layering bitcoin into institutional real estate deals aiming to capture appreciation from both housing and bitcoin this approach is framed as democratizing access to institutional grade assets by combining real estate with bitcoin as a new asset class realestate bitcoin grantcardone fidelitydigitalassets currencydebasement tokenization institutionaldeals luxuryapartmentcomplex assetclass read more at https rwatimes io articles coinmarketcap real est",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "ce9a5f5dbef5"
+      },
+      {
+        "headline": "📰 If You Wait, You’ll Be Late",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/brownstoneresearch-if-you-wait-youll-be-late-1571697473",
+        "publishedAt": "2026-07-11T11:17:33.000Z",
+        "description": "if you wait you ll be late jul 10 2026 16 09 utc ben lilly once you believe the bull run has arrived you re late the digital asset ecosystem is rapidly expanding beyond crypto centric assets to include tokenized stocks oil private credit and more with significant growth in on chain volume smart money including firms like blackrock and institutions like vaneck are actively building positions in anticipation of a market rally not waiting for traditional bitcoin halving cycles the increasing adoption of tokenized real world assets rwas on public blockchains signifies a shift towards these chains becoming the new home for finance urging immediate action from investors tokenizedstocks onchain robinhoodchain hyperliquid privatecredit jpmorganchase matthewsigel bitcoinhalving clarityact blackrock",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "a76c80caa4ba"
+      },
+      {
+        "headline": "📰 Reality of RWA tokenization in 2026: Only one asset class is ready for prime time",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/fxstreet-reality-of-rwa-tokenization-in-2026-only-one-asset-class-is-ready-for-prime-time-73763807",
+        "publishedAt": "2026-07-11T11:16:51.000Z",
+        "description": "reality of rwa tokenization in 2026 only one asset class is ready for prime time jul 06 2026 14 01 utc beincrypto us treasuries are the only tokenized real world asset class to reach production grade maturity according to new research from beincrypto us treasuries are identified as the only mature production grade tokenized real world asset class representing 15 billion across 100 assets despite market growth 60 billion across 12 asset classes access remains a major issue with 97 of tokenized asset value inaccessible to us retail investors other asset classes like asset backed credit commodities and real estate show less maturity and uneven distribution highlighting the need for improved infrastructure and regulatory clarity for wider adoption ustreasuries tokenization realworldassets inst",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "news"
+        ],
+        "id": "e03d652cf6f9"
+      },
+      {
+        "headline": "📰 \"L'accès à la fraîcheur est une question de survie\": le siège du PCF, climatisé, ouvert tout le week-end au public",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.bfmtv.com/politique/video-l-acces-a-la-fraicheur-est-une-question-de-survie-le-siege-du-pcf-climatise-ouvert-tout-le-week-end-au-public_VN-202607110225.html",
+        "publishedAt": "2026-07-11T11:01:46.000Z",
+        "description": "l acc s la fra cheur est une question de survie le si ge du pcf climatis ouvert tout le week end au public actualites bfm france international https www bfmtv com politique video l acces a la fraicheur est une question de survie le siege du pcf climatise ouvert tout le week end au public vn 202607110225 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "ed17754442d5"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "🚀 New release · frp v0.70.0",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://selfhost.directory/project/frp",
+        "publishedAt": "2026-07-11T11:50:00.000Z",
+        "description": "new release frp v0 70 0 features expanded the frps dashboard api v2 migration across clients proxies server overview client detail and proxy detail covering paginated users clients proxies detail data proxy traffic history server system info offline proxy statistics pruning server side pagination search and proxy type filtering fixes websocket and wss tunnel payloads are now sent as binary frames avoiding disconnects through rfc compliant intermediaries that validate text frames as utf 8 the tls2raw client plugin now writes the proxy protocol header to the local raw connection when proxy protocol is enabled check and self host it https selfhost directory project frp update 4026471 https selfhost directory og d c selfhostdirectory title frp description znjwichgyxn0ifjldmvyc2uguhjvehkpiglzig",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 71,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2528ebe52b09"
+      },
+      {
+        "headline": "DHS Issues Statement on ICE-tracking Portals",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/07/11/dhs-issues-statement-on-ice-tracking-portals",
+        "publishedAt": "2026-07-11T10:51:31.000Z",
+        "description": "dhs issues statement on ice tracking portals from alex jones online portals used to track immigration and customs enforcement ice agents are putting their lives at risk the department for homeland security dhs has said in a statement put out this week dhs responded to the creation of the latest official portal by the local government of montgomery county maryland the portal allows users to jul 11th 2026 6 13am edt source link https www alexjoneslive com 2026 07 11 dhs issues statement on ice tracking portals share promote comment with nostr https dissentwatch com boost boost post id 1157695",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "019db075920a"
+      },
+      {
+        "headline": "Credit: Cherokee Community (Facebook)",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/c6993cde58c50db37f2ec64245257a9c772460c0a7abdd41dcc1b1681bc81496.jpg",
+        "publishedAt": "2026-07-11T11:37:35.000Z",
+        "description": "credit cherokee community facebook 575 federally recognized tribal nations are now listed by the united states according to the u s bureau of indian affairs federal recognition is a legal and political status that acknowledges a tribal nation s government to government relationship with the united states it also confirms eligibility for certain federal programs and services while recognizing the inherent authority of tribal nations to govern their own affairs according to the updated federal register list the bureau of indian affairs added the lumbee tribe of north carolina following congressional recognition bringing the total number of federally recognized tribal entities to 575 alaska is home to 229 federally recognized tribes the largest number of any state california has 109 federally",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tribalsovereignty",
+          "indigenoushistory",
+          "nativeamerican",
+          "federalrecognition"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "release"
+        ],
+        "id": "2b24fe9808b2"
+      },
+      {
+        "headline": "Google Opposes Site Blocking in Europe as U.S. Piracy Blocking Plans Gain Momentum",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613",
+        "publishedAt": "2026-07-11T11:38:54.000Z",
+        "description": "google opposes site blocking in europe as u s piracy blocking plans gain momentum google dns google rarely addresses pirate site blocking in public but it is a significant concern now that these measures directly impact the company s own infrastructure the american tech company has been ordered to block access to pirate domain names through its dns resolver in france 1 belgium 2 italy and portugal for example in a recent submission to the european commission s call for evidence on the review of the copyright directive google lists its site blocking critique in detail the filing is marked privileged and confidential but it was posted publicly on the commission s website alongside other submissions blocking harms outweigh benefits google argues google s submission addresses a variety of topi",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "df1606a8b9e4"
+      },
+      {
+        "headline": "‹ Глаз Бога — andrew.rogozov@gmail.com ›",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://report.eyegod.pro/r/RF7pVrdZbM25gn9UsRFCG4JGs6bRXmfC",
+        "publishedAt": "2026-07-11T11:29:08.000Z",
+        "description": "andrew rogozov gmail com source https report eyegod pro r rf7pvrdzbm25gn9usrfcg4jgs6brxmfc ghost archive https ghostarchive org archive efkvz telegraph https telegra ph glaz boga andrewrogozovgmailcom 07 11 internet archive https web archive org web 20260711112846 https report eyegod pro r rf7pvrdzbm25gn9usrfcg4jgs6brxmfc archive today archive today is unavailable",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "99a2a2826434"
+      },
+      {
+        "headline": "📰 Solana News Today: SK Hynix Goes On-Chain as CashCat Joins RWA Boom",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-solana-news-today-sk-hynix-goes-on-chain-as-cash-cat-joins-rwa-boom-4097914490",
+        "publishedAt": "2026-07-11T11:17:38.000Z",
+        "description": "solana news today sk hynix goes on chain as cashcat joins rwa boom jul 11 2026 09 05 utc solana news today a big day for real world assets today s solana news centers on one huge milestone sk hynix a 28 billion nasdaq company just went live on the network that s not a small update it s the largest foreign share issuance in us market history and now it trades sk hynix a 28 billion nasdaq listed company and major ai chip supplier has been tokenized and launched on the solana network marking a significant milestone for real world asset rwa adoption solana leads in rwa holders particularly in tokenized equities and shows rapid growth in tokenized gold indicating strong institutional interest and infrastructure development the article highlights solana s ecosystem growth encompassing institutio",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "release"
+        ],
+        "id": "fe703fdc563c"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 79
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 82
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 54
+    }
+  ],
+  "failures": []
+}
