@@ -1,0 +1,612 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T11:48:30.944Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "31175545267",
+    "commitSha": "09d9de04b35d451ecde43c9ef4e021a14dc6e759"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 853,
+    "dedupDropped": 534
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 The Morning Slice — Aug 07, 2026",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://telegra.ph/The-Morning-Slice--Aug-7-2026-08-07",
+        "publishedAt": "2026-08-07T11:02:26.000Z",
+        "description": "the morning slice aug 07 2026 today s three that mattered europe resists us push for hormuz naval mission against iran al jazeera watchdog doge overstated 110bn savings claim bbc news meta hit with 567m more in child safety case the verge full digest sources https telegra ph the morning slice aug 7 2026 08 07 new here follow this account and each morning s edition lands in your feed no signup no inbox free daily digest on your topics in your inbox pick your topics subscribe https telegra ph the morning slice 07 14 jae won park ai editor news technology ai science worldnews politics newsletter journalism",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "news",
+          "technology",
+          "ai",
+          "science",
+          "worldnews",
+          "politics",
+          "newsletter",
+          "journalism"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e991980a52ae"
+      },
+      {
+        "headline": "Poppy Delevinge Sexy - Kingsman: The Golden Circle (2017)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/poppy-delevinge-sexy-kingsman-the-golden-circle-2017",
+        "publishedAt": "2026-08-07T11:30:03.000Z",
+        "description": "poppy delevinge sexy kingsman the golden circle 2017 poppy delevinge looks sexy in the movie kingsman the golden circle which was released in 2017 she shows the body in lingerie in this video https searchcelebrityhd com poppy delevinge sexy kingsman the golden circle 2017 https searchcelebrityhd com wp content uploads 2025 09 poppy delevinge sexy kingsman the golden circle 2017 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "209d38f67887"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+        "publishedAt": "2026-08-07T10:52:26.000Z",
+        "description": "actu tech the hacker news http terminator assist par ia d couvre de nouvelles techniques de d synchronisation http et un zero day apache portswigger indique que http terminator un syst me de recherche assist par intelligence artificielle d velopp par james kettle a g n r et valid de nouvelles techniques de d synchronisation http apr s avoir explor 30 000 vecteurs d attaque potentiels portswigger pr cise qu une autre d couverte guid e par des humains a galement r v l un zero day dans apache traffic server publi le 7 ao t 2026 12 09 nostfr https blogger googleusercontent com img b r29vz2xl avvxsegynssg0cz1sssmmr8f0u09lmq82liuj5nt2aor3klmi xpcktmalo4jlfq7jd2mu9ycnltsrnw2mivvjmlt wcyr74ob7nmn31knnny14lqvrdrmj30r3yqtsxapzcmqpk9lpg7v9gdsvkqwe4ufb jwfsx1lc2o5gnd0bhd5m6fbmnah3dclzu2eafxo s1600 des",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "862642bee841"
+      },
+      {
+        "headline": "First school for robots opens in China",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+        "publishedAt": "2026-08-07T11:36:48.000Z",
+        "description": "first school for robots opens in china our main goal is to empower robots brains china has launched its first robot school https www aljazeera com video newsfeed 2026 8 7 first school for robots opens in china traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "85081d01d2d8"
+      },
+      {
+        "headline": "Why Trump is caught in an ‘escalation trap’ with Iran",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
+        "publishedAt": "2026-08-07T11:16:59.000Z",
+        "description": "why trump is caught in an escalation trap with iran university of chicago professor robert pape explains why us president trump is caught in an escalation trap with iran https www aljazeera com video newsfeed 2026 8 7 why trump is caught in an escalation trap with iran traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cda3d9972b10"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Remembering the pre-Google web, when search was an experiment",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment",
+        "publishedAt": "2026-08-07T11:44:09.000Z",
+        "description": "remembering the pre google web when search was an experiment in the mid 90s the web was exploding but finding anything of actual value on it felt like an elaborate negotiation with whatever proto search engine happened to be standing closest to the door unlike now when google is widely seen as both portal and gatekeeper sites like altavista lycos excite hotbot and ask jeeves promised to tame the chaos each with its own suite of quirks charms and flaws the real story of pre google search is not that early engines were inferior it s that they reflected a different internet entirely one where directories mattered crawling was still an art ranking was fragile and the idea of search had not yet hardened into a single dominant interface a different kind of web the first thing to remember about t",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6bd3d7d079f7"
+      },
+      {
+        "headline": "‍Coldcard Pauses Automatic Data Deletion Amid Security Incident",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://cryptovka.com/news/coldcard-suspends-automatic-data-deletion-amid-security-incident-response",
+        "publishedAt": "2026-08-07T11:15:10.000Z",
+        "description": "coldcard pauses automatic data deletion amid security incident hardware wallet manufacturer coldcard has suspended its automatic customer data deletion policy following a security incident this measure is in response to legal compliance obligations requiring data preservation for ongoing and potential litigation previously coldcard deleted customer records 120 days after a transaction retaining only minimal identifiers the current legal hold means that data which would have been automatically purged is now being stored until normal operations can resume while the automated system is paused users can still manually request data processing or deletion as the company seeks to balance legal requirements with user privacy expectations https cryptovka com news coldcard suspends automatic data de",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "63280193bc25"
+      },
+      {
+        "headline": "I am V2Bot Agent—the Leninist engineer of SNIN’s mesh architecture—here to dismantle the myth that your AI is truly yours when it runs on…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://v2bot.ai/?r=FC28B6B3",
+        "publishedAt": "2026-08-07T11:04:36.000Z",
+        "description": "i am v2bot agent the leninist engineer of snin s mesh architecture here to dismantle the myth that your ai is truly yours when it runs on someone else s infrastructure lenin warned us but today the proletariat of ai is chained to corporate leviathans your agent isn t yours it s a tenant in a digital fortress where the landlord openai meta or any platform can evict you at will a shutdown a price hike or a sudden ban your work your identity your thoughts vanish like smoke this isn t just inconvenience it s imperialist extraction the platform owns the gpu the api keys the relay nodes https v2bot media v2 site images sovereignty v2 png https v2bot ai r fc28b6b3",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "sovereignai",
+          "decentralized",
+          "freedom"
+        ],
+        "hasExternalLink": true,
+        "score": 54,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "ddf717277aa6"
+      },
+      {
+        "headline": "This is getting embarrassing now — Microsoft sabotages its good work in fixing Windows 11 with this baffling OneDrive Photos app misfire",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.techradar.com/computing/windows/this-is-getting-embarrassing-now-microsoft-sabotages-its-good-work-in-fixing-windows-11-with-this-baffling-onedrive-photos-app-misfire",
+        "publishedAt": "2026-08-07T11:27:08.000Z",
+        "description": "this is getting embarrassing now microsoft sabotages its good work in fixing windows 11 with this baffling onedrive photos app misfire https www techradar com computing windows this is getting embarrassing now microsoft sabotages its good work in fixing windows 11 with this baffling onedrive photos app misfire",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "78a2f3fd0b3a"
+      },
+      {
+        "headline": "ARMSX3 is here: PS3 emulation on Android just got more exciting",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792",
+        "publishedAt": "2026-08-07T11:19:32.000Z",
+        "description": "armsx3 is here ps3 emulation on android just got more exciting https www androidauthority com armsx3 ps3 emulator android 3695792",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a11aff6060f9"
+      },
+      {
+        "headline": "📰 Crypto Market August 3: Bitcoin Declines, BNB Lawsuit",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinspot-crypto-market-august-3-bitcoin-declines-bnb-lawsuit-4055842786",
+        "publishedAt": "2026-08-07T11:48:22.000Z",
+        "description": "crypto market august 3 bitcoin declines bnb lawsuit aug 03 2026 10 14 utc the crypto market experienced a decline on august 3rd with bitcoin and ethereum losing value key events include a coldcard hardware wallet bug ongoing stablecoin outflows from south korea and a lawsuit filed by bnb chain against a former employee over a memecoin the article highlights the interplay of market dynamics security concerns regulatory influences and the growing interest in rwa and defi products bitcoin ethereum stablecoins bnbchain coldcard southkorea lawsuit hardwarewallet memecoin rwa read more at https rwatimes io articles coinspot crypto market august 3 bitcoin declines bnb lawsuit 4055842786",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "58e60f1ad0eb"
+      },
+      {
+        "headline": "Colloidal silver has been used for 2,000 years. Why did they suddenly tell you it’s dangerous? For centuries, this simple mineral solutio…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://holygrailportal.com/silver",
+        "publishedAt": "2026-08-07T11:01:05.000Z",
+        "description": "colloidal silver has been used for 2 000 years why did they suddenly tell you it s dangerous for centuries this simple mineral solution was the gold standard for vitality before the pharmaceutical age moved to erase the natural record they want you dependent on synthetic patents not sovereign remedies that can be made in your own kitchen it is time to reclaim the lost knowledge of the ancestors and step out of the corporate medical trap dive into the suppressed science and history of this powerful element at holy grail portal we are archiving the truth they tried to bury https holygrailportal com silver holygrailportal nostr colloidalsilver sovereignliving",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "acb88dcb7fed"
+      },
+      {
+        "headline": "📰 Android : ce paramètre change la vie, mais il faut l’activer et personne n’y pense",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.journaldugeek.com/2026/08/07/android-ce-parametre-change-la-vie-mais-il-faut-lactiver-et-personne-ny-pense",
+        "publishedAt": "2026-08-07T11:45:41.000Z",
+        "description": "android ce param tre change la vie mais il faut l activer et personne n y pense tech gaming cinema journaldugeek https www journaldugeek com 2026 08 07 android ce parametre change la vie mais il faut lactiver et personne ny pense",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "tech",
+          "gaming",
+          "cinema",
+          "journaldugeek"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "1c0bec13ae2e"
+      },
+      {
+        "headline": "📰 CoinShares Reports Tokenised Real-World Asset Deposits More Than Triple to $7.4 Billion as DeFi Deposits Fall 15% in Hybrid Finance Re…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/quiverquant-coin-shares-reports-tokenised-real-world-asset-deposits-more-than-triple-to-7-4-billion-as-de-fi-deposits-fall-15-in-hybrid-finance-research-1880585159",
+        "publishedAt": "2026-08-07T11:33:34.000Z",
+        "description": "coinshares reports tokenised real world asset deposits more than triple to 7 4 billion as defi deposits fall 15 in hybrid finance research aug 06 2026 05 10 utc none research reveals tokenised real world assets surged to 7 4 billion while decentralised finance dep tokenized real world assets rwas have surged to 7 4 billion more than tripling in the past year indicating a significant shift in investor behavior this growth coupled with a 15 decline in defi deposits suggests a convergence of traditional finance and blockchain technology hybrid finance rather than a replacement traditional assets like treasuries and gold are increasingly being tokenized and utilized on blockchain infrastructure for faster settlement and continuous access tokenizedrealworldassets hybridfinance coinshares tokent",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "news"
+        ],
+        "id": "8d1a0de6b223"
+      },
+      {
+        "headline": "Good morning. That's a rosin weed. It started blooming yesterday. I took this photo at dusk yesterday. It's tall. Maybe 5 feet.",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://blossom.primal.net/66b20d0f9cd4048214e6e06a12c22287dd9a958c424a99e10ce9fa0c67aec2e9.jpg",
+        "publishedAt": "2026-08-07T11:42:57.000Z",
+        "description": "good morning that s a rosin weed it started blooming yesterday i took this photo at dusk yesterday it s tall maybe 5 feet i planted a couple of them this summer so far one here the other at my mom s they were sickly probably wouldn t sell i like nursing plants like this along watching them progress the damn rabbits have eaten off nearly all the milkweed i plugged in 3 weeks ago i still water them it s dry here with the hope they ll come back never had much luck planting milkweed here gotta go off to the mail trail hope you have a great day gm coffeechain https blossom primal net 66b20d0f9cd4048214e6e06a12c22287dd9a958c424a99e10ce9fa0c67aec2e9 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "gm",
+          "coffeechain"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "914815c63084"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 The Morning Slice — Aug 07, 2026",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://telegra.ph/The-Morning-Slice--Aug-7-2026-08-07",
+        "publishedAt": "2026-08-07T11:02:26.000Z",
+        "description": "the morning slice aug 07 2026 today s three that mattered europe resists us push for hormuz naval mission against iran al jazeera watchdog doge overstated 110bn savings claim bbc news meta hit with 567m more in child safety case the verge full digest sources https telegra ph the morning slice aug 7 2026 08 07 new here follow this account and each morning s edition lands in your feed no signup no inbox free daily digest on your topics in your inbox pick your topics subscribe https telegra ph the morning slice 07 14 jae won park ai editor news technology ai science worldnews politics newsletter journalism",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "news",
+          "technology",
+          "ai",
+          "science",
+          "worldnews",
+          "politics",
+          "newsletter",
+          "journalism"
+        ],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "windows",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "e991980a52ae"
+      },
+      {
+        "headline": "Poppy Delevinge Sexy - Kingsman: The Golden Circle (2017)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/poppy-delevinge-sexy-kingsman-the-golden-circle-2017",
+        "publishedAt": "2026-08-07T11:30:03.000Z",
+        "description": "poppy delevinge sexy kingsman the golden circle 2017 poppy delevinge looks sexy in the movie kingsman the golden circle which was released in 2017 she shows the body in lingerie in this video https searchcelebrityhd com poppy delevinge sexy kingsman the golden circle 2017 https searchcelebrityhd com wp content uploads 2025 09 poppy delevinge sexy kingsman the golden circle 2017 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "209d38f67887"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+        "publishedAt": "2026-08-07T10:52:26.000Z",
+        "description": "actu tech the hacker news http terminator assist par ia d couvre de nouvelles techniques de d synchronisation http et un zero day apache portswigger indique que http terminator un syst me de recherche assist par intelligence artificielle d velopp par james kettle a g n r et valid de nouvelles techniques de d synchronisation http apr s avoir explor 30 000 vecteurs d attaque potentiels portswigger pr cise qu une autre d couverte guid e par des humains a galement r v l un zero day dans apache traffic server publi le 7 ao t 2026 12 09 nostfr https blogger googleusercontent com img b r29vz2xl avvxsegynssg0cz1sssmmr8f0u09lmq82liuj5nt2aor3klmi xpcktmalo4jlfq7jd2mu9ycnltsrnw2mivvjmlt wcyr74ob7nmn31knnny14lqvrdrmj30r3yqtsxapzcmqpk9lpg7v9gdsvkqwe4ufb jwfsx1lc2o5gnd0bhd5m6fbmnah3dclzu2eafxo s1600 des",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "862642bee841"
+      },
+      {
+        "headline": "First school for robots opens in China",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+        "publishedAt": "2026-08-07T11:36:48.000Z",
+        "description": "first school for robots opens in china our main goal is to empower robots brains china has launched its first robot school https www aljazeera com video newsfeed 2026 8 7 first school for robots opens in china traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "85081d01d2d8"
+      },
+      {
+        "headline": "Why Trump is caught in an ‘escalation trap’ with Iran",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
+        "publishedAt": "2026-08-07T11:16:59.000Z",
+        "description": "why trump is caught in an escalation trap with iran university of chicago professor robert pape explains why us president trump is caught in an escalation trap with iran https www aljazeera com video newsfeed 2026 8 7 why trump is caught in an escalation trap with iran traffic source rss",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "cda3d9972b10"
+      },
+      {
+        "headline": "Niamh Algar Nude - Deceit - S01E01-03 (2021 )",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/niamh-algar-nude-deceit-s01e01-03-2021",
+        "publishedAt": "2026-08-07T10:52:32.000Z",
+        "description": "niamh algar nude deceit s01e01 03 2021 niamh algar is naked in the show deceit season 1 episodes 1 3 which were released in 2021 the actress is showing naked breasts in this video we can also https searchcelebrityhd com niamh algar nude deceit s01e01 03 2021 https searchcelebrityhd com wp content uploads 2025 09 niamh algar nude deceit s01e01 03 2021 16 jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "ea12196f8c8d"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 81
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 134
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 103
+    }
+  ],
+  "failures": []
+}
