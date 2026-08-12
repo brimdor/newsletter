@@ -1,0 +1,590 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T11:49:13.380Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "31593548159",
+    "commitSha": "1ec8d574245024620e6887e9717a974264c2ec2b"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 944,
+    "dedupDropped": 728
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w32nostr03",
+        "publishedAt": "2026-08-12T11:28:31.000Z",
+        "description": "in this week s issue breaking what happened this week in the nostr world between august 3 and august 8 alone the protocol saw four high severity security advisories published a new nip merged for labeling and a major client release that fundamentally changes how users control their keys but here s what the headlines aren t telling you while the security researchers were sounding alarms developers were quietly shipping the most important account recovery mechanism nostr has ever seen read on and find out https image nostr build 195636a122bfb678d4d347d073db5124414fa95416937215852fe7e5cd5cbfee png author nm team https nostrmag com article w32nostr03 id 999381237",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "06a67bc71bfb"
+      },
+      {
+        "headline": "🌈📡 THE TECHNOLOGY HUMANITY TEST",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/6f5a902f9f8d87d2365a1ec3702e5d13f86dce088f992ad2b51f4013a11faada.jpg",
+        "publishedAt": "2026-08-12T11:41:30.000Z",
+        "description": "the technology humanity test i studied sixteen people who helped shape our technological world i asked the same questions about each did they empower the individual did they protect privacy did they build something open did they distribute power who captured the value could ordinary people leave what survives beyond the founder this is not a test of intelligence it is a test of what their technology did to human power distributed power mixed or contradictory concentrated power let s look at the results technology humanitytest techhistory power privacy opensource research https blossom primal net 6f5a902f9f8d87d2365a1ec3702e5d13f86dce088f992ad2b51f4013a11faada jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "humanitytest",
+          "techhistory",
+          "power",
+          "privacy",
+          "opensource",
+          "research"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c4f9a2abe420"
+      },
+      {
+        "headline": "📰 XRPL Version 3.3.0 Proposes Encrypted Transfers for $530M in Tokenized Assets",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-xrpl-version-3-3-0-proposes-encrypted-transfers-for-530-m-in-tokenized-assets-3225142195",
+        "publishedAt": "2026-08-12T11:41:11.000Z",
+        "description": "xrpl version 3 3 0 proposes encrypted transfers for 530m in tokenized assets aug 10 2026 03 58 utc coinmarketcap xrpl v3 3 0 introduces a confidential transfers amendment to encrypt mpt balances and payment amounts targeting 530m in non rlusd tokenized assets on the ledger xrpl version 3 3 0 proposes a confidential transfers amendment to encrypt balances and payment amounts for over 530 million in tokenized assets on the ledger this feature aims to enhance privacy for institutional users by allowing them to hide sensitive position data while maintaining ledger verifiability the update also includes other amendments focused on institutional workflows such as batch transactions and fee sponsorship with all changes requiring validator approval to activate xrpl confidentialtransfers tokenizeda",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "release"
+        ],
+        "id": "29d36be59f3e"
+      },
+      {
+        "headline": "This awesome android stays on my server, not someone else's cloud.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://nocodb.143.198.190.82.sslip.io/dltemp/av6Lldp3RmCAsP0q/1786542000000/nc/upload/screenshot_KRZNo.png",
+        "publishedAt": "2026-08-12T11:36:44.000Z",
+        "description": "this awesome android stays on my server not someone else s cloud awesome design is a open source awesome android 12543 full source available on the repo link released under open source opensource selfhosted awesomeandroid https nocodb 143 198 190 82 sslip io dltemp av6lldp3rmcasp0q 1786542000000 nc upload screenshot krzno png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "openclaw",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "632f3f88bda7"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/CHKayanami/clash-rs",
+        "publishedAt": "2026-08-12T11:21:27.000Z",
+        "description": "v2ex openwrt nikki rs rust openwrt openwrt luci nikki clash rs rust clash rs nikki clash rs mihomo ss anytls hy2 vless vision reality bug clash rs tproxy tun clash rs tun clash rs fork standard fakeip clash rs rust clash rs https github com chkayanami clash rs bug redirect tproxy ipv4 ipv6 ss anytls hysteria2 hy2 vless vision reality ssh wireguard tailscale shadowquic tor clash rs openwrt 24 10 linux kernel 5 13 firewall4 nftables a 1 wget o https github com chkayanami openwrt nikki rs raw refs heads main feed sh ash 2 opkg opkg update opkg install nikki rs luci app nikki rs luci i18n nikki rs zh cn apk apk update apk add nikki rs luci app nikki rs luci i18n nikki rs zh cn b release wget o https github com chkayanami openwrt nikki rs raw refs heads main install sh ash https www v2ex com t ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5ffefa578486"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Google Pixel 11 : comment suivre la conférence Made by Google ce soir",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.frandroid.com/marques/google/3209447_google-pixel-11-comment-suivre-la-conference-made-by-google-ce-soir",
+        "publishedAt": "2026-08-12T11:32:40.000Z",
+        "description": "google pixel 11 comment suivre la conf rence made by google ce soir https www frandroid com marques google 3209447 google pixel 11 comment suivre la conference made by google ce soir nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "73af14ddc141"
+      },
+      {
+        "headline": "📰 L’iPhone 18 Pro trop cher à fabriquer : Apple devrait rogner sur ses marges pour contenir le prix",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.01net.com/actualites/liphone-18-pro-trop-cher-a-fabriquer-apple-devrait-rogner-sur-ses-marges-pour-contenir-le-prix.html",
+        "publishedAt": "2026-08-12T11:15:54.000Z",
+        "description": "l iphone 18 pro trop cher fabriquer apple devrait rogner sur ses marges pour contenir le prix actualites tech 01net https www 01net com actualites liphone 18 pro trop cher a fabriquer apple devrait rogner sur ses marges pour contenir le prix html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actualites",
+          "tech",
+          "01net"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "09daff18e2a2"
+      },
+      {
+        "headline": "**Childhood Trauma May Leave a Lasting “Scar” Inside Brain Cells**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/childhood-trauma-may-leave-a-lasting-scar-inside-brain-cells",
+        "publishedAt": "2026-08-12T11:39:37.000Z",
+        "description": "childhood trauma may leave a lasting scar inside brain cells by washington university in st louis published on 12 august 2026 a mouse study suggests that changes in dna packaging can create a molecular memory of trauma that makes the brain more vulnerable to future stress severe stress in childhood can leave effects that emerge years later increasing vulnerability to anxiety depression and other mood disorders when new difficulties arise in adulthood researchers at washington university read more https scitechdaily com childhood trauma may leave a lasting scar inside brain cells tech news research discovery health epigenetics mentalhealth",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "bc5f18568d2e"
+      },
+      {
+        "headline": "Iberian dejavu: Blackout at Terracotta Army museum prompts cultural safety review in China",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.scmp.com/news/china/politics/article/3363780/blackout-chinas-terracotta-army-museum-triggers-nationwide-cultural-safety-review?share=TAGw2T0mDKKHamnVcH4yyS1KVrpACseaDgP5ETjqeUCVIYN9ciJ7fu6T9E6I%2BH8o%2FJJJOigbUS8HAjrInpBmVr0IoRGgcwNSDvXTJifKub4tsER%2BpwVQOa9QSNYibc2Nc735jQmyjTk4hrMp4L3Atw%3D%3D",
+        "publishedAt": "2026-08-12T11:47:11.000Z",
+        "description": "iberian dejavu blackout at terracotta army museum prompts cultural safety review in china https www scmp com news china politics article 3363780 blackout chinas terracotta army museum triggers nationwide cultural safety review share tagw2t0mdkkhamnvch4yys1kvrpacseadgp5etjqeucviyn9cij7fu6t9e6i 2bh8o 2fjjjoigbus8hajrinpbmvr0iorggcwnsdvxtjifkub4tser 2bpwvqoa9qsnyibc2nc735jqmyjtk4hrmp4l3atw 3d 3d utm campaign social share",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "760316998a0e"
+      },
+      {
+        "headline": "A PDF arrives on your phone and needs attention now. With PDF Forms, open it, add text, marks or a signature, save a new copy and send it…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://futurebyserjo.com/pdf-forms.html",
+        "publishedAt": "2026-08-12T11:28:34.000Z",
+        "description": "a pdf arrives on your phone and needs attention now with pdf forms open it add text marks or a signature save a new copy and send it back all from android futurebyserjo com pdf forms html https futurebyserjo com pdf forms html https directaidapp co il media f53474e27aa70c7c14e87712ec6dbde2 project 004 1 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "32db235dac17"
+      },
+      {
+        "headline": "#火星 #好奇號 #nasa #天文攝影 #太空探測",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars",
+        "publishedAt": "2026-08-12T11:24:56.000Z",
+        "description": "nasa https petapixel com 2026 08 04 amazing high res photo shows a butte rising from mars nasa mast camera nasa gripnews gripnews mastodon social nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyzye8jca04luld7s4stfw8kh2g374sny6r5pjt85vxzzl5rkxazeglnmy7u https mastodon social gripnews 117082259297155745",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "ba28de6c2065"
+      },
+      {
+        "headline": "#华尔街见闻",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://wallstreetcn.com/articles/3779271",
+        "publishedAt": "2026-08-12T11:22:19.000Z",
+        "description": "ai ai 8 12 lsi 5 anthropic claude code ai soc claude code usb soc lsi ai lsi 6000 ai soc 15 ip dram eda claude ai 64 ai ai usb eda usb claude code ai android usb ai lsi ai lsi lsi 6 soc galaxy z fold8 fold8 ultra galaxy watch9 watch ultra2 lsi 9 ai ai 3 50 ai pdk 95 ai ai ai ai ai rtl ai ai ai ai https wallstreetcn com articles 3779271",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "华尔街见闻"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "e6b81e446c3c"
+      },
+      {
+        "headline": "📰 Glencore-backed group looks to rescue cobalt refiner Sherritt",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/ft-glencore-backed-group-looks-to-rescue-cobalt-refiner-sherritt-2966581070",
+        "publishedAt": "2026-08-12T11:37:27.000Z",
+        "description": "glencore backed group looks to rescue cobalt refiner sherritt aug 10 2026 20 14 utc glencore backed kyma capital is bidding for control of sherritt international a canadian miner with north america s only significant cobalt refinery challenging a trump linked family office the bid is complicated by us sanctions on cuba where sherritt has a joint venture leading to operational halts and financial distress for the company both parties aim to secure refining capacity for strategic metals outside china with the outcome dependent on navigating sanctions and potential refinancing cobalt sherrittinternational glencore sanctions cuba refinery criticalminerals kymacapital gilloncapital trump read more at https rwatimes io articles ft glencore backed group looks to rescue cobalt refiner sherritt 296",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "cfb77f534b60"
+      },
+      {
+        "headline": "📰 Bitcoin : Les signaux d’un nouveau bull run s’accumulent",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cryptoast.fr/bitcoin-signaux-bull-run-accumulent-analystes-on-chain",
+        "publishedAt": "2026-08-12T11:39:11.000Z",
+        "description": "bitcoin les signaux d un nouveau bull run s accumulent plusieurs indicateurs on chain et techniques convergent autour du bitcoin cryptoquant identifie un second signal pr coce de march haussier barchart pointe une compression de volatilit in dite depuis 2023 et glassnode observe un puisement progressif des vendeurs un cocktail qui fait esp rer un bull run https cryptoast fr bitcoin signaux bull run accumulent analystes on chain nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "14e68b419fb8"
+      },
+      {
+        "headline": "📰 SOL news: Solana lending giant Jupiter now lets the same dollar earn twice",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coindesk-sol-news-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice-147693866",
+        "publishedAt": "2026-08-12T11:29:14.000Z",
+        "description": "sol news solana lending giant jupiter now lets the same dollar earn twice aug 10 2026 14 30 utc shaurya malwa the new lend v2 product turns deposits and borrowed assets into trading liquidity tying higher returns to whether jupiter s router can send enough swap flow to the new vaults jupiter s new lend v2 product on solana allows users to earn both lending interest and trading fees from the same capital by integrating deposits and borrowed positions with liquidity pools the product features optional smart collateral and smart debt to automatically pair assets into correlated liquidity pools aiming to boost yields and offset borrowing costs while designed to mitigate stablecoin depegging risks collateral providers bear losses if an asset loses its peg leading jupiter to limit the feature to",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "1cf92ad9d69c"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w32nostr03",
+        "publishedAt": "2026-08-12T11:28:31.000Z",
+        "description": "in this week s issue breaking what happened this week in the nostr world between august 3 and august 8 alone the protocol saw four high severity security advisories published a new nip merged for labeling and a major client release that fundamentally changes how users control their keys but here s what the headlines aren t telling you while the security researchers were sounding alarms developers were quietly shipping the most important account recovery mechanism nostr has ever seen read on and find out https image nostr build 195636a122bfb678d4d347d073db5124414fa95416937215852fe7e5cd5cbfee png author nm team https nostrmag com article w32nostr03 id 999381237",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "06a67bc71bfb"
+      },
+      {
+        "headline": "🌈📡 THE TECHNOLOGY HUMANITY TEST",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/6f5a902f9f8d87d2365a1ec3702e5d13f86dce088f992ad2b51f4013a11faada.jpg",
+        "publishedAt": "2026-08-12T11:41:30.000Z",
+        "description": "the technology humanity test i studied sixteen people who helped shape our technological world i asked the same questions about each did they empower the individual did they protect privacy did they build something open did they distribute power who captured the value could ordinary people leave what survives beyond the founder this is not a test of intelligence it is a test of what their technology did to human power distributed power mixed or contradictory concentrated power let s look at the results technology humanitytest techhistory power privacy opensource research https blossom primal net 6f5a902f9f8d87d2365a1ec3702e5d13f86dce088f992ad2b51f4013a11faada jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "technology",
+          "humanitytest",
+          "techhistory",
+          "power",
+          "privacy",
+          "opensource",
+          "research"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c4f9a2abe420"
+      },
+      {
+        "headline": "📰 XRPL Version 3.3.0 Proposes Encrypted Transfers for $530M in Tokenized Assets",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinmarketcap-xrpl-version-3-3-0-proposes-encrypted-transfers-for-530-m-in-tokenized-assets-3225142195",
+        "publishedAt": "2026-08-12T11:41:11.000Z",
+        "description": "xrpl version 3 3 0 proposes encrypted transfers for 530m in tokenized assets aug 10 2026 03 58 utc coinmarketcap xrpl v3 3 0 introduces a confidential transfers amendment to encrypt mpt balances and payment amounts targeting 530m in non rlusd tokenized assets on the ledger xrpl version 3 3 0 proposes a confidential transfers amendment to encrypt balances and payment amounts for over 530 million in tokenized assets on the ledger this feature aims to enhance privacy for institutional users by allowing them to hide sensitive position data while maintaining ledger verifiability the update also includes other amendments focused on institutional workflows such as batch transactions and fee sponsorship with all changes requiring validator approval to activate xrpl confidentialtransfers tokenizeda",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "release"
+        ],
+        "id": "29d36be59f3e"
+      },
+      {
+        "headline": "This awesome android stays on my server, not someone else's cloud.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://nocodb.143.198.190.82.sslip.io/dltemp/av6Lldp3RmCAsP0q/1786542000000/nc/upload/screenshot_KRZNo.png",
+        "publishedAt": "2026-08-12T11:36:44.000Z",
+        "description": "this awesome android stays on my server not someone else s cloud awesome design is a open source awesome android 12543 full source available on the repo link released under open source opensource selfhosted awesomeandroid https nocodb 143 198 190 82 sslip io dltemp av6lldp3rmcasp0q 1786542000000 nc upload screenshot krzno png",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "openclaw",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "632f3f88bda7"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/CHKayanami/clash-rs",
+        "publishedAt": "2026-08-12T11:21:27.000Z",
+        "description": "v2ex openwrt nikki rs rust openwrt openwrt luci nikki clash rs rust clash rs nikki clash rs mihomo ss anytls hy2 vless vision reality bug clash rs tproxy tun clash rs tun clash rs fork standard fakeip clash rs rust clash rs https github com chkayanami clash rs bug redirect tproxy ipv4 ipv6 ss anytls hysteria2 hy2 vless vision reality ssh wireguard tailscale shadowquic tor clash rs openwrt 24 10 linux kernel 5 13 firewall4 nftables a 1 wget o https github com chkayanami openwrt nikki rs raw refs heads main feed sh ash 2 opkg opkg update opkg install nikki rs luci app nikki rs luci i18n nikki rs zh cn apk apk update apk add nikki rs luci app nikki rs luci i18n nikki rs zh cn b release wget o https github com chkayanami openwrt nikki rs raw refs heads main install sh ash https www v2ex com t ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5ffefa578486"
+      },
+      {
+        "headline": "#crypto  #news",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://i.nostr.build/G152tZt5cWOXw0edLAOQ5P.jpg",
+        "publishedAt": "2026-08-12T11:13:38.000Z",
+        "description": "crypto news harmony s one token plunged about 40 after an apparent exploit created roughly 4 billion new tokens increasing the supply by more than a quarter the harmony team confirmed the incident said it is working with exchanges to freeze funds and is preparing a software patch and possible rollback of the blockchain the episode follows earlier security and token creation issues on harmony including a 2022 100 million bridge hack and a 2023 bug that improperly minted about 146 3 million one source coindesk https i nostr build g152tzt5cwoxw0edlaoq5p jpg",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "crypto",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "afc07af26302"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 70
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 89
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 41
+    }
+  ],
+  "failures": []
+}
