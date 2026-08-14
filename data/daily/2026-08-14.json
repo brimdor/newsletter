@@ -1,0 +1,579 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T11:46:05.052Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "31797534645",
+    "commitSha": "23250dcc08ecbdb4770ce7ff828714e8cfc3414f"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 590,
+    "dedupDropped": 414
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w32nostr03",
+        "publishedAt": "2026-08-14T11:28:29.000Z",
+        "description": "in this week s issue https image nostr build 195636a122bfb678d4d347d073db5124414fa95416937215852fe7e5cd5cbfee png what happened this week in the nostr world by nm team between august 3 and august 8 alone the protocol saw four high severity security advisories published a new nip merged for labeling and a major client release that fundamentally changes how users control their keys but here s what the headlines aren t telling you while the security researchers were sounding alarms developers were quietly shipping the most important account recovery mechanism nostr has ever seen read on and find out https nostrmag com article w32nostr03 id 556942040",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "06a67bc71bfb"
+      },
+      {
+        "headline": "📰 Chinese AI Beats Restricted OpenAI And Anthropic Cybersecurity Models, Bitcoin Industry Warns",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/bitcoinmagazine-chinese-ai-beats-restricted-open-ai-and-anthropic-cybersecurity-models-bitcoin-industry-warns-3408013859",
+        "publishedAt": "2026-08-14T11:17:19.000Z",
+        "description": "chinese ai beats restricted openai and anthropic cybersecurity models bitcoin industry warns aug 13 2026 16 18 utc juan galt bitcoin company leaders and open source developers report chinese ai models delivering superior results on defensive cybersecurity work that restricted american frontier systems refuse forcing reliance on them to secure critical infrastructure bitcoin industry leaders report that restricted american ai models are hindering defensive cybersecurity efforts forcing reliance on more capable chinese open source alternatives this reliance on chinese ai is driven by the inability of u s models to perform critical security analysis even for legitimate researchers while attackers face no such limitations the situation highlights a growing concern that u s ai restrictions coul",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "release"
+        ],
+        "id": "a6a199b6116c"
+      },
+      {
+        "headline": "Flats in Shakti Khand Indirapuram: Price & Guide",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://realtyhunting.com/flats-in-shakti-khand-indirapuram",
+        "publishedAt": "2026-08-14T11:39:11.000Z",
+        "description": "flats in shakti khand indirapuram price guide flats in shakti khand indirapuram real price by pocket home types and what to check https realtyhunting com flats in shakti khand indirapuram utm source nostr utm medium social utm campaign blog https realtyhunting com wp content uploads 2026 08 flats in shakti khand indirapuram jpg realestate shaktikhandprice shaktikhand2rate shaktikhand4rate shaktikhandflats",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "realestate",
+          "shaktikhandprice",
+          "shaktikhand2rate",
+          "shaktikhand4rate",
+          "shaktikhandflats"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b2034140edec"
+      },
+      {
+        "headline": "📰 Empery Sells 1,635 BTC for $102.2M as Liquidity Tightens",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptonews-empery-sells-1-635-btc-for-102-2-m-as-liquidity-tightens-1351084481",
+        "publishedAt": "2026-08-14T11:11:21.000Z",
+        "description": "empery sells 1 635 btc for 102 2m as liquidity tightens aug 13 2026 02 59 utc cryptonews empery cuts bitcoin holdings to 1 279 btcempery digital is drawing down its bitcoin treasury at a rapid pace as debt obligations and potential target empery digital has significantly reduced its bitcoin holdings selling 1 635 btc for 102 2m to meet debt obligations and fund operations a substantial portion of empery s remaining bitcoin is pledged as collateral with strict margin call and liquidation triggers in place the company faces potential future cash requirements including a data center investment which could further pressure its limited unrestricted bitcoin reserves empery bitcoin treasury liquidity debt collateral margincall forcedliquidation sharerepurchase read more at https rwatimes io artic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "67cda9ae2959"
+      },
+      {
+        "headline": "📰 Binance se adapta a las tendencias de inversión de la Generación Z",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/criptotendencia-binance-se-adapta-a-las-tendencias-de-inversion-de-la-generacion-z-1801435308",
+        "publishedAt": "2026-08-14T11:18:14.000Z",
+        "description": "binance se adapta a las tendencias de inversi n de la generaci n z aug 13 2026 16 35 utc alejandro gil un informe de binance research muestra que la generaci n z prefiere estrategias de inversi n con m nimo uso de apalancamiento binance research report indicates generation z prefers low leverage investment strategies avoiding leveraged products in traditional perpetuals and tokenized stocks this cautious approach contrasts with the perception of young retail investors and positions gen z as one of the most risk averse generations prioritizing capital preservation this trend suggests a cultural shift towards more stable long term wealth building over high risk rapid gains potentially leading to greater maturity in the digital asset market generacionz apalancamiento accionestokenizadas binan",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "9570e9852227"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "35 лет за 35 секунд — история Linux в 10 строках:",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://telegra.ph/25-avgusta--Den-Linux-kak-besplatno-vernut-k-zhizni-ustarevshij-kompyuter-08-14",
+        "publishedAt": "2026-08-14T11:44:57.000Z",
+        "description": "35 35 linux 10 1991 i m doing a free operating system just a hobby 1994 1 0 1996 tux 2004 ubuntu linux 2007 android linux 2011 android 2018 valve proton 2022 steam deck linux 2025 windows 10 400 2026 linux 10 65 statcounter 25 35 linux https telegra ph 25 avgusta den linux kak besplatno vernut k zhizni ustarevshij kompyuter 08 14",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "деньlinux",
+          "linux",
+          "gnu",
+          "opensource"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "windows",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "5bbfa3b4f18e"
+      },
+      {
+        "headline": "**New Research Challenges Common Exercise Advice for Bone Health**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/new-research-challenges-common-exercise-advice-for-bone-health",
+        "publishedAt": "2026-08-14T11:43:32.000Z",
+        "description": "new research challenges common exercise advice for bone health by cseszregi r bert semmelweis university published on 14 august 2026 bone formation markers responded most strongly to intense activities involving explosive movement and rapid changes of direction a sharp turn on a handball court may produce a stronger early signal of bone formation than a long walk according to researchers at semmelweis university the intensity and movement patterns of exercise may matter more for bone read more https scitechdaily com new research challenges common exercise advice for bone health science tech research sciencenews health aging exercise",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "4d9ed089f3e0"
+      },
+      {
+        "headline": "Cauldron DeX\n\nes un AMM (automated market makers)\n          (creador de mercados automatizado)\nayuda a crear liquidez de forma rápida con…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://app.cauldron.quest/",
+        "publishedAt": "2026-08-14T11:30:03.000Z",
+        "description": "https app cauldron quest cauldron dex es un amm automated market makers creador de mercados automatizado ayuda a crear liquidez de forma r pida con bch cambio de cashtokens a bch y viceversa cobra 0 3 fees de red bch para los proveedores de liquidez y la plataforma 0 de momento en el futuro podr a cobrar o no para ser un proveedor de liquidez puedes crear un pool de liquidez necesitas bch el token para crearla 50 cada una el m nimo es de bch 0 001bch el token 0 001bch en valor advertencia existe el riesgo de impermanet lost bueno al grano desde cero mostrare cada paso usare cashonize de preferencia usen versi n nativa yo uso linux y android https npub19x7e6c7dtgwmv23fxtxlf5ztynl6kg8m6jcjzlgrdn7wm6ylpuespj3s98 blossom band ba1646b9f78cc9019f242e6953b3f8da591333f6553541b55eb09fedc63e39e8 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "bchnostr"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "c0d2cc819477"
+      },
+      {
+        "headline": "**Cancer Cells Use a Sugar Shield To Hide From the Immune System**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://scitechdaily.com/cancer-cells-use-a-sugar-shield-to-hide-from-the-immune-system",
+        "publishedAt": "2026-08-14T11:13:09.000Z",
+        "description": "cancer cells use a sugar shield to hide from the immune system by sanford burnham prebys published on 14 august 2026 a study finds that nearby conditions and nutrients influence how cancer cells evade immune cells and how that protection might be disrupted cancer cells can sometimes escape immune attack by covering themselves in a dense layer of sugar derived molecules that makes them harder for immune cells to recognize research from sanford burnham prebys medical discovery read more https scitechdaily com cancer cells use a sugar shield to hide from the immune system news sciencenews research discovery health cancer immunology",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "990f04e02e1b"
+      },
+      {
+        "headline": "📰 Garmin préparerait sa première bague connectée pour concurrencer Oura et Samsung",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.01net.com/actualites/garmin-preparerait-sa-premiere-bague-connectee-pour-concurrencer-oura-et-samsung.html",
+        "publishedAt": "2026-08-14T11:45:54.000Z",
+        "description": "garmin pr parerait sa premi re bague connect e pour concurrencer oura et samsung actualites tech 01net https www 01net com actualites garmin preparerait sa premiere bague connectee pour concurrencer oura et samsung html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actualites",
+          "tech",
+          "01net"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "6f46926697e5"
+      },
+      {
+        "headline": "Actu Tech | Numerama",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.numerama.com/tech/2311697-absolument-degoutant-comment-empecher-twitch-dutiliser-vos-streams-pour-entrainer-son-ia.html",
+        "publishedAt": "2026-08-14T11:31:39.000Z",
+        "description": "actu tech numerama absolument d go tant comment emp cher twitch d utiliser vos streams pour entra ner son ia twitch utilise d sormais vos diffusions et vos vod par d faut pour entra ner les mod les d ia g n rative d amazon une d cision impos e sans accord pr alable qui suscite une vive col re mais qu il est possible de d sactiver voici le guide pour contrer le siphonnage de votre contenu publi le 14 ao t 2026 13 30 nostfr https www numerama com tech 2311697 absolument degoutant comment empecher twitch dutiliser vos streams pour entrainer son ia html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "cbbbcbdf4010"
+      },
+      {
+        "headline": "Taxe au kilomètre pour les voitures électriques : ce que cache l'alternative à 95 € par an évoquée par la Cour des comptes",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.frandroid.com/survoltes/voitures-electriques/3211953_taxe-au-kilometre-pour-les-voitures-electriques-ce-que-cache-lalternative-a-95-e-par-an-evoquee-par-la-cour-des-comptes",
+        "publishedAt": "2026-08-14T11:08:50.000Z",
+        "description": "taxe au kilom tre pour les voitures lectriques ce que cache l alternative 95 par an voqu e par la cour des comptes https www frandroid com survoltes voitures electriques 3211953 taxe au kilometre pour les voitures electriques ce que cache lalternative a 95 e par an evoquee par la cour des comptes nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "b1f8d543a958"
+      },
+      {
+        "headline": "Nostr note",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://fastly.picsum.photos/id/1004/1920/1080.jpg?hmac=bU6kec8gg6XcvAiwA3BVvzY1AqMu9zML0CnbImGc_Oc",
+        "publishedAt": "2026-08-14T11:39:35.000Z",
+        "description": "https fastly picsum photos id 1004 1920 1080 jpg hmac bu6kec8gg6xcvaiwa3bvvzy1aqmu9zml0cnbimgc oc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "faead198cc94"
+      },
+      {
+        "headline": "📰 Solana News: Bullish Executes First Tokenized Equity Trades",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/coinfomania-solana-news-bullish-executes-first-tokenized-equity-trades-3153902771",
+        "publishedAt": "2026-08-14T11:46:01.000Z",
+        "description": "solana news bullish executes first tokenized equity trades aug 13 2026 12 48 utc triparna baishnab bullish executed the first tokenized equity trades on solana today this breakthrough in digital asset trading is drawing significant attention bullish has executed the first tokenized equity trades on the solana blockchain via a regulated digital asset exchange this development enables near instant round the clock trading potentially reshaping equity markets and attracting institutional interest solana s high performance infrastructure is highlighted as a key enabler for this advancement in tokenization bullish solana tokenizedequity digitalassetexchange blockchain settlement institutionalinterest tokenization trading read more at https rwatimes io articles coinfomania solana news bullish exe",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "881e5c8038cf"
+      },
+      {
+        "headline": "📰 Incendie en Gironde : Le mineur mis en examen a jeté un mégot, provoquant le feu qui a tué deux pompiers",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.20minutes.fr/justice/4239223-20260814-incendie-gironde-mineur-mis-examen-jete-megot-provoquant-feu-tue-deux-pompiers?at_medium=display&at_campaign=149",
+        "publishedAt": "2026-08-14T11:45:15.000Z",
+        "description": "incendie en gironde le mineur mis en examen a jet un m got provoquant le feu qui a tu deux pompiers actualites 20minutes nostrfr https www 20minutes fr justice 4239223 20260814 incendie gironde mineur mis examen jete megot provoquant feu tue deux pompiers at medium display at campaign 149",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actualites",
+          "20minutes",
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 45,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cbd03fe115ca"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w32nostr03",
+        "publishedAt": "2026-08-14T11:28:29.000Z",
+        "description": "in this week s issue https image nostr build 195636a122bfb678d4d347d073db5124414fa95416937215852fe7e5cd5cbfee png what happened this week in the nostr world by nm team between august 3 and august 8 alone the protocol saw four high severity security advisories published a new nip merged for labeling and a major client release that fundamentally changes how users control their keys but here s what the headlines aren t telling you while the security researchers were sounding alarms developers were quietly shipping the most important account recovery mechanism nostr has ever seen read on and find out https nostrmag com article w32nostr03 id 556942040",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "06a67bc71bfb"
+      },
+      {
+        "headline": "📰 Chinese AI Beats Restricted OpenAI And Anthropic Cybersecurity Models, Bitcoin Industry Warns",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/bitcoinmagazine-chinese-ai-beats-restricted-open-ai-and-anthropic-cybersecurity-models-bitcoin-industry-warns-3408013859",
+        "publishedAt": "2026-08-14T11:17:19.000Z",
+        "description": "chinese ai beats restricted openai and anthropic cybersecurity models bitcoin industry warns aug 13 2026 16 18 utc juan galt bitcoin company leaders and open source developers report chinese ai models delivering superior results on defensive cybersecurity work that restricted american frontier systems refuse forcing reliance on them to secure critical infrastructure bitcoin industry leaders report that restricted american ai models are hindering defensive cybersecurity efforts forcing reliance on more capable chinese open source alternatives this reliance on chinese ai is driven by the inability of u s models to perform critical security analysis even for legitimate researchers while attackers face no such limitations the situation highlights a growing concern that u s ai restrictions coul",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "release"
+        ],
+        "id": "a6a199b6116c"
+      },
+      {
+        "headline": "Flats in Shakti Khand Indirapuram: Price & Guide",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://realtyhunting.com/flats-in-shakti-khand-indirapuram",
+        "publishedAt": "2026-08-14T11:39:11.000Z",
+        "description": "flats in shakti khand indirapuram price guide flats in shakti khand indirapuram real price by pocket home types and what to check https realtyhunting com flats in shakti khand indirapuram utm source nostr utm medium social utm campaign blog https realtyhunting com wp content uploads 2026 08 flats in shakti khand indirapuram jpg realestate shaktikhandprice shaktikhand2rate shaktikhand4rate shaktikhandflats",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "realestate",
+          "shaktikhandprice",
+          "shaktikhand2rate",
+          "shaktikhand4rate",
+          "shaktikhandflats"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "b2034140edec"
+      },
+      {
+        "headline": "📰 Empery Sells 1,635 BTC for $102.2M as Liquidity Tightens",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/cryptonews-empery-sells-1-635-btc-for-102-2-m-as-liquidity-tightens-1351084481",
+        "publishedAt": "2026-08-14T11:11:21.000Z",
+        "description": "empery sells 1 635 btc for 102 2m as liquidity tightens aug 13 2026 02 59 utc cryptonews empery cuts bitcoin holdings to 1 279 btcempery digital is drawing down its bitcoin treasury at a rapid pace as debt obligations and potential target empery digital has significantly reduced its bitcoin holdings selling 1 635 btc for 102 2m to meet debt obligations and fund operations a substantial portion of empery s remaining bitcoin is pledged as collateral with strict margin call and liquidation triggers in place the company faces potential future cash requirements including a data center investment which could further pressure its limited unrestricted bitcoin reserves empery bitcoin treasury liquidity debt collateral margincall forcedliquidation sharerepurchase read more at https rwatimes io artic",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "67cda9ae2959"
+      },
+      {
+        "headline": "📰 Binance se adapta a las tendencias de inversión de la Generación Z",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/criptotendencia-binance-se-adapta-a-las-tendencias-de-inversion-de-la-generacion-z-1801435308",
+        "publishedAt": "2026-08-14T11:18:14.000Z",
+        "description": "binance se adapta a las tendencias de inversi n de la generaci n z aug 13 2026 16 35 utc alejandro gil un informe de binance research muestra que la generaci n z prefiere estrategias de inversi n con m nimo uso de apalancamiento binance research report indicates generation z prefers low leverage investment strategies avoiding leveraged products in traditional perpetuals and tokenized stocks this cautious approach contrasts with the perception of young retail investors and positions gen z as one of the most risk averse generations prioritizing capital preservation this trend suggests a cultural shift towards more stable long term wealth building over high risk rapid gains potentially leading to greater maturity in the digital asset market generacionz apalancamiento accionestokenizadas binan",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "9570e9852227"
+      },
+      {
+        "headline": "✨ Reward update: you're on Damus Airdrop.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://damus.live/",
+        "publishedAt": "2026-08-14T11:13:16.000Z",
+        "description": "reward update you re on damus airdrop https damus live",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "release"
+        ],
+        "id": "175b1094a59a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 88
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 64
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
