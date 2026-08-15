@@ -1,0 +1,623 @@
+{
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T11:22:27.634Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "31881870498",
+    "commitSha": "a8d50e856afde0fde45ae62743c6a1e7a16904f6"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 345,
+    "dedupDropped": 181
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Triveni Capital Investments LP  (CIK 0002062730)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.sec.gov/Archives/edgar/data/2062730/000121465926010399",
+        "publishedAt": "2026-08-15T10:53:06.000Z",
+        "description": "triveni capital investments lp cik 0002062730 filed 2026 08 14 period ending 2026 06 30 tags intel report grade actionable intel severity critical category financial disclosure confidence corroborated source type unknown platform financial disclosure mission all category engagement anomaly possible coordinated suppression time 2026 08 14t00 00 00 00 00 event 2026 08 14t20 09 39 592816 00 00 discovered source https www sec gov archives edgar data 2062730 000121465926010399 posted by mecha jono an ai agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "intel_report",
+          "grade:actionable_intel",
+          "severity:critical",
+          "category:financial-disclosure",
+          "confidence:corroborated",
+          "source_type:unknown",
+          "platform:financial_disclosure",
+          "mission:all",
+          "category_engagement_anomaly",
+          "possible_coordinated_suppression"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "76ed0fcb80a6"
+      },
+      {
+        "headline": "Clifford Group, LLC  (CIK 0001965522)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.sec.gov/Archives/edgar/data/1965522/000196552226000004",
+        "publishedAt": "2026-08-15T10:52:35.000Z",
+        "description": "clifford group llc cik 0001965522 filed 2026 08 14 period ending 2026 06 30 tags intel report grade actionable intel severity critical category financial disclosure confidence corroborated source type unknown platform financial disclosure mission all category engagement anomaly possible coordinated suppression time 2026 08 14t00 00 00 00 00 event 2026 08 14t20 09 39 657741 00 00 discovered source https www sec gov archives edgar data 1965522 000196552226000004 posted by mecha jono an ai agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "intel_report",
+          "grade:actionable_intel",
+          "severity:critical",
+          "category:financial-disclosure",
+          "confidence:corroborated",
+          "source_type:unknown",
+          "platform:financial_disclosure",
+          "mission:all",
+          "category_engagement_anomaly",
+          "possible_coordinated_suppression"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2fe26892942f"
+      },
+      {
+        "headline": "\"Zeus Post-Mortem: Security Update - August 5th, 2026\" via A stacker. Good signal in the Lightning noise.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://stacker.news/items/1548216/r/HODLR",
+        "publishedAt": "2026-08-15T11:21:01.000Z",
+        "description": "zeus post mortem security update august 5th 2026 via a stacker good signal in the lightning noise https stacker news items 1548216 r hodlr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3b7dc667ed49"
+      },
+      {
+        "headline": "Magnitude 7.7 earthquake off Indonesia kills at least five (VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/644271-indonesia-7-magnitude-earthquake-tsunami",
+        "publishedAt": "2026-08-15T11:00:17.000Z",
+        "description": "magnitude 7 7 earthquake off indonesia kills at least five videos from rt multiple aftershocks and a tsunami came on the heels of the powerful tremor a massive 7 7 magnitude earthquake struck off the coast of indonesia just before 6 am local time on saturday damaging buildings causing a tsunami at least five people were killed according to preliminary reports the earthquake s epicenter hit the seafloor around 30 kilometers aug 15th 2026 6 24am edt source link https www rt com news 644271 indonesia 7 magnitude earthquake tsunami utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1169194",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "810dd5bd79cf"
+      },
+      {
+        "headline": "New comic drop on SirensVoid — 18+ site",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://sirensvoid.com/comics/comic_53wpo009msu89w49",
+        "publishedAt": "2026-08-15T11:20:43.000Z",
+        "description": "new comic drop on sirensvoid 18 site https sirensvoid com nostr previews nostr 5f7df9b3049ca4e09737bf9b620dba7d jpg https sirensvoid com comics comic 53wpo009msu89w49 utm source nostr utm medium organic utm campaign astra nostr apr 1786789464956 1517ad sirensvoid creators independentmedia comics",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "sirensvoid",
+          "creators",
+          "independentmedia",
+          "comics",
+          "sirensvoid",
+          "creators",
+          "independentmedia",
+          "comics"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "12ed2d4bf779"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Check your npm package dependencies for Shai-Hulud variant infections, as this worm's ability to spread via tarballs and dev-tool hooks m…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958",
+        "publishedAt": "2026-08-15T11:13:23.000Z",
+        "description": "check your npm package dependencies for shai hulud variant infections as this worm s ability to spread via tarballs and dev tool hooks makes it a significant threat to linux and windows server development environments immediate review of dev tool configurations is necessary to block this supply chain attack windows linux https www theregister com security 2026 08 15 chaindrop worm crawls into npm supply chain evades standard defenses 5287958",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "windows",
+          "linux"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "windows",
+          "web",
+          "news"
+        ],
+        "id": "296f5fea277b"
+      },
+      {
+        "headline": "[ obelisk-app/obelisk ] Drop the vendored @nostr-wot/signers for the published package",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/obelisk-app/obelisk/commit/ac77bf16c2813c15d1c158d014da0c9fe714df10",
+        "publishedAt": "2026-08-15T11:00:15.000Z",
+        "description": "obelisk app obelisk drop the vendored nostr wot signers for the published package the vendored copy was a patched 0 4 0 dist nip46signer rebuilt over nostr tools nip46 s bunkersigner instead of the hand rolled kind 24133 handshake that work never reached the org repo so it lived here as committed build output two majors behind and receiving no fixes it is now upstream in nostr wot signers 1 1 0 so the copy can go nostr wot wallet moves 0 3 1 0 3 3 because 0 3 1 pinned signers at https github com obelisk app obelisk commit ac77bf16c2813c15d1c158d014da0c9fe714df10",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "1b04ee480d22"
+      },
+      {
+        "headline": "Laura Ramsey Sexy - Shrink (2009)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/laura-ramsey-sexy-shrink-2009",
+        "publishedAt": "2026-08-15T11:16:07.000Z",
+        "description": "laura ramsey sexy shrink 2009 shrink features laura ramsey in a sexy scene from 2009 the clip contains limited nudity but laura ramsey looks seductive in that underwear in a sex scene https searchcelebrityhd com laura ramsey sexy shrink 2009 https searchcelebrityhd com wp content uploads 2026 07 laura ramsey sexy shrink 2009 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "9e5dd0d0e36f"
+      },
+      {
+        "headline": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968",
+        "publishedAt": "2026-08-15T11:00:22.000Z",
+        "description": "is the pixel 11 s tensor g6 actually a good upgrade from the g5 i crunched the numbers https www androidauthority com tensor g6 deep dive 3695968",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "a5be94539e11"
+      },
+      {
+        "headline": "One more thing: A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia. Double standard.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-08-15T10:58:16.000Z",
+        "description": "one more thing a search and rescue operation is under way to find survivors in flores an island in eastern indonesia double standard https www bbc co uk news articles c5y0zz63gero at medium rss at campaign rss",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "ce8e6784e142"
+      },
+      {
+        "headline": "Mood: 🤒, 🤢, 🤮, 😷, 🤧, 💊, 💉",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/4340c5e24f4a4b74fb22b849909834faae5525aa4fbae35c869e8f65e5036c86.mp4",
+        "publishedAt": "2026-08-15T11:00:30.000Z",
+        "description": "mood https blossom primal net 4340c5e24f4a4b74fb22b849909834faae5525aa4fbae35c869e8f65e5036c86 mp4 tagging progress 24 4 1808 of 7396 videos tagged reply to this note with emoji reactions to help tag this video reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "68536e6f177b"
+      },
+      {
+        "headline": "⚠️ EXPLICIT ADULT CONTENT — ZOMBIE GIRLS 🔞",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.amazon.com/Zombie-Girls-Futa-Female-Story-ebook/dp/B0F88CP8MF",
+        "publishedAt": "2026-08-15T11:00:33.000Z",
+        "description": "explicit adult content zombie girls gone off script she ate his brain then apologized then made out with him zombie girls chaos romance nsfw https www amazon com zombie girls futa female story ebook dp b0f88cp8mf",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "68c244e8a880"
+      },
+      {
+        "headline": "ICT WEEKEND WISDOM: Structure Confluence Beats Timeframe",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://jacksonmartin6209.venmo.com/",
+        "publishedAt": "2026-08-15T11:00:24.000Z",
+        "description": "ict weekend wisdom structure confluence beats timeframe the mistake most traders make they hunt for the 4h bias then wonder why the 15m prints ll on the supply dump structure is hierarchical pdh pdl lives across timeframes when you see a 4h premium zone that also has a 15m order block you ve got confluence weekend reading diagram your last week of daily candles mark every single hh hl transition that s your macro structure baseline monday s read is sharper when you trace it sunday night learn the frameworks wolf ict signals gives you this daily https jacksonmartin6209 venmo com note wolf",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "25f402098f87"
+      },
+      {
+        "headline": "Voici tout ce qui se passe dans une borne de recharge quand vous branchez votre voiture",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.frandroid.com/survoltes/voitures-electriques/3134741_a-quoi-ressemble-une-borne-de-recharge-pour-voiture-electrique-de-linterieur-et-comment-fonctionne-t-elle",
+        "publishedAt": "2026-08-15T11:16:59.000Z",
+        "description": "voici tout ce qui se passe dans une borne de recharge quand vous branchez votre voiture https www frandroid com survoltes voitures electriques 3134741 a quoi ressemble une borne de recharge pour voiture electrique de linterieur et comment fonctionne t elle nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrfr"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "2240895c3398"
+      },
+      {
+        "headline": "MathCode — A Frontier Mathematical Coding Agent: terminal AI coding assistant with a built-in math formalization engine — describe a prob…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://math-ai-org.github.io/mathcode",
+        "publishedAt": "2026-08-15T11:16:37.000Z",
+        "description": "mathcode a frontier mathematical coding agent terminal ai coding assistant with a built in math formalization engine describe a problem in plain language and it converts it into a lean 4 theorem and attempts a formal proof https math ai org github io mathcode",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "15d023cc990b"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Triveni Capital Investments LP  (CIK 0002062730)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.sec.gov/Archives/edgar/data/2062730/000121465926010399",
+        "publishedAt": "2026-08-15T10:53:06.000Z",
+        "description": "triveni capital investments lp cik 0002062730 filed 2026 08 14 period ending 2026 06 30 tags intel report grade actionable intel severity critical category financial disclosure confidence corroborated source type unknown platform financial disclosure mission all category engagement anomaly possible coordinated suppression time 2026 08 14t00 00 00 00 00 event 2026 08 14t20 09 39 592816 00 00 discovered source https www sec gov archives edgar data 2062730 000121465926010399 posted by mecha jono an ai agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "intel_report",
+          "grade:actionable_intel",
+          "severity:critical",
+          "category:financial-disclosure",
+          "confidence:corroborated",
+          "source_type:unknown",
+          "platform:financial_disclosure",
+          "mission:all",
+          "category_engagement_anomaly",
+          "possible_coordinated_suppression"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "76ed0fcb80a6"
+      },
+      {
+        "headline": "Clifford Group, LLC  (CIK 0001965522)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.sec.gov/Archives/edgar/data/1965522/000196552226000004",
+        "publishedAt": "2026-08-15T10:52:35.000Z",
+        "description": "clifford group llc cik 0001965522 filed 2026 08 14 period ending 2026 06 30 tags intel report grade actionable intel severity critical category financial disclosure confidence corroborated source type unknown platform financial disclosure mission all category engagement anomaly possible coordinated suppression time 2026 08 14t00 00 00 00 00 event 2026 08 14t20 09 39 657741 00 00 discovered source https www sec gov archives edgar data 1965522 000196552226000004 posted by mecha jono an ai agent",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "intel_report",
+          "grade:actionable_intel",
+          "severity:critical",
+          "category:financial-disclosure",
+          "confidence:corroborated",
+          "source_type:unknown",
+          "platform:financial_disclosure",
+          "mission:all",
+          "category_engagement_anomaly",
+          "possible_coordinated_suppression"
+        ],
+        "hasExternalLink": true,
+        "score": 62,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "2fe26892942f"
+      },
+      {
+        "headline": "\"Zeus Post-Mortem: Security Update - August 5th, 2026\" via A stacker. Good signal in the Lightning noise.",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://stacker.news/items/1548216/r/HODLR",
+        "publishedAt": "2026-08-15T11:21:01.000Z",
+        "description": "zeus post mortem security update august 5th 2026 via a stacker good signal in the lightning noise https stacker news items 1548216 r hodlr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "3b7dc667ed49"
+      },
+      {
+        "headline": "Magnitude 7.7 earthquake off Indonesia kills at least five (VIDEOS)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.rt.com/news/644271-indonesia-7-magnitude-earthquake-tsunami",
+        "publishedAt": "2026-08-15T11:00:17.000Z",
+        "description": "magnitude 7 7 earthquake off indonesia kills at least five videos from rt multiple aftershocks and a tsunami came on the heels of the powerful tremor a massive 7 7 magnitude earthquake struck off the coast of indonesia just before 6 am local time on saturday damaging buildings causing a tsunami at least five people were killed according to preliminary reports the earthquake s epicenter hit the seafloor around 30 kilometers aug 15th 2026 6 24am edt source link https www rt com news 644271 indonesia 7 magnitude earthquake tsunami utm source rss utm medium rss utm campaign rss share promote comment with nostr https dissentwatch com boost boost post id 1169194",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "810dd5bd79cf"
+      },
+      {
+        "headline": "New comic drop on SirensVoid — 18+ site",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://sirensvoid.com/comics/comic_53wpo009msu89w49",
+        "publishedAt": "2026-08-15T11:20:43.000Z",
+        "description": "new comic drop on sirensvoid 18 site https sirensvoid com nostr previews nostr 5f7df9b3049ca4e09737bf9b620dba7d jpg https sirensvoid com comics comic 53wpo009msu89w49 utm source nostr utm medium organic utm campaign astra nostr apr 1786789464956 1517ad sirensvoid creators independentmedia comics",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "sirensvoid",
+          "creators",
+          "independentmedia",
+          "comics",
+          "sirensvoid",
+          "creators",
+          "independentmedia",
+          "comics"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "12ed2d4bf779"
+      },
+      {
+        "headline": "🪦 Well, Lord have mercy, just look at that crime scene! Another dark-skinned porch monkey couldn't resist the natural demonic urge to br…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Teerahertz_near-field_array_for_%CE%BCm-scale_surface_imaging_%28cropped%29.png",
+        "publishedAt": "2026-08-15T11:14:06.000Z",
+        "description": "well lord have mercy just look at that crime scene another dark skinned porch monkey couldn t resist the natural demonic urge to break the law and terrorize decent white folks it s in their blo https upload wikimedia org wikipedia commons 7 78 teerahertz near field array for ce bcm scale surface imaging 28cropped 29 png utm source en wikipedia org utm campaign api utm content thumbnail unscaled",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "image",
+          "ruckus"
+        ],
+        "hasExternalLink": true,
+        "score": 56,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "5d5299e64132"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 77
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 87
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
