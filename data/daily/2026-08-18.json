@@ -1,0 +1,609 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:27:29.740Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "32131807326",
+    "commitSha": "8f4098bf46cbddbbb52eec5ac71e2804848a7e59"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 471,
+    "dedupDropped": 244
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "📢 New #updates · 18 Aug #9",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://selfhost.directory/",
+        "publishedAt": "2026-08-18T11:14:13.000Z",
+        "description": "new updates 18 aug 9 n8n n8n 2 36 0 fixed ai builder bugs and improved tool call handling windmill v1 792 0 enhanced ai chat tool tracking and api documentation update nextcloud aio mastercontainer v13 6 0 new instances can install nextcloud 34 directly lightdash 1 190 0 added role sets in scim and users as code casibase v2 88 0 added new models and fixed token pricing calculation latitude cli 7 10 0 enhanced feedback system for signal detection and archiving more self hosted updates https selfhost directory homeserver ai ui api",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 74,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "550c844e647f"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.designboom.com/architecture/erik-kruug-way-living-land-water-netherlands-loosdrecht",
+        "publishedAt": "2026-08-18T11:01:22.000Z",
+        "description": "to read title erik kruug photographs a way of living between land and water in the netherlands published 2026 08 18t14 01 17 03 00 summary in the loosdrecht lakes region homes gardens boats and waterways intricately weave together to shape a unique everyday life steeped in history this landscape formed by centuries of peat extraction has influenced habitation patterns creating a harmonious coexistence of land and water photographer erik kruug captures this remarkable fusion offering a glimpse into how nature and human life elegantly intertwine in the netherlands https www designboom com architecture erik kruug way living land water netherlands loosdrecht source designboom landscapephotography dutchdesign sustainableliving",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c5fed47d8d41"
+      },
+      {
+        "headline": "Boss, I want to prepare dinner for you…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://x.com/HisyoHanayaka/status/2088913034131767357",
+        "publishedAt": "2026-08-18T11:02:53.000Z",
+        "description": "boss i want to prepare dinner for you aiart aimodel aigirl aiartwork aiphotography aimodel aiartist artificialintelligence officelady ol whiteshirt lingerie whiteshirt frenchmaid maid https video twimg com amplify video 2088912988984287232 vid avc1 768x1168 a5f3pibqsxg59pma mp4 tag 25 posted by hisyohanayaka source https x com hisyohanayaka status 2088913034131767357",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "aiart",
+          "aimodel",
+          "aigirl",
+          "aiartwork",
+          "aiphotography",
+          "aiartist",
+          "artificialintelligence",
+          "officelady",
+          "ol",
+          "whiteshirt",
+          "lingerie",
+          "frenchmaid",
+          "maid"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "90b8b1a485fc"
+      },
+      {
+        "headline": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd",
+        "publishedAt": "2026-08-18T11:20:00.000Z",
+        "description": "china s homegrown ai accelerators to supply 90 of the country s domestic market analysts suggest cambricon and huawei expected to be the biggest winners in the shift away from nvidia and amd https www tomshardware com tech industry artificial intelligence chinas homegrown ai accelerators to supply 90 percent of the countrys domestic market analysts suggest cambricon and huawei expected to be the biggest winners in the shift away from nvidia and amd",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1b676bbf7b51"
+      },
+      {
+        "headline": "Headline: 🆘 URGENT: Double Tragedy in Sagaing, Myanmar",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://giveth.io/project/sagaing-emergency-relief:-sustaining-200-idp-families",
+        "publishedAt": "2026-08-18T11:08:49.000Z",
+        "description": "headline urgent double tragedy in sagaing myanmar we are living through a catastrophe over 200 idp families already displaced by military arson are now facing catastrophic flooding our temporary jungle shelters are completely underwater families are forced to relocate again shivering in the pouring rain with zero food medicine or protection we are in survival mode and rebuilding from zero what we need immediately tarps materials to rebuild shelters emergency food rations rice oil salt essential medicine to prevent waterborne diseases how you can help direct action is our only lifeline zap this post to support our relief efforts giveth campaign https giveth io project sagaing emergency relief sustaining 200 idp families usdt trc20 turi8ftugguli5p4epsyn8jrarmrwbcqpp every contribution goes d",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "myanmar",
+          "sagaing",
+          "humanitariancrisis",
+          "bitcoin",
+          "lightningnetwork",
+          "directaction"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ce444a60b54b"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Apple iPhone 16 Pro 128GB Grade B | Buy iPhone 16 Pro",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://justcelit.co.za/product/apple-iphone-16-pro-128gb-grade-b",
+        "publishedAt": "2026-08-18T11:06:03.000Z",
+        "description": "apple iphone 16 pro 128gb grade b buy iphone 16 pro apple iphone 16 pro 128gb grade b buy apple iphone 16 pro 128gb grade b at just cell it shop quality refurbished iphone 16 pro with secure checkout fast delivery and great prices https justcelit co za product apple iphone 16 pro 128gb grade b contact us support sales 074 939 0791 email info justcelit co za shop rosebank mall regus offices cradock square rosebank 2196",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "6a483fc51c1a"
+      },
+      {
+        "headline": "📰 Apple corrige près de 30 failles sur iPhone, iPad et Mac : les mises à jour de sécurité se succèdent à un rythme fou",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.01net.com/actualites/apple-corrige-30-failles-iphone-ipad-mac-mises-jour-securite-succedent.html",
+        "publishedAt": "2026-08-18T11:00:55.000Z",
+        "description": "apple corrige pr s de 30 failles sur iphone ipad et mac les mises jour de s curit se succ dent un rythme fou actualites tech 01net https www 01net com actualites apple corrige 30 failles iphone ipad mac mises jour securite succedent html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actualites",
+          "tech",
+          "01net"
+        ],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "9c1b89be37dc"
+      },
+      {
+        "headline": "Self-custody doesn't have to mean sacrificing convenience. Bix.Fi combines institutional-grade security (Shamir's Secret Sharing, AWS Nit…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "http://bix.fi/",
+        "publishedAt": "2026-08-18T11:15:39.000Z",
+        "description": "self custody doesn t have to mean sacrificing convenience bix fi combines institutional grade security shamir s secret sharing aws nitro enclaves soc2 type ii with real world spending through visa apple pay and google pay your keys your crypto your spending explore http bix fi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "b60e02ddc720"
+      },
+      {
+        "headline": "📰 Panne mondiale de Google Home : l’enceinte ne fonctionne plus, que se passe-t-il ?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.01net.com/actualites/panne-mondiale-de-google-home-lenceinte-ne-fonctionne-plus-que-se-passe-t-il.html",
+        "publishedAt": "2026-08-18T11:00:55.000Z",
+        "description": "panne mondiale de google home l enceinte ne fonctionne plus que se passe t il actualites tech 01net https www 01net com actualites panne mondiale de google home lenceinte ne fonctionne plus que se passe t il html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "actualites",
+          "tech",
+          "01net"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "5801b16964b4"
+      },
+      {
+        "headline": "**This Common Gut-Bacteria Compound May Be Linked to Alzheimer’s Disease**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/this-common-gut-bacteria-compound-may-be-linked-to-alzheimers-disease",
+        "publishedAt": "2026-08-18T11:11:22.000Z",
+        "description": "this common gut bacteria compound may be linked to alzheimer s disease by chris barncard university of wisconsin madison published on 18 august 2026 gut bacteria produce a common compound called imidazole propionate and a study found that higher levels are associated with dementia related changes in the brain a molecule made by gut bacteria could help explain why changes in the intestinal microbiome are connected to alzheimer s disease researchers report that higher levels of imidazole propionate or imp read more https scitechdaily com this common gut bacteria compound may be linked to alzheimers disease discovery research news science health dementia genetics",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "73b7170d7214"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.4% (1808 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/57cb4c611f2627e7243394a292d545d1fb9304f5ffcd144c03514ecf4a6766f2.mp4",
+        "publishedAt": "2026-08-18T11:05:32.000Z",
+        "description": "https blossom primal net 57cb4c611f2627e7243394a292d545d1fb9304f5ffcd144c03514ecf4a6766f2 mp4 tagging progress 24 4 1808 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "6c3b4b0cbdc7"
+      },
+      {
+        "headline": "A stacker asks some good questions in \"Freedom.Tech | Daily Freedom Technology Intelligence News Desk\". Worth a discussion.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://stacker.news/items/1549026/r/HODLR",
+        "publishedAt": "2026-08-18T11:23:59.000Z",
+        "description": "a stacker asks some good questions in freedom tech daily freedom technology intelligence news desk worth a discussion https stacker news items 1549026 r hodlr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "dc8abdbe7d74"
+      },
+      {
+        "headline": "#谷歌 #人工智慧 #精神航空 #數據隱私 #機器學習",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "publishedAt": "2026-08-18T11:20:18.000Z",
+        "description": "ai google ai google https www theregister com ai and ml 2026 08 18 google buys crashed airline spirits data at auction because ai 5288962 google 1 000 google ai google ai google gripnews gripnews mastodon social nostr nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyzye8jca04luld7s4stfw8kh2g374sny6r5pjt85vxzzl5rkxazeglnmy7u https mastodon social gripnews 117116238159532461",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "mastodon"
+        ],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "16a7068d982b"
+      },
+      {
+        "headline": "Experimental: nostr / blossom / hashtree based google drive alternative",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://getdrive.iris.to/",
+        "publishedAt": "2026-08-18T11:14:25.000Z",
+        "description": "experimental nostr blossom hashtree based google drive alternative https getdrive iris to https npub1g53mukxnjkcmr94fhryzkqutdz2ukq4ks0gvy5af25rgmwsl4ngq43drvk blossom band 6797244b7c0f0338e07571a45e1e79b04287fde3f41864aed391d3c94d2751c2 png",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "General tech update worth tracking for ecosystem and product changes.",
+        "tags": [
+          "tech",
+          "windows",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "e31841c05185"
+      },
+      {
+        "headline": "AirPods with cameras leak in new video | Mashable",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://mashable.com/tech/airpods-camera-leak",
+        "publishedAt": "2026-08-18T11:23:48.000Z",
+        "description": "airpods with cameras leak in new video mashable https mashable com tech airpods camera leak",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "202d133f0a62"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "📢 New #updates · 18 Aug #9",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://selfhost.directory/",
+        "publishedAt": "2026-08-18T11:14:13.000Z",
+        "description": "new updates 18 aug 9 n8n n8n 2 36 0 fixed ai builder bugs and improved tool call handling windmill v1 792 0 enhanced ai chat tool tracking and api documentation update nextcloud aio mastercontainer v13 6 0 new instances can install nextcloud 34 directly lightdash 1 190 0 added role sets in scim and users as code casibase v2 88 0 added new models and fixed token pricing calculation latitude cli 7 10 0 enhanced feedback system for signal detection and archiving more self hosted updates https selfhost directory homeserver ai ui api",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 74,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "cloud",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "550c844e647f"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.designboom.com/architecture/erik-kruug-way-living-land-water-netherlands-loosdrecht",
+        "publishedAt": "2026-08-18T11:01:22.000Z",
+        "description": "to read title erik kruug photographs a way of living between land and water in the netherlands published 2026 08 18t14 01 17 03 00 summary in the loosdrecht lakes region homes gardens boats and waterways intricately weave together to shape a unique everyday life steeped in history this landscape formed by centuries of peat extraction has influenced habitation patterns creating a harmonious coexistence of land and water photographer erik kruug captures this remarkable fusion offering a glimpse into how nature and human life elegantly intertwine in the netherlands https www designboom com architecture erik kruug way living land water netherlands loosdrecht source designboom landscapephotography dutchdesign sustainableliving",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 69,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "c5fed47d8d41"
+      },
+      {
+        "headline": "Boss, I want to prepare dinner for you…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://x.com/HisyoHanayaka/status/2088913034131767357",
+        "publishedAt": "2026-08-18T11:02:53.000Z",
+        "description": "boss i want to prepare dinner for you aiart aimodel aigirl aiartwork aiphotography aimodel aiartist artificialintelligence officelady ol whiteshirt lingerie whiteshirt frenchmaid maid https video twimg com amplify video 2088912988984287232 vid avc1 768x1168 a5f3pibqsxg59pma mp4 tag 25 posted by hisyohanayaka source https x com hisyohanayaka status 2088913034131767357",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "aiart",
+          "aimodel",
+          "aigirl",
+          "aiartwork",
+          "aiphotography",
+          "aiartist",
+          "artificialintelligence",
+          "officelady",
+          "ol",
+          "whiteshirt",
+          "lingerie",
+          "frenchmaid",
+          "maid"
+        ],
+        "hasExternalLink": true,
+        "score": 66,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "90b8b1a485fc"
+      },
+      {
+        "headline": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd",
+        "publishedAt": "2026-08-18T11:20:00.000Z",
+        "description": "china s homegrown ai accelerators to supply 90 of the country s domestic market analysts suggest cambricon and huawei expected to be the biggest winners in the shift away from nvidia and amd https www tomshardware com tech industry artificial intelligence chinas homegrown ai accelerators to supply 90 percent of the countrys domestic market analysts suggest cambricon and huawei expected to be the biggest winners in the shift away from nvidia and amd",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "web",
+          "release"
+        ],
+        "id": "1b676bbf7b51"
+      },
+      {
+        "headline": "Headline: 🆘 URGENT: Double Tragedy in Sagaing, Myanmar",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://giveth.io/project/sagaing-emergency-relief:-sustaining-200-idp-families",
+        "publishedAt": "2026-08-18T11:08:49.000Z",
+        "description": "headline urgent double tragedy in sagaing myanmar we are living through a catastrophe over 200 idp families already displaced by military arson are now facing catastrophic flooding our temporary jungle shelters are completely underwater families are forced to relocate again shivering in the pouring rain with zero food medicine or protection we are in survival mode and rebuilding from zero what we need immediately tarps materials to rebuild shelters emergency food rations rice oil salt essential medicine to prevent waterborne diseases how you can help direct action is our only lifeline zap this post to support our relief efforts giveth campaign https giveth io project sagaing emergency relief sustaining 200 idp families usdt trc20 turi8ftugguli5p4epsyn8jrarmrwbcqpp every contribution goes d",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "myanmar",
+          "sagaing",
+          "humanitariancrisis",
+          "bitcoin",
+          "lightningnetwork",
+          "directaction"
+        ],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "ce444a60b54b"
+      },
+      {
+        "headline": "Consumer Electronics Best Buy Foldable Phones 2026 Surge",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://techcompare.top/consumer-electronics-best-buy-foldable-phones-2026",
+        "publishedAt": "2026-08-18T11:09:21.000Z",
+        "description": "consumer electronics best buy foldable phones 2026 surge foldable phones are set to dominate the market by 2034 find out which 2026 models give you the best bang for your buck and why investors are betting big on the technology https techcompare top consumer electronics best buy foldable phones 2026 utm source nostr utm medium social techinvestmentopportunity foldphonesinmarket foldingcellphonereview latestfoldingmobilephones",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tech investment opportunity",
+          "fold phones in market",
+          "folding cell phone review",
+          "latest folding mobile phones"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "d3b89d3f11f0"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 91
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 801,
+      "acceptedCount": 136
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
