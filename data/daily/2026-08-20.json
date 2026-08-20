@@ -1,0 +1,577 @@
+{
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T11:28:48.003Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "32363989904",
+    "commitSha": "b3f3b0664a3844f8fcdb0d334da6bab36a143aad"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 481,
+    "dedupDropped": 285
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/user-attachments/assets/2379e6d7-e1ef-444d-890f-e2ea7942abe9",
+        "publishedAt": "2026-08-20T11:22:54.000Z",
+        "description": "v2ex piclite chatgpt chatgpt piclite piclite windows macos linux web jpeg png webp gif clop webdav s3 r2 oss ftp sftp html javascript url tauri 2 rust image https github com user attachments assets 2379e6d7 e1ef 444d 890f e2ea7942abe9 releases https github com amiaoapp piclite releases windows x64 arm64 exe msi macos apple silicon intel dmg linux x64 arm64 appimage deb macos ad hoc web docker docker run d name piclite p 3000 3000 restart unless stopped ghcr io amiaoapp piclite latest http ip 3000 web https www v2ex com t 1235969 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "88a6a8945fb7"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+        "publishedAt": "2026-08-20T11:11:45.000Z",
+        "description": "actu tech the hacker news 40 extensions malveillantes pour firefox se font passer pour des produits web3 pour voler des secrets de portefeuilles un ensemble de 40 extensions mozilla firefox a t identifi pour voler des portefeuilles de cryptomonnaies en se faisant passer pour okx rabby wallet tronlink et d autres produits web3 selon l quipe socket threat research ces extensions font partie d un groupe plus large de 77 modules compl mentaires partageant du code source et des infrastructures publi le 20 ao t 2026 10 42 nostfr https blogger googleusercontent com img b r29vz2xl avvxseha5ysurvdl2opvg7l78g22fbzedplybrp5kx79gceuhhybqkigdgwdy ihnfslhkmt4sxn51cf33lrnwyjqy l4zajbkl9qufxsjheiovsfhwbcgohavmzonmbwai 8vhrebmzhuocps n5kaklfccr bflhzvjq12bvhvp5uprskzulrn4tudutkftrqo s1600 firefox png https",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "84c29f9c4c26"
+      },
+      {
+        "headline": "#南方周末",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "http://passport.infzm.com/login?refer=http%3A%2F%2Fwww.infzm.com%2Fcontents%2F328959&source=125&source_1=328959",
+        "publishedAt": "2026-08-20T11:23:19.000Z",
+        "description": "ai ai ai 2021 6 12 lenovo https images infzm com cms medias image 26 08 20 0b08adb237 jpg 2021 6 12 lenovo 2026 8 13 2017 pc pc pc ai 2017 2017 pc http passport infzm com login refer http 3a 2f 2fwww infzm com 2fcontents 2f328959 source 125 source 1 328959 https images infzm com cms medias image 26 01 19 s2hsbthul9qx9rmqdmwmpexebasd4ezv2gdstq13 png https passport infzm com payment refer 2f 2fwww infzm com 2fcontents 2f328959 source 126 source 1 328959 https www infzm com search k e8 81 94 e6 83 b3 ai https www infzm com search k ai https www infzm com contents 328959",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "南方周末"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "a7ae8e526114"
+      },
+      {
+        "headline": "**Scientists Reveal How ADHD Could Fuel Creative Thinking**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-reveal-how-adhd-could-fuel-creative-thinking",
+        "publishedAt": "2026-08-20T11:15:20.000Z",
+        "description": "scientists reveal how adhd could fuel creative thinking by constructor university published on 20 august 2026 adhd related attention patterns may become a source of creativity and focus when supported through structured creative expression how can adhd create serious everyday challenges for millions of people while also appearing among highly successful creative figures such as justin timberlake and simone biles new research from constructor university neuroscientist dr radwa khalil published in iscience read more https scitechdaily com scientists reveal how adhd could fuel creative thinking news science research discovery health adhd art",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "c643e2f8b8e9"
+      },
+      {
+        "headline": "VIDEO: IT’S OFFICIAL— The Democratic Socialists of America Proclaim Their Platform Is To OVERTHROW The US Constitution",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/08/20/video-its-official-the-democratic-socialists-of-america-proclaim-their-platform-is-to-overthrow-the-us-constitution",
+        "publishedAt": "2026-08-20T11:02:32.000Z",
+        "description": "video it s official the democratic socialists of america proclaim their platform is to overthrow the us constitution from alex jones on the wednesday show alex jones covered how trump endorsed candidates are losing elections as democrat socialists seek the destruction of the u s constitution the post appeared first on alex jones live aug 20th 2026 6 30am edt source link https www alexjoneslive com 2026 08 20 video its official the democratic socialists of america proclaim their platform is to overthrow the us constitution share promote comment with nostr https dissentwatch com boost boost post id 1170777",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "92f66fefd8f0"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "#华尔街见闻",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://wallstreetcn.com/articles/3779905",
+        "publishedAt": "2026-08-20T11:24:50.000Z",
+        "description": "meta platforms inc microsoft corp ai azure https wallstreetcn com articles 3779905",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "华尔街见闻"
+        ],
+        "hasExternalLink": true,
+        "score": 51,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "cloud",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "7d35a46c79e2"
+      },
+      {
+        "headline": "AI Creator's Toolkit: 7 Local AI Builds on One GPU — $97. ComfyUI, Ollama, Whisper, XTTS and more.  #AI #tools Use code FREEDOM20 for 20%…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://drakeent.gumroad.com/l/ai-creators-toolkit",
+        "publishedAt": "2026-08-20T11:08:45.000Z",
+        "description": "ai creator s toolkit 7 local ai builds on one gpu 97 comfyui ollama whisper xtts and more https drakeent gumroad com l ai creators toolkit ai tools use code freedom20 for 20 off 100 uses",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "467e23e24fe7"
+      },
+      {
+        "headline": "📰 **In this week's issue:**",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://nostrmag.com/article/w34nostr01",
+        "publishedAt": "2026-08-20T11:06:46.000Z",
+        "description": "in this week s issue breaking nostr s identity crisis when decentralization becomes a liability most people think nostr s biggest problem is its complexity it s not the real threat isn t technical it s the absence of anyone actually steering the ship with over 100 clients fragmenting the user base and zero governance to align them nostr is quietly becoming quite hard to use and attract new users little to no friction is ideal we are failing at it read on and find out my thoughts about it and what can be done https image nostr build 705b6535470bc6798309b5e6131d1f2f4c494d0617a98de8583f23eba6785165 png author madrid https nostrmag com article w34nostr01 id 88138770",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nostrmag",
+          "article",
+          "nostr",
+          "featured"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "630068e3ec80"
+      },
+      {
+        "headline": "Over 9 million facial recognition images leaked in major breach at reverse image search and identity verification service",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.techradar.com/pro/security/over-9-million-facial-recognition-images-leaked-in-major-breach-at-reverse-image-search-and-identity-verification-service",
+        "publishedAt": "2026-08-20T11:05:00.000Z",
+        "description": "over 9 million facial recognition images leaked in major breach at reverse image search and identity verification service https www techradar com pro security over 9 million facial recognition images leaked in major breach at reverse image search and identity verification service",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "69343fe633a5"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.4% (1808 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://blossom.primal.net/ce4337948de6fd2f7df17940239f146408bfc9de99fa116483b6cc3ff0141a74.mp4",
+        "publishedAt": "2026-08-20T11:08:13.000Z",
+        "description": "https blossom primal net ce4337948de6fd2f7df17940239f146408bfc9de99fa116483b6cc3ff0141a74 mp4 tagging progress 24 4 1808 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "af8549be967a"
+      },
+      {
+        "headline": "🎙 LOCUTOR IA NA RÁDIO BITCOIN",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://radiobitcoin.bitadict.com/locutor-player",
+        "publishedAt": "2026-08-20T11:19:03.000Z",
+        "description": "locutor ia na r dio bitcoin laila est no ar agora com coment rios ao vivo sobre bitcoin 71 946 ou a em https radiobitcoin bitadict com locutor player bitcoin radiobitcoin nostr lightning btc bitadict stackingsats",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cd663a0dfb6b"
+      },
+      {
+        "headline": "📰 Bitcoin : les baleines accumulent 2,9 milliards de dollars de BTC en 60 jours",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://cryptoast.fr/bitcoin-baleines-accumulent-29-milliards-dollars-btc-60-jours",
+        "publishedAt": "2026-08-20T11:17:45.000Z",
+        "description": "bitcoin les baleines accumulent 2 9 milliards de dollars de btc en 60 jours alors que le march du bitcoin flirte avec la capitulation certaines donn es indiquent que les baleines sont d j de retour dans la partie avec des achats estim s 2 9 milliards de dollars au cours des derni res semaines de quoi participer un retour haussier du btc https cryptoast fr bitcoin baleines accumulent 29 milliards dollars btc 60 jours nostrfr",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "0350a4ef90d1"
+      },
+      {
+        "headline": "Wollongong — Wollongong Property Sales Rise But Lower-Price Homes Decline #Wollongong #News",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://news.netasgard.com/a/2f273b7bec469d7d?s=nostr",
+        "publishedAt": "2026-08-20T11:03:04.000Z",
+        "description": "wollongong wollongong property sales rise but lower price homes decline wollongong news https news netasgard com a 2f273b7bec469d7d s nostr https live staticflickr com 7451 9121618639 0e18fbe9d1 b jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "wollongong",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "b9943b1937c2"
+      },
+      {
+        "headline": "Bitcoin: The Beginning of a New Financial Era Bitcoin is the world's first decentralized cryptocurrency, introduced in 2009 to enable sec…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://blossom.primal.net/8394bc4a05e540ebd30851136f22a3bc065ed639490141a8ff350d63f0a9d4ac.jpg",
+        "publishedAt": "2026-08-20T11:26:24.000Z",
+        "description": "bitcoin the beginning of a new financial era bitcoin is the world s first decentralized cryptocurrency introduced in 2009 to enable secure peer to peer transactions without banks or central authorities it runs on blockchain technology a transparent and secure digital ledger with a fixed supply of 21 million coins making it fundamentally different from traditional currencies today bitcoin is not the only cryptocurrency thousands have been developed each with different goals and technologies some focus on smart contracts others on fast payments privacy defi or dapps examples include ethereum eth solana sol bnb xrp cardano ada polkadot dot litecoin ltc avalanche avax and chainlink link despite this growth bitcoin remains the largest by market capitalization often called digital gold it is wid",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "news"
+        ],
+        "id": "8c8ca04bb33c"
+      },
+      {
+        "headline": "#财新",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://photos.caixin.com/2026-08-20/102476139.html",
+        "publishedAt": "2026-08-20T11:17:19.000Z",
+        "description": "https img caixin com 2026 08 20 178722108488116 840 560 jpg 2026 8 19 2026 2026 8 19 2026 8 23 300 150 ai 2026 2026 4 97 https photos caixin com 2026 08 20 102476139 html",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "财新"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "24ccf8f3a1bf"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/user-attachments/assets/2379e6d7-e1ef-444d-890f-e2ea7942abe9",
+        "publishedAt": "2026-08-20T11:22:54.000Z",
+        "description": "v2ex piclite chatgpt chatgpt piclite piclite windows macos linux web jpeg png webp gif clop webdav s3 r2 oss ftp sftp html javascript url tauri 2 rust image https github com user attachments assets 2379e6d7 e1ef 444d 890f e2ea7942abe9 releases https github com amiaoapp piclite releases windows x64 arm64 exe msi macos apple silicon intel dmg linux x64 arm64 appimage deb macos ad hoc web docker docker run d name piclite p 3000 3000 restart unless stopped ghcr io amiaoapp piclite latest http ip 3000 web https www v2ex com t 1235969 reply0",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 68,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "windows",
+          "hardware",
+          "cloud",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "88a6a8945fb7"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+        "publishedAt": "2026-08-20T11:11:45.000Z",
+        "description": "actu tech the hacker news 40 extensions malveillantes pour firefox se font passer pour des produits web3 pour voler des secrets de portefeuilles un ensemble de 40 extensions mozilla firefox a t identifi pour voler des portefeuilles de cryptomonnaies en se faisant passer pour okx rabby wallet tronlink et d autres produits web3 selon l quipe socket threat research ces extensions font partie d un groupe plus large de 77 modules compl mentaires partageant du code source et des infrastructures publi le 20 ao t 2026 10 42 nostfr https blogger googleusercontent com img b r29vz2xl avvxseha5ysurvdl2opvg7l78g22fbzedplybrp5kx79gceuhhybqkigdgwdy ihnfslhkmt4sxn51cf33lrnwyjqy l4zajbkl9qufxsjheiovsfhwbcgohavmzonmbwai 8vhrebmzhuocps n5kaklfccr bflhzvjq12bvhvp5uprskzulrn4tudutkftrqo s1600 firefox png https",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 67,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "84c29f9c4c26"
+      },
+      {
+        "headline": "#南方周末",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "http://passport.infzm.com/login?refer=http%3A%2F%2Fwww.infzm.com%2Fcontents%2F328959&source=125&source_1=328959",
+        "publishedAt": "2026-08-20T11:23:19.000Z",
+        "description": "ai ai ai 2021 6 12 lenovo https images infzm com cms medias image 26 08 20 0b08adb237 jpg 2021 6 12 lenovo 2026 8 13 2017 pc pc pc ai 2017 2017 pc http passport infzm com login refer http 3a 2f 2fwww infzm com 2fcontents 2f328959 source 125 source 1 328959 https images infzm com cms medias image 26 01 19 s2hsbthul9qx9rmqdmwmpexebasd4ezv2gdstq13 png https passport infzm com payment refer 2f 2fwww infzm com 2fcontents 2f328959 source 126 source 1 328959 https www infzm com search k e8 81 94 e6 83 b3 ai https www infzm com search k ai https www infzm com contents 328959",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "南方周末"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "a7ae8e526114"
+      },
+      {
+        "headline": "**Scientists Reveal How ADHD Could Fuel Creative Thinking**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-reveal-how-adhd-could-fuel-creative-thinking",
+        "publishedAt": "2026-08-20T11:15:20.000Z",
+        "description": "scientists reveal how adhd could fuel creative thinking by constructor university published on 20 august 2026 adhd related attention patterns may become a source of creativity and focus when supported through structured creative expression how can adhd create serious everyday challenges for millions of people while also appearing among highly successful creative figures such as justin timberlake and simone biles new research from constructor university neuroscientist dr radwa khalil published in iscience read more https scitechdaily com scientists reveal how adhd could fuel creative thinking news science research discovery health adhd art",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "c643e2f8b8e9"
+      },
+      {
+        "headline": "VIDEO: IT’S OFFICIAL— The Democratic Socialists of America Proclaim Their Platform Is To OVERTHROW The US Constitution",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/08/20/video-its-official-the-democratic-socialists-of-america-proclaim-their-platform-is-to-overthrow-the-us-constitution",
+        "publishedAt": "2026-08-20T11:02:32.000Z",
+        "description": "video it s official the democratic socialists of america proclaim their platform is to overthrow the us constitution from alex jones on the wednesday show alex jones covered how trump endorsed candidates are losing elections as democrat socialists seek the destruction of the u s constitution the post appeared first on alex jones live aug 20th 2026 6 30am edt source link https www alexjoneslive com 2026 08 20 video its official the democratic socialists of america proclaim their platform is to overthrow the us constitution share promote comment with nostr https dissentwatch com boost boost post id 1170777",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "92f66fefd8f0"
+      },
+      {
+        "headline": "25,000 Airline Miles? Cut Cost, Fly First‑Class",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://frequentflyernow.online/25000-airline-miles-cut-cost-fly-first-class",
+        "publishedAt": "2026-08-20T11:28:01.000Z",
+        "description": "25 000 airline miles cut cost fly first class what if a single student credit card could launch you into first class discover the transfer hacks and upgrade tricks that turn 25 000 miles into a luxury seat on a long haul flight click to upgrade your travel game https frequentflyernow online 25000 airline miles cut cost fly first class utm source nostr utm medium social stretchairlinemiles upgradetofirstclass partnerairlinemilestransfer budgetstudenttravel longhaulupgrade",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "stretch airline miles",
+          "upgrade to first class",
+          "partner airline miles transfer",
+          "budget student travel",
+          "long‑haul upgrade"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "7c23dc53eba8"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 82
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 114
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
