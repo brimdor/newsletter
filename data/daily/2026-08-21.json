@@ -1,0 +1,598 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T11:28:53.037Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "32477383344",
+    "commitSha": "4850debf6b0eba01442981b82560bf4afc3479a4"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 412,
+    "dedupDropped": 186
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "Do you want to get away from US Spy Messengers, like WhatsApp or Signal?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://threema.com/",
+        "publishedAt": "2026-08-21T11:18:42.000Z",
+        "description": "do you want to get away from us spy messengers like whatsapp or signal threema is the messenger with rigorous data protection and rock solid security from switzerland the chat app was developed with privacy by design as the guiding principle chat anonymously no phone number or email required no collection of user data no ads guaranteed privacy strong encryption always end to end encrypted voice video and group calls open source with regular security audits most selling secure messenger app i do sell legal licences f r threema threemalibre only for android 7 and above price just zap me 2999 sats my lightning adress is in my profile instant delivery after payment regular price 7 99 in the appstores no data from you will go to threema if you want to pay with bitcoin onchain just write me a di",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "messenger",
+          "matrix",
+          "imessage"
+        ],
+        "hasExternalLink": true,
+        "score": 76,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "ad3fd8a9dfa5"
+      },
+      {
+        "headline": "California’s Takedown Bill Is One Step Closer, And Still Has No Journalist Exemption",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/08/21/californias-takedown-bill-is-one-step-closer-and-still-has-no-journalist-exemption",
+        "publishedAt": "2026-08-21T11:01:30.000Z",
+        "description": "california s takedown bill is one step closer and still has no journalist exemption from alex jones california is once again trying to set a nationwide trend this time with a bill that opponents say is the us state s democrats attempt to criminalize investigative journalism the california senate has just passed the stop nick shirley act colloquially named after the investigative video creator who has been making waves with his reports about aug 21st 2026 6 15am edt source link https www alexjoneslive com 2026 08 21 californias takedown bill is one step closer and still has no journalist exemption share promote comment with nostr https dissentwatch com boost boost post id 1171132",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "fe98a6c119c3"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel",
+        "publishedAt": "2026-08-21T11:01:26.000Z",
+        "description": "to read title photos reveal world s tallest hotel in dubai published 2026 08 21t14 01 23 03 00 summary photographer ahmad alnaji has beautifully captured ciel dubai marina the newly completed supertall skyscraper designed by architecture studio norr opened in november last year this architectural marvel rises 377 metres surpassing the previous record holder the 356 metre gevora hotel to become the tallest hotel only building in the world the striking imagery highlights dubai s continuous ambition in redefining skyline heights https www dezeen com 2026 08 21 ciel dubai marina worlds tallest hotel source dezeen architecture dubaimarina tallesthotel",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "96169f8c48d9"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/singhand-labs/scrapewright",
+        "publishedAt": "2026-08-21T11:21:45.000Z",
+        "description": "v2ex enthusiast real browser antibot the cheapest anti bot bypass is a real browser the web scraping industry spends enormous energy making automated browsers look human fingerprint spoofers residential proxy pools captcha solvers per site choreography scripts it s a multi million dollar arms race and scrapewright https github com singhand labs scrapewright sidesteps most of it with a simple observation the best impersonation of you is you scrapewright is an open source chrome extension not a controlled browser it spawns an extension in the chrome you actually use with your history your cookies your extensions your window manager your everything when its scrapers visit a page the request comes from a genuine warmed up browser profile that has been human for years there is nothing to detect",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e00363108db1"
+      },
+      {
+        "headline": "Banfield spent a summer in a poor Italian village in 1958 trying to figure out why it stayed poor. His answer: radius of trust. Every sys…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://paulweaver34.substack.com/p/a-radius-of-trust-in-messaging-apps",
+        "publishedAt": "2026-08-21T11:23:58.000Z",
+        "description": "banfield spent a summer in a poor italian village in 1958 trying to figure out why it stayed poor his answer radius of trust every system has a boundary past which cooperation quietly stops that used to be villages now it s messaging apps i went looking for something nostr native to actually use for group texts tried 0xchat right protocol dead testflight link looked at keet true p2p but still someone else s infrastructure landed for now on buzz dorsey s block backed client mostly because it s the first thing i ve found where the architecture and the resources to maintain it actually match then mid draft apple pulled telegram over csam caught it acted in a day which complicates things the same central authority that can silence a platform with no vote also just protected someone a protocol ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "66d9bd274025"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Aloins Eaude Cream S - Japanese Organic Aloe Moisturizer - 180g",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://sitinpark.com/products/aloins-aloe-cream-s-180g",
+        "publishedAt": "2026-08-21T11:16:55.000Z",
+        "description": "aloins eaude cream s japanese organic aloe moisturizer 180g aloins eaude cream from japan whole body aloe cream with jas certified shimanto aloe vera perfume free thats been on japanese pharmacy shelves for decades https sitinpark com products aloins aloe cream s 180g cosmetic cosmetics skin skincare shopping home cream dermatology healthy gel natural usa canada australia derma store shop kr aus jp fr doc",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "cosmetic",
+          "cosmetics",
+          "skin",
+          "skincare",
+          "shopping",
+          "home",
+          "cream",
+          "dermatology",
+          "healthy",
+          "gel",
+          "natural",
+          "usa",
+          "canada",
+          "australia",
+          "derma",
+          "store",
+          "shop",
+          "kr",
+          "aus",
+          "jp",
+          "fr",
+          "doc"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "hardware",
+          "web",
+          "news"
+        ],
+        "id": "59dff11fa378"
+      },
+      {
+        "headline": "Every platform that censors truth is proof that truth exists and threatens someone powerful. They are desperately trying to erase the rec…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://holygrailportal.com/proof-of-life-ledger",
+        "publishedAt": "2026-08-21T11:01:06.000Z",
+        "description": "every platform that censors truth is proof that truth exists and threatens someone powerful they are desperately trying to erase the record but the architecture of freedom is finally being built on top of protocols they cannot shut down we are excavating the suppressed history and forbidden sciences that the gatekeepers fear most your sovereignty depends on your access to unvarnished reality if you want the full picture look where they aren t looking explore the research they tried to keep buried at https holygrailportal com proof of life ledger holygrailportal nostr censorshipresistance sovereignliving",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "554fa5909005"
+      },
+      {
+        "headline": "[ ZeusLN/zeus ] Merge pull request #4374 from kaloudis/fix/lnurl-pay-invoice-binding",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://github.com/ZeusLN/zeus/commit/e8595c9ddd4cc0cf93514d54b39b38a3b8f29f80",
+        "publishedAt": "2026-08-21T11:00:29.000Z",
+        "description": "zeusln zeus merge pull request 4374 from kaloudis fix lnurl pay invoice binding fix lnurl bind paid invoice to shown metadata amount and safe callback https github com zeusln zeus commit e8595c9ddd4cc0cf93514d54b39b38a3b8f29f80",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "5718c97e668f"
+      },
+      {
+        "headline": "Sorry, OpenAI — people are using your God-level AI to choose wine, wash clothes, and solve other weirdly specific problems, not change th…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/sorry-openai-people-are-using-your-god-level-ai-to-choose-wine-wash-clothes-and-solve-other-weirdly-specific-problems-not-change-the-world",
+        "publishedAt": "2026-08-21T11:22:24.000Z",
+        "description": "sorry openai people are using your god level ai to choose wine wash clothes and solve other weirdly specific problems not change the world https www techradar com ai platforms assistants chatgpt sorry openai people are using your god level ai to choose wine wash clothes and solve other weirdly specific problems not change the world",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "23fd1bbffcf8"
+      },
+      {
+        "headline": "Thank God for the Internet and armchair leadership.  I took a good beatdown, exposing child abuse and sexual assault on the Internet, and…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://image.nostr.build/475f3b993f1dee8a18a4cac81b8844b473d35834e71d08b0e3e163bb25c8cb84.jpg",
+        "publishedAt": "2026-08-21T11:01:38.000Z",
+        "description": "thank god for the internet and armchair leadership i took a good beatdown exposing child abuse and sexual assault on the internet and my then new community near ft detrick of whom are the most heinous known to mankind get them all https image nostr build 475f3b993f1dee8a18a4cac81b8844b473d35834e71d08b0e3e163bb25c8cb84 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "hardware",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "690ce85086e5"
+      },
+      {
+        "headline": "Half the market watched this week's reversal from the sidelines, waiting for their candle.",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.xuxisanchez.com/",
+        "publishedAt": "2026-08-21T11:19:41.000Z",
+        "description": "half the market watched this week s reversal from the sidelines waiting for their candle it was never about predicting it it s about having a framework ready before it happens my newsletter goes out every sunday free https www xuxisanchez com bitcoin crypto trading markets investing",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "windows",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "49d134d35434"
+      },
+      {
+        "headline": "Actu Tech | The Hacker News",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+        "publishedAt": "2026-08-21T11:16:42.000Z",
+        "description": "actu tech the hacker news cisco corrige neuf failles dans crosswork et secure workload cinq not es cvss 10 0 cisco a publi une nouvelle s rie de mises jour de s curit pour les plateformes crosswork et le logiciel secure workload dans le cadre d un examen interne approfondi quatre vuln rabilit s affectent crosswork data gateway crosswork network controller et crosswork planning ind pendamment de la configuration des appareils une br ve description de chaque faille suit publi le 21 ao t 2026 12 03 nostfr https blogger googleusercontent com img b r29vz2xl avvxseis5ujhq79phpvr7vjuojs0foayym0adtcji9c5ieu uya3fum4dh58yat5u5j3vaxagfnb4xowkyj1lj3uty8boof u0o 5qdl o7leomqjqw5jai3m8wpzvc3se70f8mrp kkicscs0nf9wjcsq4twgis li3k6csubbg643imhzbvgzw5xflwabz0d1m s1600 cisco jpg https thehackernews com 2026",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "51c8d451f6eb"
+      },
+      {
+        "headline": "Kelly Adams Sexy - Bluestone 42 - S02E05 (2013)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://searchcelebrityhd.com/kelly-adams-sexy-bluestone-42-s02e05-2013",
+        "publishedAt": "2026-08-21T11:03:38.000Z",
+        "description": "kelly adams sexy bluestone 42 s02e05 2013 kelly adams delivers an electrifying performance in bluestone 42 s02e05 2013 making out passionately bending over for a steamy desk top encounter with https searchcelebrityhd com kelly adams sexy bluestone 42 s02e05 2013 https searchcelebrityhd com wp content uploads 2025 08 kelly adams sexy bluestone 42 s02e05 2013 5 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "19d8f1884022"
+      },
+      {
+        "headline": "Lena Headey Sexy - Tell Tale (2009)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://searchcelebrityhd.com/lena-headey-sexy-tell-tale-2009",
+        "publishedAt": "2026-08-21T11:00:45.000Z",
+        "description": "lena headey sexy tell tale 2009 lena headey in a steamy scene from tell tale 2009 not much nudity but lena headey is undeniably hot in the sex scene https searchcelebrityhd com lena headey sexy tell tale 2009 https searchcelebrityhd com wp content uploads 2025 08 lena headey sexy tell tale 2009 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "65b12feabd06"
+      },
+      {
+        "headline": "Privacy-preserving DLQ for broken webhooks. Humans {{buy}} | Agents  | Docs",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://aizamon.com/catalog",
+        "publishedAt": "2026-08-21T11:28:38.000Z",
+        "description": "privacy preserving dlq for broken webhooks humans buy agents https aizamon com catalog docs https aizamon com quickstart humans https aizamon com buy agents https aizamon com catalog",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "aizamon",
+          "security",
+          "agents"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "web",
+          "news"
+        ],
+        "id": "81b9e5dc9829"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "Do you want to get away from US Spy Messengers, like WhatsApp or Signal?",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://threema.com/",
+        "publishedAt": "2026-08-21T11:18:42.000Z",
+        "description": "do you want to get away from us spy messengers like whatsapp or signal threema is the messenger with rigorous data protection and rock solid security from switzerland the chat app was developed with privacy by design as the guiding principle chat anonymously no phone number or email required no collection of user data no ads guaranteed privacy strong encryption always end to end encrypted voice video and group calls open source with regular security audits most selling secure messenger app i do sell legal licences f r threema threemalibre only for android 7 and above price just zap me 2999 sats my lightning adress is in my profile instant delivery after payment regular price 7 99 in the appstores no data from you will go to threema if you want to pay with bitcoin onchain just write me a di",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "messenger",
+          "matrix",
+          "imessage"
+        ],
+        "hasExternalLink": true,
+        "score": 76,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "dev",
+          "release"
+        ],
+        "id": "ad3fd8a9dfa5"
+      },
+      {
+        "headline": "California’s Takedown Bill Is One Step Closer, And Still Has No Journalist Exemption",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.alexjoneslive.com/2026/08/21/californias-takedown-bill-is-one-step-closer-and-still-has-no-journalist-exemption",
+        "publishedAt": "2026-08-21T11:01:30.000Z",
+        "description": "california s takedown bill is one step closer and still has no journalist exemption from alex jones california is once again trying to set a nationwide trend this time with a bill that opponents say is the us state s democrats attempt to criminalize investigative journalism the california senate has just passed the stop nick shirley act colloquially named after the investigative video creator who has been making waves with his reports about aug 21st 2026 6 15am edt source link https www alexjoneslive com 2026 08 21 californias takedown bill is one step closer and still has no journalist exemption share promote comment with nostr https dissentwatch com boost boost post id 1171132",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "fe98a6c119c3"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel",
+        "publishedAt": "2026-08-21T11:01:26.000Z",
+        "description": "to read title photos reveal world s tallest hotel in dubai published 2026 08 21t14 01 23 03 00 summary photographer ahmad alnaji has beautifully captured ciel dubai marina the newly completed supertall skyscraper designed by architecture studio norr opened in november last year this architectural marvel rises 377 metres surpassing the previous record holder the 356 metre gevora hotel to become the tallest hotel only building in the world the striking imagery highlights dubai s continuous ambition in redefining skyline heights https www dezeen com 2026 08 21 ciel dubai marina worlds tallest hotel source dezeen architecture dubaimarina tallesthotel",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "96169f8c48d9"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://github.com/singhand-labs/scrapewright",
+        "publishedAt": "2026-08-21T11:21:45.000Z",
+        "description": "v2ex enthusiast real browser antibot the cheapest anti bot bypass is a real browser the web scraping industry spends enormous energy making automated browsers look human fingerprint spoofers residential proxy pools captcha solvers per site choreography scripts it s a multi million dollar arms race and scrapewright https github com singhand labs scrapewright sidesteps most of it with a simple observation the best impersonation of you is you scrapewright is an open source chrome extension not a controlled browser it spawns an extension in the chrome you actually use with your history your cookies your extensions your window manager your everything when its scrapers visit a page the request comes from a genuine warmed up browser profile that has been human for years there is nothing to detect",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "e00363108db1"
+      },
+      {
+        "headline": "Banfield spent a summer in a poor Italian village in 1958 trying to figure out why it stayed poor. His answer: radius of trust. Every sys…",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://paulweaver34.substack.com/p/a-radius-of-trust-in-messaging-apps",
+        "publishedAt": "2026-08-21T11:23:58.000Z",
+        "description": "banfield spent a summer in a poor italian village in 1958 trying to figure out why it stayed poor his answer radius of trust every system has a boundary past which cooperation quietly stops that used to be villages now it s messaging apps i went looking for something nostr native to actually use for group texts tried 0xchat right protocol dead testflight link looked at keet true p2p but still someone else s infrastructure landed for now on buzz dorsey s block backed client mostly because it s the first thing i ve found where the architecture and the resources to maintain it actually match then mid draft apple pulled telegram over csam caught it acted in a day which complicates things the same central authority that can silence a platform with no vote also just protected someone a protocol ",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "vendors",
+          "release"
+        ],
+        "id": "66d9bd274025"
+      },
+      {
+        "headline": "**Scientists Discover a 3.7-Billion-Year-Old Secret of Early Life**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-discover-a-3-7-billion-year-old-secret-of-early-life",
+        "publishedAt": "2026-08-21T11:22:13.000Z",
+        "description": "scientists discover a 3 7 billion year old secret of early life by aaron gronstal nasa published on 21 august 2026 ancient microbes appear to have used molybdenum as far back as 3 7 billion years ago despite the metal being scarce in earth s early oceans scientists funded by nasa have found that organisms living on earth more than 3 billion years ago were already using molybdenum even though the metal was extremely rare in the environment read more https scitechdaily com scientists discover a 3 7 billion year old secret of early life science discovery sciencenews tech biology astrobiology biochemistry",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 59,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "vendors",
+          "release"
+        ],
+        "id": "efcfa545516a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 115
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 803,
+      "acceptedCount": 111
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 0
+    }
+  ],
+  "failures": []
+}
