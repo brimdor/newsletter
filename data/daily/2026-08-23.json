@@ -1,0 +1,579 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T11:22:31.475Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "32636354392",
+    "commitSha": "0fe9cd2a9d7335f079ca8fede494c21b776c703c"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 765,
+    "dedupDropped": 397
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "What Autonomous Vehicles Cost to Your Privacy",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://autotechnow.top/what-autonomous-vehicles-cost-to-your-privacy",
+        "publishedAt": "2026-08-23T10:28:39.000Z",
+        "description": "what autonomous vehicles cost to your privacy 78 of drivers worry their car will expose personal data inside the hidden ways autonomous vehicles collect share and sometimes sell that information and what you can do to protect yourself https autotechnow top what autonomous vehicles cost to your privacy utm source nostr utm medium social vehicledataprivacy connectedcarsecurity autonomousvehiclesafety consumerdataprotection carconnectivityhacks",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "vehicle data privacy",
+          "connected car security",
+          "autonomous vehicle safety",
+          "consumer data protection",
+          "car connectivity hacks"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "9f6107e30e0b"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://audiocraft.app/",
+        "publishedAt": "2026-08-23T11:21:38.000Z",
+        "description": "v2ex audiocraft ai stem splitter and vocal remover with a browser based mixer i ve been building audiocraft as a focused ai music tool for separating songs into useful stems the main workflow is simple upload mp3 wav flac or m4a separate the track into vocals drums bass and other instruments preview the stems mute solo and adjust individual tracks create an instrumental version download individual stems or all stems together ai stem splitter audiocraft uses ai source separation rather than simple frequency filtering it is useful for instrument practice remixing karaoke arrangement analysis and extracting vocals or backing tracks the result page includes a synchronized stem mixer so users can solo the bass mute the vocals or compare different parts of the arrangement without opening a daw t",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "6df00b9121e8"
+      },
+      {
+        "headline": "Mobile Bet: A Guide to the Mobile App and Mobile Experience",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://mobilebet-uk.com/",
+        "publishedAt": "2026-08-23T11:09:52.000Z",
+        "description": "mobile bet a guide to the mobile app and mobile experience mobile bet a guide to the mobile app and mobile experience a mobile experience should be assessed through evidence about the operator access conditions security and the information available to users what this guide examines this guide examines what the supplied research records establish about mobile bet s mobile experience for a uk audience the focus is not on advertising language or personal impressions it is on the identity of the service the organisation described as operating it access to its legal information and the technical and privacy claims retained in the research dossier the central research question is what can a beginner reasonably establish about the mobile bet mobile app and mobile experience from the available re",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "mobile",
+          "news"
+        ],
+        "id": "1240a2524831"
+      },
+      {
+        "headline": "📰 MANTRA Chain Hacked Via Cosmos EVM Bug That Already Cost Saga $7M in January",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/techtimes-mantra-chain-hacked-via-cosmos-evm-bug-that-already-cost-saga-7-m-in-january-609287602",
+        "publishedAt": "2026-08-23T11:14:08.000Z",
+        "description": "mantra chain hacked via cosmos evm bug that already cost saga 7m in january aug 21 2026 19 10 utc collin mercer mantra chain halt triggered by cosmos evm exploit that already cost saga 7m five months ago mantra was named remediation participant when same bug was patched in march 2026 but chain was still mantra chain experienced a halt due to a cosmos evm ics20 precompile exploit a vulnerability previously exploited in saga for 7m despite mantra being a participant in the original remediation efforts the chain was still susceptible to the known bug raising questions about the patch implementation the incident caused mantra s token to hit an all time low and surged trading volume while also casting doubt on mantra s pending acquisition and its positioning as a compliance first rwa platform m",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "4425857aeeae"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.designboom.com/technology/car-garage-home-residential-design-supercar-towers-miami",
+        "publishedAt": "2026-08-23T11:01:07.000Z",
+        "description": "to read title when the car moves upstairs the garage becomes part of the home published 2026 08 23 summary extending the concept of the car into the realm of architecture automotive brands are innovatively transforming housing design by integrating garages as an essential part of the home this new approach blurs the lines between automotive and residential design creating unique living spaces where cars are not just parked but showcased within the household environment a fresh perspective on how mobility and lifestyle intersect https www designboom com technology car garage home residential design supercar towers miami source designboom architecture design magazine architecturemeetsautomotive innovativedesign homeandcarlifestyle",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "c1f9e52faaf1"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "**Almost All Plant-Based Meat Alternatives Contain Mycotoxins, Study Finds**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/almost-all-plant-based-meat-alternatives-contain-mycotoxins-study-finds",
+        "publishedAt": "2026-08-23T10:26:31.000Z",
+        "description": "almost all plant based meat alternatives contain mycotoxins study finds by cranfield university published on 23 august 2026 new research on plant based foods and drinks found that hundreds of vegetarian and vegan products contained mycotoxins naturally occurring poisonous compounds produced by fungi plant based meats and drinks are often marketed as modern alternatives to traditional animal products but many still rely on ingredients that face an age old food safety problem mold a new study read more https scitechdaily com almost all plant based meat alternatives contain mycotoxins study finds sciencenews news research tech health foodscience fungi",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "f952658f4d13"
+      },
+      {
+        "headline": "A note about Jackpot",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://jackpotjoyuk.com/",
+        "publishedAt": "2026-08-23T10:56:36.000Z",
+        "description": "a note about jackpot the moment i landed on the jackpot joy homepage the clean layout caught my eye a bold banner declares it a trusted uk bingo slots 0x free spins casino and the colour scheme deep blues with crisp white accents feels both modern and inviting it s clear the site aims to blend the excitement of a bingo hall with the sleekness of an online gaming platform scrolling down i noticed the meta description s promise over 1 400 games and a welcome package that includes free spins without any wagering requirements that 0x wagering claim is unusual and immediately piqued my curiosity because most promotions hide the fine print the casino features heading also hints at a well rounded experience from live dealer tables to a solid collection of slots and even a dedicated bingo section ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "vendors",
+          "news"
+        ],
+        "id": "b795041624d9"
+      },
+      {
+        "headline": "Una nota sobre Afun Gana Mx",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://afun-gana-mx.com/",
+        "publishedAt": "2026-08-23T10:43:16.000Z",
+        "description": "una nota sobre afun gana mx al entrar en afun gana mx la primera impresi n es la de una plataforma pulcra y bien organizada el dise o minimalista de la p gina y la app ligera transmiten una sensaci n de orden que invita a seguir explorando sin sentirse abrumado los colores sobrios y los iconos bien definidos crean un ambiente agradable como si estuvieras frente a una mesa de juego bien cuidada en vez de un sitio web cualquiera la navegaci n resulta sorprendentemente fluida en dispositivos android y la carga de la app se completa en cuesti n de segundos uno de los detalles que m s llama la atenci n es la opci n de dep sitos locales mediante oxxo pay y spei que aparecen resaltados en la secci n de pagos esta facilidad para cargar fondos de forma inmediata refuerza la idea de que el casino se",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 53,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "f26acce62819"
+      },
+      {
+        "headline": "A note about Jeet",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://jeetbuzzbet-in.com/",
+        "publishedAt": "2026-08-23T11:05:39.000Z",
+        "description": "a note about jeet after spending some time navigating jeet s platform the first thing that struck me was how seamlessly the site blends traditional casino elements with a distinctly indian flavor the homepage immediately showcases a cricket exchange section a nod to the country s favorite sport and it s not just a decorative banner the exchange market is live allowing players to wager on ongoing matches in real time that focus on cricket feels genuine rather than a superficial add on and it sets the tone for an experience that respects local gaming habits beyond the sports angle jeet offers an impressively broad library of games the meta description promises 2 000 games and scrolling through the catalogue confirms that breadth everything from classic slots to modern video titles sits along",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "dev",
+          "vendors",
+          "news"
+        ],
+        "id": "2127e1c830b3"
+      },
+      {
+        "headline": "Lindsay Burdge Nude - A Teacher (2013)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/lindsay-burdge-nude-a-teacher-2013",
+        "publishedAt": "2026-08-23T10:26:13.000Z",
+        "description": "lindsay burdge nude a teacher 2013 lindsay burdge captivates in a teacher 2013 baring her tits in a scene that s as emotionally charged as it is sensual https searchcelebrityhd com lindsay burdge nude a teacher 2013 https searchcelebrityhd com wp content uploads 2025 08 lindsay burdge nude a teacher 2013 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 52,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5a9551246ad6"
+      },
+      {
+        "headline": "Lori Heuring Nude, Zita Gorog Nude - 8MM 2 (2005)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/lori-heuring-nude-zita-gorog-nude-8mm-2-2005",
+        "publishedAt": "2026-08-23T11:22:39.000Z",
+        "description": "lori heuring nude zita gorog nude 8mm 2 2005 lori heuring and zita g r g flaunt their breasts and sexy asses in a lesbian scene for the camera captivating viewers the clip starts with lori heuring https searchcelebrityhd com lori heuring nude zita gorog nude 8mm 2 2005 https searchcelebrityhd com wp content uploads 2025 07 lori heuring nude zita gorog nude 8mm 2 2005 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "8e5aea1068ea"
+      },
+      {
+        "headline": "Notiz über Shuffle",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://shuffle-de.com/",
+        "publishedAt": "2026-08-23T11:08:49.000Z",
+        "description": "notiz ber shuffle beim ersten besuch von shuffle f llt sofort das klare moderne layout ins auge die startseite pr sentiert sich in einem dunklen farbschema das durch leuchtende akzente und gro e gut lesbare schriftarten aufgelockert wird das titel tag shuffle casino schnelle krypto payouts hohe rtp rakeback ist sofort sichtbar und vermittelt direkt worauf das angebot abzielt rasche ein und auszahlungen ein hoher return to player und ein dauerhaftes rake back programm auch die meta beschreibung wird hier praktisch wiederholt sodass man sofort versteht dass es sich um ein browserbasiertes krypto casino handelt das sowohl f r desktop als auch f r mobile nutzer optimiert ist markenlink f r shuffle https shuffle de com ein genauerer blick auf die einzelnen bereiche zeigt dass das team von shuff",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "web",
+          "vendors",
+          "news"
+        ],
+        "id": "786147e9580f"
+      },
+      {
+        "headline": "A note about Brango",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://brango777-ca.com/",
+        "publishedAt": "2026-08-23T11:06:07.000Z",
+        "description": "a note about brango after just a few minutes exploring the homepage i got a solid feeling that brango aims to make online gaming straightforward for canadian players the clean layout immediately draws the eye to a promise of fast litecoin and bitcoin payouts a rare convenience in today s crowded market what stood out most was the simplicity of brango s crypto friendly banking section deposits are confirmed within seconds and the withdrawal process is described as fast an especially appealing feature for those who prefer litecoin or bitcoin over traditional e wallets the interface clearly separates deposit and withdrawal options which reduces the chance of mistakes the site even highlights that payouts are typically processed in a matter of hours which aligns with the headline fast crypto p",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "news"
+        ],
+        "id": "86985bc6ee4d"
+      },
+      {
+        "headline": "A note about NetEnt",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://netent-ca.com/",
+        "publishedAt": "2026-08-23T11:00:46.000Z",
+        "description": "a note about netent stepping onto the netent canada portal feels like opening a well designed lounge that knows exactly what a modern player expects the headline netent canada casino trusted premium slots fast interac payouts sets a calm confident tone and the layout quickly confirms that confidence from the moment the homepage loads the clean typography and subtle colour palette give the site a polished almost tactile quality you can almost feel the smoothness of the interface as you scroll what really stands out is the emphasis on premium slots mobile ready play and cad friendly banking that runs through the visible headings the game library showcases familiar netent titles each rendered with crisp graphics that adapt effortlessly to a phone or tablet even the brief meta description hint",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "mobile",
+          "dev",
+          "vendors",
+          "news"
+        ],
+        "id": "9b0342b4bd30"
+      },
+      {
+        "headline": "📰 AquaChain Advances Its Web3 Vision for Verifiable AI Infrastructure Ahead of AQUA Listing",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://rwatimes.io/articles/zycrypto-aqua-chain-advances-its-web-3-vision-for-verifiable-ai-infrastructure-ahead-of-aqua-listing-4099843961",
+        "publishedAt": "2026-08-23T10:59:51.000Z",
+        "description": "aquachain advances its web3 vision for verifiable ai infrastructure ahead of aqua listing aug 14 2026 20 13 utc pr desk disclaimer the below article is sponsored and the views in it do not represent those of zycrypto readers should conduct independent research before taking any actions related to the project mentioned in this piece this article should not be regarded as investment advice the emerging web3 infrastructure initiative outlines an incentive driven model connecting verified cooling performance aquachain is developing a web3 ecosystem to incentivize verifiable liquid cooling performance in ai data centers and semiconductor facilities the initiative uses iot telemetry cryptographic verification and blockchain to transform cooling metrics into digital evidence and efficiency credit",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "5b5bb6521269"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "What Autonomous Vehicles Cost to Your Privacy",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://autotechnow.top/what-autonomous-vehicles-cost-to-your-privacy",
+        "publishedAt": "2026-08-23T10:28:39.000Z",
+        "description": "what autonomous vehicles cost to your privacy 78 of drivers worry their car will expose personal data inside the hidden ways autonomous vehicles collect share and sometimes sell that information and what you can do to protect yourself https autotechnow top what autonomous vehicles cost to your privacy utm source nostr utm medium social vehicledataprivacy connectedcarsecurity autonomousvehiclesafety consumerdataprotection carconnectivityhacks",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "vehicle data privacy",
+          "connected car security",
+          "autonomous vehicle safety",
+          "consumer data protection",
+          "car connectivity hacks"
+        ],
+        "hasExternalLink": true,
+        "score": 65,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "9f6107e30e0b"
+      },
+      {
+        "headline": "#V2EX",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://audiocraft.app/",
+        "publishedAt": "2026-08-23T11:21:38.000Z",
+        "description": "v2ex audiocraft ai stem splitter and vocal remover with a browser based mixer i ve been building audiocraft as a focused ai music tool for separating songs into useful stems the main workflow is simple upload mp3 wav flac or m4a separate the track into vocals drums bass and other instruments preview the stems mute solo and adjust individual tracks create an instrumental version download individual stems or all stems together ai stem splitter audiocraft uses ai source separation rather than simple frequency filtering it is useful for instrument practice remixing karaoke arrangement analysis and extracting vocals or backing tracks the result page includes a synchronized stem mixer so users can solo the bass mute the vocals or compare different parts of the arrangement without opening a daw t",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "v2ex"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "6df00b9121e8"
+      },
+      {
+        "headline": "📰 MANTRA Chain Hacked Via Cosmos EVM Bug That Already Cost Saga $7M in January",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://rwatimes.io/articles/techtimes-mantra-chain-hacked-via-cosmos-evm-bug-that-already-cost-saga-7-m-in-january-609287602",
+        "publishedAt": "2026-08-23T11:14:08.000Z",
+        "description": "mantra chain hacked via cosmos evm bug that already cost saga 7m in january aug 21 2026 19 10 utc collin mercer mantra chain halt triggered by cosmos evm exploit that already cost saga 7m five months ago mantra was named remediation participant when same bug was patched in march 2026 but chain was still mantra chain experienced a halt due to a cosmos evm ics20 precompile exploit a vulnerability previously exploited in saga for 7m despite mantra being a participant in the original remediation efforts the chain was still susceptible to the known bug raising questions about the patch implementation the incident caused mantra s token to hit an all time low and surged trading volume while also casting doubt on mantra s pending acquisition and its positioning as a compliance first rwa platform m",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "dev",
+          "release"
+        ],
+        "id": "4425857aeeae"
+      },
+      {
+        "headline": "📰 To Read...",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://www.designboom.com/technology/car-garage-home-residential-design-supercar-towers-miami",
+        "publishedAt": "2026-08-23T11:01:07.000Z",
+        "description": "to read title when the car moves upstairs the garage becomes part of the home published 2026 08 23 summary extending the concept of the car into the realm of architecture automotive brands are innovatively transforming housing design by integrating garages as an essential part of the home this new approach blurs the lines between automotive and residential design creating unique living spaces where cars are not just parked but showcased within the household environment a fresh perspective on how mobility and lifestyle intersect https www designboom com technology car garage home residential design supercar towers miami source designboom architecture design magazine architecturemeetsautomotive innovativedesign homeandcarlifestyle",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "linux",
+          "web",
+          "release"
+        ],
+        "id": "c1f9e52faaf1"
+      },
+      {
+        "headline": "62% Of Drivers Dislike Vehicle Infotainment-Android Auto Steals Control",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://vehicletech.help/android-auto-infotainment-control",
+        "publishedAt": "2026-08-23T11:17:22.000Z",
+        "description": "62 of drivers dislike vehicle infotainment android auto steals control 62 of drivers say infotainment falls short yet android auto now lets you lock doors pre heat the cabin and check engine health from your phone discover how this shift could change every ride https vehicletech help android auto infotainment control utm source nostr utm medium social androidautoremotecontrol androidautoclimatecontrol androidautodoorlock androidautovehiclehealth vehicleconnectivitybeyondinfotainment",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "android auto remote control",
+          "android auto climate control",
+          "android auto door lock",
+          "android auto vehicle health",
+          "vehicle connectivity beyond infotainment"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "mobile",
+          "web",
+          "release"
+        ],
+        "id": "adff2726d076"
+      },
+      {
+        "headline": "Liverpool — A vasárnapi élő közvetítésen a Liverpool és a Barcelona is szerepel a hazai sportcsatornák kínálatában. #Liverpool #Barcelona…",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://news.netasgard.com/a/00cd089b518855a1?s=nostr",
+        "publishedAt": "2026-08-23T11:10:06.000Z",
+        "description": "liverpool a vas rnapi l k zvet t sen a liverpool s a barcelona is szerepel a hazai sportcsatorn k k n lat ban liverpool barcelona news https news netasgard com a 00cd089b518855a1 s nostr https live staticflickr com 2076 2487740918 0a39e271e2 b jpg photo lawrie cate cc by flickr",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "liverpool",
+          "barcelona",
+          "news"
+        ],
+        "hasExternalLink": true,
+        "score": 61,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "669075a4635a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 75
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 236
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 53
+    }
+  ],
+  "failures": []
+}
