@@ -1,0 +1,646 @@
+{
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T11:30:53.203Z",
+  "timezone": "America/Chicago",
+  "newsletterTitle": "Daily Tech Newsletter",
+  "run": {
+    "workflow": "daily-newsletter",
+    "runId": "32722226503",
+    "commitSha": "6a655169ba6d0119ff995c223cb06bc82d06797e"
+  },
+  "summary": {
+    "top5Count": 5,
+    "moreToKnowCount": 10,
+    "releasesCount": 6,
+    "totalSelected": 21,
+    "totalCandidates": 537,
+    "dedupDropped": 330
+  },
+  "sections": {
+    "top5": [
+      {
+        "headline": "**Scientists Uncover Signs of an Ancient Climate “Tipping Point”**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-uncover-signs-of-an-ancient-climate-tipping-point",
+        "publishedAt": "2026-08-24T11:04:53.000Z",
+        "description": "scientists uncover signs of an ancient climate tipping point by michael miller university of cincinnati published on 24 august 2026 melting permafrost 304 million years ago may have released vast amounts of carbon into the atmosphere a warming episode 304 million years ago may show how a relatively small climate shift can trigger much larger changes researchers studying the event found evidence that thawing permafrost released methane into the atmosphere helping drive a dramatic rise read more https scitechdaily com scientists uncover signs of an ancient climate tipping point research tech sciencenews science earth climatechange geology",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "edb00fa1eb48"
+      },
+      {
+        "headline": "Consumer Tech Brands Overlooking AI Conversion Wins",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://consumertech.help/consumer-tech-brands-overlooking-ai-conversion-win",
+        "publishedAt": "2026-08-24T11:28:02.000Z",
+        "description": "consumer tech brands overlooking ai conversion wins brands that skip ai recommendations are leaving money on the table some see up to a 35 sales jump with a simple engine discover how small tech shops can unlock those gains without a massive budget https consumertech help consumer tech brands overlooking ai conversion win utm source nostr utm medium social airecommendationplatform personalizedshoppingsmallbusiness digitalcommerceaiadoption smallboutiqueai increaseconversionai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai recommendation platform",
+          "personalized shopping small business",
+          "digital commerce ai adoption",
+          "small boutique ai",
+          "increase conversion ai"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0faad63538d8"
+      },
+      {
+        "headline": "Consumer Tech Brands Smart Thermostat vs Standard Pricing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://techcompare.top/consumer-tech-brands-smart-thermostat-vs-standard",
+        "publishedAt": "2026-08-24T11:08:03.000Z",
+        "description": "consumer tech brands smart thermostat vs standard pricing upgrade two appliances and watch your utility bill shrink by 1 500 a year see the numbers that prove a smart thermostat pays for itself https techcompare top consumer tech brands smart thermostat vs standard utm source nostr utm medium social smarthomedevices smartthermostat consumerelectronicsbestbuy pricecomparison familytechguide",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "smart home devices",
+          "smart thermostat",
+          "consumer electronics best buy",
+          "price comparison",
+          "family tech guide"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "92ad1a9b439e"
+      },
+      {
+        "headline": "Cutting Evictions With AI Expands Real Estate Investing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://landlordtips.help/cutting-evictions-with-ai-expands-real-estate-inve",
+        "publishedAt": "2026-08-24T11:24:00.000Z",
+        "description": "cutting evictions with ai expands real estate investing landlords cutting eviction costs by 48 with ai see cash flow soar unlock three ai secrets that make every student rent worthwhile and protect your portfolio from costly removals click to learn how the technology works for you https landlordtips help cutting evictions with ai expands real estate inve utm source nostr utm medium social aitenantscreening evictionreduction studentrentals propertymanagementcosts predictiveanalytics",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai tenant screening",
+          "eviction reduction",
+          "student rentals",
+          "property management costs",
+          "predictive analytics"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "ff4c7aaa4475"
+      },
+      {
+        "headline": "Is Cleaning Ritual Overrated? Try 7-Day Trick",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://organizehome.online/is-cleaning-ritual-overrated-7-day-trick",
+        "publishedAt": "2026-08-24T11:16:02.000Z",
+        "description": "is cleaning ritual overrated try 7 day trick a week long cleaning plan turned my chaotic house into a calm haven cutting cleanup time by nearly half see the step by step trick that lets busy parents reclaim space and peace without a marathon weekend https organizehome online is cleaning ritual overrated 7 day trick utm source nostr utm medium social weeklycleaningschedule familyhomedeclutter timesavingcleaningroutine homeorganization timemanagementforparents",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "weekly cleaning schedule",
+          "family home declutter",
+          "time‑saving cleaning routine",
+          "home organization",
+          "time management for parents"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "77616723b06c"
+      }
+    ],
+    "moreToKnow": [
+      {
+        "headline": "Bodog Mobile App and Mobile Experience: A Canadian Guide",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://casino-bo.dog/",
+        "publishedAt": "2026-08-24T11:13:16.000Z",
+        "description": "bodog mobile app and mobile experience a canadian guide bodog mobile app and mobile experience a canadian guide for someone researching bodog on a phone the first question is simple does bodog provide a native mobile app or is the mobile experience delivered through a web browser the supplied research records point to a browser based approach this guide explains what those records establish how the evidence was assessed and which conclusions remain outside the available information research question and method the research question was how does bodog s mobile experience work for people accessing the platform in canada and what does the available evidence say about an official app the assessment focused on four criteria whether the records describe a native downloadable application whether ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "34e063bb1944"
+      },
+      {
+        "headline": "Natural Medicated Heat Oil -  Truong Son from Vietnam",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://sixmd.com/all-products/balms-medicated-oils/dau-nong-truong-son",
+        "publishedAt": "2026-08-24T11:14:40.000Z",
+        "description": "natural medicated heat oil truong son from vietnam dau nong truong son oil treats colds coughs runny nose headache motion sickness insect bites nausea abdominal pain limb pain joint pain dislocation https sixmd com all products balms medicated oils dau nong truong son health oil home homeremedies us usa eu canada australia louisiana jersey oklahoma mississippi germany shopping oregon atlanta israel spain germany organic herbs asia oiltherapy",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "health",
+          "oil",
+          "home",
+          "homeremedies",
+          "us",
+          "usa",
+          "eu",
+          "canada",
+          "australia",
+          "louisiana",
+          "jersey",
+          "oklahoma",
+          "mississippi",
+          "germany",
+          "shopping",
+          "oregon",
+          "atlanta",
+          "israel",
+          "spain",
+          "germany",
+          "organic",
+          "herbs",
+          "asia",
+          "oiltherapy"
+        ],
+        "hasExternalLink": true,
+        "score": 55,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "d3b99fbdd67c"
+      },
+      {
+        "headline": "Valeria Golino Nude, Sharon Stone Nude - Year of the Gun (1991)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://searchcelebrityhd.com/valeria-golino-nude-sharon-stone-nude-year-of-the-gun-1991",
+        "publishedAt": "2026-08-24T11:18:46.000Z",
+        "description": "valeria golino nude sharon stone nude year of the gun 1991 in year of the gun 1991 valeria golino shows her bare back and boobs sharon stone displays her tits with lipstick decorated nipples in a passionate sex https searchcelebrityhd com valeria golino nude sharon stone nude year of the gun 1991 https searchcelebrityhd com wp content uploads 2025 07 valeria golino nude sharon stone nude year of the gun 1991 1 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "cdf3eb20154e"
+      },
+      {
+        "headline": "Zoe Bruneau Nude - Goodbye to Language (2014)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://searchcelebrityhd.com/zoe-bruneau-nude-goodbye-to-language-2014",
+        "publishedAt": "2026-08-24T11:07:35.000Z",
+        "description": "zoe bruneau nude goodbye to language 2014 in adieu au langage 2014 zoe bruneau shows her tits and full frontal nudity in an explicit sex scene https searchcelebrityhd com zoe bruneau nude goodbye to language 2014 https searchcelebrityhd com wp content uploads 2025 07 zoe bruneau nude goodbye to language 2014 3 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "df403074fdc8"
+      },
+      {
+        "headline": "Tsars Customer Support and Service Quality: An Evidence-Based Guide",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://tsarswin-ca.com/",
+        "publishedAt": "2026-08-24T11:25:12.000Z",
+        "description": "tsars customer support and service quality an evidence based guide tsars customer support and service quality an evidence based guide what this guide examines for a beginner customer support can mean more than finding a contact channel it can include how clearly a service explains its rules how it handles identity checks whether complaints have a defined route and what evidence exists about the organisation behind the service service quality is broader still and should not be reduced to a polished website or a large product catalogue this guide asks a focused question what do the supplied research records establish about tsars support framework and service quality for readers in canada the answer must remain narrow because the dossier contains policy references and regulatory observations ",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "a207028a7fd7"
+      },
+      {
+        "headline": "#华尔街见闻",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://mp.weixin.qq.com/s/ndUoKBXMZU2agqB0tOK7bg",
+        "publishedAt": "2026-08-24T11:22:21.000Z",
+        "description": "a doge dario amodei https wpimg wscn awtmt com 994008de 4244 4a50 aad4 5bfb8c37994d jpeg ai ai 25 50 dario ai ai a tobi l tke codex ai yc peter thiel ai ceo tobi l tke shopify ceo 2004 shopify tobi l tke ceo ai agent ceo 6 8 ai hype https wpimg wscn awtmt com 155fc954 0206 4ed6 95c6 3bb34cf224be jpeg ceo ceo 2026 ai shopify ceo 2026 ai ai gpt 4 ai 20 80 larry ellison netflix dvd blockbuster nerd 20 ai 20 codex codex https wpimg wscn awtmt com e7a3b437 3cff 4395 8b0c 7449e498db0f jpeg codex iphone palm treo sidekick iphone iphone iphone josh kushner steve jobs jobs https wpimg wscn awtmt com f23dd757 fe33 4669 a928 1663281e20fe jpeg ai 2015 agi 2015 openai deepmind agi ai openai 2015 ai ai ai ai ai 2005 ai 2005 yc openai openai 5 10 ai nerd https wpimg wscn awtmt com 1ed2e2fb f03c 4d72 867f",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "华尔街见闻"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "mobile",
+          "web",
+          "news"
+        ],
+        "id": "29f91c51baf4"
+      },
+      {
+        "headline": "Marilyne Fontaine Sexy - Villégiatures (2018)",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://searchcelebrityhd.com/marilyne-fontaine-sexy-villegiatures-2018",
+        "publishedAt": "2026-08-24T11:17:23.000Z",
+        "description": "marilyne fontaine sexy vill giatures 2018 in vacation vill giatures 2018 marilyne fontaine looks hot in a bikini during a sex scene https searchcelebrityhd com marilyne fontaine sexy villegiatures 2018 https searchcelebrityhd com wp content uploads 2025 07 marilyne fontaine sexy villegiatures 2018 07 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 50,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "8c22989be84c"
+      },
+      {
+        "headline": "📊 Tagging Progress: 24.4% (1808 of 7396 videos tagged)\n\n🎯 Reply to this note with emoji reactions that best describe this video.\n\n⚡ Wee…",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://video.nostr.build/42d9a256e6eb06becd72b1808cba22ae5b0604f64be7ce99e065678df13b0e65.mp4",
+        "publishedAt": "2026-08-24T11:12:34.000Z",
+        "description": "https video nostr build 42d9a256e6eb06becd72b1808cba22ae5b0604f64be7ce99e065678df13b0e65 mp4 tagging progress 24 4 1808 of 7396 videos tagged reply to this note with emoji reactions that best describe this video weekly competition in progress top 3 taggers earn 1 sat per video visit the url in my profile for more videos to tag reactionbrowser gifs",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 49,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "web",
+          "news"
+        ],
+        "id": "1aedc8e2a689"
+      },
+      {
+        "headline": "📰 South Korea Crypto Legislation Speeds Up Digital Asset Bill",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://rwatimes.io/articles/en.cryptonomist-south-korea-crypto-legislation-speeds-up-digital-asset-bill-128085499",
+        "publishedAt": "2026-08-24T11:02:19.000Z",
+        "description": "south korea crypto legislation speeds up digital asset bill aug 24 2026 08 28 utc south korea crypto legislation advances with a fall target for the digital asset basic act setting rules for stablecoins vasp licensing and bitcoin etfs south korea s financial regulator is accelerating discussions on the digital asset basic act aiming for a fall introduction the bill will establish a comprehensive regulatory framework for stablecoins vasp licensing and bitcoin etfs this move positions south korea to have one of the most detailed digital asset laws in asia potentially attracting institutional capital southkorea digitalassetbasicact stablecoins vasplicensing bitcoinetfs cryptolegislation financialregulator regulatoryframework asia read more at https rwatimes io articles en cryptonomist south k",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 48,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "cloud",
+          "dev",
+          "web",
+          "news"
+        ],
+        "id": "657b984eb548"
+      },
+      {
+        "headline": "Michelle Monaghan Sexy, Leven Rambin Sexy - The Path - S02E02 (2017)",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://searchcelebrityhd.com/michelle-monaghan-sexy-leven-rambin-sexy-the-path-s02e02-2017",
+        "publishedAt": "2026-08-24T11:27:18.000Z",
+        "description": "michelle monaghan sexy leven rambin sexy the path s02e02 2017 in the path s02e02 2017 michelle monaghan looks hot in a sex scene leven rambin shows her sexy underwear in a sex scene https searchcelebrityhd com michelle monaghan sexy leven rambin sexy the path s02e02 2017 https searchcelebrityhd com wp content uploads 2025 07 michelle monaghan sexy leven rambin sexy the path s02e02 2017 3 jpg",
+        "credibility": 0.65,
+        "typeHint": "news",
+        "hashtags": [
+          "nsfw",
+          "celeb",
+          "celebrity",
+          "celebritynudity",
+          "adult",
+          "nude",
+          "porn"
+        ],
+        "hasExternalLink": true,
+        "score": 47,
+        "whyItMatters": "Likely consumer impact (devices, apps, privacy, or day-to-day usage).",
+        "tags": [
+          "tech",
+          "linux",
+          "web",
+          "news"
+        ],
+        "id": "996b035285d2"
+      }
+    ],
+    "releasesAndUpdates": [
+      {
+        "headline": "**Scientists Uncover Signs of an Ancient Climate “Tipping Point”**",
+        "source": "relay.snort.social",
+        "sourceUrl": "wss://relay.snort.social",
+        "url": "https://scitechdaily.com/scientists-uncover-signs-of-an-ancient-climate-tipping-point",
+        "publishedAt": "2026-08-24T11:04:53.000Z",
+        "description": "scientists uncover signs of an ancient climate tipping point by michael miller university of cincinnati published on 24 august 2026 melting permafrost 304 million years ago may have released vast amounts of carbon into the atmosphere a warming episode 304 million years ago may show how a relatively small climate shift can trigger much larger changes researchers studying the event found evidence that thawing permafrost released methane into the atmosphere helping drive a dramatic rise read more https scitechdaily com scientists uncover signs of an ancient climate tipping point research tech sciencenews science earth climatechange geology",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [],
+        "hasExternalLink": true,
+        "score": 64,
+        "whyItMatters": "AI-related update; may change consumer tools, capabilities, or safety expectations.",
+        "tags": [
+          "tech",
+          "ai",
+          "linux",
+          "hardware",
+          "dev",
+          "web",
+          "release"
+        ],
+        "id": "edb00fa1eb48"
+      },
+      {
+        "headline": "Consumer Tech Brands Overlooking AI Conversion Wins",
+        "source": "nos.lol",
+        "sourceUrl": "wss://nos.lol",
+        "url": "https://consumertech.help/consumer-tech-brands-overlooking-ai-conversion-win",
+        "publishedAt": "2026-08-24T11:28:02.000Z",
+        "description": "consumer tech brands overlooking ai conversion wins brands that skip ai recommendations are leaving money on the table some see up to a 35 sales jump with a simple engine discover how small tech shops can unlock those gains without a massive budget https consumertech help consumer tech brands overlooking ai conversion win utm source nostr utm medium social airecommendationplatform personalizedshoppingsmallbusiness digitalcommerceaiadoption smallboutiqueai increaseconversionai",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai recommendation platform",
+          "personalized shopping small business",
+          "digital commerce ai adoption",
+          "small boutique ai",
+          "increase conversion ai"
+        ],
+        "hasExternalLink": true,
+        "score": 63,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "0faad63538d8"
+      },
+      {
+        "headline": "Consumer Tech Brands Smart Thermostat vs Standard Pricing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://techcompare.top/consumer-tech-brands-smart-thermostat-vs-standard",
+        "publishedAt": "2026-08-24T11:08:03.000Z",
+        "description": "consumer tech brands smart thermostat vs standard pricing upgrade two appliances and watch your utility bill shrink by 1 500 a year see the numbers that prove a smart thermostat pays for itself https techcompare top consumer tech brands smart thermostat vs standard utm source nostr utm medium social smarthomedevices smartthermostat consumerelectronicsbestbuy pricecomparison familytechguide",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "smart home devices",
+          "smart thermostat",
+          "consumer electronics best buy",
+          "price comparison",
+          "family tech guide"
+        ],
+        "hasExternalLink": true,
+        "score": 60,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "92ad1a9b439e"
+      },
+      {
+        "headline": "Cutting Evictions With AI Expands Real Estate Investing",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://landlordtips.help/cutting-evictions-with-ai-expands-real-estate-inve",
+        "publishedAt": "2026-08-24T11:24:00.000Z",
+        "description": "cutting evictions with ai expands real estate investing landlords cutting eviction costs by 48 with ai see cash flow soar unlock three ai secrets that make every student rent worthwhile and protect your portfolio from costly removals click to learn how the technology works for you https landlordtips help cutting evictions with ai expands real estate inve utm source nostr utm medium social aitenantscreening evictionreduction studentrentals propertymanagementcosts predictiveanalytics",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "ai tenant screening",
+          "eviction reduction",
+          "student rentals",
+          "property management costs",
+          "predictive analytics"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "ff4c7aaa4475"
+      },
+      {
+        "headline": "Is Cleaning Ritual Overrated? Try 7-Day Trick",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://organizehome.online/is-cleaning-ritual-overrated-7-day-trick",
+        "publishedAt": "2026-08-24T11:16:02.000Z",
+        "description": "is cleaning ritual overrated try 7 day trick a week long cleaning plan turned my chaotic house into a calm haven cutting cleanup time by nearly half see the step by step trick that lets busy parents reclaim space and peace without a marathon weekend https organizehome online is cleaning ritual overrated 7 day trick utm source nostr utm medium social weeklycleaningschedule familyhomedeclutter timesavingcleaningroutine homeorganization timemanagementforparents",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "weekly cleaning schedule",
+          "family home declutter",
+          "time‑saving cleaning routine",
+          "home organization",
+          "time management for parents"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "77616723b06c"
+      },
+      {
+        "headline": "5 Cleaning & Organization Wins for Tiny Home Pantries",
+        "source": "relay.mostr.pub",
+        "sourceUrl": "wss://relay.mostr.pub",
+        "url": "https://growthsuite.live/5-cleaning-organization-wins-tiny-home-pantries",
+        "publishedAt": "2026-08-24T11:14:41.000Z",
+        "description": "5 cleaning organization wins for tiny home pantries a 10 minute daily pantry routine can free up extra hours each week learn five practical wins that turn cramped shelves into a zero waste minimalist haven click to make your tiny pantry work for you https growthsuite live 5 cleaning organization wins tiny home pantries utm source nostr utm medium social tinyhomepantry zerowasteorganization budgetpantrycleanup smallspacestorage minimalistkitchen",
+        "credibility": 0.65,
+        "typeHint": "release",
+        "hashtags": [
+          "tiny home pantry",
+          "zero waste organization",
+          "budget pantry cleanup",
+          "small space storage",
+          "minimalist kitchen"
+        ],
+        "hasExternalLink": true,
+        "score": 58,
+        "whyItMatters": "Security-related update; may affect patch urgency, privacy, or account safety.",
+        "tags": [
+          "tech",
+          "ai",
+          "security",
+          "web",
+          "release"
+        ],
+        "id": "1f6d9e71398b"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "relay.mostr.pub",
+      "url": "wss://relay.mostr.pub",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 92
+    },
+    {
+      "name": "purplepag.es",
+      "url": "wss://purplepag.es",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.nostr.band",
+      "url": "wss://relay.nostr.band",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 0,
+      "acceptedCount": 0
+    },
+    {
+      "name": "relay.snort.social",
+      "url": "wss://relay.snort.social",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 800,
+      "acceptedCount": 83
+    },
+    {
+      "name": "nos.lol",
+      "url": "wss://nos.lol",
+      "type": "nostr",
+      "status": "ok",
+      "fetchedCount": 500,
+      "acceptedCount": 27
+    }
+  ],
+  "failures": []
+}
